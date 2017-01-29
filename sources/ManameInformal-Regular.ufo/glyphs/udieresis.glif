@@ -4,12 +4,12 @@
 	<advance width="728"/>
 	<outline>
 		<component base="u"/>
-		<component base="dieresiscomb" xOffset="348" yOffset="667"/>
+		<component base="dieresiscomb" xOffset="348" yOffset="-224"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-27 07:14:03 +0000</string>
+			<string>2017-01-29 22:34:45 +0000</string>
 		</dict>
 	</lib>
 </glyph>

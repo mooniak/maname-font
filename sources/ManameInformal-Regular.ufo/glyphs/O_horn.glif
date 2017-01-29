@@ -4,7 +4,7 @@
 	<advance width="818"/>
 	<outline>
 		<component base="O"/>
-		<component base="horncomb" xOffset="709" yOffset="47"/>
+		<component base="horncomb" xOffset="749" yOffset="7"/>
 	</outline>
 	<lib>
 		<dict>
@@ -20,7 +20,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-29 08:55:57 +0000</string>
+			<string>2017-01-29 22:30:41 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>=O</string>
 		</dict>

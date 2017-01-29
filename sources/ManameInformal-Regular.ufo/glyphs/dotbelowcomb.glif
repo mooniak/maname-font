@@ -4,14 +4,11 @@
 	<advance width="600"/>
 	<outline>
 		<component base="dotaccent" xOffset="283" yOffset="-1043"/>
-		<contour>
-			<point name="_bottom" x="273" y="0" type="move"/>
-		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-29 07:45:08 +0000</string>
+			<string>2017-01-29 22:49:04 +0000</string>
 		</dict>
 	</lib>
 </glyph>

@@ -26,14 +26,11 @@
 			<point x="154" y="955"/>
 			<point x="183" y="936" type="curve"/>
 		</contour>
-		<contour>
-			<point name="_top" x="-2" y="875" type="move"/>
-		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-29 07:50:10 +0000</string>
+			<string>2017-01-29 22:49:04 +0000</string>
 		</dict>
 	</lib>
 </glyph>
