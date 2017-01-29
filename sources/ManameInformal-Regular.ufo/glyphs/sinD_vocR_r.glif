@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinDvocRr" format="1">
+	<advance width="1377"/>
+	<outline>
+		<component base="sinDa"/>
+		<component base="sinMatraRr" xOffset="518"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>sinMatraRr</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-02 12:24:30 +0000</string>
+		</dict>
+	</lib>
+</glyph>

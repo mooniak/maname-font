@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohornhookabove" format="1">
+	<unicode hex="1EDF"/>
+	<advance width="662"/>
+	<outline>
+		<component base="hookabovecomb" xOffset="349" yOffset="-134"/>
+		<component base="o"/>
+		<component base="horncomb" xOffset="570" yOffset="-125"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-29 08:49:31 +0000</string>
+		</dict>
+	</lib>
+</glyph>

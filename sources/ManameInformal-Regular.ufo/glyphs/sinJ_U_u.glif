@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinJUu" format="1">
+	<advance width="787"/>
+	<outline>
+		<component base="sinJa"/>
+		<component base="sii_MatraU.alt3" xOffset="380"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-12-30 12:03:08 +0000</string>
+		</dict>
+	</lib>
+</glyph>

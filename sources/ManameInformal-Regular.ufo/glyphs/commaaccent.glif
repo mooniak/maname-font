@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccent" format="1">
+	<unicode hex="0326"/>
+	<outline>
+		<contour>
+			<point x="-12" y="-332"/>
+			<point x="50" y="-194"/>
+			<point x="51" y="-88" type="curve"/>
+			<point x="18" y="-79"/>
+			<point x="-47" y="-72"/>
+			<point x="-86" y="-77" type="curve"/>
+			<point x="-84" y="-176"/>
+			<point x="-107" y="-291"/>
+			<point x="-132" y="-357" type="curve"/>
+			<point x="-58" y="-387" type="line"/>
+		</contour>
+		<contour>
+			<point name="_bottom" x="0" y="0" type="move"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-27 07:14:03 +0000</string>
+		</dict>
+	</lib>
+</glyph>

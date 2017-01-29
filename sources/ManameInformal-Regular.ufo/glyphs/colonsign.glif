@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colonsign" format="1">
+	<unicode hex="20A1"/>
+	<advance width="801"/>
+	<outline>
+		<contour>
+			<point x="424" y="115"/>
+			<point x="436" y="724"/>
+			<point x="431" y="870" type="curve"/>
+			<point x="457" y="873"/>
+			<point x="499" y="876"/>
+			<point x="523" y="880" type="curve"/>
+			<point x="521" y="734"/>
+			<point x="502" y="28"/>
+			<point x="513" y="-95" type="curve"/>
+			<point x="419" y="-101" type="line"/>
+		</contour>
+		<component base="C"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-27 07:14:03 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=C</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=C</string>
+		</dict>
+	</lib>
+</glyph>

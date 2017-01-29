@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedillacomb" format="1">
+	<unicode hex="0327"/>
+	<outline>
+		<component base="cedilla"/>
+		<contour>
+			<point name="top" x="-18" y="1" type="move"/>
+		</contour>
+		<contour>
+			<point name="_bottom" x="39" y="0" type="move"/>
+		</contour>
+		<contour>
+			<point name="_top" x="-18" y="0" type="move"/>
+		</contour>
+		<contour>
+			<point name="bottom" x="-18" y="-311" type="move"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-27 07:14:03 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinAe" format="1">
+	<unicode hex="0D88"/>
+	<advance width="1107"/>
+	<outline>
+		<component base="sinAa"/>
+		<component base="sinMatraAea" yxScale="0.052" xOffset="680"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>sinAa</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-12-26 08:38:22 +0000</string>
+		</dict>
+	</lib>
+</glyph>

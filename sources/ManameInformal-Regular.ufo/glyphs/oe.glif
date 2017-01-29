@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe" format="1">
+	<unicode hex="0153"/>
+	<advance width="1272"/>
+	<outline>
+		<component base="o"/>
+		<component base="e" xOffset="662"/>
+		<contour>
+			<point name="top" x="636" y="0" type="move"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-27 07:14:03 +0000</string>
+		</dict>
+	</lib>
+</glyph>

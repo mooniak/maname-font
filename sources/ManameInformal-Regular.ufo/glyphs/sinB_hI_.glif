@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinBhI" format="1">
+	<advance width="993"/>
+	<outline>
+		<component base="sinMatraI.alt2" xOffset="441" yOffset="-14"/>
+		<component base="sinBha" yOffset="4"/>
+		<component base="sinMatraI.alt2" xOffset="441" yOffset="-14"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-12-26 03:45:10 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinTtRI" format="1">
+	<advance width="808"/>
+	<outline>
+		<component base="sinTtI"/>
+		<component base="sinRakar.medium" xOffset="754" yOffset="-15"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>sinRakar.medium</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-12-30 17:53:11 +0000</string>
+		</dict>
+	</lib>
+</glyph>

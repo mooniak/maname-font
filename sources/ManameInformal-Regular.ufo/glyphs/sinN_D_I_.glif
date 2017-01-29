@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinNDI" format="1">
+	<advance width="1152"/>
+	<outline>
+		<component base="sinNDa"/>
+		<component base="sinMatraI.alt2" xOffset="550"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-02 05:56:36 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acircumflexacute" format="1">
+	<unicode hex="1EA5"/>
+	<advance width="622"/>
+	<outline>
+		<component base="a"/>
+		<component base="circumflexcomb" xOffset="312" yOffset="-195"/>
+		<component base="acutecomb" xOffset="536" yOffset="-71"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>acutecomb</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-29 07:27:41 +0000</string>
+		</dict>
+	</lib>
+</glyph>

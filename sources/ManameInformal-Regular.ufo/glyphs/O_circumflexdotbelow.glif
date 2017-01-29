@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflexdotbelow" format="1">
+	<unicode hex="1ED8"/>
+	<advance width="818"/>
+	<outline>
+		<component base="O"/>
+		<component base="dotbelowcomb" xOffset="112" yOffset="49"/>
+		<component base="circumflexcomb" xOffset="420" yOffset="-42"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-29 07:27:40 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=O</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=O</string>
+		</dict>
+	</lib>
+</glyph>

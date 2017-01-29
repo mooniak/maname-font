@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinDhR.virama" format="1">
+	<advance width="852"/>
+	<outline>
+		<component base="sinDh.virama"/>
+		<component base="sinRakar.medium" xOffset="786" yOffset="35"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-12-30 10:39:36 +0000</string>
+		</dict>
+	</lib>
+</glyph>

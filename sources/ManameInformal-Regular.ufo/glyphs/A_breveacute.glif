@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abreveacute" format="1">
+	<unicode hex="1EAE"/>
+	<advance width="844"/>
+	<outline>
+		<component base="A"/>
+		<component base="brevecomb" xOffset="422" yOffset="19"/>
+		<component base="acutecomb" xOffset="443" yOffset="150"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>acutecomb</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-29 07:27:41 +0000</string>
+		</dict>
+	</lib>
+</glyph>

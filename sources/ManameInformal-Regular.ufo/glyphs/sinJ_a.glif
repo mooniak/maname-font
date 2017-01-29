@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinJa" format="1">
+	<unicode hex="0DA2"/>
+	<advance width="787"/>
+	<outline>
+		<contour>
+			<point x="613" y="369"/>
+			<point x="617" y="468"/>
+			<point x="668" y="568" type="curve" smooth="yes"/>
+			<point x="746" y="729"/>
+			<point x="873" y="851"/>
+			<point x="873" y="851" type="curve"/>
+			<point x="873" y="878"/>
+			<point x="837" y="912"/>
+			<point x="818" y="917" type="curve"/>
+			<point x="818" y="917"/>
+			<point x="708" y="797"/>
+			<point x="627" y="614" type="curve" smooth="yes"/>
+			<point x="582" y="511"/>
+			<point x="572" y="393"/>
+			<point x="572" y="393" type="curve"/>
+			<point x="613" y="369" type="line"/>
+		</contour>
+		<component base="sinPa"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-24 06:58:41 +0000</string>
+		</dict>
+	</lib>
+</glyph>

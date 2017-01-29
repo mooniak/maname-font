@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="1">
+	<unicode hex="003B"/>
+	<advance width="246"/>
+	<outline>
+		<component base="comma" xOffset="10" yOffset="80"/>
+		<component base="period" xOffset="-1" yOffset="399"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-27 07:14:03 +0000</string>
+		</dict>
+	</lib>
+</glyph>

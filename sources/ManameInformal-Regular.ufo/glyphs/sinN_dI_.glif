@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinNdI" format="1">
+	<advance width="979"/>
+	<outline>
+		<component base="sinNda"/>
+		<component base="sinMatraI.alt2" xOffset="140"/>
+		<contour>
+			<point name="_si_MaI" x="390" y="559" type="move"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-12-26 03:45:10 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yhookabove" format="1">
+	<unicode hex="1EF7"/>
+	<advance width="665"/>
+	<outline>
+		<component base="y"/>
+		<component base="hookabovecomb" xOffset="357" yOffset="-129"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-29 08:08:30 +0000</string>
+		</dict>
+	</lib>
+</glyph>

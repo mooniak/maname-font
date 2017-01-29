@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinFRIi" format="1">
+	<advance width="875"/>
+	<outline>
+		<component base="sinFRa"/>
+		<component base="sinMatraIi" xOffset="486" yOffset="25"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-18 16:14:54 +0000</string>
+		</dict>
+	</lib>
+</glyph>

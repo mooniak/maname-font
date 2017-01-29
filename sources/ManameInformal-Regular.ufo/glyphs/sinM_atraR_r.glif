@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinMatraRr" format="1">
+	<unicode hex="0DF2"/>
+	<advance width="807"/>
+	<outline>
+		<component base="sinMatraR" yxScale="0.07"/>
+		<component base="sinMatraR" xOffset="400"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-02 12:24:18 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ytilde" format="1">
+	<unicode hex="1EF8"/>
+	<advance width="724"/>
+	<outline>
+		<component base="Y"/>
+		<component base="tildecomb" xOffset="364" yOffset="34"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-29 07:27:36 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ibreve" format="1">
+	<unicode hex="012D"/>
+	<advance width="395"/>
+	<outline>
+		<component base="idotless"/>
+		<component base="brevecomb" xOffset="199" yOffset="-128"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-27 07:14:03 +0000</string>
+		</dict>
+	</lib>
+</glyph>

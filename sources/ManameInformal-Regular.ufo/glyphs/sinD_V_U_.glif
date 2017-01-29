@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinDVU" format="1">
+	<advance width="964"/>
+	<outline>
+		<contour>
+			<point x="158" y="-40"/>
+			<point x="172" y="-35"/>
+			<point x="178" y="-31" type="curve"/>
+			<point x="141" y="11"/>
+			<point x="129" y="110"/>
+			<point x="140" y="198" type="curve" smooth="yes"/>
+			<point x="161" y="363"/>
+			<point x="267" y="472"/>
+			<point x="389" y="483" type="curve"/>
+			<point x="393" y="488" type="line"/>
+			<point x="507" y="503" type="line"/>
+			<point x="503" y="510" type="line"/>
+			<point x="486" y="520"/>
+			<point x="437" y="543"/>
+			<point x="407" y="543" type="curve" smooth="yes"/>
+			<point x="233" y="543"/>
+			<point x="84" y="413"/>
+			<point x="66" y="196" type="curve" smooth="yes"/>
+			<point x="58" y="98"/>
+			<point x="91" y="6"/>
+			<point x="134" y="-40" type="curve"/>
+		</contour>
+		<component base="sinVU" xOffset="174"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-24 06:58:41 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="utilde" format="1">
+	<unicode hex="0169"/>
+	<advance width="728"/>
+	<outline>
+		<component base="u"/>
+		<component base="tildecomb" xOffset="336" yOffset="667"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-29 07:44:31 +0000</string>
+		</dict>
+	</lib>
+</glyph>

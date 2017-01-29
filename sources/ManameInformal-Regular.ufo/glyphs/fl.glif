@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fl" format="1">
+	<unicode hex="FB02"/>
+	<advance width="887"/>
+	<outline>
+		<component base="f"/>
+		<component base="l" xOffset="489"/>
+		<contour>
+			<point name="caret_1" x="444" y="0" type="move"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-27 07:14:03 +0000</string>
+		</dict>
+	</lib>
+</glyph>

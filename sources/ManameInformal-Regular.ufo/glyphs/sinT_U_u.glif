@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinTUu" format="1">
+	<advance width="1071"/>
+	<outline>
+		<component base="sinMatraUu.alt1" xOffset="694" yOffset="22"/>
+		<component base="sinTa"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2016-12-26 03:45:10 +0000</string>
+		</dict>
+	</lib>
+</glyph>
