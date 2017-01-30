@@ -75,17 +75,11 @@
 			<point x="505" y="535"/>
 			<point x="500" y="448" type="curve"/>
 		</contour>
-		<contour>
-			<point name="ogonek" x="334" y="10" type="move"/>
-		</contour>
-		<contour>
-			<point name="top" x="344" y="667" type="move"/>
-		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-27 07:14:03 +0000</string>
+			<string>2017-01-29 23:44:12 +0000</string>
 		</dict>
 	</lib>
 </glyph>

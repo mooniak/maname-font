@@ -59,17 +59,11 @@
 			<point x="387" y="-25"/>
 			<point x="245" y="-25" type="curve" smooth="yes"/>
 		</contour>
-		<contour>
-			<point name="top" x="284" y="670" type="move"/>
-		</contour>
-		<contour>
-			<point name="bottom" x="236" y="-10" type="move"/>
-		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-27 07:30:06 +0000</string>
+			<string>2017-01-29 23:44:12 +0000</string>
 			<key>com.typemytype.robofont.layerData</key>
 			<dict>
 				<key>Regular Nov 4 16, 19:41</key>

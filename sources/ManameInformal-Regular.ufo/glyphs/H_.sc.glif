@@ -95,17 +95,11 @@
 			<point x="528" y="564" type="curve"/>
 			<point x="646" y="556" type="line"/>
 		</contour>
-		<contour>
-			<point name="center" x="379" y="0" type="move"/>
-		</contour>
-		<contour>
-			<point name="top" x="379" y="0" type="move"/>
-		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-27 07:14:03 +0000</string>
+			<string>2017-01-29 23:44:12 +0000</string>
 		</dict>
 	</lib>
 </glyph>
