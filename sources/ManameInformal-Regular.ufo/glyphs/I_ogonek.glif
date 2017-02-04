@@ -4,12 +4,12 @@
 	<advance width="408"/>
 	<outline>
 		<component base="I"/>
-		<component base="ogonek" xOffset="204"/>
+		<component base="ogonek" xOffset="294"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-27 07:14:03 +0000</string>
+			<string>2017-01-30 19:46:27 +0000</string>
 		</dict>
 	</lib>
 </glyph>

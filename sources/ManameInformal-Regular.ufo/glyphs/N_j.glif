@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Nj" format="1">
 	<unicode hex="01CB"/>
-	<advance width="926"/>
+	<advance width="1278"/>
 	<outline>
 		<component base="N"/>
-		<component base="j" xOffset="276" yOffset="157"/>
+		<component base="j" xOffset="912" yOffset="-168"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-27 07:14:03 +0000</string>
+			<string>2017-02-01 14:08:24 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=j</string>
 		</dict>
 	</lib>
 </glyph>

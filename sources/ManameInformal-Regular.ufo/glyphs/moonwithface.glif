@@ -2,12 +2,20 @@
 <glyph name="moonwithface" format="1">
 	<unicode hex="1F31D"/>
 	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="259" y="323" type="line"/>
+			<point x="404" y="323" type="line"/>
+			<point x="404" y="600" type="line"/>
+			<point x="259" y="600" type="line"/>
+		</contour>
+	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.Export</key>
 			<false/>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-23 15:22:18 +0000</string>
+			<string>2017-01-31 10:49:35 +0000</string>
 		</dict>
 	</lib>
 </glyph>

@@ -17,10 +17,10 @@
 			<point x="358" y="333"/>
 			<point x="377" y="350" type="curve" smooth="yes"/>
 			<point x="471" y="433"/>
-			<point x="638" y="562"/>
-			<point x="815" y="529" type="curve"/>
-			<point x="859" y="627" type="line"/>
-			<point x="613" y="627"/>
+			<point x="655" y="536"/>
+			<point x="832" y="503" type="curve"/>
+			<point x="881" y="600" type="line"/>
+			<point x="635" y="600"/>
 			<point x="484" y="521"/>
 			<point x="358" y="383" type="curve" smooth="yes"/>
 			<point x="297" y="317"/>
@@ -82,14 +82,11 @@
 			<point x="353" y="357" type="line"/>
 		</contour>
 		<component base="sinDa" xOffset="587"/>
-		<contour>
-			<point name="MatraI" x="464" y="452" type="move"/>
-		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-24 06:58:41 +0000</string>
+			<string>2017-02-01 14:10:22 +0000</string>
 		</dict>
 	</lib>
 </glyph>

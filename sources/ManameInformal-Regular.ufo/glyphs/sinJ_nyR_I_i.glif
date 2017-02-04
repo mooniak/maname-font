@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinJnyRIi" format="1">
-	<advance width="1103"/>
+	<advance width="1293"/>
 	<outline>
 		<component base="sinJnyRa"/>
 		<component base="sinMatraIi.alt3" xOffset="680"/>
@@ -8,7 +8,9 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-02 12:28:39 +0000</string>
+			<string>2017-02-01 14:11:08 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sinDa</string>
 		</dict>
 	</lib>
 </glyph>

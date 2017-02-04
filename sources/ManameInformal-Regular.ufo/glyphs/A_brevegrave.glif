@@ -5,7 +5,7 @@
 	<outline>
 		<component base="A"/>
 		<component base="brevecomb" xOffset="422" yOffset="19"/>
-		<component base="gravecomb" xOffset="410" yOffset="182"/>
+		<component base="gravecomb" xOffset="370" yOffset="192"/>
 	</outline>
 	<lib>
 		<dict>
@@ -21,7 +21,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-29 07:27:41 +0000</string>
+			<string>2017-02-01 14:07:51 +0000</string>
 		</dict>
 	</lib>
 </glyph>
