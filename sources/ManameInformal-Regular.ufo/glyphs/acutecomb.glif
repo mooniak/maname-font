@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecomb" format="1">
-	<unicode hex="0301"/>
-	<outline>
-		<contour>
-			<point x="-29" y="946"/>
-			<point x="101" y="995"/>
-			<point x="160" y="1028" type="curve"/>
-			<point x="155" y="1061"/>
-			<point x="133" y="1098"/>
-			<point x="111" y="1119" type="curve"/>
-			<point x="49" y="1073"/>
-			<point x="-52" y="1028"/>
-			<point x="-127" y="993" type="curve"/>
-			<point x="-99" y="928" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-31 12:58:27 +0000</string>
-		</dict>
-	</lib>
+  <advance width="0"/>
+  <unicode hex="0301"/>
+  <outline>
+    <contour>
+      <point x="-29" y="946"/>
+      <point x="101" y="995"/>
+      <point x="160" y="1028" type="curve"/>
+      <point x="155" y="1061"/>
+      <point x="133" y="1098"/>
+      <point x="111" y="1119" type="curve"/>
+      <point x="49" y="1073"/>
+      <point x="-52" y="1028"/>
+      <point x="-127" y="993" type="curve"/>
+      <point x="-99" y="928" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-31 12:58:27 +0000</string>
+    </dict>
+  </lib>
 </glyph>

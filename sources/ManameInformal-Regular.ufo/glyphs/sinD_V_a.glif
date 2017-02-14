@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinDVa" format="1">
-	<advance width="960"/>
-	<outline>
-		<contour>
-			<point x="208" y="59"/>
-			<point x="229" y="61"/>
-			<point x="238" y="68" type="curve"/>
-			<point x="223" y="100"/>
-			<point x="185" y="195"/>
-			<point x="185" y="264" type="curve" smooth="yes"/>
-			<point x="185" y="384"/>
-			<point x="234" y="502"/>
-			<point x="359" y="512" type="curve"/>
-			<point x="407" y="562" type="line"/>
-			<point x="232" y="562"/>
-			<point x="115" y="429"/>
-			<point x="115" y="285" type="curve" smooth="yes"/>
-			<point x="115" y="168"/>
-			<point x="167" y="100"/>
-			<point x="194" y="59" type="curve"/>
-		</contour>
-		<component base="sinVa" xOffset="170" yOffset="10"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-24 06:58:41 +0000</string>
-		</dict>
-	</lib>
+  <advance width="960"/>
+  <outline>
+    <contour>
+      <point x="208" y="59"/>
+      <point x="229" y="61"/>
+      <point x="238" y="68" type="curve"/>
+      <point x="223" y="100"/>
+      <point x="185" y="195"/>
+      <point x="185" y="264" type="curve" smooth="yes"/>
+      <point x="185" y="384"/>
+      <point x="234" y="502"/>
+      <point x="359" y="512" type="curve"/>
+      <point x="407" y="562" type="line"/>
+      <point x="232" y="562"/>
+      <point x="115" y="429"/>
+      <point x="115" y="285" type="curve" smooth="yes"/>
+      <point x="115" y="168"/>
+      <point x="167" y="100"/>
+      <point x="194" y="59" type="curve"/>
+    </contour>
+    <component base="sinVa" xOffset="170" yOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-24 06:58:41 +0000</string>
+    </dict>
+  </lib>
 </glyph>

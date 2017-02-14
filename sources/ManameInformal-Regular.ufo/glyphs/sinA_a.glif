@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinAa" format="1">
-	<unicode hex="0D86"/>
-	<advance width="728"/>
-	<outline>
-		<component base="sinA"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-26 12:12:32 +0000</string>
-		</dict>
-	</lib>
+  <advance width="728"/>
+  <unicode hex="0D86"/>
+  <outline>
+    <component base="sinA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-26 12:12:32 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinDdU" format="1">
-	<advance width="877"/>
-	<outline>
-		<contour>
-			<point x="792" y="-359" type="line"/>
-			<point x="793" y="209" type="line"/>
-			<point x="747" y="209" type="line"/>
-			<point x="724" y="-266" type="line"/>
-			<point x="281" y="-298" type="line"/>
-			<point x="230" y="-300"/>
-			<point x="192" y="-273"/>
-			<point x="192" y="-238" type="curve" smooth="yes"/>
-			<point x="192" y="-195"/>
-			<point x="236" y="-149"/>
-			<point x="317" y="-169" type="curve"/>
-			<point x="322" y="-144" type="line"/>
-			<point x="322" y="-144"/>
-			<point x="275" y="-114"/>
-			<point x="229" y="-114" type="curve" smooth="yes"/>
-			<point x="149" y="-114"/>
-			<point x="107" y="-168"/>
-			<point x="106" y="-228" type="curve" smooth="yes"/>
-			<point x="105" y="-283"/>
-			<point x="148" y="-359"/>
-			<point x="280" y="-359" type="curve" smooth="yes"/>
-		</contour>
-		<component base="sinDda" xOffset="-19"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-24 06:58:41 +0000</string>
-		</dict>
-	</lib>
+  <advance width="877"/>
+  <outline>
+    <contour>
+      <point x="792" y="-359" type="line"/>
+      <point x="793" y="209" type="line"/>
+      <point x="747" y="209" type="line"/>
+      <point x="724" y="-266" type="line"/>
+      <point x="281" y="-298" type="line"/>
+      <point x="230" y="-300"/>
+      <point x="192" y="-273"/>
+      <point x="192" y="-238" type="curve" smooth="yes"/>
+      <point x="192" y="-195"/>
+      <point x="236" y="-149"/>
+      <point x="317" y="-169" type="curve"/>
+      <point x="322" y="-144" type="line"/>
+      <point x="322" y="-144"/>
+      <point x="275" y="-114"/>
+      <point x="229" y="-114" type="curve" smooth="yes"/>
+      <point x="149" y="-114"/>
+      <point x="107" y="-168"/>
+      <point x="106" y="-228" type="curve" smooth="yes"/>
+      <point x="105" y="-283"/>
+      <point x="148" y="-359"/>
+      <point x="280" y="-359" type="curve" smooth="yes"/>
+    </contour>
+    <component base="sinDda" xOffset="-19"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-24 06:58:41 +0000</string>
+    </dict>
+  </lib>
 </glyph>

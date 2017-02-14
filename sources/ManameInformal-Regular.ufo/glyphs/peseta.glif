@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="peseta" format="1">
-	<unicode hex="20A7"/>
-	<advance width="778"/>
-	<outline>
-		<contour>
-			<point x="748" y="514" type="line"/>
-			<point x="743" y="538"/>
-			<point x="738" y="566"/>
-			<point x="733" y="593" type="curve"/>
-			<point x="561" y="583"/>
-			<point x="213" y="583"/>
-			<point x="20" y="593" type="curve"/>
-			<point x="26" y="514" type="line"/>
-		</contour>
-		<component base="P"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-27 07:14:03 +0000</string>
-		</dict>
-	</lib>
+  <advance width="778"/>
+  <unicode hex="20A7"/>
+  <outline>
+    <contour>
+      <point x="748" y="514" type="line"/>
+      <point x="743" y="538"/>
+      <point x="738" y="566"/>
+      <point x="733" y="593" type="curve"/>
+      <point x="561" y="583"/>
+      <point x="213" y="583"/>
+      <point x="20" y="593" type="curve"/>
+      <point x="26" y="514" type="line"/>
+    </contour>
+    <component base="P"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-27 07:14:03 +0000</string>
+    </dict>
+  </lib>
 </glyph>

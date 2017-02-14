@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="udotbelow" format="1">
-	<unicode hex="1EE5"/>
-	<advance width="728"/>
-	<outline>
-		<component base="u"/>
-		<component base="dotbelowcomb" xOffset="99" yOffset="32"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-29 22:36:48 +0000</string>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>=u</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>=u</string>
-		</dict>
-	</lib>
+  <advance width="728"/>
+  <unicode hex="1EE5"/>
+  <outline>
+    <component base="u"/>
+    <component base="dotbelowcomb" xOffset="99" yOffset="32"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-29 22:36:48 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=u</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=u</string>
+    </dict>
+  </lib>
 </glyph>

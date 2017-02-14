@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Mdotbelow" format="1">
-	<unicode hex="1E42"/>
-	<advance width="1153"/>
-	<outline>
-		<component base="M"/>
-		<component base="dotbelowcomb" xOffset="296" yOffset="-1"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-27 07:14:03 +0000</string>
-		</dict>
-	</lib>
+  <advance width="1153"/>
+  <unicode hex="1E42"/>
+  <outline>
+    <component base="M"/>
+    <component base="dotbelowcomb" xOffset="296" yOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-27 07:14:03 +0000</string>
+    </dict>
+  </lib>
 </glyph>

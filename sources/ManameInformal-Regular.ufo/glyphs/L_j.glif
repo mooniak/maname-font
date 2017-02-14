@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lj" format="1">
-	<unicode hex="01C8"/>
-	<advance width="976"/>
-	<outline>
-		<component base="L"/>
-		<component base="j" xOffset="610"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-29 22:29:08 +0000</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>=j</string>
-		</dict>
-	</lib>
+  <advance width="976"/>
+  <unicode hex="01C8"/>
+  <outline>
+    <component base="L"/>
+    <component base="j" xOffset="610"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-29 22:29:08 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=j</string>
+    </dict>
+  </lib>
 </glyph>

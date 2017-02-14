@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uhorn" format="1">
-	<unicode hex="01AF"/>
-	<advance width="869"/>
-	<outline>
-		<contour>
-			<point x="870" y="775"/>
-			<point x="869" y="866" type="curve" smooth="yes"/>
-			<point x="868" y="919"/>
-			<point x="836" y="989"/>
-			<point x="775" y="989" type="curve" smooth="yes"/>
-			<point x="732" y="989"/>
-			<point x="713" y="964"/>
-			<point x="718" y="916" type="curve"/>
-			<point x="758" y="905"/>
-			<point x="795" y="883"/>
-			<point x="795" y="846" type="curve" smooth="yes"/>
-			<point x="795" y="807"/>
-			<point x="767" y="800"/>
-			<point x="716" y="796" type="curve"/>
-			<point x="747" y="734" type="line"/>
-			<point x="811" y="734"/>
-		</contour>
-		<component base="U"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-29 09:01:42 +0000</string>
-		</dict>
-	</lib>
+  <advance width="869"/>
+  <unicode hex="01AF"/>
+  <outline>
+    <contour>
+      <point x="870" y="775"/>
+      <point x="869" y="866" type="curve" smooth="yes"/>
+      <point x="868" y="919"/>
+      <point x="836" y="989"/>
+      <point x="775" y="989" type="curve" smooth="yes"/>
+      <point x="732" y="989"/>
+      <point x="713" y="964"/>
+      <point x="718" y="916" type="curve"/>
+      <point x="758" y="905"/>
+      <point x="795" y="883"/>
+      <point x="795" y="846" type="curve" smooth="yes"/>
+      <point x="795" y="807"/>
+      <point x="767" y="800"/>
+      <point x="716" y="796" type="curve"/>
+      <point x="747" y="734" type="line"/>
+      <point x="811" y="734"/>
+    </contour>
+    <component base="U"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-29 09:01:42 +0000</string>
+    </dict>
+  </lib>
 </glyph>

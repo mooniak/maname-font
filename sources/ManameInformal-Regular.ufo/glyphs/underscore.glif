@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="underscore" format="1">
-	<unicode hex="005F"/>
-	<advance width="669"/>
-	<outline>
-		<contour>
-			<point x="619" y="1" type="line"/>
-			<point x="621" y="35"/>
-			<point x="627" y="69"/>
-			<point x="629" y="96" type="curve"/>
-			<point x="457" y="90"/>
-			<point x="241" y="86"/>
-			<point x="53" y="96" type="curve"/>
-			<point x="39" y="1" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-27 07:14:03 +0000</string>
-		</dict>
-	</lib>
+  <advance width="669"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="619" y="1" type="line"/>
+      <point x="621" y="35"/>
+      <point x="627" y="69"/>
+      <point x="629" y="96" type="curve"/>
+      <point x="457" y="90"/>
+      <point x="241" y="86"/>
+      <point x="53" y="96" type="curve"/>
+      <point x="39" y="1" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-27 07:14:03 +0000</string>
+    </dict>
+  </lib>
 </glyph>

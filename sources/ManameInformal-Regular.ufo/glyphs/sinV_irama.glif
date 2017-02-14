@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinVirama" format="1">
-	<unicode hex="0DCA"/>
-	<advance width="1"/>
-	<outline>
-		<contour>
-			<point x="15" y="478" type="line"/>
-			<point x="15" y="640" type="line"/>
-			<point x="26" y="616"/>
-			<point x="55" y="590"/>
-			<point x="96" y="591" type="curve" smooth="yes"/>
-			<point x="170" y="593"/>
-			<point x="190" y="663"/>
-			<point x="180" y="727" type="curve" smooth="yes"/>
-			<point x="160" y="836"/>
-			<point x="26" y="872"/>
-			<point x="-5" y="878" type="curve"/>
-			<point x="-19" y="865" type="line"/>
-			<point x="-28" y="478" type="line"/>
-		</contour>
-		<contour>
-			<point x="47" y="687"/>
-			<point x="15" y="714"/>
-			<point x="15" y="751" type="curve" smooth="yes"/>
-			<point x="15" y="794" type="line"/>
-			<point x="60" y="788"/>
-			<point x="138" y="771"/>
-			<point x="140" y="719" type="curve" smooth="yes"/>
-			<point x="141" y="685"/>
-			<point x="115" y="674"/>
-			<point x="88" y="680" type="curve" smooth="yes"/>
-		</contour>
-		<contour>
-			<point name="_Virama" x="14" y="476" type="move"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-24 06:58:41 +0000</string>
-		</dict>
-	</lib>
+  <advance width="1"/>
+  <unicode hex="0DCA"/>
+  <outline>
+    <contour>
+      <point x="15" y="478" type="line"/>
+      <point x="15" y="640" type="line"/>
+      <point x="26" y="616"/>
+      <point x="55" y="590"/>
+      <point x="96" y="591" type="curve" smooth="yes"/>
+      <point x="170" y="593"/>
+      <point x="190" y="663"/>
+      <point x="180" y="727" type="curve" smooth="yes"/>
+      <point x="160" y="836"/>
+      <point x="26" y="872"/>
+      <point x="-5" y="878" type="curve"/>
+      <point x="-19" y="865" type="line"/>
+      <point x="-28" y="478" type="line"/>
+    </contour>
+    <contour>
+      <point x="47" y="687"/>
+      <point x="15" y="714"/>
+      <point x="15" y="751" type="curve" smooth="yes"/>
+      <point x="15" y="794" type="line"/>
+      <point x="60" y="788"/>
+      <point x="138" y="771"/>
+      <point x="140" y="719" type="curve" smooth="yes"/>
+      <point x="141" y="685"/>
+      <point x="115" y="674"/>
+      <point x="88" y="680" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="14" y="476" type="move" name="_Virama"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-24 06:58:41 +0000</string>
+    </dict>
+  </lib>
 </glyph>

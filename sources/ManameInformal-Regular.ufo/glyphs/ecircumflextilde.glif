@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecircumflextilde" format="1">
-	<unicode hex="1EC5"/>
-	<advance width="610"/>
-	<outline>
-		<component base="e"/>
-		<component base="circumflexcomb" xOffset="332" yOffset="-208"/>
-		<component base="tildecomb" xOffset="323" yOffset="677"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-29 07:27:33 +0000</string>
-		</dict>
-	</lib>
+  <advance width="610"/>
+  <unicode hex="1EC5"/>
+  <outline>
+    <component base="e"/>
+    <component base="circumflexcomb" xOffset="332" yOffset="-208"/>
+    <component base="tildecomb" xOffset="323" yOffset="677"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-29 07:27:33 +0000</string>
+    </dict>
+  </lib>
 </glyph>

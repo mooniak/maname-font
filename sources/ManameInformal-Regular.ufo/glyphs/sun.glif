@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sun" format="1">
-	<unicode hex="263C"/>
-	<advance width="600"/>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-27 13:15:49 +0000</string>
-		</dict>
-	</lib>
+  <advance width="600"/>
+  <unicode hex="263C"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-27 13:15:49 +0000</string>
+    </dict>
+  </lib>
 </glyph>

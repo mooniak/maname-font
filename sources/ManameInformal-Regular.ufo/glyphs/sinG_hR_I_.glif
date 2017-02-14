@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinGhRI" format="1">
-	<advance width="905"/>
-	<outline>
-		<component base="sinGhI"/>
-		<component base="sinRakar.short" xOffset="847"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2016-12-30 11:26:54 +0000</string>
-		</dict>
-	</lib>
+  <advance width="905"/>
+  <outline>
+    <component base="sinGhI"/>
+    <component base="sinRakar.short" xOffset="847"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-12-30 11:26:54 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinUu" format="1">
-	<unicode hex="0D8C"/>
-	<advance width="1257"/>
-	<outline>
-		<component base="sinMatraLs" xOffset="617" yOffset="1"/>
-		<component base="sinU" yOffset="-31"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>0</integer>
-					<key>name</key>
-					<string>sinMatraLs</string>
-				</dict>
-			</array>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-18 08:12:36 +0000</string>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>sinU</string>
-		</dict>
-	</lib>
+  <advance width="1257"/>
+  <unicode hex="0D8C"/>
+  <outline>
+    <component base="sinMatraLs" xOffset="617" yOffset="1"/>
+    <component base="sinU" yOffset="-31"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-02-14 08:23:43 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>sinU</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>sinMatraLs</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

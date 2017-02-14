@@ -12,9 +12,6 @@ languagesystem latn TRK;
 languagesystem latn CRT;
 languagesystem latn AZE;
 
-# Prefix: Prefix
-
-
 feature aalt {
 # automatic
 feature locl;
@@ -32,16 +29,6 @@ feature pstf;
 feature psts;
 feature ss01;
 } aalt;
-
-feature ccmp {
-# automatic
-lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
-	@CombiningNonTopAccents = [brevebelowcomb cedillacomb commaaccent dieresisbelowcomb dotbelowcomb macronbelowcomb ogonekcomb horncomb];
-	sub [i j]' @CombiningTopAccents by [idotless jdotless];
-	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
-} ccmp_Other_1;
-} ccmp;
 
 feature locl {
 # automatic
@@ -131,6 +118,118 @@ sub f i by fi;
 sub f f by f_f;
 sub f l by fl;
 } liga;
+
+feature akhn {
+  script sinh;
+      lookup sin_akhands {
+  sub sinKa sinVirama zerowidthjoiner sinSsa by sinKSsa;
+  sub sinKa sinVirama zerowidthjoiner sinVa by sinKVa;
+  sub sinTa sinVirama zerowidthjoiner sinVa by sinTVa;
+  sub sinTa sinVirama zerowidthjoiner sinTha by sinTTha;
+  sub sinNa sinVirama zerowidthjoiner sinDa by sinNDa;
+  sub sinNa sinVirama zerowidthjoiner sinVa by sinNVa;
+  sub sinNa sinVirama zerowidthjoiner sinDha by sinNDha;
+  sub sinNa sinVirama zerowidthjoiner sinTha by sinNTha;
+  sub sinDa sinVirama zerowidthjoiner sinVa by sinDVa;
+  sub sinDa sinVirama zerowidthjoiner sinDha by sinDDha;
+  sub sinTta sinVirama zerowidthjoiner sinTtha by sinTtTtha;
+  sub sinGa sinVirama zerowidthjoiner sinDha by sinGDha;
+} sin_akhands;
+
+lookup sin_virama_1 {
+  sub sinMatraAa sinVirama by sinMatraAa.virama;
+  sub sinKa sinVirama by sinK.virama;
+  sub sinKha sinVirama by sinKh.virama;
+  sub sinGa sinVirama by sinG.virama;
+  sub sinGha sinVirama by sinGh.virama;
+  sub sinNga sinVirama by sinNg.virama;
+  sub sinNnga sinVirama by sinNng.virama;
+  sub sinCa sinVirama by sinC.virama;
+  sub sinCha sinVirama by sinCh.virama;
+  sub sinJa sinVirama by sinJ.virama;
+  sub sinJha sinVirama by sinJh.virama;
+  sub sinNya sinVirama by sinNy.virama;
+  sub sinJnya sinVirama by sinJny.virama;
+  sub sinNdja sinVirama by sinNdj.virama;
+  sub sinTta sinVirama by sinTt.virama;
+  sub sinTtha sinVirama by sinTth.virama;
+  sub sinDda sinVirama by sinDd.virama;
+  sub sinDdha sinVirama by sinDdh.virama;
+  sub sinNna sinVirama by sinNn.virama;
+  sub sinNndda sinVirama by sinNndd.virama;
+  sub sinTa sinVirama by sinT.virama;
+  sub sinTha sinVirama by sinTh.virama;
+  sub sinDa sinVirama by sinD.virama;
+  sub sinDha sinVirama by sinDh.virama;
+  sub sinNa sinVirama by sinN.virama;
+  sub sinNda sinVirama by sinNd.virama;
+  sub sinPa sinVirama by sinP.virama;
+  sub sinPha sinVirama by sinPh.virama;
+  sub sinBa sinVirama by sinB.virama;
+  sub sinBha sinVirama by sinBh.virama;
+  sub sinMa sinVirama by sinM.virama;
+  sub sinMba sinVirama by sinMb.virama;
+  sub sinYa sinVirama by sinY.virama;
+  sub sinRa sinVirama by sinR.virama;
+  sub sinLa sinVirama by sinL.virama;
+  sub sinVa sinVirama by sinV.virama;
+  sub sinSha sinVirama by sinSh.virama;
+  sub sinSsa sinVirama by sinSs.virama;
+  sub sinSa sinVirama by sinS.virama;
+  sub sinHa sinVirama by sinH.virama;
+  sub sinLla sinVirama by sinLl.virama;
+  sub sinFa sinVirama by sinF.virama;
+} sin_virama_1;
+
+lookup sin_virama_2 {
+  sub sinKhRa sinVirama by sinKhR.virama;
+  sub sinGRa sinVirama by sinGR.virama;
+  sub sinDVa sinVirama by sinDV.virama;
+  sub sinKVa sinVirama by sinKV.virama;
+  sub sinKSsa sinVirama by sinKSs.virama;
+  sub sinNVa sinVirama by sinNV.virama;
+  sub sinNDa  sinVirama by sinND.virama;
+  sub sinTtTtha sinVirama by sinTtTth.virama;
+  sub sinDDha sinVirama by sinDDdh.virama;
+  sub sinTVa sinVirama by sinTV.virama;
+  sub sinTTha sinVirama by sinTTh.virama;
+  sub sinNDha sinVirama by sinNDh.virama;
+  sub sinNTha sinVirama by sinNTh.virama;
+  sub sinYa.post sinVirama by sinY.post.virama;
+ } sin_virama_2;
+
+ lookup sin_virama_3 {
+   sub sinGhRa sinVirama by sinGhR.virama;
+   sub sinCRa sinVirama by sinCR.virama;
+   sub sinJRa sinVirama by sinJR.virama;
+   sub sinJhRa sinVirama by sinJhR.virama;
+   sub sinNyRa sinVirama by sinNyR.virama;
+   sub sinTtRa sinVirama by sinTtR.virama;
+   sub sinJnyRa sinVirama by sinJnyR.virama;
+   sub sinNdjRa sinVirama by sinNdjR.virama;
+   sub sinDdRa sinVirama by sinDdR.virama;
+   sub sinTRa sinVirama by sinTR.virama;
+   sub sinDRa sinVirama by sinDR.virama;
+   sub sinDhRa sinVirama by sinDhR.virama;
+   sub sinPRa sinVirama by sinPR.virama;
+   sub sinBhRa sinVirama by sinBhRa.virama;
+   sub sinMRa sinVirama by sinMR.virama;
+   sub sinVRa sinVirama by sinVR.virama;
+   sub sinShRa sinVirama by sinShR.virama;
+   sub sinSsRa sinVirama by sinSsR.virama;
+   sub sinSRa sinVirama by sinSR.virama;
+   sub sinHRa sinVirama by sinHR.virama;
+   sub sinFRa sinVirama by sinFR.virama;
+   sub sinBRa sinVirama by sinBR.virama;
+ } sin_virama_3;
+} akhn;
+
+feature rphf {
+  script sinh;
+	lookup sin_reph {
+    sub sinRa sinVirama zerowidthjoiner by sinReph;
+	} sin_reph;
+} rphf;
 
 feature abvs {
 script sinh;
@@ -414,7 +513,7 @@ feature vatu {
    lookup sin_yansaya {
   sub sinVirama zerowidthjoiner sinYa by sinYa.post;
 	} sin_yansaya;
-
+  script sinh;
   lookup sin_rakar {
   sub sinKa sinVirama zerowidthjoiner sinRa by sinKRa;
   sub sinKha sinVirama zerowidthjoiner sinRa by sinKhRa;
@@ -444,117 +543,6 @@ feature vatu {
   sub sinBa sinVirama zerowidthjoiner sinRa by sinBRa;
 	} sin_rakar;
 } vatu;
-
-feature akhn {
-  script sinh;
-      lookup sin_akhands {
-  sub sinKa sinVirama zerowidthjoiner sinSsa by sinKSsa;
-  sub sinKa sinVirama zerowidthjoiner sinVa by sinKVa;
-  sub sinTa sinVirama zerowidthjoiner sinVa by sinTVa;
-  sub sinTa sinVirama zerowidthjoiner sinTha by sinTTha;
-  sub sinNa sinVirama zerowidthjoiner sinDa by sinNDa;
-  sub sinNa sinVirama zerowidthjoiner sinVa by sinNVa;
-  sub sinNa sinVirama zerowidthjoiner sinDha by sinNDha;
-  sub sinNa sinVirama zerowidthjoiner sinTha by sinNTha;
-  sub sinDa sinVirama zerowidthjoiner sinVa by sinDVa;
-  sub sinDa sinVirama zerowidthjoiner sinDha by sinDDha;
-  sub sinTta sinVirama zerowidthjoiner sinTtha by sinTtTtha;
-  sub sinGa sinVirama zerowidthjoiner sinDha by sinGDha;
-} sin_akhands;
-lookup sin_virama_1 {
-  sub sinMatraAa sinVirama by sinMatraAa.virama;
-  sub sinKa sinVirama by sinK.virama;
-  sub sinKha sinVirama by sinKh.virama;
-  sub sinGa sinVirama by sinG.virama;
-  sub sinGha sinVirama by sinGh.virama;
-  sub sinNga sinVirama by sinNg.virama;
-  sub sinNnga sinVirama by sinNng.virama;
-  sub sinCa sinVirama by sinC.virama;
-  sub sinCha sinVirama by sinCh.virama;
-  sub sinJa sinVirama by sinJ.virama;
-  sub sinJha sinVirama by sinJh.virama;
-  sub sinNya sinVirama by sinNy.virama;
-  sub sinJnya sinVirama by sinJny.virama;
-  sub sinNdja sinVirama by sinNdj.virama;
-  sub sinTta sinVirama by sinTt.virama;
-  sub sinTtha sinVirama by sinTth.virama;
-  sub sinDda sinVirama by sinDd.virama;
-  sub sinDdha sinVirama by sinDdh.virama;
-  sub sinNna sinVirama by sinNn.virama;
-  sub sinNndda sinVirama by sinNndd.virama;
-  sub sinTa sinVirama by sinT.virama;
-  sub sinTha sinVirama by sinTh.virama;
-  sub sinDa sinVirama by sinD.virama;
-  sub sinDha sinVirama by sinDh.virama;
-  sub sinNa sinVirama by sinN.virama;
-  sub sinNda sinVirama by sinNd.virama;
-  sub sinPa sinVirama by sinP.virama;
-  sub sinPha sinVirama by sinPh.virama;
-  sub sinBa sinVirama by sinB.virama;
-  sub sinBha sinVirama by sinBh.virama;
-  sub sinMa sinVirama by sinM.virama;
-  sub sinMba sinVirama by sinMb.virama;
-  sub sinYa sinVirama by sinY.virama;
-  sub sinRa sinVirama by sinR.virama;
-  sub sinLa sinVirama by sinL.virama;
-  sub sinVa sinVirama by sinV.virama;
-  sub sinSha sinVirama by sinSh.virama;
-  sub sinSsa sinVirama by sinSs.virama;
-  sub sinSa sinVirama by sinS.virama;
-  sub sinHa sinVirama by sinH.virama;
-  sub sinLla sinVirama by sinLl.virama;
-  sub sinFa sinVirama by sinF.virama;
-} sin_virama_1;
-
-lookup sin_virama_2 {
-  sub sinKhRa sinVirama by sinKhR.virama;
-  sub sinGRa sinVirama by sinGR.virama;
-  sub sinDVa sinVirama by sinDV.virama;
-  sub sinKVa sinVirama by sinKV.virama;
-  sub sinKSsa sinVirama by sinKSs.virama;
-  sub sinNVa sinVirama by sinNV.virama;
-  sub sinNDa  sinVirama by sinND.virama;
-  sub sinTtTtha sinVirama by sinTtTth.virama;
-  sub sinDDha sinVirama by sinDDdh.virama;
-  sub sinTVa sinVirama by sinTV.virama;
-  sub sinTTha sinVirama by sinTTh.virama;
-  sub sinNDha sinVirama by sinNDh.virama;
-  sub sinNTha sinVirama by sinNTh.virama;
-  sub sinYa.post sinVirama by sinY.post.virama;
- } sin_virama_2;
-
- lookup sin_virama_3 {
-   sub sinGhRa sinVirama by sinGhR.virama;
-   sub sinCRa sinVirama by sinCR.virama;
-   sub sinJRa sinVirama by sinJR.virama;
-   sub sinJhRa sinVirama by sinJhR.virama;
-   sub sinNyRa sinVirama by sinNyR.virama;
-   sub sinTtRa sinVirama by sinTtR.virama;
-   sub sinJnyRa sinVirama by sinJnyR.virama;
-   sub sinNdjRa sinVirama by sinNdjR.virama;
-   sub sinDdRa sinVirama by sinDdR.virama;
-   sub sinTRa sinVirama by sinTR.virama;
-   sub sinDRa sinVirama by sinDR.virama;
-   sub sinDhRa sinVirama by sinDhR.virama;
-   sub sinPRa sinVirama by sinPR.virama;
-   sub sinBhRa sinVirama by sinBhRa.virama;
-   sub sinMRa sinVirama by sinMR.virama;
-   sub sinVRa sinVirama by sinVR.virama;
-   sub sinShRa sinVirama by sinShR.virama;
-   sub sinSsRa sinVirama by sinSsR.virama;
-   sub sinSRa sinVirama by sinSR.virama;
-   sub sinHRa sinVirama by sinHR.virama;
-   sub sinFRa sinVirama by sinFR.virama;
-   sub sinBRa sinVirama by sinBR.virama;
- } sin_virama_3;
-} akhn;
-
-feature rphf {
-  script sinh;
-	lookup sin_reph {
-    sub sinRa sinVirama zerowidthjoiner by sinReph;
-	} sin_reph;
-} rphf;
 
 feature pstf {
   script sinh;
@@ -604,4 +592,14 @@ feature ss01 {
   sub sinNya sinMatraAe by sinNyAe.ss01;
 } ss_01;
 } ss01;
+
+feature ccmp {
+# automatic
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [brevebelowcomb cedillacomb commaaccent dieresisbelowcomb dotbelowcomb macronbelowcomb ogonekcomb horncomb];
+	sub [i j]' @CombiningTopAccents by [idotless jdotless];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+} ccmp_Other_1;
+} ccmp;
 

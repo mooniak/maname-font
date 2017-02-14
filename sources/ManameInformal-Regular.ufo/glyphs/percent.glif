@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="percent" format="1">
-	<unicode hex="0025"/>
-	<advance width="1082"/>
-	<outline>
-		<contour>
-			<point x="366" y="-80" type="line"/>
-			<point x="489" y="217"/>
-			<point x="705" y="677"/>
-			<point x="788" y="846" type="curve"/>
-			<point x="687" y="842" type="line"/>
-			<point x="560" y="535"/>
-			<point x="425" y="227"/>
-			<point x="270" y="-80" type="curve"/>
-		</contour>
-		<component base="zero" xScale="0.644" yScale="0.644" xOffset="648" yOffset="-92"/>
-		<component base="zero" xScale="0.644" yScale="0.644" xOffset="-7" yOffset="322"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-27 07:14:03 +0000</string>
-		</dict>
-	</lib>
+  <advance width="1082"/>
+  <unicode hex="0025"/>
+  <outline>
+    <contour>
+      <point x="366" y="-80" type="line"/>
+      <point x="489" y="217"/>
+      <point x="705" y="677"/>
+      <point x="788" y="846" type="curve"/>
+      <point x="687" y="842" type="line"/>
+      <point x="560" y="535"/>
+      <point x="425" y="227"/>
+      <point x="270" y="-80" type="curve"/>
+    </contour>
+    <component base="zero" xOffset="648" yOffset="-92" xScale="0.644" yScale="0.644"/>
+    <component base="zero" xOffset="-7" yOffset="322" xScale="0.644" yScale="0.644"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-27 07:14:03 +0000</string>
+    </dict>
+  </lib>
 </glyph>

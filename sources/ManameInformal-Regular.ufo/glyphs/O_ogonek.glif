@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oogonek" format="1">
-	<unicode hex="01EA"/>
-	<advance width="818"/>
-	<outline>
-		<component base="O"/>
-		<component base="ogonek" xOffset="526" yOffset="8"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-30 19:45:59 +0000</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>=O</string>
-		</dict>
-	</lib>
+  <advance width="818"/>
+  <unicode hex="01EA"/>
+  <outline>
+    <component base="O"/>
+    <component base="ogonek" xOffset="526" yOffset="8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-30 19:45:59 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=O</string>
+    </dict>
+  </lib>
 </glyph>

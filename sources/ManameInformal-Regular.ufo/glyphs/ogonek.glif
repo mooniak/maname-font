@@ -1,43 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ogonek" format="1">
-	<unicode hex="02DB"/>
-	<outline>
-		<contour>
-			<point x="-9" y="-283"/>
-			<point x="34" y="-259"/>
-			<point x="56" y="-245" type="curve"/>
-			<point x="38" y="-203" type="line"/>
-			<point x="16" y="-216"/>
-			<point x="-9" y="-225"/>
-			<point x="-44" y="-224" type="curve" smooth="yes"/>
-			<point x="-99" y="-223"/>
-			<point x="-127" y="-195"/>
-			<point x="-127" y="-150" type="curve" smooth="yes"/>
-			<point x="-127" y="-68"/>
-			<point x="-45" y="-21"/>
-			<point x="12" y="2" type="curve"/>
-			<point x="2" y="24" type="line"/>
-			<point x="-19" y="24"/>
-			<point x="-10" y="25"/>
-			<point x="-31" y="22" type="curve"/>
-			<point x="-76" y="20"/>
-			<point x="-224" y="-46"/>
-			<point x="-226" y="-168" type="curve" smooth="yes"/>
-			<point x="-227" y="-230"/>
-			<point x="-182" y="-281"/>
-			<point x="-71" y="-282" type="curve" smooth="yes"/>
-		</contour>
-		<contour>
-			<point name="_bottom" x="0" y="0" type="move"/>
-		</contour>
-		<contour>
-			<point name="_ogonek" x="12" y="2" type="move"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-27 07:14:03 +0000</string>
-		</dict>
-	</lib>
+  <advance width="0"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="-9" y="-283"/>
+      <point x="34" y="-259"/>
+      <point x="56" y="-245" type="curve"/>
+      <point x="38" y="-203" type="line"/>
+      <point x="16" y="-216"/>
+      <point x="-9" y="-225"/>
+      <point x="-44" y="-224" type="curve" smooth="yes"/>
+      <point x="-99" y="-223"/>
+      <point x="-127" y="-195"/>
+      <point x="-127" y="-150" type="curve" smooth="yes"/>
+      <point x="-127" y="-68"/>
+      <point x="-45" y="-21"/>
+      <point x="12" y="2" type="curve"/>
+      <point x="2" y="24" type="line"/>
+      <point x="-19" y="24"/>
+      <point x="-10" y="25"/>
+      <point x="-31" y="22" type="curve"/>
+      <point x="-76" y="20"/>
+      <point x="-224" y="-46"/>
+      <point x="-226" y="-168" type="curve" smooth="yes"/>
+      <point x="-227" y="-230"/>
+      <point x="-182" y="-281"/>
+      <point x="-71" y="-282" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="12" y="2" type="move" name="_ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-27 07:14:03 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraLl" format="1">
-	<unicode hex="0DF3"/>
-	<advance width="580"/>
-	<outline>
-		<component base="sinMatraLs" yxScale="0.07"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2016-12-26 04:11:54 +0000</string>
-		</dict>
-	</lib>
+  <advance width="580"/>
+  <unicode hex="0DF3"/>
+  <outline>
+    <component base="sinMatraLs" yxScale="0.07"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-12-26 04:11:54 +0000</string>
+    </dict>
+  </lib>
 </glyph>

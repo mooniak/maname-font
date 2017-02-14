@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abrevetilde" format="1">
-	<unicode hex="1EB5"/>
-	<advance width="622"/>
-	<outline>
-		<component base="a"/>
-		<component base="brevecomb" xOffset="311" yOffset="-153"/>
-		<component base="tildecomb" xOffset="303" yOffset="10"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-29 07:27:40 +0000</string>
-		</dict>
-	</lib>
+  <advance width="622"/>
+  <unicode hex="1EB5"/>
+  <outline>
+    <component base="a"/>
+    <component base="brevecomb" xOffset="311" yOffset="-153"/>
+    <component base="tildecomb" xOffset="303" yOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-29 07:27:40 +0000</string>
+    </dict>
+  </lib>
 </glyph>
