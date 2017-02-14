@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caroncomb" format="1">
-  <advance width="0"/>
-  <unicode hex="030C"/>
-  <outline>
-    <component base="caron"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-01-31 11:46:22 +0000</string>
-    </dict>
-  </lib>
+	<unicode hex="030C"/>
+	<outline>
+		<component base="caron"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-31 11:46:22 +0000</string>
+		</dict>
+	</lib>
 </glyph>

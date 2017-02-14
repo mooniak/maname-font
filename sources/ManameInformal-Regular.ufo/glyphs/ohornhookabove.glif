@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohornhookabove" format="1">
-  <advance width="662"/>
-  <unicode hex="1EDF"/>
-  <outline>
-    <contour>
-      <point x="597" y="539"/>
-      <point x="626" y="597"/>
-      <point x="625" y="654" type="curve" smooth="yes"/>
-      <point x="624" y="711"/>
-      <point x="588" y="787"/>
-      <point x="521" y="787" type="curve" smooth="yes"/>
-      <point x="478" y="787"/>
-      <point x="459" y="762"/>
-      <point x="464" y="714" type="curve"/>
-      <point x="504" y="701"/>
-      <point x="551" y="671"/>
-      <point x="551" y="632" type="curve" smooth="yes"/>
-      <point x="551" y="606"/>
-      <point x="519" y="596"/>
-      <point x="491" y="596" type="curve" smooth="yes"/>
-      <point x="477" y="596"/>
-      <point x="462" y="597"/>
-      <point x="449" y="601" type="curve"/>
-      <point x="501" y="549" type="line"/>
-      <point x="509" y="541"/>
-      <point x="510" y="539"/>
-      <point x="516" y="539" type="curve" smooth="yes"/>
-    </contour>
-    <component base="hookabovecomb" xOffset="349" yOffset="-134"/>
-    <component base="o"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-02-02 12:10:35 +0000</string>
-    </dict>
-  </lib>
+	<unicode hex="1EDF"/>
+	<advance width="662"/>
+	<outline>
+		<contour>
+			<point x="597" y="539"/>
+			<point x="626" y="597"/>
+			<point x="625" y="654" type="curve" smooth="yes"/>
+			<point x="624" y="711"/>
+			<point x="588" y="787"/>
+			<point x="521" y="787" type="curve" smooth="yes"/>
+			<point x="478" y="787"/>
+			<point x="459" y="762"/>
+			<point x="464" y="714" type="curve"/>
+			<point x="504" y="701"/>
+			<point x="551" y="671"/>
+			<point x="551" y="632" type="curve" smooth="yes"/>
+			<point x="551" y="606"/>
+			<point x="519" y="596"/>
+			<point x="491" y="596" type="curve" smooth="yes"/>
+			<point x="477" y="596"/>
+			<point x="462" y="597"/>
+			<point x="449" y="601" type="curve"/>
+			<point x="501" y="549" type="line"/>
+			<point x="509" y="541"/>
+			<point x="510" y="539"/>
+			<point x="516" y="539" type="curve" smooth="yes"/>
+		</contour>
+		<component base="hookabovecomb" xOffset="349" yOffset="-134"/>
+		<component base="o"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-02-02 12:10:35 +0000</string>
+		</dict>
+	</lib>
 </glyph>

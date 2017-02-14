@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraI.alt4" format="1">
-  <advance width="916"/>
-  <outline>
-    <contour>
-      <point x="622" y="586" type="line"/>
-      <point x="570" y="566"/>
-      <point x="343" y="592"/>
-      <point x="352" y="676" type="curve" smooth="yes"/>
-      <point x="360" y="752"/>
-      <point x="450" y="767"/>
-      <point x="535" y="771" type="curve" smooth="yes"/>
-      <point x="633" y="776"/>
-      <point x="768" y="730"/>
-      <point x="771" y="652" type="curve" smooth="yes"/>
-      <point x="773" y="603"/>
-      <point x="729" y="550"/>
-      <point x="645" y="579" type="curve"/>
-      <point x="675" y="541" type="line"/>
-      <point x="770" y="515"/>
-      <point x="850" y="610"/>
-      <point x="851" y="676" type="curve" smooth="yes"/>
-      <point x="853" y="799"/>
-      <point x="721" y="857"/>
-      <point x="602" y="856" type="curve" smooth="yes"/>
-      <point x="431" y="854"/>
-      <point x="310" y="780"/>
-      <point x="309" y="664" type="curve" smooth="yes"/>
-      <point x="308" y="568"/>
-      <point x="508" y="512"/>
-      <point x="580" y="532" type="curve"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-01-24 06:58:41 +0000</string>
-    </dict>
-  </lib>
+	<advance width="916"/>
+	<outline>
+		<contour>
+			<point x="622" y="586" type="line"/>
+			<point x="570" y="566"/>
+			<point x="343" y="592"/>
+			<point x="352" y="676" type="curve" smooth="yes"/>
+			<point x="360" y="752"/>
+			<point x="450" y="767"/>
+			<point x="535" y="771" type="curve" smooth="yes"/>
+			<point x="633" y="776"/>
+			<point x="768" y="730"/>
+			<point x="771" y="652" type="curve" smooth="yes"/>
+			<point x="773" y="603"/>
+			<point x="729" y="550"/>
+			<point x="645" y="579" type="curve"/>
+			<point x="675" y="541" type="line"/>
+			<point x="770" y="515"/>
+			<point x="850" y="610"/>
+			<point x="851" y="676" type="curve" smooth="yes"/>
+			<point x="853" y="799"/>
+			<point x="721" y="857"/>
+			<point x="602" y="856" type="curve" smooth="yes"/>
+			<point x="431" y="854"/>
+			<point x="310" y="780"/>
+			<point x="309" y="664" type="curve" smooth="yes"/>
+			<point x="308" y="568"/>
+			<point x="508" y="512"/>
+			<point x="580" y="532" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-24 06:58:41 +0000</string>
+		</dict>
+	</lib>
 </glyph>

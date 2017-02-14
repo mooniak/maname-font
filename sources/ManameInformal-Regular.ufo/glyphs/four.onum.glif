@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four.onum" format="1">
-  <advance width="717"/>
-  <outline>
-    <contour>
-      <point x="693" y="103" type="line"/>
-      <point x="680" y="198" type="line"/>
-      <point x="585" y="191"/>
-      <point x="236" y="186"/>
-      <point x="107" y="188" type="curve"/>
-      <point x="101" y="149" type="line"/>
-      <point x="241" y="244"/>
-      <point x="415" y="547"/>
-      <point x="449" y="664" type="curve"/>
-      <point x="379" y="667"/>
-      <point x="342" y="662"/>
-      <point x="306" y="653" type="curve"/>
-      <point x="271" y="517"/>
-      <point x="160" y="295"/>
-      <point x="41" y="139" type="curve"/>
-      <point x="71" y="100" type="line"/>
-    </contour>
-    <contour>
-      <point x="517" y="-112" type="line"/>
-      <point x="507" y="65"/>
-      <point x="512" y="162"/>
-      <point x="535" y="450" type="curve"/>
-      <point x="472" y="431"/>
-      <point x="418" y="394"/>
-      <point x="418" y="394" type="curve"/>
-      <point x="422" y="230"/>
-      <point x="412" y="69"/>
-      <point x="400" y="-112" type="curve"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-01-27 07:14:03 +0000</string>
-    </dict>
-  </lib>
+	<advance width="717"/>
+	<outline>
+		<contour>
+			<point x="693" y="103" type="line"/>
+			<point x="680" y="198" type="line"/>
+			<point x="585" y="191"/>
+			<point x="236" y="186"/>
+			<point x="107" y="188" type="curve"/>
+			<point x="101" y="149" type="line"/>
+			<point x="241" y="244"/>
+			<point x="415" y="547"/>
+			<point x="449" y="664" type="curve"/>
+			<point x="379" y="667"/>
+			<point x="342" y="662"/>
+			<point x="306" y="653" type="curve"/>
+			<point x="271" y="517"/>
+			<point x="160" y="295"/>
+			<point x="41" y="139" type="curve"/>
+			<point x="71" y="100" type="line"/>
+		</contour>
+		<contour>
+			<point x="517" y="-112" type="line"/>
+			<point x="507" y="65"/>
+			<point x="512" y="162"/>
+			<point x="535" y="450" type="curve"/>
+			<point x="472" y="431"/>
+			<point x="418" y="394"/>
+			<point x="418" y="394" type="curve"/>
+			<point x="422" y="230"/>
+			<point x="412" y="69"/>
+			<point x="400" y="-112" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-27 07:14:03 +0000</string>
+		</dict>
+	</lib>
 </glyph>

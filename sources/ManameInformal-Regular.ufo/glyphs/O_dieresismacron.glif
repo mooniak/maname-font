@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Odieresismacron" format="1">
-  <advance width="818"/>
-  <unicode hex="022A"/>
-  <outline>
-    <component base="O"/>
-    <component base="dieresiscomb" xOffset="423" yOffset="843"/>
-    <component base="macroncomb" xOffset="433" yOffset="1101"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-01-27 07:14:03 +0000</string>
-    </dict>
-  </lib>
+	<unicode hex="022A"/>
+	<advance width="818"/>
+	<outline>
+		<component base="O"/>
+		<component base="dieresiscomb" xOffset="423" yOffset="843"/>
+		<component base="macroncomb" xOffset="433" yOffset="1101"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-27 07:14:03 +0000</string>
+		</dict>
+	</lib>
 </glyph>

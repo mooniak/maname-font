@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb" format="1">
-  <advance width="0"/>
-  <unicode hex="0306"/>
-  <outline>
-    <component base="breve"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-01-31 12:08:39 +0000</string>
-    </dict>
-  </lib>
+	<unicode hex="0306"/>
+	<outline>
+		<component base="breve"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-31 12:08:39 +0000</string>
+		</dict>
+	</lib>
 </glyph>

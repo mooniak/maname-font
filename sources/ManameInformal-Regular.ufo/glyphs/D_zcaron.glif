@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dzcaron" format="1">
-  <advance width="1388"/>
-  <unicode hex="01C5"/>
-  <outline>
-    <component base="D"/>
-    <component base="zcaron" xOffset="820"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-01-27 07:14:03 +0000</string>
-    </dict>
-  </lib>
+	<unicode hex="01C5"/>
+	<advance width="1388"/>
+	<outline>
+		<component base="D"/>
+		<component base="zcaron" xOffset="820"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-27 07:14:03 +0000</string>
+		</dict>
+	</lib>
 </glyph>

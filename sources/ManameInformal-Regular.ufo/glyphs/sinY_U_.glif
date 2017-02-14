@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinYU" format="1">
-  <advance width="915"/>
-  <outline>
-    <component base="sinYa"/>
-    <component base="sinMatraU" xOffset="819"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-01-23 07:09:35 +0000</string>
-    </dict>
-  </lib>
+	<advance width="915"/>
+	<outline>
+		<component base="sinYa"/>
+		<component base="sinMatraU" xOffset="819"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-23 07:09:35 +0000</string>
+		</dict>
+	</lib>
 </glyph>

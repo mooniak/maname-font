@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slash" format="1">
-  <advance width="533"/>
-  <unicode hex="002F"/>
-  <outline>
-    <contour>
-      <point x="105" y="-80" type="line"/>
-      <point x="228" y="217"/>
-      <point x="444" y="677"/>
-      <point x="527" y="846" type="curve"/>
-      <point x="426" y="842" type="line"/>
-      <point x="299" y="535"/>
-      <point x="164" y="227"/>
-      <point x="9" y="-80" type="curve"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-01-27 07:14:03 +0000</string>
-    </dict>
-  </lib>
+	<unicode hex="002F"/>
+	<advance width="533"/>
+	<outline>
+		<contour>
+			<point x="105" y="-80" type="line"/>
+			<point x="228" y="217"/>
+			<point x="444" y="677"/>
+			<point x="527" y="846" type="curve"/>
+			<point x="426" y="842" type="line"/>
+			<point x="299" y="535"/>
+			<point x="164" y="227"/>
+			<point x="9" y="-80" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-27 07:14:03 +0000</string>
+		</dict>
+	</lib>
 </glyph>

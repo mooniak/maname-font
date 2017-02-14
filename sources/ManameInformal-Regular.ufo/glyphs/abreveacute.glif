@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abreveacute" format="1">
-  <advance width="624"/>
-  <unicode hex="1EAF"/>
-  <outline>
-    <component base="a"/>
-    <component base="brevecomb" xOffset="311" yOffset="-153"/>
-    <component base="acutecomb" xOffset="325" yOffset="-43"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-02-14 08:23:43 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>acutecomb</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
+	<unicode hex="1EAF"/>
+	<advance width="624"/>
+	<outline>
+		<component base="a"/>
+		<component base="brevecomb" xOffset="311" yOffset="-153"/>
+		<component base="acutecomb" xOffset="325" yOffset="-43"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>acutecomb</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-02-14 19:10:00 +0000</string>
+		</dict>
+	</lib>
 </glyph>

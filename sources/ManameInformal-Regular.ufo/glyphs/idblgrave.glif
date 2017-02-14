@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idblgrave" format="1">
-  <advance width="395"/>
-  <unicode hex="0209"/>
-  <outline>
-    <component base="idotless"/>
-    <component base="dblgravecomb" xOffset="199" yOffset="-24"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-01-29 08:23:51 +0000</string>
-    </dict>
-  </lib>
+	<unicode hex="0209"/>
+	<advance width="395"/>
+	<outline>
+		<component base="idotless"/>
+		<component base="dblgravecomb" xOffset="199" yOffset="-24"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-29 08:23:51 +0000</string>
+		</dict>
+	</lib>
 </glyph>

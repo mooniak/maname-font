@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresisbelowcomb" format="1">
-  <advance width="359"/>
-  <unicode hex="0324"/>
-  <outline>
-    <component base="dotaccent" xOffset="79" yOffset="-1043"/>
-    <component base="dotaccent" xOffset="299" yOffset="-1043"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-01-29 22:49:04 +0000</string>
-    </dict>
-  </lib>
+	<unicode hex="0324"/>
+	<advance width="359"/>
+	<outline>
+		<component base="dotaccent" xOffset="79" yOffset="-1043"/>
+		<component base="dotaccent" xOffset="299" yOffset="-1043"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-29 22:49:04 +0000</string>
+		</dict>
+	</lib>
 </glyph>

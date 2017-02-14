@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevebelowcomb" format="1">
-  <advance width="365"/>
-  <unicode hex="032E"/>
-  <outline>
-    <contour>
-      <point x="268" y="-276"/>
-      <point x="346" y="-221"/>
-      <point x="365" y="-158" type="curve"/>
-      <point x="334" y="-103" type="line"/>
-      <point x="310" y="-139"/>
-      <point x="249" y="-184"/>
-      <point x="181" y="-184" type="curve" smooth="yes"/>
-      <point x="114" y="-184"/>
-      <point x="58" y="-154"/>
-      <point x="29" y="-114" type="curve"/>
-      <point x="0" y="-165" type="line"/>
-      <point x="19" y="-236"/>
-      <point x="95" y="-278"/>
-      <point x="184" y="-277" type="curve" smooth="yes"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-01-27 07:14:03 +0000</string>
-    </dict>
-  </lib>
+	<unicode hex="032E"/>
+	<advance width="365"/>
+	<outline>
+		<contour>
+			<point x="268" y="-276"/>
+			<point x="346" y="-221"/>
+			<point x="365" y="-158" type="curve"/>
+			<point x="334" y="-103" type="line"/>
+			<point x="310" y="-139"/>
+			<point x="249" y="-184"/>
+			<point x="181" y="-184" type="curve" smooth="yes"/>
+			<point x="114" y="-184"/>
+			<point x="58" y="-154"/>
+			<point x="29" y="-114" type="curve"/>
+			<point x="0" y="-165" type="line"/>
+			<point x="19" y="-236"/>
+			<point x="95" y="-278"/>
+			<point x="184" y="-277" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-27 07:14:03 +0000</string>
+		</dict>
+	</lib>
 </glyph>

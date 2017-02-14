@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute" format="1">
-  <advance width="0"/>
-  <unicode hex="00B4"/>
-  <outline>
-    <contour>
-      <point x="-46" y="860"/>
-      <point x="98" y="961"/>
-      <point x="151" y="1003" type="curve"/>
-      <point x="145" y="1038"/>
-      <point x="109" y="1078"/>
-      <point x="84" y="1095" type="curve"/>
-      <point x="30" y="1040"/>
-      <point x="-94" y="936"/>
-      <point x="-143" y="900" type="curve"/>
-      <point x="-112" y="831" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-01-29 08:17:33 +0000</string>
-    </dict>
-  </lib>
+	<unicode hex="00B4"/>
+	<outline>
+		<contour>
+			<point x="-46" y="860"/>
+			<point x="98" y="961"/>
+			<point x="151" y="1003" type="curve"/>
+			<point x="145" y="1038"/>
+			<point x="109" y="1078"/>
+			<point x="84" y="1095" type="curve"/>
+			<point x="30" y="1040"/>
+			<point x="-94" y="936"/>
+			<point x="-143" y="900" type="curve"/>
+			<point x="-112" y="831" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-29 08:17:33 +0000</string>
+		</dict>
+	</lib>
 </glyph>

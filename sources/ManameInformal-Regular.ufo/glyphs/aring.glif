@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aring" format="1">
-  <advance width="622"/>
-  <unicode hex="00E5"/>
-  <outline>
-    <component base="a"/>
-    <component base="ring" xOffset="311" yOffset="-121"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-01-31 12:46:49 +0000</string>
-    </dict>
-  </lib>
+	<unicode hex="00E5"/>
+	<advance width="622"/>
+	<outline>
+		<component base="a"/>
+		<component base="ring" xOffset="311" yOffset="-121"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-01-31 12:46:49 +0000</string>
+		</dict>
+	</lib>
 </glyph>
