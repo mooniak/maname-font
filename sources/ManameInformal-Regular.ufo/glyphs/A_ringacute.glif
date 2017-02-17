@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aringacute" format="1">
 	<unicode hex="01FA"/>
-	<advance width="844"/>
+	<advance width="650"/>
 	<outline>
 		<component base="A"/>
-		<component base="acutecomb" xOffset="431" yOffset="170"/>
-		<component base="ring" xOffset="424" yOffset="50"/>
+		<component base="acutecomb" xOffset="332" yOffset="131"/>
+		<component base="ring" xOffset="327" yOffset="39"/>
 	</outline>
 	<lib>
 		<dict>
@@ -29,7 +29,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-14 19:10:00 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

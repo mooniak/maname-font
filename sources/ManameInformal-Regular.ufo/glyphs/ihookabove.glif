@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ihookabove" format="1">
 	<unicode hex="1EC9"/>
-	<advance width="395"/>
+	<advance width="305"/>
 	<outline>
 		<component base="idotless"/>
-		<component base="hookabovecomb" xOffset="199" yOffset="-139"/>
+		<component base="hookabovecomb" xOffset="153" yOffset="-107"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-30 18:43:06 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

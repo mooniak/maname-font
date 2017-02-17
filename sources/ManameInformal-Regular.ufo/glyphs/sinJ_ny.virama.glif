@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinJny.virama" format="1">
-	<advance width="1338"/>
+	<advance width="1031"/>
 	<outline>
 		<component base="sinJnya"/>
-		<component base="sinVirama" xOffset="1091" yOffset="56"/>
+		<component base="sinVirama" xOffset="840" yOffset="43"/>
 	</outline>
 	<lib>
 		<dict>
@@ -19,7 +19,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-14 19:10:01 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

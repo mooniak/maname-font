@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LJ" format="1">
 	<unicode hex="01C7"/>
-	<advance width="1108"/>
+	<advance width="854"/>
 	<outline>
 		<component base="L"/>
-		<component base="J" xOffset="686"/>
+		<component base="J" xOffset="528"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-27 07:14:03 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

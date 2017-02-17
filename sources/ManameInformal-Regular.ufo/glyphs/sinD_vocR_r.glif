@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinDvocRr" format="1">
-	<advance width="1377"/>
+	<advance width="1060"/>
 	<outline>
 		<component base="sinDa"/>
-		<component base="sinMatraRr" xOffset="518"/>
+		<component base="sinMatraRr" xOffset="399"/>
 	</outline>
 	<lib>
 		<dict>
@@ -19,7 +19,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-14 19:10:01 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

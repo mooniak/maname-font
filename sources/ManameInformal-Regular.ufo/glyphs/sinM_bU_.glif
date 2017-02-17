@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMbU" format="1">
-	<advance width="858"/>
+	<advance width="661"/>
 	<outline>
 		<contour>
-			<point x="762" y="-359" type="line"/>
-			<point x="760" y="209" type="line"/>
-			<point x="723" y="209" type="line"/>
-			<point x="703" y="-266" type="line"/>
-			<point x="230" y="-298" type="line"/>
-			<point x="179" y="-300"/>
-			<point x="155" y="-273"/>
-			<point x="155" y="-238" type="curve" smooth="yes"/>
-			<point x="155" y="-201"/>
-			<point x="205" y="-159"/>
-			<point x="286" y="-179" type="curve"/>
-			<point x="291" y="-154" type="line"/>
-			<point x="291" y="-154"/>
-			<point x="252" y="-123"/>
-			<point x="206" y="-124" type="curve" smooth="yes"/>
-			<point x="126" y="-126"/>
-			<point x="85" y="-192"/>
-			<point x="84" y="-242" type="curve" smooth="yes"/>
-			<point x="83" y="-297"/>
-			<point x="117" y="-359"/>
-			<point x="249" y="-359" type="curve" smooth="yes"/>
+			<point x="587" y="-276" type="line"/>
+			<point x="585" y="161" type="line"/>
+			<point x="557" y="161" type="line"/>
+			<point x="541" y="-205" type="line"/>
+			<point x="177" y="-229" type="line"/>
+			<point x="138" y="-231"/>
+			<point x="119" y="-210"/>
+			<point x="119" y="-183" type="curve" smooth="yes"/>
+			<point x="119" y="-155"/>
+			<point x="158" y="-122"/>
+			<point x="220" y="-138" type="curve"/>
+			<point x="224" y="-119" type="line"/>
+			<point x="224" y="-119"/>
+			<point x="194" y="-95"/>
+			<point x="159" y="-95" type="curve" smooth="yes"/>
+			<point x="97" y="-97"/>
+			<point x="65" y="-148"/>
+			<point x="65" y="-186" type="curve" smooth="yes"/>
+			<point x="64" y="-229"/>
+			<point x="90" y="-276"/>
+			<point x="192" y="-276" type="curve" smooth="yes"/>
 		</contour>
 		<component base="sinMba"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-24 06:58:41 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

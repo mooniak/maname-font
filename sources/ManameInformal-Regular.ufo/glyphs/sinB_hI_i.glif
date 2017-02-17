@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinBhIi" format="1">
-	<advance width="993"/>
+	<advance width="765"/>
 	<outline>
-		<component base="sinMatraIi.alt2" xOffset="694" yOffset="26"/>
+		<component base="sinMatraIi.alt2" xOffset="535" yOffset="20"/>
 		<component base="sinBha"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2016-12-30 09:16:00 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 			<key>com.typemytype.robofont.guides</key>
 			<array>
 				<dict>

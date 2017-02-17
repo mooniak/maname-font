@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="amacron" format="1">
 	<unicode hex="0101"/>
-	<advance width="622"/>
+	<advance width="479"/>
 	<outline>
 		<component base="a"/>
-		<component base="macron" xOffset="309" yOffset="-167"/>
+		<component base="macron" xOffset="238" yOffset="-129"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-29 08:12:46 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

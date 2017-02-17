@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinJRIi" format="1">
-	<advance width="787"/>
+	<advance width="606"/>
 	<outline>
 		<component base="sinJIi"/>
-		<component base="sinRakar.short" xOffset="760" yOffset="39"/>
+		<component base="sinRakar.short" xOffset="585" yOffset="30"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-18 21:06:13 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

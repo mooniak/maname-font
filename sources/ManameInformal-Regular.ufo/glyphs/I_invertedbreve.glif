@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iinvertedbreve" format="1">
 	<unicode hex="020A"/>
-	<advance width="408"/>
+	<advance width="315"/>
 	<outline>
 		<component base="I"/>
-		<component base="breveinvertedcomb" xOffset="21" yOffset="67"/>
+		<component base="breveinvertedcomb" xOffset="17" yOffset="52"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-27 07:14:03 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

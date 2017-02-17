@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinY.post.virama" format="1">
-	<advance width="785"/>
+	<advance width="605"/>
 	<outline>
-		<component base="sinVirama" yxScale="0.07" xOffset="629" yOffset="5"/>
-		<component base="sinYa.post" yxScale="0.07" xOffset="10"/>
+		<component base="sinVirama" yxScale="0.07" xOffset="484" yOffset="4"/>
+		<component base="sinYa.post" yxScale="0.07" xOffset="8"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2016-12-26 03:45:10 +0000</string>
+			<string>2017-02-17 07:44:32 +0000</string>
 		</dict>
 	</lib>
 </glyph>

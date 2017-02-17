@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinRU" format="1">
-	<advance width="1058"/>
+	<advance width="815"/>
 	<outline>
-		<component base="sinMatraAe" xOffset="678"/>
+		<component base="sinMatraAe" xOffset="523"/>
 		<component base="sinRa"/>
 	</outline>
 	<lib>
@@ -19,7 +19,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-14 19:10:01 +0000</string>
+			<string>2017-02-17 07:44:32 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>=sinRa</string>
 		</dict>

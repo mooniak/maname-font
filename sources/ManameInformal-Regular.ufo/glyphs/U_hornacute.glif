@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uhornacute" format="1">
 	<unicode hex="1EE8"/>
-	<advance width="767"/>
+	<advance width="591"/>
 	<outline>
 		<component base="Uhorn"/>
-		<component base="acutecomb" xOffset="408" yOffset="2"/>
+		<component base="acutecomb" xOffset="315" yOffset="1"/>
 	</outline>
 	<lib>
 		<dict>
@@ -20,7 +20,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-14 19:10:02 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

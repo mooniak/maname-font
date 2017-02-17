@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="udieresis" format="1">
 	<unicode hex="00FC"/>
-	<advance width="728"/>
+	<advance width="561"/>
 	<outline>
 		<component base="u"/>
-		<component base="dieresiscomb" xOffset="348" yOffset="-224"/>
+		<component base="dieresiscomb" xOffset="268" yOffset="-173"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-29 22:34:45 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

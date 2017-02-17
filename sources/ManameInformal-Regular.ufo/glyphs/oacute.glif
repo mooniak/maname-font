@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oacute" format="1">
 	<unicode hex="00F3"/>
-	<advance width="662"/>
+	<advance width="509"/>
 	<outline>
 		<component base="o"/>
-		<component base="acute" xOffset="341" yOffset="-211"/>
+		<component base="acute" xOffset="263" yOffset="-163"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-29 07:44:31 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

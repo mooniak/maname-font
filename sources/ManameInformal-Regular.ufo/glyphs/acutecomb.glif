@@ -3,22 +3,22 @@
 	<unicode hex="0301"/>
 	<outline>
 		<contour>
-			<point x="-29" y="946"/>
-			<point x="101" y="995"/>
-			<point x="160" y="1028" type="curve"/>
-			<point x="155" y="1061"/>
-			<point x="133" y="1098"/>
-			<point x="111" y="1119" type="curve"/>
-			<point x="49" y="1073"/>
-			<point x="-52" y="1028"/>
-			<point x="-127" y="993" type="curve"/>
-			<point x="-99" y="928" type="line"/>
+			<point x="-22" y="728"/>
+			<point x="78" y="766"/>
+			<point x="123" y="792" type="curve"/>
+			<point x="119" y="817"/>
+			<point x="102" y="845"/>
+			<point x="85" y="862" type="curve"/>
+			<point x="38" y="826"/>
+			<point x="-40" y="792"/>
+			<point x="-98" y="765" type="curve"/>
+			<point x="-76" y="715" type="line"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-31 12:58:27 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

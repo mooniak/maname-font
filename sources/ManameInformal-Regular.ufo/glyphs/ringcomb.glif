@@ -2,12 +2,12 @@
 <glyph name="ringcomb" format="1">
 	<unicode hex="030A"/>
 	<outline>
-		<component base="ring" yOffset="110"/>
+		<component base="ring" yOffset="85"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-31 12:57:18 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

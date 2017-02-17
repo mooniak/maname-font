@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="firstquartermoon" format="1">
 	<unicode hex="1F31B"/>
-	<advance width="600"/>
+	<advance width="462"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.Export</key>
 			<false/>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-23 15:22:18 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

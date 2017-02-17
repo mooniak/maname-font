@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinIi" format="1">
 	<unicode hex="0D8A"/>
-	<advance width="695"/>
+	<advance width="535"/>
 	<outline>
 		<contour>
-			<point x="325" y="703"/>
-			<point x="354" y="729"/>
-			<point x="358" y="761" type="curve" smooth="yes"/>
-			<point x="362" y="793"/>
-			<point x="339" y="819"/>
-			<point x="307" y="819" type="curve" smooth="yes"/>
-			<point x="275" y="819"/>
-			<point x="246" y="793"/>
-			<point x="242" y="761" type="curve" smooth="yes"/>
-			<point x="238" y="729"/>
-			<point x="261" y="703"/>
-			<point x="293" y="703" type="curve" smooth="yes"/>
+			<point x="250" y="541"/>
+			<point x="273" y="561"/>
+			<point x="276" y="586" type="curve" smooth="yes"/>
+			<point x="279" y="611"/>
+			<point x="261" y="631"/>
+			<point x="236" y="631" type="curve" smooth="yes"/>
+			<point x="212" y="631"/>
+			<point x="189" y="611"/>
+			<point x="186" y="586" type="curve" smooth="yes"/>
+			<point x="183" y="561"/>
+			<point x="201" y="541"/>
+			<point x="226" y="541" type="curve" smooth="yes"/>
 		</contour>
 		<contour>
-			<point x="682" y="595"/>
-			<point x="710" y="620"/>
-			<point x="714" y="651" type="curve" smooth="yes"/>
-			<point x="718" y="682"/>
-			<point x="696" y="707"/>
-			<point x="665" y="707" type="curve" smooth="yes"/>
-			<point x="634" y="707"/>
-			<point x="606" y="682"/>
-			<point x="602" y="651" type="curve" smooth="yes"/>
-			<point x="598" y="620"/>
-			<point x="620" y="595"/>
-			<point x="651" y="595" type="curve" smooth="yes"/>
+			<point x="525" y="458"/>
+			<point x="547" y="477"/>
+			<point x="550" y="501" type="curve" smooth="yes"/>
+			<point x="553" y="525"/>
+			<point x="536" y="544"/>
+			<point x="512" y="544" type="curve" smooth="yes"/>
+			<point x="488" y="544"/>
+			<point x="467" y="525"/>
+			<point x="464" y="501" type="curve" smooth="yes"/>
+			<point x="460" y="477"/>
+			<point x="477" y="458"/>
+			<point x="501" y="458" type="curve" smooth="yes"/>
 		</contour>
 		<component base="sinRa" yxScale="0.052"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-24 06:58:41 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

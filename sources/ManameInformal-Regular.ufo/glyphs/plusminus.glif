@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plusminus" format="1">
 	<unicode hex="00B1"/>
-	<advance width="600"/>
+	<advance width="462"/>
 	<outline>
 		<contour>
-			<point x="274" y="610" type="line"/>
-			<point x="280" y="453"/>
-			<point x="278" y="297"/>
-			<point x="274" y="142" type="curve"/>
-			<point x="370" y="146" type="line"/>
-			<point x="365" y="285"/>
-			<point x="364" y="435"/>
-			<point x="370" y="613" type="curve"/>
+			<point x="211" y="470" type="line"/>
+			<point x="216" y="349"/>
+			<point x="214" y="229"/>
+			<point x="211" y="109" type="curve"/>
+			<point x="285" y="112" type="line"/>
+			<point x="281" y="219"/>
+			<point x="280" y="335"/>
+			<point x="285" y="472" type="curve"/>
 		</contour>
 		<contour>
-			<point x="76" y="327" type="line"/>
-			<point x="209" y="332"/>
-			<point x="385" y="332"/>
-			<point x="564" y="327" type="curve"/>
-			<point x="573" y="424" type="line"/>
-			<point x="416" y="419"/>
-			<point x="233" y="419"/>
-			<point x="78" y="424" type="curve"/>
+			<point x="59" y="252" type="line"/>
+			<point x="161" y="256"/>
+			<point x="296" y="256"/>
+			<point x="434" y="252" type="curve"/>
+			<point x="441" y="326" type="line"/>
+			<point x="320" y="323"/>
+			<point x="179" y="323"/>
+			<point x="60" y="326" type="curve"/>
 		</contour>
 		<contour>
-			<point x="93" y="-10" type="line"/>
-			<point x="226" y="-5"/>
-			<point x="372" y="-5"/>
-			<point x="551" y="-10" type="curve"/>
-			<point x="560" y="87" type="line"/>
-			<point x="403" y="82"/>
-			<point x="250" y="82"/>
-			<point x="95" y="87" type="curve"/>
+			<point x="72" y="-8" type="line"/>
+			<point x="174" y="-4"/>
+			<point x="286" y="-4"/>
+			<point x="424" y="-8" type="curve"/>
+			<point x="431" y="67" type="line"/>
+			<point x="310" y="63"/>
+			<point x="193" y="63"/>
+			<point x="73" y="67" type="curve"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-27 07:14:03 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinvocalicRr" format="1">
 	<unicode hex="0D8E"/>
-	<advance width="1684"/>
+	<advance width="1297"/>
 	<outline>
-		<component base="sinvocalicR" xOffset="-31"/>
-		<component base="sinMatraR" xOffset="1230"/>
+		<component base="sinvocalicR" xOffset="-24"/>
+		<component base="sinMatraR" xOffset="947"/>
 	</outline>
 	<lib>
 		<dict>
@@ -20,7 +20,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-14 19:10:02 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

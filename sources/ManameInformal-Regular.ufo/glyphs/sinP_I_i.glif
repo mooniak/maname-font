@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinPIi" format="1">
-	<advance width="805"/>
+	<advance width="620"/>
 	<outline>
-		<component base="sinMatraIi.alt" xOffset="425" yOffset="57"/>
+		<component base="sinMatraIi.alt" xOffset="328" yOffset="44"/>
 		<component base="sinPa"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-18 17:05:46 +0000</string>
+			<string>2017-02-17 07:44:32 +0000</string>
 		</dict>
 	</lib>
 </glyph>

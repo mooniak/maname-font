@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinDDhUu" format="1">
-	<advance width="894"/>
+	<advance width="689"/>
 	<outline>
 		<contour>
-			<point x="61" y="6"/>
-			<point x="75" y="11"/>
-			<point x="81" y="15" type="curve"/>
-			<point x="44" y="57"/>
-			<point x="20" y="146"/>
-			<point x="31" y="234" type="curve" smooth="yes"/>
-			<point x="52" y="399"/>
-			<point x="173" y="480"/>
-			<point x="332" y="449" type="curve"/>
-			<point x="310" y="436" type="line"/>
-			<point x="443" y="483" type="line"/>
-			<point x="440" y="495" type="line"/>
-			<point x="423" y="498"/>
-			<point x="415" y="499"/>
-			<point x="385" y="502" type="curve" smooth="yes"/>
-			<point x="157" y="525"/>
-			<point x="-25" y="449"/>
-			<point x="-43" y="232" type="curve" smooth="yes"/>
-			<point x="-51" y="134"/>
-			<point x="-6" y="52"/>
-			<point x="37" y="6" type="curve"/>
+			<point x="47" y="5"/>
+			<point x="58" y="8"/>
+			<point x="62" y="12" type="curve"/>
+			<point x="34" y="44"/>
+			<point x="15" y="112"/>
+			<point x="24" y="180" type="curve" smooth="yes"/>
+			<point x="40" y="307"/>
+			<point x="133" y="370"/>
+			<point x="256" y="346" type="curve"/>
+			<point x="239" y="336" type="line"/>
+			<point x="341" y="372" type="line"/>
+			<point x="339" y="381" type="line"/>
+			<point x="326" y="383"/>
+			<point x="320" y="384"/>
+			<point x="296" y="387" type="curve" smooth="yes"/>
+			<point x="121" y="404"/>
+			<point x="-19" y="346"/>
+			<point x="-33" y="179" type="curve" smooth="yes"/>
+			<point x="-39" y="103"/>
+			<point x="-5" y="40"/>
+			<point x="28" y="5" type="curve"/>
 		</contour>
 		<component base="sinDha"/>
-		<component base="sinMatraUu.alt" xOffset="773"/>
+		<component base="sinMatraUu.alt" xOffset="595"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-24 06:58:41 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

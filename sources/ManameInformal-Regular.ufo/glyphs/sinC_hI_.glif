@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinChI" format="1">
-	<advance width="785"/>
+	<advance width="605"/>
 	<outline>
 		<contour>
-			<point x="451" y="571"/>
-			<point x="464" y="572"/>
-			<point x="481" y="583" type="curve"/>
-			<point x="491" y="633" type="line"/>
-			<point x="483" y="632"/>
-			<point x="493" y="630"/>
-			<point x="463" y="630" type="curve" smooth="yes"/>
-			<point x="426" y="630"/>
-			<point x="338" y="653"/>
-			<point x="338" y="738" type="curve" smooth="yes"/>
-			<point x="338" y="818"/>
-			<point x="398" y="852"/>
-			<point x="480" y="854" type="curve" smooth="yes"/>
-			<point x="552" y="856"/>
-			<point x="606" y="828"/>
-			<point x="629" y="811" type="curve" smooth="yes"/>
-			<point x="644" y="800"/>
-			<point x="651" y="790"/>
-			<point x="652" y="779" type="curve"/>
-			<point x="705" y="801" type="line"/>
-			<point x="705" y="809"/>
-			<point x="698" y="834"/>
-			<point x="690" y="850" type="curve" smooth="yes"/>
-			<point x="684" y="862"/>
-			<point x="647" y="935"/>
-			<point x="516" y="935" type="curve" smooth="yes"/>
-			<point x="407" y="935"/>
-			<point x="292" y="858"/>
-			<point x="292" y="714" type="curve" smooth="yes"/>
-			<point x="292" y="622"/>
-			<point x="357" y="571"/>
-			<point x="435" y="571" type="curve" smooth="yes"/>
+			<point x="347" y="440"/>
+			<point x="357" y="440"/>
+			<point x="370" y="449" type="curve"/>
+			<point x="378" y="487" type="line"/>
+			<point x="372" y="487"/>
+			<point x="380" y="485"/>
+			<point x="357" y="485" type="curve" smooth="yes"/>
+			<point x="328" y="485"/>
+			<point x="260" y="503"/>
+			<point x="260" y="568" type="curve" smooth="yes"/>
+			<point x="260" y="630"/>
+			<point x="306" y="656"/>
+			<point x="370" y="658" type="curve" smooth="yes"/>
+			<point x="425" y="659"/>
+			<point x="467" y="638"/>
+			<point x="484" y="624" type="curve" smooth="yes"/>
+			<point x="496" y="616"/>
+			<point x="501" y="608"/>
+			<point x="502" y="600" type="curve"/>
+			<point x="543" y="617" type="line"/>
+			<point x="543" y="623"/>
+			<point x="537" y="642"/>
+			<point x="531" y="655" type="curve" smooth="yes"/>
+			<point x="527" y="664"/>
+			<point x="498" y="720"/>
+			<point x="397" y="720" type="curve" smooth="yes"/>
+			<point x="313" y="720"/>
+			<point x="225" y="661"/>
+			<point x="225" y="550" type="curve" smooth="yes"/>
+			<point x="225" y="479"/>
+			<point x="275" y="440"/>
+			<point x="335" y="440" type="curve" smooth="yes"/>
 		</contour>
 		<component base="sinCha"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-24 07:05:06 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 			<key>com.typemytype.robofont.guides</key>
 			<array>
 				<dict>

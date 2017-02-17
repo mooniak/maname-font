@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yacute" format="1">
 	<unicode hex="00FD"/>
-	<advance width="665"/>
+	<advance width="512"/>
 	<outline>
 		<component base="y"/>
-		<component base="acute" xOffset="357" yOffset="-166"/>
+		<component base="acute" xOffset="275" yOffset="-128"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-29 07:27:28 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

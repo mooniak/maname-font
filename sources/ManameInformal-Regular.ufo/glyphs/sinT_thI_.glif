@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinTthI" format="1">
-	<advance width="827"/>
+	<advance width="637"/>
 	<outline>
 		<contour>
-			<point x="340" y="740" type="line"/>
-			<point x="324" y="740"/>
-			<point x="207" y="746"/>
-			<point x="207" y="836" type="curve" smooth="yes"/>
-			<point x="207" y="868"/>
-			<point x="244" y="924"/>
-			<point x="363" y="933" type="curve" smooth="yes"/>
-			<point x="502" y="944"/>
-			<point x="637" y="892"/>
-			<point x="637" y="814" type="curve" smooth="yes"/>
-			<point x="637" y="748"/>
-			<point x="526" y="743"/>
-			<point x="526" y="743" type="curve"/>
-			<point x="578" y="707" type="line"/>
-			<point x="641" y="707"/>
-			<point x="707" y="779"/>
-			<point x="707" y="856" type="curve" smooth="yes"/>
-			<point x="707" y="926"/>
-			<point x="638" y="1021"/>
-			<point x="476" y="1021" type="curve" smooth="yes"/>
-			<point x="288" y="1021"/>
-			<point x="169" y="944"/>
-			<point x="169" y="828" type="curve" smooth="yes"/>
-			<point x="169" y="751"/>
-			<point x="247" y="694"/>
-			<point x="355" y="683" type="curve"/>
+			<point x="262" y="570" type="line"/>
+			<point x="249" y="570"/>
+			<point x="159" y="574"/>
+			<point x="159" y="644" type="curve" smooth="yes"/>
+			<point x="159" y="668"/>
+			<point x="188" y="711"/>
+			<point x="280" y="718" type="curve" smooth="yes"/>
+			<point x="387" y="727"/>
+			<point x="490" y="687"/>
+			<point x="490" y="627" type="curve" smooth="yes"/>
+			<point x="490" y="576"/>
+			<point x="405" y="572"/>
+			<point x="405" y="572" type="curve"/>
+			<point x="445" y="544" type="line"/>
+			<point x="494" y="544"/>
+			<point x="544" y="600"/>
+			<point x="544" y="659" type="curve" smooth="yes"/>
+			<point x="544" y="713"/>
+			<point x="491" y="786"/>
+			<point x="367" y="786" type="curve" smooth="yes"/>
+			<point x="222" y="786"/>
+			<point x="130" y="727"/>
+			<point x="130" y="638" type="curve" smooth="yes"/>
+			<point x="130" y="578"/>
+			<point x="190" y="534"/>
+			<point x="273" y="526" type="curve"/>
 		</contour>
 		<component base="sinTtha"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-24 06:58:41 +0000</string>
+			<string>2017-02-17 07:44:32 +0000</string>
 		</dict>
 	</lib>
 </glyph>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohorngrave" format="1">
 	<unicode hex="1EDD"/>
-	<advance width="662"/>
+	<advance width="509"/>
 	<outline>
 		<component base="ohorn"/>
-		<component base="gravecomb" xOffset="274" yOffset="-171"/>
+		<component base="gravecomb" xOffset="196" yOffset="-178"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-29 09:01:53 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

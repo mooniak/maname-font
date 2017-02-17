@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onehalf" format="1">
 	<unicode hex="00BD"/>
-	<advance width="931"/>
+	<advance width="717"/>
 	<outline>
-		<component base="fraction" xOffset="113" yOffset="70"/>
-		<component base="twosuperior" xOffset="513" yOffset="-540"/>
-		<component base="onesuperior" xOffset="-50" yOffset="-70"/>
+		<component base="fraction" xOffset="124" yOffset="77"/>
+		<component base="twosuperior" xOffset="564" yOffset="-594"/>
+		<component base="onesuperior" xOffset="-55" yOffset="-77"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-14 09:24:14 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

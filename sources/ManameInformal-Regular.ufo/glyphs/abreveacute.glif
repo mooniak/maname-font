@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abreveacute" format="1">
 	<unicode hex="1EAF"/>
-	<advance width="624"/>
+	<advance width="481"/>
 	<outline>
 		<component base="a"/>
-		<component base="brevecomb" xOffset="311" yOffset="-153"/>
-		<component base="acutecomb" xOffset="325" yOffset="-43"/>
+		<component base="brevecomb" xOffset="240" yOffset="-118"/>
+		<component base="acutecomb" xOffset="250" yOffset="-33"/>
 	</outline>
 	<lib>
 		<dict>
@@ -21,7 +21,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-14 19:10:00 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinNnga" format="1">
 	<unicode hex="0D9F"/>
-	<advance width="1103"/>
+	<advance width="849"/>
 	<outline>
 		<contour>
-			<point x="179" y="-4"/>
-			<point x="193" y="1"/>
-			<point x="199" y="5" type="curve"/>
-			<point x="162" y="47"/>
-			<point x="151" y="156"/>
-			<point x="161" y="244" type="curve" smooth="yes"/>
-			<point x="182" y="409"/>
-			<point x="288" y="518"/>
-			<point x="410" y="529" type="curve"/>
-			<point x="414" y="534" type="line"/>
-			<point x="547" y="581" type="line"/>
-			<point x="543" y="588" type="line"/>
-			<point x="526" y="592"/>
-			<point x="502" y="594"/>
-			<point x="472" y="594" type="curve" smooth="yes"/>
-			<point x="298" y="594"/>
-			<point x="106" y="459"/>
-			<point x="87" y="242" type="curve" smooth="yes"/>
-			<point x="79" y="144"/>
-			<point x="112" y="42"/>
-			<point x="155" y="-4" type="curve"/>
+			<point x="138" y="-3"/>
+			<point x="149" y="1"/>
+			<point x="153" y="4" type="curve"/>
+			<point x="125" y="36"/>
+			<point x="116" y="120"/>
+			<point x="124" y="188" type="curve" smooth="yes"/>
+			<point x="140" y="315"/>
+			<point x="222" y="399"/>
+			<point x="316" y="407" type="curve"/>
+			<point x="319" y="411" type="line"/>
+			<point x="421" y="447" type="line"/>
+			<point x="418" y="453" type="line"/>
+			<point x="405" y="456"/>
+			<point x="387" y="457"/>
+			<point x="363" y="457" type="curve" smooth="yes"/>
+			<point x="229" y="457"/>
+			<point x="82" y="353"/>
+			<point x="67" y="186" type="curve" smooth="yes"/>
+			<point x="61" y="111"/>
+			<point x="86" y="32"/>
+			<point x="119" y="-3" type="curve"/>
 		</contour>
-		<component base="sinGa" yxScale="0.052" xOffset="140"/>
+		<component base="sinGa" yxScale="0.052" xOffset="154"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-24 06:58:41 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

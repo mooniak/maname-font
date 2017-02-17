@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraO" format="1">
 	<unicode hex="0DDC"/>
-	<advance width="1221"/>
+	<advance width="941"/>
 	<outline>
-		<component base="sinMatraAa" xOffset="861" yOffset="-22"/>
+		<component base="sinMatraAa" xOffset="663" yOffset="-17"/>
 		<component base="sinMatraE" xOffset="-1"/>
 	</outline>
 	<lib>
@@ -20,7 +20,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-14 19:10:01 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

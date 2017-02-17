@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="threequarters" format="1">
 	<unicode hex="00BE"/>
-	<advance width="837"/>
+	<advance width="645"/>
 	<outline>
-		<component base="fraction" xOffset="40"/>
-		<component base="threesuperior" yOffset="-50"/>
-		<component base="foursuperior" xOffset="421" yOffset="-526"/>
+		<component base="fraction" xOffset="44"/>
+		<component base="threesuperior" yOffset="-55"/>
+		<component base="foursuperior" xOffset="463" yOffset="-579"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-14 09:24:55 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>three.numr</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

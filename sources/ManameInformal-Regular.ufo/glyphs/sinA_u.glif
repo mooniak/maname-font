@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinAu" format="1">
 	<unicode hex="0D96"/>
-	<advance width="818"/>
+	<advance width="630"/>
 	<outline>
 		<component base="sinO"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-29 07:14:49 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 			<key>com.typemytype.robofont.layerData</key>
 			<dict>
 				<key>Jan 19 17, 02:22</key>
@@ -44,7 +44,7 @@
 					<array>
 					</array>
 					<key>width</key>
-					<integer>818</integer>
+					<integer>630</integer>
 				</dict>
 			</dict>
 		</dict>

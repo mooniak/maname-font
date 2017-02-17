@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Otildemacron" format="1">
 	<unicode hex="022C"/>
-	<advance width="818"/>
+	<advance width="630"/>
 	<outline>
 		<component base="O"/>
-		<component base="tildecomb" xOffset="406" yOffset="118"/>
-		<component base="macroncomb" xOffset="429" yOffset="164"/>
+		<component base="tildecomb" xOffset="312" yOffset="91"/>
+		<component base="macroncomb" xOffset="330" yOffset="127"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-30 04:49:29 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

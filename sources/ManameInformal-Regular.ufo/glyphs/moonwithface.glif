@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="moonwithface" format="1">
 	<unicode hex="1F31D"/>
-	<advance width="600"/>
+	<advance width="462"/>
 	<outline>
 		<contour>
-			<point x="259" y="323" type="line"/>
-			<point x="404" y="323" type="line"/>
-			<point x="404" y="600" type="line"/>
-			<point x="259" y="600" type="line"/>
+			<point x="199" y="249" type="line"/>
+			<point x="311" y="249" type="line"/>
+			<point x="311" y="462" type="line"/>
+			<point x="199" y="462" type="line"/>
 		</contour>
 	</outline>
 	<lib>
@@ -15,7 +15,7 @@
 			<key>com.schriftgestaltung.Glyphs.Export</key>
 			<false/>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-31 10:49:35 +0000</string>
+			<string>2017-02-17 07:44:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>
