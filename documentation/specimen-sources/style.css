@@ -3,17 +3,12 @@
     src: url("../../fonts/otf/ManameInformal-Regular.otf");
     font-weight: 400;
 }
-@font-face {
-    font-family: 'Modak';
-    src: url('https://fonts.googleapis.com/css?family=Modak');
-}
 body {
     width: 2000px;
     font-size: 30px;
-    font-family: 'Maname-Informal', 'Modak';
+    font-family: 'Maname-Informal';
     line-height: 1.6;
     padding: 20px 60px 20px 60px;
-    font-weight: 400;
 }
 
 .label {
