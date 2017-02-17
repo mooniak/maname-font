@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinNndda" format="1">
 	<unicode hex="0DAC"/>
-	<advance width="820"/>
+	<advance width="819"/>
 	<outline>
 		<contour>
 			<point x="725" y="-19"/>
@@ -120,7 +120,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-17 07:44:31 +0000</string>
+			<string>2017-02-17 08:13:08 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>=sinTta</string>
 		</dict>

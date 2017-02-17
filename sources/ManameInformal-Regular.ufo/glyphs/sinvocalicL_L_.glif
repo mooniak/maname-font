@@ -4,7 +4,7 @@
 	<advance width="1349"/>
 	<outline>
 		<component base="sinvocalicL"/>
-		<component base="sinMatraLs" xOffset="1196"/>
+		<component base="sinMatraLs" xOffset="815" yOffset="19"/>
 	</outline>
 	<lib>
 		<dict>
@@ -20,7 +20,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-17 07:44:31 +0000</string>
+			<string>2017-02-17 12:27:09 +0000</string>
 		</dict>
 	</lib>
 </glyph>

@@ -3,8 +3,8 @@
 	<unicode hex="0D8E"/>
 	<advance width="1297"/>
 	<outline>
-		<component base="sinvocalicR" xOffset="-24"/>
-		<component base="sinMatraR" xOffset="947"/>
+		<component base="sinvocalicR" xOffset="-14"/>
+		<component base="sinMatraR" xOffset="917"/>
 	</outline>
 	<lib>
 		<dict>
@@ -20,7 +20,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-17 07:44:31 +0000</string>
+			<string>2017-02-17 08:12:58 +0000</string>
 		</dict>
 	</lib>
 </glyph>

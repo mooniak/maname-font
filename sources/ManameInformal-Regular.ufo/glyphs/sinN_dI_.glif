@@ -3,7 +3,7 @@
 	<advance width="754"/>
 	<outline>
 		<component base="sinNda"/>
-		<component base="sinMatraI.alt2" xOffset="108"/>
+		<component base="sinMatraI.alt2" xOffset="158"/>
 		<contour>
 			<point name="_si_MaI" x="300" y="430" type="move"/>
 		</contour>
@@ -11,7 +11,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-17 07:44:32 +0000</string>
+			<string>2017-02-17 12:08:26 +0000</string>
 		</dict>
 	</lib>
 </glyph>

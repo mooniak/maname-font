@@ -24,8 +24,8 @@
 			<point x="554" y="373"/>
 			<point x="590" y="367"/>
 			<point x="621" y="357" type="curve"/>
-			<point x="738" y="390" type="line"/>
-			<point x="695" y="433"/>
+			<point x="728" y="390" type="line"/>
+			<point x="685" y="433"/>
 			<point x="616" y="456"/>
 			<point x="550" y="456" type="curve" smooth="yes"/>
 			<point x="443" y="456"/>
@@ -93,12 +93,12 @@
 			<point x="218" y="279"/>
 			<point x="200" y="258" type="curve"/>
 		</contour>
-		<component base="sinTha" xOffset="639"/>
+		<component base="sinTha" xOffset="439"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-17 07:44:32 +0000</string>
+			<string>2017-02-17 12:24:24 +0000</string>
 		</dict>
 	</lib>
 </glyph>

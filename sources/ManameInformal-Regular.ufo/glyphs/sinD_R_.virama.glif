@@ -3,7 +3,7 @@
 	<advance width="438"/>
 	<outline>
 		<component base="sinDRa"/>
-		<component base="sinVirama" xOffset="339" yOffset="40"/>
+		<component base="sinVirama" xOffset="349" yOffset="-20"/>
 	</outline>
 	<lib>
 		<dict>
@@ -19,7 +19,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-17 07:44:31 +0000</string>
+			<string>2017-02-17 12:40:04 +0000</string>
 		</dict>
 	</lib>
 </glyph>
