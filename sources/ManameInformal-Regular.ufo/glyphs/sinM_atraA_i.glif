@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraAi" format="1">
-	<unicode hex="0DDB"/>
-	<advance width="979"/>
-	<outline>
-		<component base="sinMatraE"/>
-		<component base="sinMatraE" xOffset="639"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-17 07:44:31 +0000</string>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>=sinMatraE</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>=sinMatraE</string>
-		</dict>
-	</lib>
+  <advance width="979"/>
+  <unicode hex="0DDB"/>
+  <outline>
+    <component base="sinMatraE"/>
+    <component base="sinMatraE" xOffset="639"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-03-03 21:15:03 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=sinMatraE</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=sinMatraE</string>
+    </dict>
+  </lib>
 </glyph>

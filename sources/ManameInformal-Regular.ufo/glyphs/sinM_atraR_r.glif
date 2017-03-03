@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraRr" format="1">
-	<unicode hex="0DF2"/>
-	<advance width="622"/>
-	<outline>
-		<component base="sinMatraR" xOffset="281"/>
-		<component base="sinMatraR"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-17 12:28:19 +0000</string>
-		</dict>
-	</lib>
+  <advance width="622"/>
+  <unicode hex="0DF2"/>
+  <outline>
+    <component base="sinMatraR" xOffset="281"/>
+    <component base="sinMatraR"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-03-03 21:15:03 +0000</string>
+    </dict>
+  </lib>
 </glyph>

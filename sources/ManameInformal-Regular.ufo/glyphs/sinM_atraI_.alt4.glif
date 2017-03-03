@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraI.alt4" format="1">
-	<advance width="705"/>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-17 12:23:42 +0000</string>
-		</dict>
-	</lib>
+  <advance width="705"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-03-03 21:15:03 +0000</string>
+    </dict>
+  </lib>
 </glyph>

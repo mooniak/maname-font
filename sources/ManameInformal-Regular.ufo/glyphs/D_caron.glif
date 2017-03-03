@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dcaron" format="1">
-	<unicode hex="010E"/>
-	<advance width="631"/>
-	<outline>
-		<component base="D"/>
-		<component base="caron" xOffset="315" yOffset="12"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-17 07:44:31 +0000</string>
-		</dict>
-	</lib>
+  <advance width="631"/>
+  <unicode hex="010E"/>
+  <outline>
+    <component base="D"/>
+    <component base="caron" xOffset="315" yOffset="12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-03-03 21:15:03 +0000</string>
+    </dict>
+  </lib>
 </glyph>

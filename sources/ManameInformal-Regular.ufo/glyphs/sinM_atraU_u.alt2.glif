@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraUu.alt2" format="1">
-	<outline>
-		<component base="sinMatraUu.alt" yxScale="0.07"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-18 07:33:15 +0000</string>
-		</dict>
-	</lib>
+  <advance width="0"/>
+  <outline>
+    <component base="sinMatraUu.alt" yxScale="0.07"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-03-03 21:15:03 +0000</string>
+    </dict>
+  </lib>
 </glyph>

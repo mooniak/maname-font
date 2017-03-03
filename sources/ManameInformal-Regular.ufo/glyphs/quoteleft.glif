@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quoteleft" format="1">
-	<unicode hex="2018"/>
-	<advance width="179"/>
-	<outline>
-		<contour>
-			<point x="64" y="589"/>
-			<point x="16" y="483"/>
-			<point x="15" y="401" type="curve"/>
-			<point x="41" y="394"/>
-			<point x="91" y="389"/>
-			<point x="121" y="393" type="curve"/>
-			<point x="119" y="469"/>
-			<point x="137" y="557"/>
-			<point x="156" y="608" type="curve"/>
-			<point x="99" y="631" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-17 07:44:31 +0000</string>
-		</dict>
-	</lib>
+  <advance width="179"/>
+  <unicode hex="2018"/>
+  <outline>
+    <contour>
+      <point x="64" y="589"/>
+      <point x="16" y="483"/>
+      <point x="15" y="401" type="curve"/>
+      <point x="41" y="394"/>
+      <point x="91" y="389"/>
+      <point x="121" y="393" type="curve"/>
+      <point x="119" y="469"/>
+      <point x="137" y="557"/>
+      <point x="156" y="608" type="curve"/>
+      <point x="99" y="631" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-03-03 21:15:03 +0000</string>
+    </dict>
+  </lib>
 </glyph>

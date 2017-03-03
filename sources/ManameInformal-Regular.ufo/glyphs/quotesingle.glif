@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesingle" format="1">
-	<unicode hex="0027"/>
-	<advance width="158"/>
-	<outline>
-		<contour>
-			<point x="81" y="457"/>
-			<point x="122" y="546"/>
-			<point x="132" y="601" type="curve"/>
-			<point x="102" y="624"/>
-			<point x="54" y="610"/>
-			<point x="41" y="599" type="curve"/>
-			<point x="38" y="550"/>
-			<point x="28" y="480"/>
-			<point x="20" y="424" type="curve"/>
-			<point x="52" y="410" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-02-17 07:44:31 +0000</string>
-		</dict>
-	</lib>
+  <advance width="158"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="81" y="457"/>
+      <point x="122" y="546"/>
+      <point x="132" y="601" type="curve"/>
+      <point x="102" y="624"/>
+      <point x="54" y="610"/>
+      <point x="41" y="599" type="curve"/>
+      <point x="38" y="550"/>
+      <point x="28" y="480"/>
+      <point x="20" y="424" type="curve"/>
+      <point x="52" y="410" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-03-03 21:15:03 +0000</string>
+    </dict>
+  </lib>
 </glyph>
