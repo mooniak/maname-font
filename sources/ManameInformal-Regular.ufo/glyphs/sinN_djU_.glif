@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinNdjU" format="1">
-	<advance width="746"/>
+	<advance width="762"/>
 	<outline>
 		<contour>
 			<point x="122" y="-10"/>
@@ -30,7 +30,9 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-03 21:15:03 +0000</string>
+			<string>2017-03-12 04:47:22 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sinJa</string>
 		</dict>
 	</lib>
 </glyph>

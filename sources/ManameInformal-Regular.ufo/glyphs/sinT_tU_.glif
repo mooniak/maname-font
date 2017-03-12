@@ -3,12 +3,12 @@
 	<advance width="602"/>
 	<outline>
 		<component base="sinTta"/>
-		<component base="sinMatraU" xOffset="521" yOffset="31"/>
+		<component base="sinMatraU" xOffset="520"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-10 13:43:52 +0000</string>
+			<string>2017-03-12 06:40:09 +0000</string>
 		</dict>
 	</lib>
 </glyph>
