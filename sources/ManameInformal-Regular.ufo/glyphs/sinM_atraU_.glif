@@ -1,38 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraU" format="1">
-  <advance width="0"/>
-  <unicode hex="0DD4"/>
-  <outline>
-    <contour>
-      <point x="20" y="152" type="line"/>
-      <point x="-9" y="152" type="line"/>
-      <point x="-16" y="-232" type="line"/>
-      <point x="-166" y="-247"/>
-      <point x="-218" y="-253"/>
-      <point x="-356" y="-253" type="curve"/>
-      <point x="-395" y="-255"/>
-      <point x="-414" y="-234"/>
-      <point x="-414" y="-207" type="curve" smooth="yes"/>
-      <point x="-414" y="-179"/>
-      <point x="-375" y="-146"/>
-      <point x="-313" y="-162" type="curve"/>
-      <point x="-309" y="-142" type="line"/>
-      <point x="-309" y="-142"/>
-      <point x="-331" y="-119"/>
-      <point x="-375" y="-119" type="curve" smooth="yes"/>
-      <point x="-436" y="-119"/>
-      <point x="-475" y="-156"/>
-      <point x="-476" y="-209" type="curve" smooth="yes"/>
-      <point x="-477" y="-252"/>
-      <point x="-443" y="-299"/>
-      <point x="-342" y="-300" type="curve" smooth="yes"/>
-      <point x="21" y="-304" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-03-03 21:15:03 +0000</string>
-    </dict>
-  </lib>
+	<unicode hex="0DD4"/>
+	<outline>
+		<contour>
+			<point x="25" y="-235" type="line"/>
+			<point x="20" y="181" type="line"/>
+			<point x="-10" y="179" type="line"/>
+			<point x="-30" y="-167" type="line"/>
+			<point x="-131" y="-181"/>
+			<point x="-234" y="-190"/>
+			<point x="-325" y="-188" type="curve" smooth="yes"/>
+			<point x="-377" y="-187"/>
+			<point x="-399" y="-139"/>
+			<point x="-399" y="-112" type="curve"/>
+			<point x="-421" y="-107"/>
+			<point x="-462" y="-123"/>
+			<point x="-473" y="-135" type="curve"/>
+			<point x="-465" y="-177"/>
+			<point x="-425" y="-235"/>
+			<point x="-323" y="-235" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-03-08 19:33:46 +0000</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecircumflexhookabove" format="1">
-  <advance width="537"/>
-  <unicode hex="1EC2"/>
-  <outline>
-    <component base="E"/>
-    <component base="circumflexcomb" xOffset="286" yOffset="-12"/>
-    <component base="hookabovecomb" xOffset="487" yOffset="19"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-03-03 21:15:03 +0000</string>
-    </dict>
-  </lib>
+	<unicode hex="1EC2"/>
+	<advance width="537"/>
+	<outline>
+		<component base="E"/>
+		<component base="circumflexcomb" xOffset="286" yOffset="-12"/>
+		<component base="hookabovecomb" xOffset="487" yOffset="19"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-03-03 21:15:03 +0000</string>
+		</dict>
+	</lib>
 </glyph>

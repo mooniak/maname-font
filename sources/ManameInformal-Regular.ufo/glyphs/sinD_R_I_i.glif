@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinDRIi" format="1">
-  <advance width="480"/>
-  <outline>
-    <component base="sinDRa"/>
-    <component base="sinMatraIi.alt3" xOffset="-2" yOffset="14"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-03-03 21:15:03 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>sinDa</string>
-    </dict>
-  </lib>
+	<advance width="480"/>
+	<outline>
+		<component base="sinDRa"/>
+		<component base="sinMatraIi.alt3" xOffset="-2" yOffset="14"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-03-03 21:15:03 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sinDa</string>
+		</dict>
+	</lib>
 </glyph>

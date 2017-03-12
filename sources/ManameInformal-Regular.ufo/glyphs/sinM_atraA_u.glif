@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraAu" format="1">
-  <advance width="986"/>
-  <unicode hex="0DDE"/>
-  <outline>
-    <component base="sinMatraLs" xOffset="743"/>
-    <component base="sinMatraE" xOffset="-21"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-03-03 21:15:03 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=sinMatraLs</string>
-    </dict>
-  </lib>
+	<unicode hex="0DDE"/>
+	<advance width="986"/>
+	<outline>
+		<component base="sinMatraLs" xOffset="743"/>
+		<component base="sinMatraE" xOffset="-21"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-03-03 21:15:03 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=sinMatraLs</string>
+		</dict>
+	</lib>
 </glyph>

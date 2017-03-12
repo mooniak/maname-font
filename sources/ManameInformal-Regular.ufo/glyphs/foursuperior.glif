@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="foursuperior" format="1">
-  <advance width="316"/>
-  <unicode hex="2074"/>
-  <outline>
-    <contour>
-      <point x="305" y="494" type="line"/>
-      <point x="300" y="547" type="line"/>
-      <point x="256" y="544"/>
-      <point x="94" y="541"/>
-      <point x="35" y="542" type="curve"/>
-      <point x="48" y="521" type="line"/>
-      <point x="100" y="581"/>
-      <point x="192" y="718"/>
-      <point x="208" y="762" type="curve"/>
-      <point x="178" y="762"/>
-      <point x="147" y="761"/>
-      <point x="132" y="757" type="curve"/>
-      <point x="114" y="707"/>
-      <point x="65" y="626"/>
-      <point x="7" y="517" type="curve"/>
-      <point x="12" y="493" type="line"/>
-    </contour>
-    <contour>
-      <point x="236" y="411" type="line"/>
-      <point x="236" y="505"/>
-      <point x="231" y="553"/>
-      <point x="237" y="655" type="curve"/>
-      <point x="210" y="647"/>
-      <point x="179" y="631"/>
-      <point x="179" y="631" type="curve"/>
-      <point x="181" y="580"/>
-      <point x="183" y="507"/>
-      <point x="178" y="411" type="curve"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-03-03 21:15:03 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>four</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>four</string>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
-  </lib>
+	<unicode hex="2074"/>
+	<advance width="316"/>
+	<outline>
+		<contour>
+			<point x="305" y="494" type="line"/>
+			<point x="300" y="547" type="line"/>
+			<point x="256" y="544"/>
+			<point x="94" y="541"/>
+			<point x="35" y="542" type="curve"/>
+			<point x="48" y="521" type="line"/>
+			<point x="100" y="581"/>
+			<point x="192" y="718"/>
+			<point x="208" y="762" type="curve"/>
+			<point x="178" y="762"/>
+			<point x="147" y="761"/>
+			<point x="132" y="757" type="curve"/>
+			<point x="114" y="707"/>
+			<point x="65" y="626"/>
+			<point x="7" y="517" type="curve"/>
+			<point x="12" y="493" type="line"/>
+		</contour>
+		<contour>
+			<point x="236" y="411" type="line"/>
+			<point x="236" y="505"/>
+			<point x="231" y="553"/>
+			<point x="237" y="655" type="curve"/>
+			<point x="210" y="647"/>
+			<point x="179" y="631"/>
+			<point x="179" y="631" type="curve"/>
+			<point x="181" y="580"/>
+			<point x="183" y="507"/>
+			<point x="178" y="411" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+			<integer>0</integer>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-03-03 21:15:03 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>four</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>four</string>
+			<key>public.markColor</key>
+			<string>0.85,0.26,0.06,1</string>
+		</dict>
+	</lib>
 </glyph>

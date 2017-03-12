@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Acircumflexgrave" format="1">
-  <advance width="650"/>
-  <unicode hex="1EA6"/>
-  <outline>
-    <component base="A"/>
-    <component base="circumflexcomb" xOffset="326" yOffset="-48"/>
-    <component base="gravecomb" xOffset="399" yOffset="45"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-03-03 21:15:03 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>gravecomb</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
+	<unicode hex="1EA6"/>
+	<advance width="650"/>
+	<outline>
+		<component base="A"/>
+		<component base="circumflexcomb" xOffset="326" yOffset="-48"/>
+		<component base="gravecomb" xOffset="399" yOffset="45"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>gravecomb</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-03-03 21:15:03 +0000</string>
+		</dict>
+	</lib>
 </glyph>

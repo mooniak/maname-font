@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hyphen" format="1">
-  <advance width="453"/>
-  <unicode hex="002D"/>
-  <outline>
-    <contour>
-      <point x="399" y="264" type="line"/>
-      <point x="400" y="290"/>
-      <point x="405" y="312"/>
-      <point x="407" y="333" type="curve"/>
-      <point x="274" y="325"/>
-      <point x="196" y="325"/>
-      <point x="47" y="333" type="curve"/>
-      <point x="36" y="264" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-03-03 21:15:03 +0000</string>
-    </dict>
-  </lib>
+	<unicode hex="002D"/>
+	<advance width="453"/>
+	<outline>
+		<contour>
+			<point x="399" y="264" type="line"/>
+			<point x="400" y="290"/>
+			<point x="405" y="312"/>
+			<point x="407" y="333" type="curve"/>
+			<point x="274" y="325"/>
+			<point x="196" y="325"/>
+			<point x="47" y="333" type="curve"/>
+			<point x="36" y="264" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-03-03 21:15:03 +0000</string>
+		</dict>
+	</lib>
 </glyph>

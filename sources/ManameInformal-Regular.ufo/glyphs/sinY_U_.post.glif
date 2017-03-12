@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinYU.post" format="1">
-  <advance width="551"/>
-  <outline>
-    <component base="sinYa.post" yxScale="0.07"/>
-    <component base="sinMatraU.alt" xOffset="502" yOffset="-20"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-03-03 21:15:03 +0000</string>
-    </dict>
-  </lib>
+	<advance width="551"/>
+	<outline>
+		<contour>
+			<point x="527" y="-215" type="line"/>
+			<point x="522" y="201" type="line"/>
+			<point x="492" y="199" type="line"/>
+			<point x="472" y="-147" type="line"/>
+			<point x="388" y="-161"/>
+			<point x="321" y="-169"/>
+			<point x="227" y="-168" type="curve" smooth="yes"/>
+			<point x="175" y="-167"/>
+			<point x="153" y="-119"/>
+			<point x="153" y="-92" type="curve"/>
+			<point x="131" y="-87"/>
+			<point x="90" y="-103"/>
+			<point x="79" y="-115" type="curve"/>
+			<point x="87" y="-157"/>
+			<point x="127" y="-215"/>
+			<point x="229" y="-215" type="curve" smooth="yes"/>
+		</contour>
+		<component base="sinYa.post" yxScale="0.07"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-03-09 00:00:19 +0000</string>
+		</dict>
+	</lib>
 </glyph>
