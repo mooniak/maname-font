@@ -8,6 +8,8 @@ font-size: 12px;
 font-family: 'Maname-Informal';
 line-height: 1.6;
 padding: 0px 0px 0px 0px;
+        font-weight: normal;
+font-weight: normal;
 }
 h3, h4 {
   page-break-after: avoid;
