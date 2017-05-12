@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eth" format="1">
 	<unicode hex="00F0"/>
-	<advance width="479"/>
+	<advance width="486"/>
 	<outline>
 		<contour>
 			<point x="362" y="-2"/>
@@ -55,7 +55,7 @@
 			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
 			<integer>0</integer>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-03 21:15:03 +0000</string>
+			<string>2017-03-14 12:53:29 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>=o</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

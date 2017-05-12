@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinDVa" format="1">
-	<advance width="739"/>
+	<advance width="745"/>
 	<outline>
 		<contour>
 			<point x="160" y="45"/>
@@ -20,12 +20,14 @@
 			<point x="129" y="77"/>
 			<point x="149" y="45" type="curve"/>
 		</contour>
-		<component base="sinVa" xOffset="187" yOffset="11"/>
+		<component base="sinVa" xOffset="137" yOffset="11"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-03 21:15:03 +0000</string>
+			<string>2017-03-13 13:25:54 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sinVa</string>
 		</dict>
 	</lib>
 </glyph>

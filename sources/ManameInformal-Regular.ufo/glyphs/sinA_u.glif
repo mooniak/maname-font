@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinAu" format="1">
 	<unicode hex="0D96"/>
-	<advance width="1114"/>
+	<advance width="1084"/>
 	<outline>
 		<component base="sinO"/>
-		<component base="sinMatraLs" xOffset="645" yOffset="1"/>
+		<component base="sinMatraLs" xOffset="615" yOffset="1"/>
 	</outline>
 	<lib>
 		<dict>
@@ -20,7 +20,9 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-06 10:09:58 +0000</string>
+			<string>2017-03-26 04:25:29 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>sinO</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>sinMatraLs</string>
 			<key>com.typemytype.robofont.layerData</key>

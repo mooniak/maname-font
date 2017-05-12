@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinAi" format="1">
 	<unicode hex="0D93"/>
-	<advance width="1190"/>
+	<advance width="1151"/>
 	<outline>
-		<component base="sinE" xOffset="510"/>
-		<component base="sinMatraE" xOffset="29" yOffset="-7"/>
+		<component base="sinE" xOffset="471"/>
+		<component base="sinMatraE" yOffset="-7"/>
 	</outline>
 	<lib>
 		<dict>
@@ -28,9 +28,9 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-08 03:19:39 +0000</string>
+			<string>2017-03-14 13:46:32 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>SInMatraE</string>
+			<string>sinMatraE</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>sinE</string>
 		</dict>

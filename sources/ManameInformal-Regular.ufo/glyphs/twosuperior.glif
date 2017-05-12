@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twosuperior" format="1">
 	<unicode hex="00B2"/>
-	<advance width="312"/>
+	<advance width="324"/>
 	<outline>
 		<contour>
 			<point x="293" y="417" type="line"/>
@@ -42,7 +42,7 @@
 			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
 			<integer>0</integer>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-03 21:15:03 +0000</string>
+			<string>2017-03-14 12:53:29 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>two</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

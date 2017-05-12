@@ -1608,8 +1608,6 @@
 		<string>sinM_atraI_.alt2.glif</string>
 		<key>sinMatraI.alt3</key>
 		<string>sinM_atraI_.alt3.glif</string>
-		<key>sinMatraI.alt4</key>
-		<string>sinM_atraI_.alt4.glif</string>
 		<key>sinMatraIi</key>
 		<string>sinM_atraI_i.glif</string>
 		<key>sinMatraIi.alt</key>
@@ -1652,8 +1650,6 @@
 		<string>sinM_atraU_u.alt2.glif</string>
 		<key>sinMatraUu.alt3</key>
 		<string>sinM_atraU_u.alt3.glif</string>
-		<key>sinMb</key>
-		<string>sinM_b.glif</string>
 		<key>sinMb.virama</key>
 		<string>sinM_b.virama.glif</string>
 		<key>sinMbI</key>

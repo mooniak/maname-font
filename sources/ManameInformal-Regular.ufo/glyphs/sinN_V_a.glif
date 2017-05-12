@@ -81,12 +81,12 @@
 			<point x="264" y="282" type="curve"/>
 			<point x="272" y="275" type="line"/>
 		</contour>
-		<component base="sinVa" xOffset="660"/>
+		<component base="sinVa" xOffset="430"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-03 21:15:03 +0000</string>
+			<string>2017-03-13 13:25:54 +0000</string>
 		</dict>
 	</lib>
 </glyph>

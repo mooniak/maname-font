@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Thorn" format="1">
 	<unicode hex="00DE"/>
-	<advance width="571"/>
+	<advance width="544"/>
 	<outline>
 		<contour>
 			<point x="169" y="156"/>
@@ -36,7 +36,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-03 21:15:03 +0000</string>
+			<string>2017-03-14 12:53:29 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>=30</string>
 		</dict>

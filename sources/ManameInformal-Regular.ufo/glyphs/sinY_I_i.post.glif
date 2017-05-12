@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinYIi.post" format="1">
-	<advance width="462"/>
+	<advance width="557"/>
+	<outline>
+		<component base="sinYa.post" yxScale="0.07" xOffset="-22"/>
+		<component base="sinMatraIi" xOffset="300" yOffset="40"/>
+	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-03 21:15:03 +0000</string>
+			<string>2017-03-14 16:24:49 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>sinYUu.post</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sinYUu.post</string>
 		</dict>
 	</lib>
 </glyph>

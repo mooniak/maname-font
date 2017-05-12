@@ -3,39 +3,39 @@
 	<advance width="637"/>
 	<outline>
 		<contour>
-			<point x="262" y="570" type="line"/>
-			<point x="249" y="570"/>
-			<point x="159" y="574"/>
-			<point x="159" y="644" type="curve" smooth="yes"/>
-			<point x="159" y="668"/>
-			<point x="188" y="711"/>
-			<point x="280" y="718" type="curve" smooth="yes"/>
-			<point x="387" y="727"/>
-			<point x="490" y="687"/>
-			<point x="490" y="627" type="curve" smooth="yes"/>
-			<point x="490" y="576"/>
-			<point x="405" y="572"/>
-			<point x="405" y="572" type="curve"/>
-			<point x="445" y="544" type="line"/>
-			<point x="494" y="544"/>
-			<point x="544" y="600"/>
-			<point x="544" y="659" type="curve" smooth="yes"/>
-			<point x="544" y="713"/>
-			<point x="491" y="786"/>
-			<point x="367" y="786" type="curve" smooth="yes"/>
-			<point x="222" y="786"/>
-			<point x="130" y="727"/>
-			<point x="130" y="638" type="curve" smooth="yes"/>
-			<point x="130" y="578"/>
-			<point x="190" y="534"/>
-			<point x="273" y="526" type="curve"/>
+			<point x="219" y="530" type="line"/>
+			<point x="206" y="530"/>
+			<point x="116" y="534"/>
+			<point x="116" y="604" type="curve" smooth="yes"/>
+			<point x="116" y="658"/>
+			<point x="190" y="688"/>
+			<point x="252" y="688" type="curve" smooth="yes"/>
+			<point x="348" y="688"/>
+			<point x="423" y="651"/>
+			<point x="423" y="597" type="curve" smooth="yes"/>
+			<point x="423" y="555"/>
+			<point x="350" y="548"/>
+			<point x="338" y="542" type="curve"/>
+			<point x="384" y="521" type="line"/>
+			<point x="433" y="521"/>
+			<point x="477" y="570"/>
+			<point x="477" y="626" type="curve" smooth="yes"/>
+			<point x="477" y="683"/>
+			<point x="423" y="753"/>
+			<point x="299" y="753" type="curve" smooth="yes"/>
+			<point x="154" y="753"/>
+			<point x="87" y="687"/>
+			<point x="87" y="604" type="curve" smooth="yes"/>
+			<point x="87" y="538"/>
+			<point x="147" y="474"/>
+			<point x="230" y="466" type="curve"/>
 		</contour>
 		<component base="sinTtha"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-08 18:52:22 +0000</string>
+			<string>2017-04-05 05:43:46 +0000</string>
 		</dict>
 	</lib>
 </glyph>

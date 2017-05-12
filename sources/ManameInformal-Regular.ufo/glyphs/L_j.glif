@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lj" format="1">
 	<unicode hex="01C8"/>
-	<advance width="751"/>
+	<advance width="752"/>
 	<outline>
 		<component base="L"/>
 		<component base="j" xOffset="470"/>
@@ -9,7 +9,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-03 21:15:03 +0000</string>
+			<string>2017-03-14 12:53:29 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>=j</string>
 		</dict>

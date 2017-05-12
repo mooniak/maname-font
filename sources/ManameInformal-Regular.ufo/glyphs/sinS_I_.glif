@@ -2,13 +2,13 @@
 <glyph name="sinSI" format="1">
 	<advance width="697"/>
 	<outline>
-		<component base="sinMatraI.alt" xOffset="112" yOffset="15"/>
+		<component base="sinMatraI.alt" xOffset="380" yOffset="18"/>
 		<component base="sinSa"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-08 19:29:24 +0000</string>
+			<string>2017-03-31 06:24:09 +0000</string>
 		</dict>
 	</lib>
 </glyph>

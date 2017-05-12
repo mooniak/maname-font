@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinDDhUu" format="1">
-	<advance width="712"/>
+	<advance width="752"/>
 	<outline>
 		<contour>
 			<point x="111" y="-14"/>
@@ -31,12 +31,14 @@
 			<point x="92" y="-14" type="curve"/>
 		</contour>
 		<component base="sinDha" xOffset="104"/>
-		<component base="sinMatraUu.alt" xOffset="640"/>
+		<component base="sinMatraUu.alt" xOffset="660"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-08 16:43:24 +0000</string>
+			<string>2017-03-13 13:25:54 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sinDha</string>
 		</dict>
 	</lib>
 </glyph>

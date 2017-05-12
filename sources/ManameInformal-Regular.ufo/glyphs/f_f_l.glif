@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f_f_l" format="1">
-	<advance width="915"/>
+	<advance width="914"/>
 	<outline>
 		<contour>
 			<point x="575" y="0" type="line"/>
@@ -131,11 +131,11 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-03 21:15:03 +0000</string>
+			<string>2017-03-26 04:24:50 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>f</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>=lI</string>
+			<string>=l</string>
 		</dict>
 	</lib>
 </glyph>

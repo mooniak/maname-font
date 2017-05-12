@@ -4,13 +4,13 @@
 	<advance width="470"/>
 	<outline>
 		<component base="e"/>
-		<component base="dotbelowcomb" xOffset="63"/>
+		<component base="dotbelowcomb" xOffset="35"/>
 		<component base="circumflexcomb" xOffset="255" yOffset="-161"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-03 21:15:03 +0000</string>
+			<string>2017-03-26 13:31:07 +0000</string>
 		</dict>
 	</lib>
 </glyph>

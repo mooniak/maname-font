@@ -3,23 +3,12 @@
 	<advance width="623"/>
 	<outline>
 		<component base="sinTtI"/>
-		<component base="sinRakar.medium" xOffset="581" yOffset="-12"/>
+		<component base="sinRakar.medium" xOffset="555"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>sinRakar.medium</string>
-				</dict>
-			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-12 06:34:03 +0000</string>
+			<string>2017-03-13 13:25:54 +0000</string>
 		</dict>
 	</lib>
 </glyph>

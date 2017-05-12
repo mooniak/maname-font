@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onesuperior" format="1">
 	<unicode hex="00B9"/>
-	<advance width="205"/>
+	<advance width="221"/>
 	<outline>
 		<contour>
 			<point x="181" y="455"/>
@@ -31,7 +31,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-03 21:15:03 +0000</string>
+			<string>2017-03-14 12:53:29 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>one</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
