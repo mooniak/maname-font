@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinLa" format="1">
 	<unicode hex="0DBD"/>
-	<advance width="619"/>
+	<advance width="612"/>
 	<outline>
 		<contour>
 			<point x="460" y="-195"/>
@@ -64,13 +64,13 @@
 			<point x="336" y="-195" type="curve" smooth="yes"/>
 		</contour>
 		<contour>
-			<point name="Virama" x="524" y="387" type="move"/>
+			<point name="Virama" x="514" y="387" type="move"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-13 13:25:54 +0000</string>
+			<string>2017-05-13 20:33:14 +0000</string>
 			<key>com.typemytype.robofont.layerData</key>
 			<dict>
 				<key>Regular Oct 20 16, 20:13</key>

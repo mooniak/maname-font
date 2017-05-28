@@ -2,13 +2,40 @@
 <glyph name="sinFI" format="1">
 	<advance width="707"/>
 	<outline>
+		<contour>
+			<point x="565" y="408"/>
+			<point x="608" y="444"/>
+			<point x="608" y="509" type="curve" smooth="yes"/>
+			<point x="608" y="594"/>
+			<point x="523" y="664"/>
+			<point x="378" y="664" type="curve" smooth="yes"/>
+			<point x="259" y="664"/>
+			<point x="132" y="603"/>
+			<point x="132" y="498" type="curve" smooth="yes"/>
+			<point x="132" y="426"/>
+			<point x="184" y="400"/>
+			<point x="230" y="400" type="curve"/>
+			<point x="263" y="438" type="line"/>
+			<point x="221" y="439"/>
+			<point x="166" y="461"/>
+			<point x="166" y="501" type="curve" smooth="yes"/>
+			<point x="166" y="559"/>
+			<point x="256" y="582"/>
+			<point x="356" y="582" type="curve" smooth="yes"/>
+			<point x="434" y="582"/>
+			<point x="573" y="570"/>
+			<point x="573" y="507" type="curve" smooth="yes"/>
+			<point x="573" y="467"/>
+			<point x="520" y="442"/>
+			<point x="465" y="431" type="curve"/>
+			<point x="501" y="405" type="line"/>
+		</contour>
 		<component base="sinFa"/>
-		<component base="sinMatraI.alt" xOffset="362" yOffset="-7"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-31 06:24:35 +0000</string>
+			<string>2017-05-13 20:33:14 +0000</string>
 		</dict>
 	</lib>
 </glyph>

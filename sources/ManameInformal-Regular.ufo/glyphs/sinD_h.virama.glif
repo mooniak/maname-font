@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinDh.virama" format="1">
-	<advance width="656"/>
+	<advance width="628"/>
 	<outline>
 		<contour>
 			<point x="590" y="452"/>
@@ -93,7 +93,9 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-03-30 16:51:40 +0000</string>
+			<string>2017-05-13 20:33:14 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sinMa</string>
 			<key>com.typemytype.robofont.layerData</key>
 			<dict>
 				<key>background</key>
