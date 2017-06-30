@@ -2,7 +2,8 @@
 <glyph name="sinMatraU.alt2" format="1">
 	<outline>
 		<contour>
-			<point x="25" y="-215" type="line"/>
+			<point x="4" y="-215" type="line"/>
+			<point x="25" y="-199" type="line"/>
 			<point x="20" y="197" type="line"/>
 			<point x="-10" y="195" type="line"/>
 			<point x="-30" y="-151" type="line"/>
@@ -23,7 +24,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-05-13 20:33:14 +0000</string>
+			<string>2017-06-29 08:30:07 +0000</string>
 		</dict>
 	</lib>
 </glyph>

@@ -2,11 +2,8 @@
 <glyph name="sinMatraIi.alt3" format="1">
 	<outline>
 		<contour>
-			<point x="-36" y="441" type="line"/>
-			<point x="-42" y="440"/>
-			<point x="-47" y="439"/>
-			<point x="-53" y="439" type="curve" smooth="yes"/>
-			<point x="-95" y="439"/>
+			<point x="-55" y="441" type="line"/>
+			<point x="-97" y="454"/>
 			<point x="-140" y="471"/>
 			<point x="-140" y="520" type="curve" smooth="yes"/>
 			<point x="-140" y="592"/>
@@ -44,9 +41,9 @@
 			<point x="107" y="658"/>
 			<point x="11" y="658" type="curve" smooth="yes"/>
 			<point x="-90" y="658"/>
-			<point x="-175" y="597"/>
-			<point x="-175" y="508" type="curve" smooth="yes"/>
-			<point x="-175" y="433"/>
+			<point x="-172" y="597"/>
+			<point x="-172" y="512" type="curve" smooth="yes"/>
+			<point x="-172" y="433"/>
 			<point x="-114" y="395"/>
 			<point x="-51" y="387" type="curve"/>
 		</contour>
@@ -54,7 +51,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-05-13 20:33:14 +0000</string>
+			<string>2017-06-29 08:31:17 +0000</string>
 		</dict>
 	</lib>
 </glyph>

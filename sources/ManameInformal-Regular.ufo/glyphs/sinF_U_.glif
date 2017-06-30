@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinFU" format="1">
-	<advance width="674"/>
+	<advance width="711"/>
 	<outline>
 		<component base="sinFa"/>
 		<component base="sinMatraU.alt2" xOffset="629"/>
@@ -8,7 +8,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-05-13 20:33:14 +0000</string>
+			<string>2017-06-29 08:31:17 +0000</string>
 		</dict>
 	</lib>
 </glyph>

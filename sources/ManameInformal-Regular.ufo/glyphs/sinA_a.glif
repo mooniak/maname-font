@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinAa" format="1">
 	<unicode hex="0D86"/>
-	<advance width="867"/>
+	<advance width="837"/>
 	<outline>
 		<component base="sinA"/>
-		<component base="sinMatraAa" xOffset="560"/>
+		<component base="sinMatraAa" xOffset="530"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-05-13 20:33:14 +0000</string>
+			<string>2017-06-29 08:31:17 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>sinMatraAa</string>
 		</dict>
