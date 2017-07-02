@@ -5,30 +5,30 @@
 	<outline>
 		<contour>
 			<point x="12" y="368" type="line"/>
-			<point x="12" y="493" type="line"/>
-			<point x="20" y="474"/>
-			<point x="41" y="455"/>
-			<point x="72" y="455" type="curve" smooth="yes"/>
-			<point x="122" y="455"/>
-			<point x="141" y="495"/>
-			<point x="141" y="538" type="curve" smooth="yes"/>
-			<point x="141" y="639"/>
-			<point x="22" y="671"/>
-			<point x="-4" y="676" type="curve"/>
-			<point x="-15" y="666" type="line"/>
-			<point x="-22" y="368" type="line"/>
+			<point x="8" y="503" type="line"/>
+			<point x="16" y="484"/>
+			<point x="40" y="461"/>
+			<point x="71" y="461" type="curve" smooth="yes"/>
+			<point x="121" y="461"/>
+			<point x="137" y="495"/>
+			<point x="137" y="538" type="curve" smooth="yes"/>
+			<point x="137" y="639"/>
+			<point x="18" y="671"/>
+			<point x="-8" y="676" type="curve"/>
+			<point x="-24" y="666" type="line"/>
+			<point x="-27" y="368" type="line"/>
 		</contour>
 		<contour>
-			<point x="42" y="521"/>
-			<point x="12" y="548"/>
-			<point x="12" y="589" type="curve" smooth="yes"/>
-			<point x="12" y="611" type="line"/>
-			<point x="47" y="607"/>
-			<point x="108" y="594"/>
-			<point x="108" y="552" type="curve" smooth="yes"/>
-			<point x="108" y="531"/>
-			<point x="95" y="521"/>
-			<point x="75" y="521" type="curve" smooth="yes"/>
+			<point x="38" y="521"/>
+			<point x="8" y="548"/>
+			<point x="8" y="589" type="curve" smooth="yes"/>
+			<point x="8" y="611" type="line"/>
+			<point x="43" y="607"/>
+			<point x="104" y="594"/>
+			<point x="104" y="552" type="curve" smooth="yes"/>
+			<point x="104" y="531"/>
+			<point x="91" y="521"/>
+			<point x="71" y="521" type="curve" smooth="yes"/>
 		</contour>
 		<contour>
 			<point name="_Virama" x="11" y="367" type="move"/>
@@ -37,7 +37,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-06-29 08:31:17 +0000</string>
+			<string>2017-06-30 19:21:50 +0000</string>
 		</dict>
 	</lib>
 </glyph>

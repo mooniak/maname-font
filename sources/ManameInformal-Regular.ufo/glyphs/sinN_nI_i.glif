@@ -18,14 +18,14 @@
 			<point x="320" y="493" type="curve" smooth="yes"/>
 			<point x="304" y="493"/>
 			<point x="286" y="503"/>
-			<point x="286" y="524" type="curve" smooth="yes"/>
+			<point x="286" y="524" type="curve"/>
 			<point x="289" y="579"/>
 			<point x="374" y="569"/>
 			<point x="374" y="569" type="curve"/>
 			<point x="382" y="579" type="line"/>
 			<point x="370" y="583"/>
 			<point x="360" y="590"/>
-			<point x="336" y="591" type="curve" smooth="yes"/>
+			<point x="336" y="591" type="curve"/>
 			<point x="304" y="594"/>
 			<point x="247" y="578"/>
 			<point x="240" y="528" type="curve" smooth="yes"/>
@@ -50,7 +50,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-06-29 08:31:18 +0000</string>
+			<string>2017-06-30 19:19:38 +0000</string>
 			<key>com.typemytype.robofont.layerData</key>
 			<dict>
 				<key>background</key>

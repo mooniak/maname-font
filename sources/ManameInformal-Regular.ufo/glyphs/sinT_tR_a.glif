@@ -3,7 +3,7 @@
 	<advance width="585"/>
 	<outline>
 		<component base="sinTta"/>
-		<component base="sinRakar.medium" xOffset="557" yOffset="-1"/>
+		<component base="sinRakar.medium" xOffset="537" yOffset="39"/>
 	</outline>
 	<lib>
 		<dict>
@@ -21,7 +21,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-06-30 16:44:08 +0000</string>
+			<string>2017-07-02 06:29:33 +0000</string>
 			<key>public.markColor</key>
 			<string>0.67,0.95,0.38,1</string>
 		</dict>

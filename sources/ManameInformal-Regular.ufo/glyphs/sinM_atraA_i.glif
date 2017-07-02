@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraAi" format="1">
 	<unicode hex="0DDB"/>
-	<advance width="978"/>
+	<advance width="953"/>
 	<outline>
 		<contour>
 			<point x="110" y="-24"/>
@@ -68,7 +68,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-06-29 08:31:17 +0000</string>
+			<string>2017-07-02 05:39:03 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>=sinMatraE</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

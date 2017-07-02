@@ -3,14 +3,14 @@
 	<advance width="608"/>
 	<outline>
 		<component base="sinTtIi"/>
-		<component base="sinRakar.medium" xOffset="555"/>
+		<component base="sinRakar.medium" xOffset="527" yOffset="30"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
 			<integer>4</integer>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-06-30 16:44:08 +0000</string>
+			<string>2017-07-02 06:29:05 +0000</string>
 			<key>public.markColor</key>
 			<string>0.67,0.95,0.38,1</string>
 		</dict>

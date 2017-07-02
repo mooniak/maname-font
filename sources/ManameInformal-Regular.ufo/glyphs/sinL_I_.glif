@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinLI" format="1">
-	<advance width="601"/>
+	<advance width="591"/>
 	<outline>
 		<contour>
 			<point x="229" y="448" type="line"/>
@@ -35,7 +35,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-06-29 08:31:17 +0000</string>
+			<string>2017-07-02 05:39:03 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>sinLa</string>
 		</dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinNnU" format="1">
-	<advance width="954"/>
+	<advance width="914"/>
 	<outline>
 		<contour>
 			<point x="888" y="-201" type="line"/>
@@ -25,7 +25,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-06-29 08:31:18 +0000</string>
+			<string>2017-07-02 05:39:03 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>sinNna</string>
 		</dict>

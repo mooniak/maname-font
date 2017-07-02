@@ -18,9 +18,9 @@
 			<point x="353" y="316"/>
 			<point x="353" y="345" type="curve" smooth="yes"/>
 			<point x="353" y="398"/>
-			<point x="396" y="415"/>
-			<point x="433" y="415" type="curve" smooth="yes"/>
-			<point x="474" y="415"/>
+			<point x="392" y="416"/>
+			<point x="432" y="416" type="curve" smooth="yes"/>
+			<point x="470" y="416"/>
 			<point x="507" y="393"/>
 			<point x="507" y="356" type="curve" smooth="yes"/>
 			<point x="507" y="320"/>
@@ -32,8 +32,8 @@
 			<point x="554" y="375" type="curve" smooth="yes"/>
 			<point x="554" y="418"/>
 			<point x="516" y="463"/>
-			<point x="453" y="463" type="curve" smooth="yes"/>
-			<point x="346" y="463"/>
+			<point x="451" y="463" type="curve" smooth="yes"/>
+			<point x="354" y="463"/>
 			<point x="307" y="372"/>
 			<point x="319" y="264" type="curve"/>
 			<point x="329" y="256" type="line"/>
@@ -94,8 +94,10 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+			<integer>4</integer>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-06-29 09:22:19 +0000</string>
+			<string>2017-07-02 06:48:23 +0000</string>
 			<key>com.typemytype.robofont.layerData</key>
 			<dict>
 				<key>Jan 18 17, 13:23</key>
@@ -1549,6 +1551,8 @@
 					<integer>816</integer>
 				</dict>
 			</dict>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
 		</dict>
 	</lib>
 </glyph>
