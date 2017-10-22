@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onequarter" format="1">
-	<unicode hex="00BC"/>
-	<advance width="637"/>
-	<outline>
-		<component base="fraction" xOffset="51"/>
-		<component base="onesuperior" xOffset="-48" yOffset="-55"/>
-		<component base="foursuperior" xOffset="463" yOffset="-579"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-06-29 08:31:17 +0000</string>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>one.numr</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>one.numr</string>
-		</dict>
-	</lib>
+  <advance width="637"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <component base="fraction" xOffset="51"/>
+    <component base="onesuperior" xOffset="-48" yOffset="-55"/>
+    <component base="foursuperior" xOffset="463" yOffset="-579"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-21 14:51:29 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>one.numr</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>one.numr</string>
+    </dict>
+  </lib>
 </glyph>

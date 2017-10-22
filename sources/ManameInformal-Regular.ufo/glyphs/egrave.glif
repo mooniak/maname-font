@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="egrave" format="1">
-	<unicode hex="00E8"/>
-	<advance width="470"/>
-	<outline>
-		<component base="e"/>
-		<component base="grave" xOffset="261" yOffset="-143"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-06-29 08:31:17 +0000</string>
-		</dict>
-	</lib>
+  <advance width="470"/>
+  <unicode hex="00E8"/>
+  <outline>
+    <component base="e"/>
+    <component base="grave" xOffset="261" yOffset="-143"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-21 14:51:29 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ocircumflexacute" format="1">
-	<unicode hex="1ED1"/>
-	<advance width="509"/>
-	<outline>
-		<component base="o"/>
-		<component base="circumflexcomb" xOffset="252" yOffset="-197"/>
-		<component base="acutecomb" xOffset="120" yOffset="-110"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-06-29 08:31:17 +0000</string>
-		</dict>
-	</lib>
+  <advance width="509"/>
+  <unicode hex="1ED1"/>
+  <outline>
+    <component base="o"/>
+    <component base="circumflexcomb" xOffset="252" yOffset="-197"/>
+    <component base="acutecomb" xOffset="120" yOffset="-110"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-21 14:51:29 +0000</string>
+    </dict>
+  </lib>
 </glyph>

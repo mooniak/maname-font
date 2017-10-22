@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinShRIi" format="1">
-	<advance width="747"/>
-	<outline>
-		<component base="sinSha" xOffset="-9"/>
-		<component base="sinRakar.long" xOffset="407" yOffset="23"/>
-		<component base="sinMatraIi.alt2" xOffset="498" yOffset="32"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-06-29 08:31:18 +0000</string>
-		</dict>
-	</lib>
+  <advance width="747"/>
+  <outline>
+    <component base="sinSha" xOffset="-9"/>
+    <component base="sinRakar.long" xOffset="407" yOffset="23"/>
+    <component base="sinMatraIi.alt2" xOffset="498" yOffset="32"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-21 14:51:29 +0000</string>
+    </dict>
+  </lib>
 </glyph>

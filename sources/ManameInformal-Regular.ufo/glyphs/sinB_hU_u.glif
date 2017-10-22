@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinBhUu" format="1">
-	<advance width="765"/>
-	<outline>
-		<contour>
-			<point x="524" y="-80" type="line"/>
-			<point x="533" y="46" type="line"/>
-			<point x="486" y="63" type="line"/>
-			<point x="497" y="-52" type="line"/>
-			<point x="456" y="13" type="line"/>
-			<point x="443" y="-17" type="line"/>
-			<point x="497" y="-93" type="line"/>
-		</contour>
-		<contour>
-			<point x="605" y="-247"/>
-			<point x="670" y="-230"/>
-			<point x="713" y="-191" type="curve"/>
-			<point x="712" y="-167"/>
-			<point x="697" y="-133"/>
-			<point x="684" y="-123" type="curve"/>
-			<point x="660" y="-146"/>
-			<point x="619" y="-184"/>
-			<point x="551" y="-184" type="curve" smooth="yes"/>
-			<point x="504" y="-184"/>
-			<point x="431" y="-165"/>
-			<point x="431" y="-103" type="curve" smooth="yes"/>
-			<point x="431" y="-83"/>
-			<point x="437" y="-55"/>
-			<point x="471" y="-54" type="curve"/>
-			<point x="471" y="-53"/>
-			<point x="457" y="13"/>
-			<point x="456" y="13" type="curve"/>
-			<point x="434" y="-2"/>
-			<point x="395" y="-36"/>
-			<point x="395" y="-104" type="curve" smooth="yes"/>
-			<point x="395" y="-192"/>
-			<point x="459" y="-247"/>
-			<point x="553" y="-247" type="curve" smooth="yes"/>
-		</contour>
-		<component base="sinBha"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-06-30 19:19:38 +0000</string>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>sinBha</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>sinBha</string>
-		</dict>
-	</lib>
+  <advance width="779"/>
+  <outline>
+    <contour>
+      <point x="524" y="-80" type="line"/>
+      <point x="520" y="47" type="line"/>
+      <point x="473" y="64" type="line"/>
+      <point x="497" y="-52" type="line"/>
+      <point x="456" y="13" type="line"/>
+      <point x="443" y="-17" type="line"/>
+      <point x="497" y="-93" type="line"/>
+    </contour>
+    <contour>
+      <point x="605" y="-247"/>
+      <point x="670" y="-230"/>
+      <point x="713" y="-191" type="curve"/>
+      <point x="712" y="-167"/>
+      <point x="697" y="-133"/>
+      <point x="684" y="-123" type="curve"/>
+      <point x="660" y="-146"/>
+      <point x="619" y="-184"/>
+      <point x="551" y="-184" type="curve" smooth="yes"/>
+      <point x="504" y="-184"/>
+      <point x="429" y="-165"/>
+      <point x="429" y="-100" type="curve" smooth="yes"/>
+      <point x="429" y="-83"/>
+      <point x="437" y="-55"/>
+      <point x="471" y="-54" type="curve"/>
+      <point x="471" y="-53"/>
+      <point x="457" y="13"/>
+      <point x="456" y="13" type="curve"/>
+      <point x="434" y="-2"/>
+      <point x="395" y="-36"/>
+      <point x="395" y="-104" type="curve" smooth="yes"/>
+      <point x="395" y="-192"/>
+      <point x="459" y="-247"/>
+      <point x="553" y="-247" type="curve" smooth="yes"/>
+    </contour>
+    <component base="sinBha"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-21 14:51:29 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>sinBha</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>sinBha</string>
+    </dict>
+  </lib>
 </glyph>

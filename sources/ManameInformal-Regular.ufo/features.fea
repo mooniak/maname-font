@@ -14,18 +14,18 @@ languagesystem latn AZE;
 
 feature aalt {
 # automatic
+feature ccmp;
 feature locl;
 feature sups;
 feature frac;
 feature ordn;
 feature c2sc;
-feature ccmp;
-feature abvs;
-feature blws;
-feature vatu;
 feature akhn;
 feature rphf;
+feature vatu;
 feature pstf;
+feature abvs;
+feature blws;
 feature psts;
 feature ss01;
 } aalt;
@@ -124,8 +124,8 @@ feature liga {
 # automatic
 sub f f l by f_f_l;
 sub f f i by f_f_i;
-sub f i by fi;
 sub f f by f_f;
+sub f i by fi;
 sub f l by fl;
 } liga;
 
@@ -202,7 +202,7 @@ feature pstf {
 
 feature abvs {
 script sinh;
-lookup sin_abvs {
+lookup sin_abvs_1 {
   sub sinKa sinMatraI by sinKI;
   sub sinKha sinMatraI by sinKhI;
   sub sinGa sinMatraI by sinGI;
@@ -245,7 +245,9 @@ lookup sin_abvs {
   sub sinLla sinMatraI by sinLlI;
   sub sinFa sinMatraI by sinFI;
   sub sinYa.post sinMatraI by sinYI.post;
+} sin_abvs_1;
 
+lookup sin_abvs_2 {
   sub sinKa sinMatraIi by sinKIi;
   sub sinKha sinMatraIi by sinKhIi;
   sub sinGa sinMatraIi by sinGIi;
@@ -288,7 +290,9 @@ lookup sin_abvs {
   sub sinLla sinMatraIi by sinLlIi;
   sub sinFa sinMatraIi by sinFIi;
   sub sinYa.post sinMatraIi by sinYIi.post;
+} sin_abvs_2;
 
+lookup sin_abvs_3 {
   sub sinKRa sinMatraI by sinKRI;
   sub sinKhRa sinMatraI by sinKhRI;
   sub sinGRa sinMatraI by sinGRI;
@@ -311,7 +315,9 @@ lookup sin_abvs {
   sub sinShRa sinMatraI by sinShRI;
   sub sinSRa sinMatraI by sinSRI;
   sub sinHRa sinMatraI by sinHRI;
+} sin_abvs_3;
 
+lookup sin_abvs_4 {
   sub sinKRa sinMatraIi by sinKRIi;
   sub sinKhRa sinMatraIi by sinKhRIi;
   sub sinGRa sinMatraIi by sinGRIi;
@@ -334,7 +340,9 @@ lookup sin_abvs {
   sub sinShRa sinMatraIi by sinShRIi;
   sub sinSRa sinMatraIi by sinSRIi;
   sub sinHRa sinMatraIi by sinHRIi;
+} sin_abvs_4;
 
+lookup sin_abvs_5 {
    sub	sinKSsa	sinMatraI	by	sinKSsI;
    sub	sinKVa	sinMatraI	by	sinKVI;
    sub	sinTVa	sinMatraI	by	sinTVI;
@@ -346,7 +354,9 @@ lookup sin_abvs {
    sub	sinDVa	sinMatraI	by	sinDVI;
    sub	sinDDha	sinMatraI	by	sinDDhI;
    sub	sinTtTtha	sinMatraI	by	sinTtTthI;
+} sin_abvs_5;
 
+lookup sin_abvs_6 {
   sub	sinKSsa	sinMatraIi	by	sinKSsIi;
   sub	sinKVa	sinMatraIi	by	sinKVIi;
   sub	sinTVa	sinMatraIi	by	sinTVIi;
@@ -358,7 +368,8 @@ lookup sin_abvs {
   sub	sinDVa	sinMatraIi	by	sinDVIi;
   sub	sinDDha	sinMatraIi	by	sinDDhIi;
   sub	sinTtTtha	sinMatraIi	by	sinTtTthIi;
-} sin_abvs;
+} sin_abvs_6;
+
 lookup sin_virama_1 {
   sub sinMatraAa sinVirama by sinMatraAa.virama;
   sub sinKa sinVirama by sinK.virama;

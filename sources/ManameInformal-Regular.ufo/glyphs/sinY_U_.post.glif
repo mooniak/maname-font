@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinYU.post" format="1">
-	<advance width="557"/>
-	<outline>
-		<contour>
-			<point x="505" y="-215" type="line"/>
-			<point x="500" y="201" type="line"/>
-			<point x="470" y="199" type="line"/>
-			<point x="450" y="-147" type="line"/>
-			<point x="366" y="-161"/>
-			<point x="299" y="-169"/>
-			<point x="205" y="-168" type="curve" smooth="yes"/>
-			<point x="153" y="-167"/>
-			<point x="131" y="-119"/>
-			<point x="131" y="-92" type="curve"/>
-			<point x="109" y="-87"/>
-			<point x="68" y="-103"/>
-			<point x="57" y="-115" type="curve"/>
-			<point x="65" y="-157"/>
-			<point x="105" y="-215"/>
-			<point x="207" y="-215" type="curve" smooth="yes"/>
-		</contour>
-		<component base="sinYa.post" yxScale="0.07" xOffset="-22"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-06-30 19:19:38 +0000</string>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>sinYUu.post</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>sinYUu.post</string>
-		</dict>
-	</lib>
+  <advance width="557"/>
+  <outline>
+    <contour>
+      <point x="505" y="-215" type="line"/>
+      <point x="500" y="201" type="line"/>
+      <point x="470" y="199" type="line"/>
+      <point x="450" y="-147" type="line"/>
+      <point x="366" y="-161"/>
+      <point x="299" y="-169"/>
+      <point x="205" y="-168" type="curve" smooth="yes"/>
+      <point x="153" y="-167"/>
+      <point x="131" y="-119"/>
+      <point x="131" y="-92" type="curve"/>
+      <point x="109" y="-87"/>
+      <point x="68" y="-103"/>
+      <point x="57" y="-115" type="curve"/>
+      <point x="65" y="-157"/>
+      <point x="105" y="-215"/>
+      <point x="207" y="-215" type="curve" smooth="yes"/>
+    </contour>
+    <component base="sinYa.post" xOffset="-22" yxScale="0.07"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-21 14:51:29 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>sinYUu.post</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>sinYUu.post</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinNU" format="1">
-	<advance width="825"/>
-	<outline>
-		<component base="sinNa"/>
-		<component base="sinMatraU.alt3" xOffset="750"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-06-29 08:31:18 +0000</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>sinNa</string>
-		</dict>
-	</lib>
+  <advance width="813"/>
+  <outline>
+    <component base="sinNa"/>
+    <component base="sinMatraU.alt3" xOffset="750"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-21 14:51:29 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>sinNa</string>
+    </dict>
+  </lib>
 </glyph>
