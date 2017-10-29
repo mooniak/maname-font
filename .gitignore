@@ -2,3 +2,5 @@
 /sources/files/*
 /_site
 .jekyll-metadata
+.DS_Store
+/fontester
