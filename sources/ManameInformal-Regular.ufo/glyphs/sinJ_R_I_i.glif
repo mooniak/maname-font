@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinJRIi" format="1">
-  <advance width="606"/>
-  <outline>
-    <component base="sinJIi"/>
-    <component base="sinRakar.short" xOffset="585" yOffset="30"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-08-21 14:51:29 +0000</string>
-    </dict>
-  </lib>
+<glyph name="sinJRIi" format="2">
+	<advance width="606"/>
+	<outline>
+		<component base="sinJIi"/>
+		<component base="sinRakar.short" xOffset="585" yOffset="30"/>
+	</outline>
 </glyph>

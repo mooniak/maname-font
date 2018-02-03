@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zerowidthnonjoiner" format="1">
-  <advance width="0"/>
-  <unicode hex="200C"/>
-  <outline>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-08-21 14:51:29 +0000</string>
-    </dict>
-  </lib>
+<glyph name="zerowidthnonjoiner" format="2">
+	<advance width="0"/>
+	<unicode hex="200C"/>
+	<outline>
+	</outline>
 </glyph>

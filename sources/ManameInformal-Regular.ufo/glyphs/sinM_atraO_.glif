@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinMatraO" format="1">
-  <advance width="941"/>
-  <unicode hex="0DDC"/>
-  <outline>
-    <component base="sinMatraAa" xOffset="663" yOffset="-17"/>
-    <component base="sinMatraE"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-22 06:49:46 +0000</string>
+<glyph name="sinMatraO" format="2">
+	<advance width="941"/>
+	<unicode hex="0DDC"/>
+	<outline>
+		<component base="sinMatraAa" xOffset="663" yOffset="-17"/>
+		<component base="sinMatraE"/>
+	</outline>
+	<lib>
+		<dict>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>sinMatraAa</string>
-        </dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>sinMatraAa</string>
+				</dict>
       </array>
-    </dict>
-  </lib>
+		</dict>
+	</lib>
 </glyph>

@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinDDhU" format="1">
-  <advance width="748"/>
-  <outline>
-    <component base="sinDDha"/>
-    <component base="sinMatraU" xOffset="670"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-08-21 14:51:29 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>sinDDha</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>sinDha</string>
-    </dict>
-  </lib>
+<glyph name="sinDDhU" format="2">
+	<advance width="748"/>
+	<outline>
+		<component base="sinDDha"/>
+		<component base="sinMatraU" xOffset="670"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>sinDDha</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sinDha</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinvocalicRr" format="1">
-  <advance width="1297"/>
-  <unicode hex="0D8E"/>
-  <outline>
-    <component base="sinvocalicR" xOffset="-14"/>
-    <component base="sinMatraR" xOffset="917"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-08-21 14:51:29 +0000</string>
+<glyph name="sinvocalicRr" format="2">
+	<advance width="1297"/>
+	<unicode hex="0D8E"/>
+	<outline>
+		<component base="sinVocalicR" xOffset="-14"/>
+		<component base="sinMatraR" xOffset="917"/>
+	</outline>
+	<lib>
+		<dict>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>sinvocalicR</string>
-        </dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>sinVocalicR</string>
+				</dict>
       </array>
-    </dict>
-  </lib>
+		</dict>
+	</lib>
 </glyph>

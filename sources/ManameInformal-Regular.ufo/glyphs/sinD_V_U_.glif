@@ -1,36 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinDVU" format="1">
-  <advance width="743"/>
-  <outline>
-    <contour>
-      <point x="122" y="-31"/>
-      <point x="132" y="-27"/>
-      <point x="137" y="-24" type="curve"/>
-      <point x="109" y="8"/>
-      <point x="99" y="85"/>
-      <point x="108" y="152" type="curve" smooth="yes"/>
-      <point x="124" y="280"/>
-      <point x="206" y="363"/>
-      <point x="300" y="372" type="curve"/>
-      <point x="303" y="376" type="line"/>
-      <point x="390" y="387" type="line"/>
-      <point x="387" y="393" type="line"/>
-      <point x="374" y="400"/>
-      <point x="336" y="418"/>
-      <point x="313" y="418" type="curve" smooth="yes"/>
-      <point x="179" y="418"/>
-      <point x="65" y="318"/>
-      <point x="51" y="151" type="curve" smooth="yes"/>
-      <point x="45" y="75"/>
-      <point x="70" y="5"/>
-      <point x="103" y="-31" type="curve"/>
-    </contour>
-    <component base="sinVU" xOffset="134"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-08-21 14:51:29 +0000</string>
-    </dict>
-  </lib>
+<glyph name="sinDVU" format="2">
+	<advance width="743"/>
+	<outline>
+		<contour>
+			<point x="122" y="-31"/>
+			<point x="132" y="-27"/>
+			<point x="137" y="-24" type="curve"/>
+			<point x="109" y="8"/>
+			<point x="99" y="85"/>
+			<point x="108" y="152" type="curve" smooth="yes"/>
+			<point x="124" y="280"/>
+			<point x="206" y="363"/>
+			<point x="300" y="372" type="curve"/>
+			<point x="303" y="376" type="line"/>
+			<point x="390" y="387" type="line"/>
+			<point x="387" y="393" type="line"/>
+			<point x="374" y="400"/>
+			<point x="336" y="418"/>
+			<point x="313" y="418" type="curve" smooth="yes"/>
+			<point x="179" y="418"/>
+			<point x="65" y="318"/>
+			<point x="51" y="151" type="curve" smooth="yes"/>
+			<point x="45" y="75"/>
+			<point x="70" y="5"/>
+			<point x="103" y="-31" type="curve"/>
+		</contour>
+		<component base="sinVU" xOffset="134"/>
+	</outline>
 </glyph>

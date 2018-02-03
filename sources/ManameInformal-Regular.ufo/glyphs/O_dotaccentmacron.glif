@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Odotaccentmacron" format="1">
-  <advance width="630"/>
-  <unicode hex="0230"/>
-  <outline>
-    <component base="O"/>
-    <component base="dotaccentcomb" xOffset="322" yOffset="97"/>
-    <component base="macroncomb" xOffset="330" yOffset="134"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-08-21 14:51:29 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Odotaccentmacron" format="2">
+	<advance width="630"/>
+	<unicode hex="0230"/>
+	<outline>
+		<component base="O"/>
+		<component base="dotaccentcomb" xOffset="322" yOffset="97"/>
+		<component base="macroncomb" xOffset="330" yOffset="134"/>
+	</outline>
 </glyph>

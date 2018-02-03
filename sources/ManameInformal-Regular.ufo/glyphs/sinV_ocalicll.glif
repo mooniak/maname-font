@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinVocalicll" format="2">
+	<advance width="1349"/>
+	<unicode hex="0D90"/>
+	<outline>
+		<component base="sinVocalicl"/>
+		<component base="sinMatraLs" xOffset="815" yOffset="19"/>
+	</outline>
+	<lib>
+		<dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>sinVocalicl</string>
+				</dict>
+      </array>
+		</dict>
+	</lib>
+</glyph>

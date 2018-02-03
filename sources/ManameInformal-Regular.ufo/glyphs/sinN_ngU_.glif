@@ -1,36 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinNngU" format="1">
-  <advance width="884"/>
-  <outline>
-    <contour>
-      <point x="122" y="-44"/>
-      <point x="132" y="-40"/>
-      <point x="137" y="-37" type="curve"/>
-      <point x="109" y="-5"/>
-      <point x="99" y="79"/>
-      <point x="108" y="147" type="curve" smooth="yes"/>
-      <point x="124" y="274"/>
-      <point x="206" y="358"/>
-      <point x="300" y="367" type="curve"/>
-      <point x="303" y="370" type="line"/>
-      <point x="405" y="407" type="line"/>
-      <point x="402" y="412" type="line"/>
-      <point x="389" y="415"/>
-      <point x="370" y="417"/>
-      <point x="347" y="417" type="curve" smooth="yes"/>
-      <point x="213" y="417"/>
-      <point x="65" y="313"/>
-      <point x="51" y="146" type="curve" smooth="yes"/>
-      <point x="45" y="70"/>
-      <point x="70" y="-8"/>
-      <point x="103" y="-44" type="curve"/>
-    </contour>
-    <component base="sinGU" xOffset="145"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-08-21 14:51:29 +0000</string>
-    </dict>
-  </lib>
+<glyph name="sinNngU" format="2">
+	<advance width="884"/>
+	<outline>
+		<contour>
+			<point x="122" y="-44"/>
+			<point x="132" y="-40"/>
+			<point x="137" y="-37" type="curve"/>
+			<point x="109" y="-5"/>
+			<point x="99" y="79"/>
+			<point x="108" y="147" type="curve" smooth="yes"/>
+			<point x="124" y="274"/>
+			<point x="206" y="358"/>
+			<point x="300" y="367" type="curve"/>
+			<point x="303" y="370" type="line"/>
+			<point x="405" y="407" type="line"/>
+			<point x="402" y="412" type="line"/>
+			<point x="389" y="415"/>
+			<point x="370" y="417"/>
+			<point x="347" y="417" type="curve" smooth="yes"/>
+			<point x="213" y="417"/>
+			<point x="65" y="313"/>
+			<point x="51" y="146" type="curve" smooth="yes"/>
+			<point x="45" y="70"/>
+			<point x="70" y="-8"/>
+			<point x="103" y="-44" type="curve"/>
+		</contour>
+		<component base="sinGU" xOffset="145"/>
+	</outline>
 </glyph>

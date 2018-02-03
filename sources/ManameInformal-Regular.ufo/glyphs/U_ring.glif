@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Uring" format="1">
-  <advance width="591"/>
-  <unicode hex="016E"/>
-  <outline>
-    <component base="U"/>
-    <component base="ring" xOffset="296" yOffset="70"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-08-21 14:51:29 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Uring" format="2">
+	<advance width="591"/>
+	<unicode hex="016E"/>
+	<outline>
+		<component base="U"/>
+		<component base="ring" xOffset="296" yOffset="70"/>
+	</outline>
 </glyph>

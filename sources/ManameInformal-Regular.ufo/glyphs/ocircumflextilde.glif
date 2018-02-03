@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ocircumflextilde" format="1">
-  <advance width="509"/>
-  <unicode hex="1ED7"/>
-  <outline>
-    <component base="o"/>
-    <component base="circumflexcomb" xOffset="263" yOffset="-176"/>
-    <component base="tildecomb" xOffset="256" yOffset="505"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-08-21 14:51:29 +0000</string>
-    </dict>
-  </lib>
+<glyph name="ocircumflextilde" format="2">
+	<advance width="509"/>
+	<unicode hex="1ED7"/>
+	<outline>
+		<component base="o"/>
+		<component base="circumflexcomb" xOffset="263" yOffset="-176"/>
+		<component base="tildecomb" xOffset="256" yOffset="505"/>
+	</outline>
 </glyph>

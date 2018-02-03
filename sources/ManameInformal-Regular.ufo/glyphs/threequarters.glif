@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="threequarters" format="1">
-  <advance width="645"/>
-  <unicode hex="00BE"/>
-  <outline>
-    <component base="fraction" xOffset="44"/>
-    <component base="threesuperior" yOffset="-55"/>
-    <component base="foursuperior" xOffset="463" yOffset="-579"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-08-21 14:51:29 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>three.numr</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>three.numr</string>
-    </dict>
-  </lib>
+<glyph name="threequarters" format="2">
+	<advance width="645"/>
+	<unicode hex="00BE"/>
+	<outline>
+		<component base="fraction" xOffset="44"/>
+		<component base="threesuperior" yOffset="-55"/>
+		<component base="foursuperior" xOffset="463" yOffset="-579"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>three.numr</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>three.numr</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinNngIi" format="1">
-  <advance width="849"/>
-  <outline>
-    <component base="sinNnga"/>
-    <component base="sinMatraIi.alt2" xOffset="588" yOffset="32"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-08-21 14:51:29 +0000</string>
-    </dict>
-  </lib>
+<glyph name="sinNngIi" format="2">
+	<advance width="849"/>
+	<outline>
+		<component base="sinNnga"/>
+		<component base="sinMatraIi.alt2" xOffset="555" yOffset="32"/>
+	</outline>
 </glyph>

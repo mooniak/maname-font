@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>.null</key>
@@ -1588,8 +1588,6 @@
 	<string>sinM_atraA_ae.glif</string>
 	<key>sinMatraAe</key>
 	<string>sinM_atraA_e.glif</string>
-	<key>sinMatraAea</key>
-	<string>sinM_atraA_ea.glif</string>
 	<key>sinMatraAi</key>
 	<string>sinM_atraA_i.glif</string>
 	<key>sinMatraAu</key>
@@ -2098,6 +2096,12 @@
 	<string>sinV_irama.glif</string>
 	<key>sinVisarga</key>
 	<string>sinV_isarga.glif</string>
+	<key>sinVocalicR</key>
+	<string>sinV_ocalicR_.glif</string>
+	<key>sinVocalicl</key>
+	<string>sinV_ocalicl.glif</string>
+	<key>sinVocalicll</key>
+	<string>sinV_ocalicll.glif</string>
 	<key>sinY.post.virama</key>
 	<string>sinY_.post.virama.glif</string>
 	<key>sinY.virama</key>
@@ -2122,12 +2126,6 @@
 	<string>sinY_a.glif</string>
 	<key>sinYa.post</key>
 	<string>sinY_a.post.glif</string>
-	<key>sinvocalicL</key>
-	<string>sinvocalicL_.glif</string>
-	<key>sinvocalicLL</key>
-	<string>sinvocalicL_L_.glif</string>
-	<key>sinvocalicR</key>
-	<string>sinvocalicR_.glif</string>
 	<key>sinvocalicRr</key>
 	<string>sinvocalicR_r.glif</string>
 	<key>six</key>

@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinGU" format="1">
-  <advance width="738"/>
-  <outline>
-    <component base="sinGa"/>
-    <component base="sinMatraU.alt1" xOffset="456"/>
-    <contour>
-      <point x="623" y="410" type="move" name="Virama"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-08-21 14:51:29 +0000</string>
-    </dict>
-  </lib>
+<glyph name="sinGU" format="2">
+	<advance width="738"/>
+	<outline>
+		<component base="sinGa"/>
+		<component base="sinMatraU.alt1" xOffset="456"/>
+	</outline>
+	<anchor name="Virama" x="623" y="410"/>
 </glyph>

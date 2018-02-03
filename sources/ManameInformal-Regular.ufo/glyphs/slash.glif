@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="slash" format="1">
-  <advance width="410"/>
-  <unicode hex="002F"/>
-  <outline>
-    <contour>
-      <point x="81" y="-62" type="line"/>
-      <point x="176" y="167"/>
-      <point x="342" y="521"/>
-      <point x="406" y="651" type="curve"/>
-      <point x="328" y="648" type="line"/>
-      <point x="230" y="412"/>
-      <point x="126" y="175"/>
-      <point x="7" y="-62" type="curve"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-08-21 14:51:29 +0000</string>
-    </dict>
-  </lib>
+<glyph name="slash" format="2">
+	<advance width="410"/>
+	<unicode hex="002F"/>
+	<outline>
+		<contour>
+			<point x="81" y="-62" type="line"/>
+			<point x="176" y="167"/>
+			<point x="342" y="521"/>
+			<point x="406" y="651" type="curve"/>
+			<point x="328" y="648" type="line"/>
+			<point x="230" y="412"/>
+			<point x="126" y="175"/>
+			<point x="7" y="-62" type="curve"/>
+		</contour>
+	</outline>
 </glyph>
