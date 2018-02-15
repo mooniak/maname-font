@@ -3,10 +3,12 @@
 	<advance width="881"/>
 	<outline>
 		<component base="sinNDa"/>
-		<component base="sinMatraIi.alt3" xOffset="468" yOffset="14"/>
+		<component base="sinMatraIi.alt3" xOffset="640" yOffset="14"/>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-15 10:49:10 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>sinDa</string>
 		</dict>

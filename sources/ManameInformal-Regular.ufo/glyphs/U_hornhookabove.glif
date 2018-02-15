@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uhornhookabove" format="2">
-	<advance width="677"/>
 	<unicode hex="1EEC"/>
+	<advance width="677"/>
 	<outline>
 		<component base="Uhorn"/>
 		<component base="hookabovecomb" xOffset="304" yOffset="19"/>

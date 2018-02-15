@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinSa" format="2">
-	<advance width="697"/>
 	<unicode hex="0DC3"/>
+	<advance width="697"/>
 	<outline>
 		<contour>
 			<point x="590" y="-22"/>
@@ -116,8 +116,8 @@
 	<anchor name="rakaransaya" x="644" y="162"/>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-			<integer>4</integer>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-15 10:34:04 +0000</string>
 			<key>com.typemytype.robofont.layerData</key>
 			<dict>
 				<key>Jan 18 17, 22:35</key>

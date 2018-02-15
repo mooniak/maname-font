@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uhorngrave" format="2">
-	<advance width="561"/>
 	<unicode hex="1EEB"/>
+	<advance width="561"/>
 	<outline>
 		<component base="uhorn"/>
 		<component base="gravecomb" xOffset="209" yOffset="-172"/>

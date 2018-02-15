@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ocircumflextilde" format="2">
-	<advance width="630"/>
 	<unicode hex="1ED6"/>
+	<advance width="630"/>
 	<outline>
 		<component base="O"/>
 		<component base="circumflexcomb" xOffset="323" yOffset="-32"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iinvertedbreve" format="2">
-	<advance width="315"/>
 	<unicode hex="020A"/>
+	<advance width="315"/>
 	<outline>
 		<component base="I"/>
 		<component base="breveinvertedcomb" xOffset="17" yOffset="52"/>

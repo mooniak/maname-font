@@ -44,8 +44,11 @@
 		</contour>
 		<component base="sinJa"/>
 	</outline>
+	<anchor name="rakar" x="560" y="175"/>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-15 10:53:54 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>sinJa</string>
 		</dict>

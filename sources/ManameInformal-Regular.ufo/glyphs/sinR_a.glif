@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinRa" format="2">
-	<advance width="528"/>
 	<unicode hex="0DBB"/>
+	<advance width="528"/>
 	<outline>
 		<contour>
 			<point x="387" y="-28"/>
@@ -57,8 +57,8 @@
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-			<integer>4</integer>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-15 10:34:04 +0000</string>
 			<key>public.markColor</key>
 			<string>0.67,0.95,0.38,1</string>
 		</dict>

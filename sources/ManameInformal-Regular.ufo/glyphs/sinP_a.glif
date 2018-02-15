@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinPa" format="2">
-	<advance width="595"/>
 	<unicode hex="0DB4"/>
+	<advance width="595"/>
 	<outline>
 		<contour>
 			<point x="448" y="-20"/>
@@ -90,10 +90,11 @@
 		</contour>
 	</outline>
 	<anchor name="_si_MaU" x="551" y="196"/>
+	<anchor name="rakar" x="556" y="165"/>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-			<integer>4</integer>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-15 10:53:32 +0000</string>
 			<key>com.typemytype.robofont.layerData</key>
 			<dict>
 				<key>Jan 18 17, 13:23</key>

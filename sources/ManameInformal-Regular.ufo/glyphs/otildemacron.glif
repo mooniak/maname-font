@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="otildemacron" format="2">
-	<advance width="509"/>
 	<unicode hex="022D"/>
+	<advance width="509"/>
 	<outline>
 		<component base="o"/>
 		<component base="tildecomb" xOffset="264" yOffset="-76"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinAnusvara" format="2">
-	<advance width="453"/>
 	<unicode hex="0D82"/>
+	<advance width="453"/>
 	<outline>
 		<contour>
 			<point x="354" y="55"/>

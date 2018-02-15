@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinTtTtha" format="2">
-	<advance width="790"/>
+	<advance width="789"/>
 	<outline>
 		<contour>
 			<point x="136" y="8"/>
@@ -29,4 +29,10 @@
 		</contour>
 		<component base="sinTtha" xOffset="139"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-15 11:46:26 +0000</string>
+		</dict>
+	</lib>
 </glyph>

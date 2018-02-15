@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="breveinvertedcomb" format="2">
-	<advance width="281"/>
 	<unicode hex="0311"/>
+	<advance width="281"/>
 	<outline>
 		<contour>
 			<point x="82" y="796"/>

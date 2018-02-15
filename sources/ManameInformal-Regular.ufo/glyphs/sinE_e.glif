@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinEe" format="2">
-	<advance width="680"/>
 	<unicode hex="0D92"/>
+	<advance width="680"/>
 	<outline>
 		<component base="sinVirama" xOffset="576" yOffset="17"/>
 		<component base="sinE" xOffset="-20"/>

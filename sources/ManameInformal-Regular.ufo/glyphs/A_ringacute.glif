@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aringacute" format="2">
-	<advance width="650"/>
 	<unicode hex="01FA"/>
+	<advance width="650"/>
 	<outline>
 		<component base="A"/>
 		<component base="acutecomb" xOffset="332" yOffset="131"/>
@@ -9,8 +9,8 @@
 	</outline>
 	<lib>
 		<dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
 				<dict>
 					<key>alignment</key>
 					<integer>-1</integer>
@@ -27,7 +27,7 @@
 					<key>name</key>
 					<string>ring</string>
 				</dict>
-      </array>
+			</array>
 		</dict>
 	</lib>
 </glyph>

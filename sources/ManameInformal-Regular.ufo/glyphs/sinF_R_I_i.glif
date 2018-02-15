@@ -2,8 +2,14 @@
 <glyph name="sinFRIi" format="2">
 	<advance width="674"/>
 	<outline>
-		<component base="sinMatraIi" xOffset="374" yOffset="20"/>
 		<component base="sinFa"/>
-		<component base="sinRakar.long" xOffset="348" yOffset="15"/>
+		<component base="sinRakar.long" xOffset="339" yOffset="15"/>
+		<component base="sinMatraIi.alt" xOffset="352" yOffset="-12"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-15 11:01:34 +0000</string>
+		</dict>
+	</lib>
 </glyph>

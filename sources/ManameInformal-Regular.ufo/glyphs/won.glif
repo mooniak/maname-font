@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="won" format="2">
-	<advance width="971"/>
 	<unicode hex="20A9"/>
+	<advance width="971"/>
 	<outline>
 		<contour>
 			<point x="943" y="339" type="line"/>

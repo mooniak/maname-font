@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kip" format="2">
-	<advance width="656"/>
 	<unicode hex="20AD"/>
+	<advance width="656"/>
 	<outline>
 		<contour>
 			<point x="501" y="283" type="line"/>

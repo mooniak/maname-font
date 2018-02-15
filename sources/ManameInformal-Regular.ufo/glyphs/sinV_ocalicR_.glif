@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinVocalicR" format="2">
-	<advance width="996"/>
 	<unicode hex="0D8D"/>
+	<advance width="996"/>
 	<outline>
 		<contour>
 			<point x="573" y="-22"/>

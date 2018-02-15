@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinVisarga" format="2">
-	<advance width="276"/>
 	<unicode hex="0D83"/>
+	<advance width="276"/>
 	<outline>
 		<contour>
 			<point x="191" y="2"/>

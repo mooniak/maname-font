@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="crescentmoon" format="2">
-	<advance width="462"/>
 	<unicode hex="1F319"/>
-	<outline>
-	</outline>
+	<advance width="462"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.Export</key>

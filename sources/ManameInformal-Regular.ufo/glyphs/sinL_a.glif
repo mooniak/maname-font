@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinLa" format="2">
-	<advance width="602"/>
 	<unicode hex="0DBD"/>
+	<advance width="602"/>
 	<outline>
 		<contour>
 			<point x="450" y="-195"/>
@@ -67,8 +67,8 @@
 	<anchor name="Virama" x="514" y="387"/>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-			<integer>4</integer>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-15 10:34:04 +0000</string>
 			<key>com.typemytype.robofont.layerData</key>
 			<dict>
 				<key>Regular Oct 20 16, 20:13</key>

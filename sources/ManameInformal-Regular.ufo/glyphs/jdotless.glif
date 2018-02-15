@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jdotless" format="2">
-	<advance width="232"/>
 	<unicode hex="0237"/>
+	<advance width="232"/>
 	<outline>
 		<contour>
 			<point x="200" y="76"/>

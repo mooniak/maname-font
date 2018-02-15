@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="udblgrave" format="2">
-	<advance width="561"/>
 	<unicode hex="0215"/>
+	<advance width="561"/>
 	<outline>
 		<component base="u"/>
 		<component base="dblgravecomb" xOffset="257" yOffset="-24"/>

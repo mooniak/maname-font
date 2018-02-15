@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macronbelowcomb" format="2">
-	<advance width="292"/>
 	<unicode hex="0331"/>
+	<advance width="292"/>
 	<outline>
 		<contour>
 			<point x="306" y="-88" type="line"/>

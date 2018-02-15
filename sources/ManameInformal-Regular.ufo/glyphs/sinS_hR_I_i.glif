@@ -4,6 +4,12 @@
 	<outline>
 		<component base="sinSha" xOffset="-9"/>
 		<component base="sinRakar.long" xOffset="407" yOffset="23"/>
-		<component base="sinMatraIi.alt2" xOffset="498" yOffset="32"/>
+		<component base="sinMatraIi.alt2" xOffset="488" yOffset="32"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-15 10:55:43 +0000</string>
+		</dict>
+	</lib>
 </glyph>

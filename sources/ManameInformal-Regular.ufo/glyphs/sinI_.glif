@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinI" format="2">
-	<advance width="668"/>
 	<unicode hex="0D89"/>
+	<advance width="668"/>
 	<outline>
 		<contour>
 			<point x="488" y="-31"/>

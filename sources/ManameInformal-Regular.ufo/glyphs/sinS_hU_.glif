@@ -2,7 +2,13 @@
 <glyph name="sinShU" format="2">
 	<advance width="747"/>
 	<outline>
-		<component base="sinMatraU.alt1" xOffset="507" yOffset="60"/>
+		<component base="sinMatraU.alt1" xOffset="487"/>
 		<component base="sinSha"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-15 12:01:54 +0000</string>
+		</dict>
+	</lib>
 </glyph>

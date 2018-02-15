@@ -2,11 +2,13 @@
 <glyph name="sinGI" format="2">
 	<advance width="747"/>
 	<outline>
-		<component base="sinMatraI.alt2" xOffset="263" yOffset="-8"/>
+		<component base="sinMatraI.alt2" xOffset="263" yOffset="-12"/>
 		<component base="sinGa"/>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-15 11:59:11 +0000</string>
 			<key>com.typemytype.robofont.layerData</key>
 			<dict>
 				<key>Light</key>

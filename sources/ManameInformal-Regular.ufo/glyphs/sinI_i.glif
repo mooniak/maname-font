@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinIi" format="2">
-	<advance width="528"/>
 	<unicode hex="0D8A"/>
+	<advance width="528"/>
 	<outline>
 		<contour>
 			<point x="185" y="551"/>
@@ -35,8 +35,8 @@
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-			<integer>4</integer>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-15 10:34:04 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>sinRa</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

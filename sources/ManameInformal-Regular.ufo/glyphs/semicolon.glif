@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon" format="2">
-	<advance width="189"/>
 	<unicode hex="003B"/>
+	<advance width="189"/>
 	<outline>
 		<component base="comma" xOffset="8" yOffset="62"/>
 		<component base="period" xOffset="-1" yOffset="307"/>

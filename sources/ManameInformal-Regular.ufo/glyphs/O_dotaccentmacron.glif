@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Odotaccentmacron" format="2">
-	<advance width="630"/>
 	<unicode hex="0230"/>
+	<advance width="630"/>
 	<outline>
 		<component base="O"/>
 		<component base="dotaccentcomb" xOffset="322" yOffset="97"/>

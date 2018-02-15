@@ -101,6 +101,17 @@
 	<anchor name="Virama" x="715" y="402"/>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>sinSsa</string>
+				</dict>
+			</array>
 			<key>com.typemytype.robofont.layerData</key>
 			<dict>
 				<key>background</key>
@@ -665,17 +676,6 @@
 					<integer>1463</integer>
 				</dict>
 			</dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>0</integer>
-					<key>name</key>
-					<string>sinSsa</string>
-				</dict>
-      </array>
 		</dict>
 	</lib>
 </glyph>

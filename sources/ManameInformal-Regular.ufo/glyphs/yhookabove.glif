@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yhookabove" format="2">
-	<advance width="512"/>
 	<unicode hex="1EF7"/>
+	<advance width="512"/>
 	<outline>
 		<component base="y"/>
 		<component base="hookabovecomb" xOffset="275" yOffset="-99"/>

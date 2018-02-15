@@ -2,7 +2,13 @@
 <glyph name="sinGRIi" format="2">
 	<advance width="747"/>
 	<outline>
-		<component base="sinRakar.long" xOffset="399" yOffset="15"/>
+		<component base="sinRakar.long" xOffset="375" yOffset="15"/>
 		<component base="sinGIi" xOffset="-9"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-15 11:01:43 +0000</string>
+		</dict>
+	</lib>
 </glyph>

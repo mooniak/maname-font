@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohornhookabove" format="2">
-	<advance width="509"/>
 	<unicode hex="1EDF"/>
+	<advance width="509"/>
 	<outline>
 		<contour>
 			<point x="460" y="415"/>

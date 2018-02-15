@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinO" format="2">
-	<advance width="643"/>
 	<unicode hex="0D94"/>
+	<advance width="643"/>
 	<outline>
 		<contour>
 			<point x="155" y="366" type="line"/>

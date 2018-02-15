@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohorngrave" format="2">
-	<advance width="509"/>
 	<unicode hex="1EDD"/>
+	<advance width="509"/>
 	<outline>
 		<component base="ohorn"/>
 		<component base="gravecomb" xOffset="196" yOffset="-178"/>

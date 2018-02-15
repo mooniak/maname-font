@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zerowidthjoiner" format="2">
-	<advance width="0"/>
 	<unicode hex="200D"/>
 	<outline>
+		<contour>
+			<point x="147" y="759" type="line"/>
+			<point x="26" y="640" type="line"/>
+			<point x="147" y="520" type="line"/>
+			<point x="121" y="493" type="line"/>
+			<point x="20" y="596" type="line"/>
+			<point x="20" y="10" type="line"/>
+			<point x="-20" y="10" type="line"/>
+			<point x="-20" y="596" type="line"/>
+			<point x="-121" y="493" type="line"/>
+			<point x="-147" y="520" type="line"/>
+			<point x="-26" y="640" type="line"/>
+			<point x="-147" y="759" type="line"/>
+			<point x="-121" y="784" type="line"/>
+			<point x="0" y="663" type="line"/>
+			<point x="121" y="784" type="line"/>
+		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-15 10:35:49 +0000</string>
+		</dict>
+	</lib>
 </glyph>

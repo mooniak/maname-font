@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jcircumflex" format="2">
-	<advance width="232"/>
 	<unicode hex="0135"/>
+	<advance width="232"/>
 	<outline>
 		<component base="jdotless"/>
 		<component base="circumflexcomb" xOffset="132" yOffset="-143"/>

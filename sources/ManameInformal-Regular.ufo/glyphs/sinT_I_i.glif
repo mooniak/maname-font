@@ -3,6 +3,14 @@
 	<advance width="825"/>
 	<outline>
 		<component base="sinTa"/>
-		<component base="sinMatraIi.alt1" xOffset="322" yOffset="9"/>
+		<component base="sinMatraIi.alt1" xOffset="292" yOffset="3"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-15 12:16:09 +0000</string>
+			<key>public.markColor</key>
+			<string>0.04,0.57,0.04,1</string>
+		</dict>
+	</lib>
 </glyph>

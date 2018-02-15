@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AE" format="2">
-	<advance width="887"/>
 	<unicode hex="00C6"/>
+	<advance width="887"/>
 	<outline>
 		<contour>
 			<point x="337" y="616"/>

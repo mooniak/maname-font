@@ -2,11 +2,13 @@
 <glyph name="sinNyIi" format="2">
 	<advance width="1008"/>
 	<outline>
-		<component base="sinNya" xOffset="100"/>
-		<component base="sinMatraIi.alt3" xOffset="781" yOffset="-5"/>
+		<component base="sinNya"/>
+		<component base="sinMatraIi.alt3" xOffset="721" yOffset="15"/>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-15 10:59:00 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>sinK</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
