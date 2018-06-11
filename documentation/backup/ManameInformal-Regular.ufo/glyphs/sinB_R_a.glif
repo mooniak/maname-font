@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinBRa" format="2">
+	<advance width="653"/>
+	<outline>
+		<component base="sinBa"/>
+		<component base="sinRakar.medium" xOffset="613" yOffset="4"/>
+	</outline>
+</glyph>

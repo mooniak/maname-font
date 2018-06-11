@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinJU" format="2">
+	<advance width="606"/>
+	<outline>
+		<component base="sinJa"/>
+		<component base="sinMatraU.alt" xOffset="537"/>
+	</outline>
+</glyph>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinTha" format="2">
-	<unicode hex="0DAE"/>
 	<advance width="606"/>
+	<unicode hex="0DAE"/>
 	<outline>
 		<contour>
 			<point x="268" y="-18" type="curve" smooth="yes"/>
@@ -60,7 +60,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-15 11:45:51 +0000</string>
+			<string>2018-05-12 09:49:46 +0000</string>
 			<key>public.markColor</key>
 			<string>0.04,0.57,0.04,1</string>
 		</dict>

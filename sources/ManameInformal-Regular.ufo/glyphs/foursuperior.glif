@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="foursuperior" format="2">
-	<unicode hex="2074"/>
 	<advance width="355"/>
+	<unicode hex="2074"/>
 	<outline>
 		<contour>
 			<point x="321" y="494" type="line"/>
@@ -37,7 +37,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-15 10:34:05 +0000</string>
+			<string>2018-05-12 09:49:47 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>four</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

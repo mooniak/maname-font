@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinTtha" format="2">
-	<unicode hex="0DA8"/>
 	<advance width="650"/>
+	<unicode hex="0DA8"/>
 	<outline>
 		<contour>
 			<point x="539" y="-18"/>
@@ -79,7 +79,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-15 11:46:01 +0000</string>
+			<string>2018-05-12 09:49:47 +0000</string>
 			<key>com.typemytype.robofont.layerData</key>
 			<dict>
 				<key>background</key>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinKIi" format="2">
+	<advance width="813"/>
+	<outline>
+		<component base="sinKa"/>
+		<component base="sinMatraIi.alt1" xOffset="315" yOffset="9"/>
+	</outline>
+</glyph>

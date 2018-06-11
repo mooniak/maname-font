@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinDIi" format="2">
+	<advance width="438"/>
+	<outline>
+		<component base="sinDa"/>
+		<component base="sinMatraIi.alt3" xOffset="206" yOffset="10"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sinDa</string>
+		</dict>
+	</lib>
+</glyph>

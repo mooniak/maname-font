@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinTthU" format="2">
+	<advance width="637"/>
+	<outline>
+		<component base="sinTtha"/>
+		<component base="sinMatraU" xOffset="552"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-15 11:37:06 +0000</string>
+			<key>public.markColor</key>
+			<string>0.04,0.57,0.04,1</string>
+		</dict>
+	</lib>
+</glyph>

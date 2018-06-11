@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinGa" format="2">
-	<unicode hex="0D9C"/>
 	<advance width="757"/>
+	<unicode hex="0D9C"/>
 	<outline>
 		<contour>
 			<point x="638" y="-3"/>
@@ -76,7 +76,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-15 12:15:03 +0000</string>
+			<string>2018-05-12 09:49:46 +0000</string>
 			<key>public.markColor</key>
 			<string>0.04,0.57,0.04,1</string>
 		</dict>

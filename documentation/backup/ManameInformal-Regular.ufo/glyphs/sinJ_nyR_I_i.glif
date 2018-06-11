@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinJnyRIi" format="2">
+	<advance width="926"/>
+	<outline>
+		<component base="sinJnyRa" xOffset="5"/>
+		<component base="sinMatraIi.alt3" xOffset="699" yOffset="-2"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>sinNnga</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sinDa</string>
+		</dict>
+	</lib>
+</glyph>

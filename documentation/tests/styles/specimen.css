@@ -35,7 +35,6 @@ pre, blockquote {
         vertical-align: bottom;
         border-bottom: 0.5pt solid;
         margin-bottom: 10pt;
-        content: counter(page);
         }
     @bottom-left {
       content: "Maname Fonts Project";

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinTta" format="2">
-	<unicode hex="0DA7"/>
 	<advance width="611"/>
+	<unicode hex="0DA7"/>
 	<outline>
 		<contour>
 			<point x="453" y="-27"/>
@@ -52,7 +52,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-15 11:46:51 +0000</string>
+			<string>2018-05-12 09:49:47 +0000</string>
 			<key>com.typemytype.robofont.layerData</key>
 			<dict>
 				<key>Jan 26 17, 16:33</key>
