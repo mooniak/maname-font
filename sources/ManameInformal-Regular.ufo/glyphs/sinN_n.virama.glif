@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinNn.virama" format="2">
-	<advance width="965"/>
+	<advance width="907"/>
 	<outline>
 		<component base="sinNna"/>
 		<component base="sinVirama" xOffset="732" yOffset="4"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-16 20:31:52 +0000</string>
+		</dict>
+	</lib>
 </glyph>

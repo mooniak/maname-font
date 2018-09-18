@@ -5,4 +5,10 @@
 		<component base="sinHRa" xOffset="-1" yOffset="-1"/>
 		<component base="sinVirama" xOffset="594" yOffset="45"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+		</dict>
+	</lib>
 </glyph>

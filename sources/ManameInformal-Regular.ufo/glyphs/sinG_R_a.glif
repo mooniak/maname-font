@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinGRa" format="2">
-	<advance width="747"/>
+	<advance width="763"/>
 	<outline>
-		<component base="sinRakar.long" xOffset="405" yOffset="9"/>
+		<component base="sinRakar.long" xOffset="401" yOffset="9"/>
 		<component base="sinGa"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-17 04:19:40 +0000</string>
+		</dict>
+	</lib>
 </glyph>

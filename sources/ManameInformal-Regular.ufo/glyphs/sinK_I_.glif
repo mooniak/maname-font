@@ -5,4 +5,12 @@
 		<component base="sinKa"/>
 		<component base="sinMatraI.alt1" xOffset="316" yOffset="-10"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-16 20:17:11 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>sinKa</string>
+		</dict>
+	</lib>
 </glyph>

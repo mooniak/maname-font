@@ -94,4 +94,10 @@
 	</outline>
 	<anchor name="top" x="353" y="662"/>
 	<anchor name="bottom" x="357" y="0"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+		</dict>
+	</lib>
 </glyph>

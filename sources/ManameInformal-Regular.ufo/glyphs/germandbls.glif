@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="germandbls" format="2">
-	<advance width="572"/>
+	<advance width="552"/>
 	<unicode hex="00DF"/>
 	<outline>
 		<contour>
@@ -90,7 +90,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-05-12 09:49:45 +0000</string>
+			<string>2018-09-13 20:21:48 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>=B</string>
 			<key>public.markColor</key>

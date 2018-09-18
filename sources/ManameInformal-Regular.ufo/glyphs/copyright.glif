@@ -33,4 +33,10 @@
 		</contour>
 		<component base="c" xScale="0.924" yScale="0.924" xOffset="165" yOffset="73"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+		</dict>
+	</lib>
 </glyph>

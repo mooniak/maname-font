@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinDVI" format="2">
-	<advance width="644"/>
+	<advance width="663"/>
 	<outline>
 		<contour>
 			<point x="99" y="19"/>
@@ -24,6 +24,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-16 19:32:18 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>sinVa</string>
 		</dict>

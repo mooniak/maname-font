@@ -5,4 +5,10 @@
 		<component base="sinMatraU.alt" xOffset="558" yOffset="6"/>
 		<component base="sinSsa"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+		</dict>
+	</lib>
 </glyph>

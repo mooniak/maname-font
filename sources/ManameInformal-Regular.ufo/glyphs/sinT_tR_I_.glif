@@ -3,12 +3,12 @@
 	<advance width="623"/>
 	<outline>
 		<component base="sinTtI"/>
-		<component base="sinRakar.medium" xOffset="559" yOffset="40"/>
+		<component base="sinRakar.medium" xOffset="563" yOffset="40"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-05-12 09:49:49 +0000</string>
+			<string>2018-09-16 20:00:28 +0000</string>
 			<key>public.markColor</key>
 			<string>0.67,0.95,0.38,1</string>
 		</dict>

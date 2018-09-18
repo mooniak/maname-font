@@ -1098,6 +1098,8 @@
 	<string>semicolon.glif</string>
 	<key>seven</key>
 	<string>seven.glif</string>
+	<key>seven.001</key>
+	<string>seven.001.glif</string>
 	<key>seven.lf</key>
 	<string>seven.lf.glif</string>
 	<key>seven.onum</key>
@@ -1346,6 +1348,8 @@
 	<string>sinG_I_.glif</string>
 	<key>sinGIi</key>
 	<string>sinG_I_i.glif</string>
+	<key>sinGIi.001</key>
+	<string>sinG_I_i.001.glif</string>
 	<key>sinGR.virama</key>
 	<string>sinG_R_.virama.glif</string>
 	<key>sinGRI</key>
@@ -1384,6 +1388,8 @@
 	<string>sinH_.virama.glif</string>
 	<key>sinHI</key>
 	<string>sinH_I_.glif</string>
+	<key>sinHI.001</key>
+	<string>sinH_I_.001.glif</string>
 	<key>sinHIi</key>
 	<string>sinH_I_i.glif</string>
 	<key>sinHR.virama</key>
@@ -1594,6 +1600,10 @@
 	<string>sinM_atraA_u.glif</string>
 	<key>sinMatraE</key>
 	<string>sinM_atraE_.glif</string>
+	<key>sinMatraE.salt</key>
+	<string>sinM_atraE_.salt.glif</string>
+	<key>sinMatraE.ss01</key>
+	<string>sinM_atraE_.ss01.glif</string>
 	<key>sinMatraEe</key>
 	<string>sinM_atraE_e.glif</string>
 	<key>sinMatraI</key>
@@ -1702,6 +1712,10 @@
 	<string>sinN_D_ha.glif</string>
 	<key>sinNI</key>
 	<string>sinN_I_.glif</string>
+	<key>sinNI.001</key>
+	<string>sinN_I_.001.glif</string>
+	<key>sinNI.001.002</key>
+	<string>sinN_I_.001.002.glif</string>
 	<key>sinNIi</key>
 	<string>sinN_I_i.glif</string>
 	<key>sinNTh.virama</key>
@@ -1894,8 +1908,16 @@
 	<string>sinR_I_i.glif</string>
 	<key>sinRU</key>
 	<string>sinR_U_.glif</string>
+	<key>sinRU_comma</key>
+	<string>sinR_U__comma.glif</string>
+	<key>sinRU_period</key>
+	<string>sinR_U__period.glif</string>
 	<key>sinRUu</key>
 	<string>sinR_U_u.glif</string>
+	<key>sinRUu_comma</key>
+	<string>sinR_U_u_comma.glif</string>
+	<key>sinRUu_period</key>
+	<string>sinR_U_u_period.glif</string>
 	<key>sinRa</key>
 	<string>sinR_a.glif</string>
 	<key>sinRakar</key>

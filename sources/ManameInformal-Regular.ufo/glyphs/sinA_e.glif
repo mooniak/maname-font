@@ -3,14 +3,13 @@
 	<advance width="853"/>
 	<unicode hex="0D87"/>
 	<outline>
-		<component base="sinA"/>
-		<component base="sinMatraAe" yxScale="0.052" xOffset="565"/>
+		<component base="sinMatraAe" yxScale="0.052" xOffset="525"/>
 		<component base="sinA"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-15 11:51:15 +0000</string>
+			<string>2018-09-18 07:16:10 +0000</string>
 		</dict>
 	</lib>
 </glyph>

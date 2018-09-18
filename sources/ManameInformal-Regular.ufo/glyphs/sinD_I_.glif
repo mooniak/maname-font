@@ -5,4 +5,10 @@
 		<component base="sinDa"/>
 		<component base="sinMatraI.alt3" xOffset="220"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-16 23:23:35 +0000</string>
+		</dict>
+	</lib>
 </glyph>

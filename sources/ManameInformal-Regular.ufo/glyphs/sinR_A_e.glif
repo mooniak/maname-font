@@ -3,7 +3,7 @@
 	<advance width="800"/>
 	<outline>
 		<contour>
-			<point x="751" y="-27"/>
+			<point x="761" y="-27"/>
 			<point x="813" y="19"/>
 			<point x="828" y="45" type="curve"/>
 			<point x="829" y="60"/>
@@ -13,9 +13,9 @@
 			<point x="748" y="44"/>
 			<point x="711" y="44" type="curve" smooth="yes"/>
 			<point x="625" y="44"/>
-			<point x="548" y="123"/>
-			<point x="548" y="251" type="curve" smooth="yes"/>
-			<point x="548" y="395"/>
+			<point x="552" y="123"/>
+			<point x="552" y="231" type="curve" smooth="yes"/>
+			<point x="552" y="395"/>
 			<point x="659" y="524"/>
 			<point x="740" y="561" type="curve"/>
 			<point x="749" y="570" type="line"/>
@@ -29,9 +29,15 @@
 			<point x="509" y="364"/>
 			<point x="509" y="212" type="curve" smooth="yes"/>
 			<point x="509" y="103"/>
-			<point x="541" y="-27"/>
-			<point x="692" y="-27" type="curve" smooth="yes"/>
+			<point x="531" y="-27"/>
+			<point x="682" y="-27" type="curve" smooth="yes"/>
 		</contour>
 		<component base="sinRa" xOffset="-20"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-14 13:03:36 +0000</string>
+		</dict>
+	</lib>
 </glyph>

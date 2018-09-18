@@ -2,7 +2,13 @@
 <glyph name="sinSh.virama" format="2">
 	<advance width="755"/>
 	<outline>
-		<component base="sinVirama" xOffset="655" yOffset="14"/>
+		<component base="sinVirama" xOffset="585" yOffset="14"/>
 		<component base="sinSha" xOffset="-15"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-16 03:08:32 +0000</string>
+		</dict>
+	</lib>
 </glyph>

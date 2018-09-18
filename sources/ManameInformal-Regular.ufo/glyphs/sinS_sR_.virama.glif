@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinSsR.virama" format="2">
-	<advance width="616"/>
+	<advance width="624"/>
 	<outline>
 		<component base="sinSsa"/>
 		<component base="sinRakar.short" xOffset="586" yOffset="31"/>
 		<component base="sinVirama" xOffset="527" yOffset="43"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-16 20:51:54 +0000</string>
+		</dict>
+	</lib>
 </glyph>

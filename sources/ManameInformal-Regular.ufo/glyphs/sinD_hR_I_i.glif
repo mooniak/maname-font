@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinDhRIi" format="2">
-	<advance width="651"/>
+	<advance width="631"/>
 	<outline>
-		<component base="sinDhIi" xOffset="20"/>
-		<component base="sinRakar.medium" xOffset="597" yOffset="28"/>
+		<component base="sinDhIi"/>
+		<component base="sinRakar.medium" xOffset="577" yOffset="28"/>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-16 19:32:18 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>sinDha</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

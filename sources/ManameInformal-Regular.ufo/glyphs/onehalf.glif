@@ -7,4 +7,10 @@
 		<component base="twosuperior" xOffset="384" yOffset="-594"/>
 		<component base="onesuperior" xOffset="-15" yOffset="-77"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+		</dict>
+	</lib>
 </glyph>

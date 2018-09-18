@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinBhUu" format="2">
-	<advance width="799"/>
+	<advance width="816"/>
 	<outline>
 		<contour>
 			<point x="597" y="-68" type="line"/>
@@ -130,7 +130,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-05-12 09:49:48 +0000</string>
+			<string>2018-09-13 20:21:48 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>sinBha</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

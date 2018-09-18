@@ -68,4 +68,10 @@
 	</outline>
 	<anchor name="ogonek" x="257" y="8"/>
 	<anchor name="top" x="265" y="514"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinSha" format="2">
-	<advance width="747"/>
+	<advance width="772"/>
 	<unicode hex="0DC1"/>
 	<outline>
 		<contour>
@@ -90,7 +90,9 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-15 11:58:34 +0000</string>
+			<string>2018-09-14 14:47:33 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sinGa</string>
 		</dict>
 	</lib>
 </glyph>

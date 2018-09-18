@@ -6,4 +6,10 @@
 		<component base="a"/>
 		<component base="hookabovecomb" xOffset="240" yOffset="-116"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+		</dict>
+	</lib>
 </glyph>

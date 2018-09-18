@@ -26,14 +26,54 @@
 			<string>74</string>
 		</dict>
 	</dict>
+	<key>com.schriftgestaltung.DisplayStrings</key>
+	<array>
+		<string>a/abreveacute</string>
+		<string><![CDATA[/sinBI/sinBIi/sinBhI/sinBhIi/sinCI/sinCIi/sinChI/sinChIi/sinDDhI/sinDDhIi/sinDI/sinDIi/sinDVI/sinDVIi/sinDdI/sinDdIi/sinDdhI/sinDdhIi/sinDhI/sinDhIi/sinFI/sinFIi/sinGI/sinGIi/sinGhI/sinGhIi/sinHI/sinHIi/sinJI/sinJIi/sinJhI/sinJhIi/sinJnyI/sinJnyIi/sinKI/sinKIi/sinKSsI/sinKSsIi/sinKVI/sinKVIi/sinKhI/sinKhIi/sinLI/sinLIi/sinLlI/sinLlIi/sinMI/sinMIi/sinMbI/sinMbIi/sinNDI/sinNDIi/sinNDhI/sinNDhIi/sinNI/sinNIi/sinNThI/sinNThIi/sinNVI/sinNVIi/sinNdI/sinNdIi/sinNdjI/sinNdjIi/sinNgI/sinNgIi/sinNnI/sinNnIi/sinNnddI/sinNnddIi/sinNngI/sinNngIi/sinNyI/sinNyIi/sinPI/sinPIi/sinPhI/sinPhIi/sinRI/sinRIi/sinSI/sinSIi/sinShI/sinShIi/sinSsI/sinSsIi/sinTI/sinTIi/sinTThI/sinTThIi/sinTVI/sinTVIi/sinThI/sinThIi/sinTtI/sinTtIi/sinTthI/sinTthIi/sinVI/sinVIi/sinYI/sinYIi/sinYI.post/sinYIi.post/sinAa/sinAae/sinAe/sinAi/sinAu/sinBa/sinBha/sinCa/sinCha/sinDDha/sinDVa/sinDa/sinDda/sinDdha/sinDha/sinE/sinEe/sinFa/sinGDha/sinGa/sinGha/sinHa/sinI/sinIi/sinJa/sinJha/sinJnya/sinKSsa/sinKVa/sinKa/sinKha/sinLa/sinLla/sinMa/sinMba/sinNDa/sinNDha/sinNTha/sinNVa/sinNa/sinNda/sinNdja/sinNga/sinNna/sinNndda/sinNnga/sinNya/sinO/sinOo/sinPa/sinPha/sinRa/sinSa/sinSha/sinSsa/sinTTha/sinTVa/sinTa/sinTha/sinTtTtha/sinTta/sinTtha/sinU/sinUu/sinVa/sinVocalicR/sinVocalicl/sinVocalicll/sinYa/sinYa.post/sinDda.virama/sinK.virama 0123456789/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf/zero.onum/one.onum/two.onum/three.onum/four.onum/five.onum/six.onum/seven.onum/eight.onum/nine.onum ¹²³/foursuperior/fraction ½¼¾*/backslash ·/bullet :,/ellipsis !¡#.?¿"';//_/periodcentered.loclCAT {}[]()/emdash/endash -­«»/guilsinglleft/guilsinglright/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotesinglbase/sinKundaliya   /zerowidthjoiner/zerowidthnonjoiner /cedi ¢/colonsign ¤$/dong/euro/florin/franc/guarani/kip/lira/liraTurkish/manat/naira/peseta/peso/ruble/rupeeIndian £/won ¥/bulletoperator/divisionslash +/minus ×÷=/notequal ></greaterequal/lessequal ±/approxequal ~¬µ%/perthousand/dottedCircle @&¶§©®/trademark °|¦/dagger/daggerdbl/numero ^/sun/crescentmoon/firstquartermoon/fullmoon/moonwithface/sunwithface/dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/caroncomb.alt/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/dblgravecomb/breveinvertedcomb/commaturnedabovecomb/horncomb/dotbelowcomb/dieresisbelowcomb/commaaccent/cedillacomb/ogonekcomb/brevebelowcomb/macronbelowcomb/firsttonechinese ´/breve/caron ¸/circumflex ¨/dotaccent `/hungarumlaut ¯/ogonek/ring/tilde/sinMatraI/sinMatraIi/sinMatraU/sinMatraUu/sinRakar/sinReph/sinVirama/sinMatraI.alt/sinMatraIi.alt/sinMatraU.alt/sinMatraUu.alt/sinMatraI.alt1/sinMatraIi.alt1/sinMatraU.alt1/sinMatraUu.alt1/sinMatraI.alt2/sinMatraIi.alt2/sinMatraU.alt2/sinMatraUu.alt2/sinMatraI.alt3/sinMatraIi.alt3/sinMatraU.alt3/sinMatraUu.alt3/sinRakar.long/sinRakar.medium/sinRakar.short/sinAnusvara/sinMatraAa/sinMatraAae/sinMatraAe/sinMatraAi/sinMatraAu/sinMatraE/sinMatraEe/sinMatraLl/sinMatraLs/sinMatraO/sinMatraOo/sinMatraR/sinMatraRr/sinVisarga/sinMatraAa.virama/mooniak/sinB.virama/sinBh.virama/sinBhRa/sinBhRa.virama/sinBhRI/sinBhRIi/sinBhU/sinBhUu/sinBR.virama/sinBRa/sinBRI/sinBRIi/sinBU/sinBUu/sinC.virama/sinChU/sinCh.virama/sinChUu/sinCR.virama/sinCRa/sinCRI/sinCRIi/sinCU/sinCUu/sinD.virama/sinDAa.ss01/sinDAa.virama.ss01/sinDAae.ss01/sinDAe.ss01/sinDDdh.virama/sinDd.virama/sinDDhU/sinDDhUu/sinDdh.virama/sinDdhU/sinDdhUu/sinDdR.virama/sinDdRa/sinDdRI/sinDdRIi/sinDdU/sinDdUu/sinDh.virama/sinDhR.virama/sinDhRa/sinDhRI/sinDhRIi/sinDhU/sinDhUu/sinDRI/sinDRIi/sinDR.virama/sinDRa/sinDra/sinDrI/sinDrIi/sinDU/sinDV.virama/sinDUu/sinDVU/sinDVUu/sinDvocR/sinDYa.post.ss01/sinDYAa.post.ss01/sinDvocRr/sinDYOo.post.ss01/sinDYu.post.ss01/sinDYUu.post.ss01/sinF.virama/sinFR.virama/sinFRa/sinFRI/sinFRIi/sinFU/sinFUu/sinG.virama/sinGh.virama/sinGhR.virama/sinGhRa/sinGhRI/sinGhRIi/sinGhU/sinGhUu/sinGRa/sinGR.virama/sinGRa/sinGRI/sinGRIi/sinGU/sinGUu/sinH.virama/sinHR.virama/sinHRa/sinHRI/sinHRIi/sinHU/sinHUu/sinJ.virama/sinJh.virama/sinJhR.virama/sinJhRa/sinJhRI/sinJhRIi/sinJhUu/sinJhU/sinJny.virama/sinJnyAa.ss01/sinJnyAa.virama.ss01/sinJnyAe.ss01/sinJnyAee.ss01/sinJnyRI/sinJnyRa/sinJnyR.virama/sinJnyRIi/sinJnyU/sinJR.virama/sinJnyUu/sinJRa/sinJRI/sinJRIi/sinJU/sinJUu/sinKhR.virama/sinKhRa/sinKhRI/sinKhRIi/sinKh.virama/sinKhU/sinKhUu/sinKRa/sinKRI/sinKRIi/sinKSs.virama/sinKSsU/sinKSsUu/sinKU/sinKUu/sinKV.virama/sinKVU/sinKVUu/sinL.virama/sinLla/sinLl.virama/sinLlU/sinLlUu/sinLUu/sinLU/sinM.virama/sinMba/sinMb.virama/sinMbU/sinMbUu/sinMR.virama/sinMRI/sinMRa/sinMRIi/sinHa/sinHI/sinMUu/sinMU/sinN.virama/sinND.virama/sinNDAa.ss01/sinNd.virama/sinNDAa.virama.ss01/sinNDAe.ss01/sinNDAee.ss01/sinNDh.virama/sinDhU/sinNDhU/sinDhUu/sinNDhUu/sinNDRa/sinNDRI/sinNDRIi/sinNDU/sinNDUu/sinNdAa.ss01/sinNdAa.virama.ss01/sinNdAae.ss01/sinNdAe.ss01/sinNdda/sinNdja/sinNdja/sinNdj.virama/sinNdjR.virama/sinNdjRa/sinNdjU/sinJUu/sinNdjUu/sinNdjUu  /sinNdRa 
+/sinNdU/sinDa/sinDUu/sinNdUu/sinNg.virama/sinNn.virama/sinNndd.virama/sinNnddU/sinNng.virama/sinNnddUu/sinNngUu/sinGa  /sinGU/sinNngU/sinNnU/sinNnUu/sinNTh.virama/sinNThU/sinNThUu/sinNU/sinNUu/sinNV.virama/sinNVU/sinNy.virama/sinNVUu/sinNyAa.ss01/sinNyAa.virama.ss01/sinNyAe.ss01/sinNyAee.ss01/sinNyR.virama/sinNyRa/sinNyRI/sinNyRIi/sinP.virama/sinNyU/sinNyUu/sinPh.virama/sinPhU/sinPhUu/sinPR.virama/sinPRa/sinPRI/sinPU/sinPRIi/sinPUu/sinR.virama/sinRAae/sinRAe/sinRU/sinS.virama/sinRUu/sinSh.virama/sinShR.virama/sinShRa/sinShRI/sinShRIi/sinShU/sinShUu/sinSRa/sinSR.virama/sinSRI/sinSRIi/sinSs.virama/sinSsR.virama/sinSsRa/sinSsRI/sinSsRIi/sinSsU/sinSsUu/sinSUu/sinT.virama/sinSU/sinTh.virama/sinThU/sinThUu/sinTR.virama/sinTRa/sinTRI/sinTRIi/sinTTh.virama/sinTt.virama/sinTThUu/sinTThU/sinTth.virama/sinTthU/sinTthUu/sinTtR.virama/sinTtRI/sinTtRa/sinTtRIi/sinTtTth.virama/sinTtTthI/sinTtTthU/sinTtTthIi/sinTtTthUu/sinTtU/sinTtUu/sinTU/sinTUu/sinTV.virama/sinTVU/sinTVUu/sinV.virama/sinVR.virama/sinVRa/sinVRI/sinVRIi/sinVU/sinVUu]]></string>
+		<string>aA</string>
+		<string>/sinRAae</string>
+		<string>/sinK.virama/sinB.virama/sinBh.virama/sinBhRa.virama/sinB.virama/sinBR.virama/sinC.virama/sinCh.virama/sinCR.virama/sinD.virama/sinDAa.virama.ss01/sinDha/sinDh.virama/sinDDdh.virama/sinDU/sinDUu/sinMUu/sinDUu/sinDa/sinMU/sinDd.virama/sinDdR.virama/sinDh.virama/sinDhR.virama/sinDa/sinDRa/sinDR.virama/sinV.virama/sinDV.virama/sinF.virama/sinFR.virama/sinG.virama/sinRa/sinIi/sinGha/sinGa/sinGU/sinGh.virama/sinGhR.virama/sinGR.virama/sinH.virama/sinLa/sinLU/sinE/sinRUu ,/sinRU/sinEe/sinLUu/sinHRa/sinHRa/sinHR.virama/sinJ.virama/sinDh.virama/sinJh.virama/sinTtRIi/sinTtRa/sinTtRI/sinTtI/sinMI/sinMbI/sinGha/sinMba/sinJhR.virama/sinJnya/sinJny.virama/sinJnyAa.virama.ss01/sinJnyR.virama/sinJR.virama/sinKhR.virama/sinKha/sinKh.virama ...?/sinNIi/sinTa/sinSa/sinMatraR/sinLI/sinTI/sinNI/sinJa/sinJI/sinNU/sinKI/sinVa/sinOo/sinKa/sinNa/sinNI.001.002/sinKa/sinMba/sinKSs.virama/sinKV.virama/sinL.virama/sinLl.virama/sinM.virama/sinLlU/sinLa/sinMba/sinGha/sinMb.virama/sinMR.virama/sinN.virama/sinNDa/sinND.virama/sinNda/sinNd.virama/sinNDAa.virama.ss01/sinNDh.virama/sinNdAa.virama.ss01/sinNdj.virama/sinJR.virama/sinNdjR.virama/sinNn.virama/sinDd.virama/sinNndd.virama/sinNnga/sinNng.virama/sinTha/sinTh.virama/sinNV.virama/sinNda/sinNya/sinNy.virama/sinNyAa.virama.ss01/sinNyR.virama/sinP.virama/sinVR.virama/sinYa.post/sinY.post.virama/sinMatraE/sinCha/sinPa/sinJa/sinYa/sinY.virama/sinNna/sinNn.virama/sinPh.virama/sinPa/sinKa/sinK.virama/sinPa/sinPRa/sinPRa/sinVirama/sinPR.virama/sinR.virama/sinSa/sinS.virama/sinSh.virama/sinShRa/sinShR.virama/sinSR.virama/sinSs.virama/sinSsR.virama/sinTa/sinT.virama/sinTh.virama/sinTRa/sinTR.virama/sinTh.virama/sinTTh.virama/sinTt.virama/sinTth.virama/sinTtR.virama/sinTtTth.virama/sinTV.virama/sinV.virama/sinVR.virama/sinYa.post/sinY.post.virama/sinY.virama</string>
+		<string>/sinNya</string>
+		<string>/sinPa/sinSsa/sinGha/sinU/sinUu</string>
+		<string>/sinVI/sinMI/sinDda/sinDdI/sinTta/sinTa/sinRa/sinNa/sinGa/sinKa/sinGa/sinNa/sinKa/sinNnddI/sinNnddIi</string>
+		<string>/sinNa</string>
+		<string>/sinK.virama/sinBa/sinMI/sinBI/sinE/sinSa/sinE/sinBh.virama/sinBhRa.virama/sinFR.virama/sinG.virama/sinGR.virama/sinH.virama/sinHR.virama</string>
+		<string>,</string>
+		<string>/sinUu</string>
+		<string>/sinNdUu</string>
+		<string>/sinNdUu/sinHI/sinHI.001/sinGI/sinFI/sinPa ;/sinSa/sinKa  /sinI/sinDU/sinDUu/sinDa/sinMatraU/sinNna/sinMatraU  /sinMa/sinMatraU/sinHa/sinMatraU/sinNna/sinKa/sinVirama  /sinAe/sinTa/sinMatraI  /sinPa/sinMatraAe/sinSa/sinMatraU/sinNna/sinMatraU 
+?;/sinNngI/sinNnga/sinShI</string>
+		<string>,</string>
+		<string>/sinRUu</string>
+		<string>/sinRU</string>
+		<string>/sinRU_comma</string>
+		<string>/sinRU_comma</string>
+		<string>/sinRUu</string>
+		<string>/sinRU_comma</string>
+		<string>/sinRUu_comma</string>
+		<string>/sinRU_period</string>
+		<string>/sinRU_period/sinLa/sinY.virama/sinDI ()/sinOo 2000-/endash/emdash/endash/sinDa/sinDIi/sinDa ./sinRUu_period</string>
+		<string>/sinRUu_period</string>
+		<string>/sinGI/sinNngI/sinMI/sinGIi/sinGIi.001/sinSha/sinGRa/sinShRa/sinNngIi</string>
+		<string>/sinGa/sinGI/sinGIi/sinGR.virama/sinGRa/sinGRI/sinGRIi/sinShU/sinKU/sinGUu  
+ /sinTUu/sinKUu/sinGU/sinTU/sinKU/sinGUu/sinGIi.001</string>
+		<string>/sinMUu/sinSUu/sinSU/sinGhUu 5/sinShRa/sinRU/sinRU_comma/sinMatraAe/sinMatraAae/seven.001 869/sinGhU/sinMU</string>
+		<string>/sinKundaliya</string>
+		<string>/sinLlI/sinLlIi</string>
+		<string>/sinFRIi</string>
+		<string>/sinFRIi</string>
+		<string>/sinFRa/sinFRI/sinPI/sinPIi/sinShI  /sinBIi/sinBI/sinMIi/sinShIi/sinShRIi/sinFRIi</string>
+		<string></string>
+		<string>/sinA</string>
+		<string>/sinAe</string>
+	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<true/>
 	<key>com.schriftgestaltung.font.license</key>
 	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>com.schriftgestaltung.font.licenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
-	<key>com.schriftgestaltung.font.versionString</key>
-	<string>Version 0.001; DEV</string>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSCornerRadius</key>
@@ -502,110 +542,6 @@
 		<string>Z.sc</string>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
-		<string>sinBI</string>
-		<string>sinBIi</string>
-		<string>sinBhI</string>
-		<string>sinBhIi</string>
-		<string>sinCI</string>
-		<string>sinCIi</string>
-		<string>sinChI</string>
-		<string>sinChIi</string>
-		<string>sinDDhI</string>
-		<string>sinDDhIi</string>
-		<string>sinDI</string>
-		<string>sinDIi</string>
-		<string>sinDVI</string>
-		<string>sinDVIi</string>
-		<string>sinDdI</string>
-		<string>sinDdIi</string>
-		<string>sinDdhI</string>
-		<string>sinDdhIi</string>
-		<string>sinDhI</string>
-		<string>sinDhIi</string>
-		<string>sinFI</string>
-		<string>sinFIi</string>
-		<string>sinGI</string>
-		<string>sinGIi</string>
-		<string>sinGhI</string>
-		<string>sinGhIi</string>
-		<string>sinHI</string>
-		<string>sinHIi</string>
-		<string>sinJI</string>
-		<string>sinJIi</string>
-		<string>sinJhI</string>
-		<string>sinJhIi</string>
-		<string>sinJnyI</string>
-		<string>sinJnyIi</string>
-		<string>sinKI</string>
-		<string>sinKIi</string>
-		<string>sinKSsI</string>
-		<string>sinKSsIi</string>
-		<string>sinKVI</string>
-		<string>sinKVIi</string>
-		<string>sinKhI</string>
-		<string>sinKhIi</string>
-		<string>sinLI</string>
-		<string>sinLIi</string>
-		<string>sinLlI</string>
-		<string>sinLlIi</string>
-		<string>sinMI</string>
-		<string>sinMIi</string>
-		<string>sinMbI</string>
-		<string>sinMbIi</string>
-		<string>sinNDI</string>
-		<string>sinNDIi</string>
-		<string>sinNDhI</string>
-		<string>sinNDhIi</string>
-		<string>sinNI</string>
-		<string>sinNIi</string>
-		<string>sinNThI</string>
-		<string>sinNThIi</string>
-		<string>sinNVI</string>
-		<string>sinNVIi</string>
-		<string>sinNdI</string>
-		<string>sinNdIi</string>
-		<string>sinNdjI</string>
-		<string>sinNdjIi</string>
-		<string>sinNgI</string>
-		<string>sinNgIi</string>
-		<string>sinNnI</string>
-		<string>sinNnIi</string>
-		<string>sinNnddI</string>
-		<string>sinNnddIi</string>
-		<string>sinNngI</string>
-		<string>sinNngIi</string>
-		<string>sinNyI</string>
-		<string>sinNyIi</string>
-		<string>sinPI</string>
-		<string>sinPIi</string>
-		<string>sinPhI</string>
-		<string>sinPhIi</string>
-		<string>sinRI</string>
-		<string>sinRIi</string>
-		<string>sinSI</string>
-		<string>sinSIi</string>
-		<string>sinShI</string>
-		<string>sinShIi</string>
-		<string>sinSsI</string>
-		<string>sinSsIi</string>
-		<string>sinTI</string>
-		<string>sinTIi</string>
-		<string>sinTThI</string>
-		<string>sinTThIi</string>
-		<string>sinTVI</string>
-		<string>sinTVIi</string>
-		<string>sinThI</string>
-		<string>sinThIi</string>
-		<string>sinTtI</string>
-		<string>sinTtIi</string>
-		<string>sinTthI</string>
-		<string>sinTthIi</string>
-		<string>sinVI</string>
-		<string>sinVIi</string>
-		<string>sinYI</string>
-		<string>sinYIi</string>
-		<string>sinYI.post</string>
-		<string>sinYIi.post</string>
 		<string>sinA</string>
 		<string>sinAa</string>
 		<string>sinAae</string>
@@ -616,8 +552,6 @@
 		<string>sinBha</string>
 		<string>sinCa</string>
 		<string>sinCha</string>
-		<string>sinDDha</string>
-		<string>sinDVa</string>
 		<string>sinDa</string>
 		<string>sinDda</string>
 		<string>sinDdha</string>
@@ -625,7 +559,6 @@
 		<string>sinE</string>
 		<string>sinEe</string>
 		<string>sinFa</string>
-		<string>sinGDha</string>
 		<string>sinGa</string>
 		<string>sinGha</string>
 		<string>sinHa</string>
@@ -634,18 +567,12 @@
 		<string>sinJa</string>
 		<string>sinJha</string>
 		<string>sinJnya</string>
-		<string>sinKSsa</string>
-		<string>sinKVa</string>
 		<string>sinKa</string>
 		<string>sinKha</string>
 		<string>sinLa</string>
 		<string>sinLla</string>
 		<string>sinMa</string>
 		<string>sinMba</string>
-		<string>sinNDa</string>
-		<string>sinNDha</string>
-		<string>sinNTha</string>
-		<string>sinNVa</string>
 		<string>sinNa</string>
 		<string>sinNda</string>
 		<string>sinNdja</string>
@@ -662,11 +589,8 @@
 		<string>sinSa</string>
 		<string>sinSha</string>
 		<string>sinSsa</string>
-		<string>sinTTha</string>
-		<string>sinTVa</string>
 		<string>sinTa</string>
 		<string>sinTha</string>
-		<string>sinTtTtha</string>
 		<string>sinTta</string>
 		<string>sinTtha</string>
 		<string>sinU</string>
@@ -676,9 +600,9 @@
 		<string>sinVocalicl</string>
 		<string>sinVocalicll</string>
 		<string>sinYa</string>
-		<string>sinYa.post</string>
+		<string>sinvocalicRr</string>
 		<string>sinDda.virama</string>
-		<string>sinK.virama</string>
+		<string>sinYa.post</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -689,6 +613,7 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
+		<string>seven.001</string>
 		<string>zero.lf</string>
 		<string>one.lf</string>
 		<string>two.lf</string>
@@ -867,28 +792,23 @@
 		<string>sinMatraIi</string>
 		<string>sinMatraU</string>
 		<string>sinMatraUu</string>
-		<string>sinRakar</string>
-		<string>sinReph</string>
 		<string>sinVirama</string>
 		<string>sinMatraI.alt</string>
-		<string>sinMatraIi.alt</string>
-		<string>sinMatraU.alt</string>
-		<string>sinMatraUu.alt</string>
 		<string>sinMatraI.alt1</string>
-		<string>sinMatraIi.alt1</string>
-		<string>sinMatraU.alt1</string>
-		<string>sinMatraUu.alt1</string>
 		<string>sinMatraI.alt2</string>
-		<string>sinMatraIi.alt2</string>
-		<string>sinMatraU.alt2</string>
-		<string>sinMatraUu.alt2</string>
 		<string>sinMatraI.alt3</string>
+		<string>sinMatraIi.alt</string>
+		<string>sinMatraIi.alt1</string>
+		<string>sinMatraIi.alt2</string>
 		<string>sinMatraIi.alt3</string>
+		<string>sinMatraU.alt</string>
+		<string>sinMatraU.alt1</string>
+		<string>sinMatraU.alt2</string>
 		<string>sinMatraU.alt3</string>
+		<string>sinMatraUu.alt</string>
+		<string>sinMatraUu.alt1</string>
+		<string>sinMatraUu.alt2</string>
 		<string>sinMatraUu.alt3</string>
-		<string>sinRakar.long</string>
-		<string>sinRakar.medium</string>
-		<string>sinRakar.short</string>
 		<string>sinAnusvara</string>
 		<string>sinMatraAa</string>
 		<string>sinMatraAae</string>
@@ -905,6 +825,130 @@
 		<string>sinMatraRr</string>
 		<string>sinVisarga</string>
 		<string>sinMatraAa.virama</string>
+		<string>sinMatraE.salt</string>
+		<string>sinMatraE.ss01</string>
+		<string>sinBI</string>
+		<string>sinBIi</string>
+		<string>sinBhI</string>
+		<string>sinBhIi</string>
+		<string>sinCI</string>
+		<string>sinCIi</string>
+		<string>sinChI</string>
+		<string>sinChIi</string>
+		<string>sinDDhI</string>
+		<string>sinDDhIi</string>
+		<string>sinDI</string>
+		<string>sinDIi</string>
+		<string>sinDVI</string>
+		<string>sinDVIi</string>
+		<string>sinDdI</string>
+		<string>sinDdIi</string>
+		<string>sinDdhI</string>
+		<string>sinDdhIi</string>
+		<string>sinDhI</string>
+		<string>sinDhIi</string>
+		<string>sinFI</string>
+		<string>sinFIi</string>
+		<string>sinGI</string>
+		<string>sinGIi</string>
+		<string>sinGhI</string>
+		<string>sinGhIi</string>
+		<string>sinHI</string>
+		<string>sinHIi</string>
+		<string>sinJI</string>
+		<string>sinJIi</string>
+		<string>sinJhI</string>
+		<string>sinJhIi</string>
+		<string>sinJnyI</string>
+		<string>sinJnyIi</string>
+		<string>sinKI</string>
+		<string>sinKIi</string>
+		<string>sinKSsI</string>
+		<string>sinKSsIi</string>
+		<string>sinKVI</string>
+		<string>sinKVIi</string>
+		<string>sinKhI</string>
+		<string>sinKhIi</string>
+		<string>sinLI</string>
+		<string>sinLIi</string>
+		<string>sinLlI</string>
+		<string>sinLlIi</string>
+		<string>sinMI</string>
+		<string>sinMIi</string>
+		<string>sinMbI</string>
+		<string>sinMbIi</string>
+		<string>sinNDI</string>
+		<string>sinNDIi</string>
+		<string>sinNDhI</string>
+		<string>sinNDhIi</string>
+		<string>sinNI</string>
+		<string>sinNIi</string>
+		<string>sinNThI</string>
+		<string>sinNThIi</string>
+		<string>sinNVI</string>
+		<string>sinNVIi</string>
+		<string>sinNdI</string>
+		<string>sinNdIi</string>
+		<string>sinNdjI</string>
+		<string>sinNdjIi</string>
+		<string>sinNgI</string>
+		<string>sinNgIi</string>
+		<string>sinNnI</string>
+		<string>sinNnIi</string>
+		<string>sinNnddI</string>
+		<string>sinNnddIi</string>
+		<string>sinNngI</string>
+		<string>sinNngIi</string>
+		<string>sinNyI</string>
+		<string>sinNyIi</string>
+		<string>sinPI</string>
+		<string>sinPIi</string>
+		<string>sinPhI</string>
+		<string>sinPhIi</string>
+		<string>sinRI</string>
+		<string>sinRIi</string>
+		<string>sinSI</string>
+		<string>sinSIi</string>
+		<string>sinShI</string>
+		<string>sinShIi</string>
+		<string>sinSsI</string>
+		<string>sinSsIi</string>
+		<string>sinTI</string>
+		<string>sinTIi</string>
+		<string>sinTThI</string>
+		<string>sinTThIi</string>
+		<string>sinTVI</string>
+		<string>sinTVIi</string>
+		<string>sinThI</string>
+		<string>sinThIi</string>
+		<string>sinTtI</string>
+		<string>sinTtIi</string>
+		<string>sinTthI</string>
+		<string>sinTthIi</string>
+		<string>sinVI</string>
+		<string>sinVIi</string>
+		<string>sinYI</string>
+		<string>sinYIi</string>
+		<string>sinYI.post</string>
+		<string>sinYIi.post</string>
+		<string>sinDDha</string>
+		<string>sinDVa</string>
+		<string>sinGDha</string>
+		<string>sinKSsa</string>
+		<string>sinKVa</string>
+		<string>sinNDa</string>
+		<string>sinNDha</string>
+		<string>sinNTha</string>
+		<string>sinNVa</string>
+		<string>sinTTha</string>
+		<string>sinTVa</string>
+		<string>sinTtTtha</string>
+		<string>sinK.virama</string>
+		<string>sinRakar</string>
+		<string>sinReph</string>
+		<string>sinRakar.long</string>
+		<string>sinRakar.medium</string>
+		<string>sinRakar.short</string>
 		<string>mooniak</string>
 		<string>sinB.virama</string>
 		<string>sinBh.virama</string>
@@ -1192,13 +1236,20 @@
 		<string>sinVRIi</string>
 		<string>sinVU</string>
 		<string>sinVUu</string>
-		<string>sinvocalicRr</string>
 		<string>sinY.post.virama</string>
 		<string>sinY.virama</string>
 		<string>sinYU</string>
 		<string>sinYU.post</string>
 		<string>sinYUu</string>
 		<string>sinYUu.post</string>
+		<string>sinNI.001</string>
+		<string>sinNI.001.002</string>
+		<string>sinHI.001</string>
+		<string>sinRU_comma</string>
+		<string>sinRUu_comma</string>
+		<string>sinRU_period</string>
+		<string>sinRUu_period</string>
+		<string>sinGIi.001</string>
 	</array>
 </dict>
 </plist>

@@ -25,6 +25,8 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-16 19:23:41 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>sinNda</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

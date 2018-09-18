@@ -5,4 +5,10 @@
 		<component base="sinRakar.long" xOffset="407"/>
 		<component base="sinShI" xOffset="-9"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+		</dict>
+	</lib>
 </glyph>

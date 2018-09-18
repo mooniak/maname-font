@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinDDha" format="2">
-	<advance width="748"/>
+	<advance width="728"/>
 	<outline>
 		<contour>
 			<point x="124" y="-12"/>
@@ -29,7 +29,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-05-12 09:49:46 +0000</string>
+			<string>2018-09-16 19:32:18 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>sinDha</string>
 			<key>public.markColor</key>

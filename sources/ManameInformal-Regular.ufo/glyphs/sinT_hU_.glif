@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinThU" format="2">
-	<advance width="609"/>
+	<advance width="606"/>
 	<outline>
 		<component base="sinTha"/>
 		<component base="sinMatraU" xOffset="527" yOffset="10"/>
@@ -8,7 +8,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-05-12 09:49:49 +0000</string>
+			<string>2018-09-13 20:21:48 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>sinTha</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

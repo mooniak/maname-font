@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraAi" format="2">
-	<advance width="0"/>
+	<advance width="997"/>
 	<unicode hex="0DDB"/>
 	<outline>
 		<contour>
@@ -63,10 +63,12 @@
 			<point x="381" y="-24"/>
 			<point x="242" y="-24" type="curve" smooth="yes"/>
 		</contour>
-		<component base="sinMatraE" xOffset="450"/>
+		<component base="sinMatraE" xOffset="490"/>
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>=sinMatraE</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

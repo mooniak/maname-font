@@ -5,4 +5,10 @@
 	<outline>
 		<component base="comma" xScale="-0.985" xyScale="0.174" yScale="-0.985" yxScale="-0.174" xOffset="133" yOffset="774"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+		</dict>
+	</lib>
 </glyph>

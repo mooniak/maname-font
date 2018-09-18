@@ -13,7 +13,6 @@ languagesystem latn AZE;
 
 feature aalt {
 # automatic
-feature ccmp;
 feature locl;
 feature sups;
 feature frac;
@@ -27,6 +26,9 @@ feature abvs;
 feature blws;
 feature psts;
 feature ss01;
+feature ss02;
+feature calt;
+feature salt;
 } aalt;
 
 feature ccmp {
@@ -120,12 +122,14 @@ sub Z by Z.sc;
 } c2sc;
 
 feature liga {
-# automatic
-sub f f l by f_f_l;
 sub f f i by f_f_i;
+sub f f l by f_f_l;
 sub f f by f_f;
 sub f i by fi;
 sub f l by fl;
+sub sinRU comma by sinRU_comma;
+sub sinRUu comma by sinRUu_comma;
+sub sinRUu period by sinRUu_period;
 } liga;
 
 feature akhn {
@@ -307,6 +311,7 @@ lookup sin_abvs_3 {
   sub sinDRa sinMatraI by sinDRI;
   sub sinDhRa sinMatraI by sinDhRI;
   sub sinPRa sinMatraI by sinPRI;
+  sub sinFRa sinMatraI by sinFRI;
   sub sinBRa sinMatraI by sinBRI;
   sub sinBhRa sinMatraI by sinBhRI;
   sub sinMRa sinMatraI by sinMRI;
@@ -332,6 +337,7 @@ lookup sin_abvs_4 {
   sub sinDRa sinMatraIi by sinDRIi;
   sub sinDhRa sinMatraIi by sinDhRIi;
   sub sinPRa sinMatraIi by sinPRIi;
+  sub sinFRa sinMatraIi by sinFRIi;
   sub sinBRa sinMatraIi by sinBRIi;
   sub sinBhRa sinMatraIi by sinBhRIi;
   sub sinMRa sinMatraIi by sinMRIi;
@@ -648,34 +654,7 @@ feature ss02 {
 	} sin_rakar_ss02;
 } ss02;
 
-feature dlig {
-  sub sinKa sinVirama zerowidthjoiner sinRa' by c;
-  sub sinKha sinVirama zerowidthjoiner sinRa by sinKhRa;
-  sub sinGa sinVirama zerowidthjoiner sinRa by sinGRa;
-  sub sinGha sinVirama zerowidthjoiner sinRa by sinGhRa;
-  sub sinCa sinVirama zerowidthjoiner sinRa by sinCRa;
-  sub sinJa sinVirama zerowidthjoiner sinRa by sinJRa;
-  sub sinJha sinVirama zerowidthjoiner sinRa by sinJhRa;
-  sub sinNya sinVirama zerowidthjoiner sinRa by sinNyRa;
-  sub sinTta sinVirama zerowidthjoiner sinRa by sinTtRa;
-  sub sinJnya sinVirama zerowidthjoiner sinRa by sinJnyRa;
-  sub sinNdja sinVirama zerowidthjoiner sinRa by sinNdjRa;
-  sub sinDda sinVirama zerowidthjoiner sinRa by sinDdRa;
-  sub sinTa sinVirama zerowidthjoiner sinRa by sinTRa;
-  sub sinDa sinVirama zerowidthjoiner sinRa by sinDRa;
-  sub sinDha sinVirama zerowidthjoiner sinRa by sinDhRa;
-  sub sinPa sinVirama zerowidthjoiner sinRa by sinPRa;
-  sub sinBha sinVirama zerowidthjoiner sinRa by sinBhRa;
-  sub sinMa sinVirama zerowidthjoiner sinRa by sinMRa;
-  sub sinVa sinVirama zerowidthjoiner sinRa by sinVRa;
-  sub sinSha sinVirama zerowidthjoiner sinRa by sinShRa;
-  sub sinSsa sinVirama zerowidthjoiner sinRa by sinSsRa;
-  sub sinSa sinVirama zerowidthjoiner sinRa by sinSRa;
-  sub sinHa sinVirama zerowidthjoiner sinRa by sinHRa;
-  sub sinFa sinVirama zerowidthjoiner sinRa by sinFRa;
-  sub sinNDa sinVirama zerowidthjoiner sinRa by sinNDRa;
-  sub sinBa sinVirama zerowidthjoiner sinRa by sinBRa;
-  sub sinBa sinVirama zerowidthjoiner sinRa by sinBRa;
-  sub a by b;
-} dlig;
+feature salt {
+sub sinMatraE by sinMatraE.ss01;
+} salt;
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinDVa" format="2">
-	<advance width="695"/>
+	<advance width="690"/>
 	<outline>
 		<contour>
 			<point x="113" y="48"/>
@@ -25,7 +25,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-15 11:47:49 +0000</string>
+			<string>2018-09-13 20:21:48 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>sinVa</string>
 		</dict>

@@ -4,22 +4,22 @@
 	<unicode hex="0DA2"/>
 	<outline>
 		<contour>
-			<point x="472" y="284"/>
-			<point x="475" y="360"/>
-			<point x="514" y="437" type="curve" smooth="yes"/>
-			<point x="574" y="561"/>
-			<point x="672" y="655"/>
-			<point x="672" y="655" type="curve"/>
-			<point x="672" y="676"/>
-			<point x="644" y="702"/>
-			<point x="630" y="706" type="curve"/>
-			<point x="630" y="706"/>
-			<point x="545" y="614"/>
-			<point x="483" y="473" type="curve" smooth="yes"/>
-			<point x="448" y="393"/>
-			<point x="440" y="303"/>
-			<point x="440" y="303" type="curve"/>
-			<point x="472" y="284" type="line"/>
+			<point x="442" y="284"/>
+			<point x="445" y="360"/>
+			<point x="484" y="437" type="curve" smooth="yes"/>
+			<point x="546" y="560"/>
+			<point x="632" y="655"/>
+			<point x="632" y="655" type="curve"/>
+			<point x="630" y="671"/>
+			<point x="602" y="698"/>
+			<point x="588" y="697" type="curve"/>
+			<point x="588" y="697"/>
+			<point x="515" y="614"/>
+			<point x="453" y="473" type="curve" smooth="yes"/>
+			<point x="418" y="393"/>
+			<point x="410" y="303"/>
+			<point x="410" y="303" type="curve"/>
+			<point x="442" y="284" type="line"/>
 		</contour>
 		<component base="sinPa"/>
 	</outline>
@@ -27,7 +27,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-15 10:53:40 +0000</string>
+			<string>2018-09-16 21:06:46 +0000</string>
 		</dict>
 	</lib>
 </glyph>
