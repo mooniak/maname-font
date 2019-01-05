@@ -12,6 +12,15 @@
 	<integer>-193</integer>
 	<key>familyName</key>
 	<string>Maname</string>
+	<key>guidelines</key>
+	<array>
+		<dict>
+			<key>x</key>
+			<integer>221</integer>
+			<key>y</key>
+			<integer>460</integer>
+		</dict>
+	</array>
 	<key>openTypeHeadCreated</key>
 	<string>2016/12/26 14:27:20</string>
 	<key>openTypeHheaAscender</key>

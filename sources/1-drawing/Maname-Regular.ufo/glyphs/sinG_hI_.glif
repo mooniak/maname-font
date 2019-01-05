@@ -2,8 +2,8 @@
 <glyph name="sinGhI" format="2">
 	<advance width="697"/>
 	<outline>
-		<component base="uni0D9D"/>
-		<component base="uni0DD2.alt" xOffset="376" yOffset="14"/>
+		<component base="sinGha"/>
+		<component base="sinMatraI.alt" xOffset="376" yOffset="14"/>
 	</outline>
 	<lib>
 		<dict>

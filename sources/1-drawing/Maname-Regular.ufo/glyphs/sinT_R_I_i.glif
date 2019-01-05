@@ -2,8 +2,8 @@
 <glyph name="sinTRIi" format="2">
 	<advance width="825"/>
 	<outline>
-		<component base="uni0DD3.alt1" xOffset="323" yOffset="11"/>
-		<component base="uni0DAD" xOffset="12"/>
+		<component base="sinMatraIi.alt1" xOffset="323" yOffset="11"/>
+		<component base="sinTa" xOffset="12"/>
 		<component base="sinRakar.long" xOffset="491" yOffset="12"/>
 	</outline>
 	<lib>

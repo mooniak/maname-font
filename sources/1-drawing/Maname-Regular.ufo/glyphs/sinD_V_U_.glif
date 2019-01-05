@@ -7,9 +7,12 @@
 			<point x="122" y="-31"/>
 			<point x="132" y="-27"/>
 			<point x="137" y="-24" type="curve"/>
-			<point x="109" y="8"/>
-			<point x="99" y="85"/>
-			<point x="108" y="152" type="curve"/>
+			<point x="116" y="0"/>
+			<point x="105" y="51"/>
+			<point x="105" y="103" type="curve" smooth="yes"/>
+			<point x="105" y="119"/>
+			<point x="106" y="136"/>
+			<point x="108" y="152" type="curve" smooth="yes"/>
 			<point x="124" y="280"/>
 			<point x="206" y="363"/>
 			<point x="300" y="372" type="curve"/>
@@ -18,19 +21,22 @@
 			<point x="387" y="393" type="line"/>
 			<point x="374" y="400"/>
 			<point x="336" y="418"/>
-			<point x="313" y="418" type="curve"/>
+			<point x="313" y="418" type="curve" smooth="yes"/>
 			<point x="179" y="418"/>
 			<point x="65" y="318"/>
 			<point x="51" y="151" type="curve"/>
-			<point x="45" y="75"/>
-			<point x="70" y="5"/>
+			<point x="50" y="143"/>
+			<point x="50" y="136"/>
+			<point x="50" y="128" type="curve" smooth="yes"/>
+			<point x="50" y="61"/>
+			<point x="73" y="1"/>
 		</contour>
 		<component base="sinVU" xOffset="134"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-09-12 15:08:21 +0000</string>
+			<string>2019-01-05 04:56:58 +0000</string>
 		</dict>
 	</lib>
 </glyph>

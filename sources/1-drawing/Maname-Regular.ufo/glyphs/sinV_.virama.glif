@@ -3,12 +3,11 @@
 	<advance width="601"/>
 	<outline>
 		<contour>
-			<point x="521" y="362" type="curve"/>
 			<point x="558" y="300" type="line"/>
-			<point x="558" y="442"/>
-			<point x="554" y="706"/>
-			<point x="286" y="709" type="curve"/>
-			<point x="213" y="710"/>
+			<point x="558" y="443"/>
+			<point x="554" y="709"/>
+			<point x="283" y="709" type="curve" smooth="yes"/>
+			<point x="211" y="709"/>
 			<point x="139" y="673"/>
 			<point x="139" y="673" type="curve"/>
 			<point x="126" y="649"/>
@@ -22,21 +21,23 @@
 			<point x="153" y="599"/>
 			<point x="153" y="547" type="curve"/>
 			<point x="181" y="532" type="line"/>
-			<point x="181" y="576"/>
-			<point x="222" y="630"/>
-			<point x="255" y="650" type="curve"/>
-			<point x="263" y="651"/>
-			<point x="271" y="651"/>
-			<point x="281" y="651" type="curve"/>
+			<point x="181" y="586"/>
+			<point x="242" y="654"/>
+			<point x="276" y="659" type="curve"/>
+			<point x="205" y="642" type="line"/>
+			<point x="205" y="642"/>
+			<point x="219" y="651"/>
+			<point x="281" y="651" type="curve" smooth="yes"/>
 			<point x="533" y="651"/>
 			<point x="522" y="410"/>
+			<point x="521" y="362" type="curve"/>
 		</contour>
-		<component base="uni0DC0"/>
+		<component base="sinVa"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-09-16 03:13:26 +0000</string>
+			<string>2019-01-05 04:56:58 +0000</string>
 		</dict>
 	</lib>
 </glyph>

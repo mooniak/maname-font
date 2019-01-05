@@ -3,8 +3,8 @@
 	<advance width="305"/>
 	<unicode hex="012B"/>
 	<outline>
-		<component base="dotlessi"/>
-		<component base="uni0304" xOffset="161" yOffset="35"/>
+		<component base="idotless"/>
+		<component base="macroncomb" xOffset="161" yOffset="35"/>
 	</outline>
 	<lib>
 		<dict>

@@ -2,8 +2,8 @@
 <glyph name="sinNy.virama" format="2">
 	<advance width="1013"/>
 	<outline>
-		<component base="uni0DA4"/>
-		<component base="uni0DCA" xOffset="896" yOffset="40"/>
+		<component base="sinNya"/>
+		<component base="sinVirama" xOffset="896" yOffset="40"/>
 	</outline>
 	<lib>
 		<dict>

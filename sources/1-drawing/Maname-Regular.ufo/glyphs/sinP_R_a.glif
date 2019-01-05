@@ -3,14 +3,14 @@
 	<advance width="620"/>
 	<outline>
 		<contour>
-			<point x="300" y="-216" type="curve"/>
-			<point x="581" y="-224"/>
-			<point x="587" y="53"/>
+			<point x="312" y="-216" type="curve" smooth="yes"/>
+			<point x="581" y="-216"/>
+			<point x="587" y="55"/>
 			<point x="587" y="193" type="curve"/>
 			<point x="564" y="179" type="line"/>
 			<point x="553" y="30"/>
 			<point x="525" y="-139"/>
-			<point x="316" y="-139" type="curve"/>
+			<point x="316" y="-139" type="curve" smooth="yes"/>
 			<point x="159" y="-139"/>
 			<point x="85" y="-68"/>
 			<point x="85" y="-68" type="curve"/>
@@ -18,14 +18,14 @@
 			<point x="67" y="-77"/>
 			<point x="62" y="-84" type="curve"/>
 			<point x="66" y="-104"/>
-			<point x="132" y="-211"/>
+			<point x="135" y="-216"/>
 		</contour>
-		<component base="uni0DB4" xOffset="22"/>
+		<component base="sinPa" xOffset="22"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-09-16 20:52:36 +0000</string>
+			<string>2019-01-05 04:56:58 +0000</string>
 			<key>public.markColor</key>
 			<string>0.04,0.57,0.04,1</string>
 		</dict>

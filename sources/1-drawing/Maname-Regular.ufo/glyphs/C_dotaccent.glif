@@ -4,7 +4,7 @@
 	<unicode hex="010A"/>
 	<outline>
 		<component base="C"/>
-		<component base="uni0307" xOffset="394" yOffset="105"/>
+		<component base="dotaccentcomb" xOffset="394" yOffset="105"/>
 	</outline>
 	<lib>
 		<dict>
@@ -16,7 +16,7 @@
 					<key>index</key>
 					<integer>1</integer>
 					<key>name</key>
-					<string>uni0307</string>
+					<string>dotaccentcomb</string>
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>

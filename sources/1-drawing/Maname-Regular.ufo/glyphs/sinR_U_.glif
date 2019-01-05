@@ -2,8 +2,8 @@
 <glyph name="sinRU" format="2">
 	<advance width="872"/>
 	<outline>
-		<component base="uni0DD0" xOffset="514" yOffset="69"/>
-		<component base="uni0DBB"/>
+		<component base="sinMatraAe" xOffset="514" yOffset="69"/>
+		<component base="sinRa"/>
 	</outline>
 	<lib>
 		<dict>
@@ -15,7 +15,7 @@
 					<key>index</key>
 					<integer>0</integer>
 					<key>name</key>
-					<string>uni0DD0</string>
+					<string>sinMatraAe</string>
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>

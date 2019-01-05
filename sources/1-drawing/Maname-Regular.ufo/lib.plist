@@ -28,49 +28,30 @@
 	</dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>a/abreveacute</string>
-		<string><![CDATA[/sinBI/sinBIi/sinBhI/sinBhIi/sinCI/sinCIi/sinChI/sinChIi/sinDDhI/sinDDhIi/sinDI/sinDIi/sinDVI/sinDVIi/sinDdI/sinDdIi/sinDdhI/sinDdhIi/sinDhI/sinDhIi/sinFI/sinFIi/sinGI/sinGIi/sinGhI/sinGhIi/sinHI/sinHIi/sinJI/sinJIi/sinJhI/sinJhIi/sinJnyI/sinJnyIi/sinKI/sinKIi/sinKSsI/sinKSsIi/sinKVI/sinKVIi/sinKhI/sinKhIi/sinLI/sinLIi/sinLlI/sinLlIi/sinMI/sinMIi/sinMbI/sinMbIi/sinNDI/sinNDIi/sinNDhI/sinNDhIi/sinNI/sinNIi/sinNThI/sinNThIi/sinNVI/sinNVIi/sinNdI/sinNdIi/sinNdjI/sinNdjIi/sinNgI/sinNgIi/sinNnI/sinNnIi/sinNnddI/sinNnddIi/sinNngI/sinNngIi/sinNyI/sinNyIi/sinPI/sinPIi/sinPhI/sinPhIi/sinRI/sinRIi/sinSI/sinSIi/sinShI/sinShIi/sinSsI/sinSsIi/sinTI/sinTIi/sinTThI/sinTThIi/sinTVI/sinTVIi/sinThI/sinThIi/sinTtI/sinTtIi/sinTthI/sinTthIi/sinVI/sinVIi/sinYI/sinYIi/sinYI.post/sinYIi.post/sinAa/sinAae/sinAe/sinAi/sinAu/sinBa/sinBha/sinCa/sinCha/sinDDha/sinDVa/sinDa/sinDda/sinDdha/sinDha/sinE/sinEe/sinFa/sinGDha/sinGa/sinGha/sinHa/sinI/sinIi/sinJa/sinJha/sinJnya/sinKSsa/sinKVa/sinKa/sinKha/sinLa/sinLla/sinMa/sinMba/sinNDa/sinNDha/sinNTha/sinNVa/sinNa/sinNda/sinNdja/sinNga/sinNna/sinNndda/sinNnga/sinNya/sinO/sinOo/sinPa/sinPha/sinRa/sinSa/sinSha/sinSsa/sinTTha/sinTVa/sinTa/sinTha/sinTtTtha/sinTta/sinTtha/sinU/sinUu/sinVa/sinVocalicR/sinVocalicl/sinVocalicll/sinYa/sinYa.post/sinDda.virama/sinK.virama 0123456789/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf/zero.onum/one.onum/two.onum/three.onum/four.onum/five.onum/six.onum/seven.onum/eight.onum/nine.onum ¹²³/foursuperior/fraction ½¼¾*/backslash ·/bullet :,/ellipsis !¡#.?¿"';//_/periodcentered.loclCAT {}[]()/emdash/endash -­«»/guilsinglleft/guilsinglright/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotesinglbase/sinKundaliya   /zerowidthjoiner/zerowidthnonjoiner /cedi ¢/colonsign ¤$/dong/euro/florin/franc/guarani/kip/lira/liraTurkish/manat/naira/peseta/peso/ruble/rupeeIndian £/won ¥/bulletoperator/divisionslash +/minus ×÷=/notequal ></greaterequal/lessequal ±/approxequal ~¬µ%/perthousand/dottedCircle @&¶§©®/trademark °|¦/dagger/daggerdbl/numero ^/sun/crescentmoon/firstquartermoon/fullmoon/moonwithface/sunwithface/dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/caroncomb.alt/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/dblgravecomb/breveinvertedcomb/commaturnedabovecomb/horncomb/dotbelowcomb/dieresisbelowcomb/commaaccent/cedillacomb/ogonekcomb/brevebelowcomb/macronbelowcomb/firsttonechinese ´/breve/caron ¸/circumflex ¨/dotaccent `/hungarumlaut ¯/ogonek/ring/tilde/sinMatraI/sinMatraIi/sinMatraU/sinMatraUu/sinRakar/sinReph/sinVirama/sinMatraI.alt/sinMatraIi.alt/sinMatraU.alt/sinMatraUu.alt/sinMatraI.alt1/sinMatraIi.alt1/sinMatraU.alt1/sinMatraUu.alt1/sinMatraI.alt2/sinMatraIi.alt2/sinMatraU.alt2/sinMatraUu.alt2/sinMatraI.alt3/sinMatraIi.alt3/sinMatraU.alt3/sinMatraUu.alt3/sinRakar.long/sinRakar.medium/sinRakar.short/sinAnusvara/sinMatraAa/sinMatraAae/sinMatraAe/sinMatraAi/sinMatraAu/sinMatraE/sinMatraEe/sinMatraLl/sinMatraLs/sinMatraO/sinMatraOo/sinMatraR/sinMatraRr/sinVisarga/sinMatraAa.virama/mooniak/sinB.virama/sinBh.virama/sinBhRa/sinBhRa.virama/sinBhRI/sinBhRIi/sinBhU/sinBhUu/sinBR.virama/sinBRa/sinBRI/sinBRIi/sinBU/sinBUu/sinC.virama/sinChU/sinCh.virama/sinChUu/sinCR.virama/sinCRa/sinCRI/sinCRIi/sinCU/sinCUu/sinD.virama/sinDAa.ss01/sinDAa.virama.ss01/sinDAae.ss01/sinDAe.ss01/sinDDdh.virama/sinDd.virama/sinDDhU/sinDDhUu/sinDdh.virama/sinDdhU/sinDdhUu/sinDdR.virama/sinDdRa/sinDdRI/sinDdRIi/sinDdU/sinDdUu/sinDh.virama/sinDhR.virama/sinDhRa/sinDhRI/sinDhRIi/sinDhU/sinDhUu/sinDRI/sinDRIi/sinDR.virama/sinDRa/sinDra/sinDrI/sinDrIi/sinDU/sinDV.virama/sinDUu/sinDVU/sinDVUu/sinDvocR/sinDYa.post.ss01/sinDYAa.post.ss01/sinDvocRr/sinDYOo.post.ss01/sinDYu.post.ss01/sinDYUu.post.ss01/sinF.virama/sinFR.virama/sinFRa/sinFRI/sinFRIi/sinFU/sinFUu/sinG.virama/sinGh.virama/sinGhR.virama/sinGhRa/sinGhRI/sinGhRIi/sinGhU/sinGhUu/sinGRa/sinGR.virama/sinGRa/sinGRI/sinGRIi/sinGU/sinGUu/sinH.virama/sinHR.virama/sinHRa/sinHRI/sinHRIi/sinHU/sinHUu/sinJ.virama/sinJh.virama/sinJhR.virama/sinJhRa/sinJhRI/sinJhRIi/sinJhUu/sinJhU/sinJny.virama/sinJnyAa.ss01/sinJnyAa.virama.ss01/sinJnyAe.ss01/sinJnyAee.ss01/sinJnyRI/sinJnyRa/sinJnyR.virama/sinJnyRIi/sinJnyU/sinJR.virama/sinJnyUu/sinJRa/sinJRI/sinJRIi/sinJU/sinJUu/sinKhR.virama/sinKhRa/sinKhRI/sinKhRIi/sinKh.virama/sinKhU/sinKhUu/sinKRa/sinKRI/sinKRIi/sinKSs.virama/sinKSsU/sinKSsUu/sinKU/sinKUu/sinKV.virama/sinKVU/sinKVUu/sinL.virama/sinLla/sinLl.virama/sinLlU/sinLlUu/sinLUu/sinLU/sinM.virama/sinMba/sinMb.virama/sinMbU/sinMbUu/sinMR.virama/sinMRI/sinMRa/sinMRIi/sinHa/sinHI/sinMUu/sinMU/sinN.virama/sinND.virama/sinNDAa.ss01/sinNd.virama/sinNDAa.virama.ss01/sinNDAe.ss01/sinNDAee.ss01/sinNDh.virama/sinDhU/sinNDhU/sinDhUu/sinNDhUu/sinNDRa/sinNDRI/sinNDRIi/sinNDU/sinNDUu/sinNdAa.ss01/sinNdAa.virama.ss01/sinNdAae.ss01/sinNdAe.ss01/sinNdda/sinNdja/sinNdja/sinNdj.virama/sinNdjR.virama/sinNdjRa/sinNdjU/sinJUu/sinNdjUu/sinNdjUu  /sinNdRa 
-/sinNdU/sinDa/sinDUu/sinNdUu/sinNg.virama/sinNn.virama/sinNndd.virama/sinNnddU/sinNng.virama/sinNnddUu/sinNngUu/sinGa  /sinGU/sinNngU/sinNnU/sinNnUu/sinNTh.virama/sinNThU/sinNThUu/sinNU/sinNUu/sinNV.virama/sinNVU/sinNy.virama/sinNVUu/sinNyAa.ss01/sinNyAa.virama.ss01/sinNyAe.ss01/sinNyAee.ss01/sinNyR.virama/sinNyRa/sinNyRI/sinNyRIi/sinP.virama/sinNyU/sinNyUu/sinPh.virama/sinPhU/sinPhUu/sinPR.virama/sinPRa/sinPRI/sinPU/sinPRIi/sinPUu/sinR.virama/sinRAae/sinRAe/sinRU/sinS.virama/sinRUu/sinSh.virama/sinShR.virama/sinShRa/sinShRI/sinShRIi/sinShU/sinShUu/sinSRa/sinSR.virama/sinSRI/sinSRIi/sinSs.virama/sinSsR.virama/sinSsRa/sinSsRI/sinSsRIi/sinSsU/sinSsUu/sinSUu/sinT.virama/sinSU/sinTh.virama/sinThU/sinThUu/sinTR.virama/sinTRa/sinTRI/sinTRIi/sinTTh.virama/sinTt.virama/sinTThUu/sinTThU/sinTth.virama/sinTthU/sinTthUu/sinTtR.virama/sinTtRI/sinTtRa/sinTtRIi/sinTtTth.virama/sinTtTthI/sinTtTthU/sinTtTthIi/sinTtTthUu/sinTtU/sinTtUu/sinTU/sinTUu/sinTV.virama/sinTVU/sinTVUu/sinV.virama/sinVR.virama/sinVRa/sinVRI/sinVRIi/sinVU/sinVUu]]></string>
-		<string>aA</string>
-		<string>/sinRAae</string>
-		<string>/sinK.virama/sinB.virama/sinBh.virama/sinBhRa.virama/sinB.virama/sinBR.virama/sinC.virama/sinCh.virama/sinCR.virama/sinD.virama/sinDAa.virama.ss01/sinDha/sinDh.virama/sinDDdh.virama/sinDU/sinDUu/sinMUu/sinDUu/sinDa/sinMU/sinDd.virama/sinDdR.virama/sinDh.virama/sinDhR.virama/sinDa/sinDRa/sinDR.virama/sinV.virama/sinDV.virama/sinF.virama/sinFR.virama/sinG.virama/sinRa/sinIi/sinGha/sinGa/sinGU/sinGh.virama/sinGhR.virama/sinGR.virama/sinH.virama/sinLa/sinLU/sinE/sinRUu ,/sinRU/sinEe/sinLUu/sinHRa/sinHRa/sinHR.virama/sinJ.virama/sinDh.virama/sinJh.virama/sinTtRIi/sinTtRa/sinTtRI/sinTtI/sinMI/sinMbI/sinGha/sinMba/sinJhR.virama/sinJnya/sinJny.virama/sinJnyAa.virama.ss01/sinJnyR.virama/sinJR.virama/sinKhR.virama/sinKha/sinKh.virama ...?/sinNIi/sinTa/sinSa/sinMatraR/sinLI/sinTI/sinNI/sinJa/sinJI/sinNU/sinKI/sinVa/sinOo/sinKa/sinNa/sinKa/sinMba/sinKSs.virama/sinKV.virama/sinL.virama/sinLl.virama/sinM.virama/sinLlU/sinLa/sinMba/sinGha/sinMb.virama/sinMR.virama/sinN.virama/sinNDa/sinND.virama/sinNda/sinNd.virama/sinNDAa.virama.ss01/sinNDh.virama/sinNdAa.virama.ss01/sinNdj.virama/sinJR.virama/sinNdjR.virama/sinNn.virama/sinDd.virama/sinNndd.virama/sinNnga/sinNng.virama/sinTha/sinTh.virama/sinNV.virama/sinNda/sinNya/sinNy.virama/sinNyAa.virama.ss01/sinNyR.virama/sinP.virama/sinVR.virama/sinYa.post/sinY.post.virama/sinMatraE/sinCha/sinPa/sinJa/sinYa/sinY.virama/sinNna/sinNn.virama/sinPh.virama/sinPa/sinKa/sinK.virama/sinPa/sinPRa/sinPRa/sinVirama/sinPR.virama/sinR.virama/sinSa/sinS.virama/sinSh.virama/sinShRa/sinShR.virama/sinSR.virama/sinSs.virama/sinSsR.virama/sinTa/sinT.virama/sinTh.virama/sinTRa/sinTR.virama/sinTh.virama/sinTTh.virama/sinTt.virama/sinTth.virama/sinTtR.virama/sinTtTth.virama/sinTV.virama/sinV.virama/sinVR.virama/sinYa.post/sinY.post.virama/sinY.virama</string>
-		<string>/sinNya</string>
-		<string>/sinPa/sinSsa/sinGha/sinU/sinUu</string>
-		<string>/sinVI/sinMI/sinDda/sinDdI/sinTta/sinTa/sinRa/sinNa/sinGa/sinKa/sinGa/sinNa/sinKa/sinNnddI/sinNnddIi</string>
-		<string>/sinNa</string>
-		<string>/sinK.virama/sinBa/sinMI/sinBI/sinE/sinSa/sinE/sinBh.virama/sinBhRa.virama/sinFR.virama/sinG.virama/sinGR.virama/sinH.virama/sinHR.virama</string>
-		<string>,</string>
-		<string>/sinUu</string>
-		<string>/sinNdUu</string>
-		<string>/sinNdUu/sinHI/sinGI/sinFI/sinPa ;/sinSa/sinKa  /sinI/sinDU/sinDUu/sinDa/sinMatraU/sinNna/sinMatraU  /sinMa/sinMatraU/sinHa/sinMatraU/sinNna/sinKa/sinVirama  /sinAe/sinTa/sinMatraI  /sinPa/sinMatraAe/sinSa/sinMatraU/sinNna/sinMatraU 
-?;/sinNngI/sinNnga/sinShI</string>
-		<string>,</string>
-		<string>/sinRUu</string>
-		<string>/sinRU</string>
-		<string>/sinRU_comma</string>
-		<string>/sinRU_comma</string>
-		<string>/sinRUu</string>
-		<string>/sinRU_comma</string>
-		<string>/sinRUu_comma</string>
-		<string>/sinRU_period</string>
-		<string>/sinRU_period/sinLa/sinY.virama/sinDI ()/sinOo 2000-/endash/emdash/endash/sinDa/sinDIi/sinDa ./sinRUu_period</string>
-		<string>/sinRUu_period</string>
-		<string>/sinGI/sinNngI/sinMI/sinGIi/sinSha/sinGRa/sinShRa/sinNngIi</string>
-		<string>/sinGa/sinGI/sinGIi/sinGR.virama/sinGRa/sinGRI/sinGRIi/sinShU/sinKU/sinGUu  
- /sinTUu/sinKUu/sinGU/sinTU/sinKU/sinGUu</string>
-		<string>/sinMUu/sinSUu/sinSU/sinGhUu 5/sinShRa/sinRU/sinRU_comma/sinMatraAe/sinMatraAae 869/sinGhU/sinMU</string>
-		<string>/sinKundaliya</string>
-		<string>/sinLlI/sinLlIi</string>
-		<string>/sinFRIi</string>
-		<string>/sinFRIi</string>
-		<string>/sinFRa/sinFRI/sinPI/sinPIi/sinShI  /sinBIi/sinBI/sinMIi/sinShIi/sinShRIi/sinFRIi</string>
-		<string></string>
-		<string>/sinA</string>
-		<string>/sinAe</string>
-		<string>/sinMba/sinMbI</string>
-		<string>/sinMbU</string>
-		<string>-/endash/emdash</string>
-		<string>/sinNI/sinNIi</string>
+		<string>/sinBha</string>
+		<string>ABCDEFCOGHIJKLMNOPQRSTUVWXYZabcdefgh/idotless ijk/k.001 lmnopqrstuunmununumvwxyszsxaZs
+examples</string>
+		<string>r</string>
+		<string>ea/jdotless</string>
+		<string>Aabcdefghijklmnopqrstuvwxyz</string>
+		<string>/Ygrave</string>
+		<string>¼½¾</string>
+		<string>·/periodcentered.loclCAT/bulletoperator/bullet</string>
+		<string>/Hbar</string>
+		<string>/einvertedbreve</string>
+		<string>/Acircumflexacute</string>
+		<string>Ð</string>
+		<string>/Gdotaccent</string>
+		<string>zs/lira 910</string>
+		<string>ð/Germandbls/dzcaron</string>
+		<string><![CDATA[/Odotaccentmacron/odotaccentmacron/f_f/fi/fl/f_f_i/f_f_l Rkt
+A&E@*©®/trademark ^]]></string>
+		<string>/sinPha</string>
+		<string>/sinAa</string>
+		<string>/sinKSsI/sinNyIi</string>
+		<string>/caroncomb.alt/circumflexcomb</string>
+		<string>/caroncomb</string>
+		<string>/caroncomb.alt</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<true/>
@@ -106,23 +87,23 @@
 		<string>A</string>
 		<string>Aacute</string>
 		<string>Abreve</string>
-		<string>uni1EAE</string>
-		<string>uni1EB6</string>
-		<string>uni1EB0</string>
-		<string>uni1EB2</string>
-		<string>uni1EB4</string>
+		<string>Abreveacute</string>
+		<string>Abrevedotbelow</string>
+		<string>Abrevegrave</string>
+		<string>Abrevehookabove</string>
+		<string>Abrevetilde</string>
 		<string>Acircumflex</string>
-		<string>uni1EA4</string>
-		<string>uni1EAC</string>
-		<string>uni1EA6</string>
-		<string>uni1EA8</string>
-		<string>uni1EAA</string>
-		<string>uni0200</string>
+		<string>Acircumflexacute</string>
+		<string>Acircumflexdotbelow</string>
+		<string>Acircumflexgrave</string>
+		<string>Acircumflexhookabove</string>
+		<string>Acircumflextilde</string>
+		<string>Adblgrave</string>
 		<string>Adieresis</string>
-		<string>uni1EA0</string>
+		<string>Adotbelow</string>
 		<string>Agrave</string>
-		<string>uni1EA2</string>
-		<string>uni0202</string>
+		<string>Ahookabove</string>
+		<string>Ainvertedbreve</string>
 		<string>Amacron</string>
 		<string>Aogonek</string>
 		<string>Aring</string>
@@ -138,38 +119,38 @@
 		<string>Ccircumflex</string>
 		<string>Cdotaccent</string>
 		<string>D</string>
-		<string>uni01C4</string>
+		<string>DZcaron</string>
 		<string>Eth</string>
 		<string>Dcaron</string>
 		<string>Dcroat</string>
-		<string>uni1E0C</string>
-		<string>uni01C5</string>
+		<string>Ddotbelow</string>
+		<string>Dzcaron</string>
 		<string>E</string>
 		<string>Eacute</string>
 		<string>Ebreve</string>
 		<string>Ecaron</string>
 		<string>Ecircumflex</string>
-		<string>uni1EBE</string>
-		<string>uni1EC6</string>
-		<string>uni1EC0</string>
-		<string>uni1EC2</string>
-		<string>uni1EC4</string>
-		<string>uni0204</string>
+		<string>Ecircumflexacute</string>
+		<string>Ecircumflexdotbelow</string>
+		<string>Ecircumflexgrave</string>
+		<string>Ecircumflexhookabove</string>
+		<string>Ecircumflextilde</string>
+		<string>Edblgrave</string>
 		<string>Edieresis</string>
 		<string>Edotaccent</string>
-		<string>uni1EB8</string>
+		<string>Edotbelow</string>
 		<string>Egrave</string>
-		<string>uni1EBA</string>
-		<string>uni0206</string>
+		<string>Ehookabove</string>
+		<string>Einvertedbreve</string>
 		<string>Emacron</string>
 		<string>Eogonek</string>
-		<string>uni1EBC</string>
+		<string>Etilde</string>
 		<string>F</string>
 		<string>G</string>
 		<string>Gbreve</string>
 		<string>Gcaron</string>
 		<string>Gcircumflex</string>
-		<string>uni0122</string>
+		<string>Gcommaaccent</string>
 		<string>Gdotaccent</string>
 		<string>H</string>
 		<string>Hbar</string>
@@ -178,71 +159,71 @@
 		<string>Iacute</string>
 		<string>Ibreve</string>
 		<string>Icircumflex</string>
-		<string>uni0208</string>
+		<string>Idblgrave</string>
 		<string>Idieresis</string>
 		<string>Idotaccent</string>
-		<string>uni1ECA</string>
+		<string>Idotbelow</string>
 		<string>Igrave</string>
-		<string>uni1EC8</string>
-		<string>uni020A</string>
+		<string>Ihookabove</string>
+		<string>Iinvertedbreve</string>
 		<string>Imacron</string>
 		<string>Iogonek</string>
 		<string>Itilde</string>
 		<string>J</string>
 		<string>Jcircumflex</string>
 		<string>K</string>
-		<string>uni0136</string>
+		<string>Kcommaaccent</string>
 		<string>L</string>
-		<string>uni01C7</string>
+		<string>LJ</string>
 		<string>Lacute</string>
 		<string>Lcaron</string>
-		<string>uni013B</string>
+		<string>Lcommaaccent</string>
 		<string>Ldot</string>
-		<string>uni1E36</string>
-		<string>uni01C8</string>
+		<string>Ldotbelow</string>
+		<string>Lj</string>
 		<string>Lslash</string>
 		<string>M</string>
-		<string>uni1E42</string>
+		<string>Mdotbelow</string>
 		<string>N</string>
-		<string>uni01CA</string>
+		<string>NJ</string>
 		<string>Nacute</string>
 		<string>Ncaron</string>
-		<string>uni0145</string>
-		<string>uni1E44</string>
-		<string>uni1E46</string>
+		<string>Ncommaaccent</string>
+		<string>Ndotaccent</string>
+		<string>Ndotbelow</string>
 		<string>Eng</string>
-		<string>uni01CB</string>
+		<string>Nj</string>
 		<string>Ntilde</string>
 		<string>O</string>
 		<string>Oacute</string>
 		<string>Obreve</string>
 		<string>Ocircumflex</string>
-		<string>uni1ED0</string>
-		<string>uni1ED8</string>
-		<string>uni1ED2</string>
-		<string>uni1ED4</string>
-		<string>uni1ED6</string>
-		<string>uni020C</string>
+		<string>Ocircumflexacute</string>
+		<string>Ocircumflexdotbelow</string>
+		<string>Ocircumflexgrave</string>
+		<string>Ocircumflexhookabove</string>
+		<string>Ocircumflextilde</string>
+		<string>Odblgrave</string>
 		<string>Odieresis</string>
-		<string>uni022A</string>
-		<string>uni0230</string>
-		<string>uni1ECC</string>
+		<string>Odieresismacron</string>
+		<string>Odotaccentmacron</string>
+		<string>Odotbelow</string>
 		<string>Ograve</string>
-		<string>uni1ECE</string>
+		<string>Ohookabove</string>
 		<string>Ohorn</string>
-		<string>uni1EDA</string>
-		<string>uni1EE2</string>
-		<string>uni1EDC</string>
-		<string>uni1EDE</string>
-		<string>uni1EE0</string>
+		<string>Ohornacute</string>
+		<string>Ohorndotbelow</string>
+		<string>Ohorngrave</string>
+		<string>Ohornhookabove</string>
+		<string>Ohorntilde</string>
 		<string>Ohungarumlaut</string>
-		<string>uni020E</string>
+		<string>Oinvertedbreve</string>
 		<string>Omacron</string>
-		<string>uni01EA</string>
+		<string>Oogonek</string>
 		<string>Oslash</string>
 		<string>Oslashacute</string>
 		<string>Otilde</string>
-		<string>uni022C</string>
+		<string>Otildemacron</string>
 		<string>OE</string>
 		<string>P</string>
 		<string>Thorn</string>
@@ -250,40 +231,40 @@
 		<string>R</string>
 		<string>Racute</string>
 		<string>Rcaron</string>
-		<string>uni0156</string>
-		<string>uni0210</string>
-		<string>uni0212</string>
+		<string>Rcommaaccent</string>
+		<string>Rdblgrave</string>
+		<string>Rinvertedbreve</string>
 		<string>S</string>
 		<string>Sacute</string>
 		<string>Scaron</string>
 		<string>Scedilla</string>
 		<string>Scircumflex</string>
-		<string>uni0218</string>
-		<string>uni1E9E</string>
-		<string>uni018F</string>
+		<string>Scommaaccent</string>
+		<string>Germandbls</string>
+		<string>Schwa</string>
 		<string>T</string>
 		<string>Tbar</string>
 		<string>Tcaron</string>
-		<string>uni0162</string>
-		<string>uni021A</string>
-		<string>uni1E6C</string>
+		<string>Tcedilla</string>
+		<string>Tcommaaccent</string>
+		<string>Tdotbelow</string>
 		<string>U</string>
 		<string>Uacute</string>
 		<string>Ubreve</string>
 		<string>Ucircumflex</string>
-		<string>uni0214</string>
+		<string>Udblgrave</string>
 		<string>Udieresis</string>
-		<string>uni1EE4</string>
+		<string>Udotbelow</string>
 		<string>Ugrave</string>
-		<string>uni1EE6</string>
+		<string>Uhookabove</string>
 		<string>Uhorn</string>
-		<string>uni1EE8</string>
-		<string>uni1EF0</string>
-		<string>uni1EEA</string>
-		<string>uni1EEC</string>
-		<string>uni1EEE</string>
+		<string>Uhornacute</string>
+		<string>Uhorndotbelow</string>
+		<string>Uhorngrave</string>
+		<string>Uhornhookabove</string>
+		<string>Uhorntilde</string>
 		<string>Uhungarumlaut</string>
-		<string>uni0216</string>
+		<string>Uinvertedbreve</string>
 		<string>Umacron</string>
 		<string>Uogonek</string>
 		<string>Uring</string>
@@ -299,11 +280,11 @@
 		<string>Yacute</string>
 		<string>Ycircumflex</string>
 		<string>Ydieresis</string>
-		<string>uni1EF4</string>
+		<string>Ydotbelow</string>
 		<string>Ygrave</string>
-		<string>uni1EF6</string>
-		<string>uni0232</string>
-		<string>uni1EF8</string>
+		<string>Yhookabove</string>
+		<string>Ymacron</string>
+		<string>Ytilde</string>
 		<string>Z</string>
 		<string>Zacute</string>
 		<string>Zcaron</string>
@@ -311,23 +292,23 @@
 		<string>a</string>
 		<string>aacute</string>
 		<string>abreve</string>
-		<string>uni1EAF</string>
-		<string>uni1EB7</string>
-		<string>uni1EB1</string>
-		<string>uni1EB3</string>
-		<string>uni1EB5</string>
+		<string>abreveacute</string>
+		<string>abrevedotbelow</string>
+		<string>abrevegrave</string>
+		<string>abrevehookabove</string>
+		<string>abrevetilde</string>
 		<string>acircumflex</string>
-		<string>uni1EA5</string>
-		<string>uni1EAD</string>
-		<string>uni1EA7</string>
-		<string>uni1EA9</string>
-		<string>uni1EAB</string>
-		<string>uni0201</string>
+		<string>acircumflexacute</string>
+		<string>acircumflexdotbelow</string>
+		<string>acircumflexgrave</string>
+		<string>acircumflexhookabove</string>
+		<string>acircumflextilde</string>
+		<string>adblgrave</string>
 		<string>adieresis</string>
-		<string>uni1EA1</string>
+		<string>adotbelow</string>
 		<string>agrave</string>
-		<string>uni1EA3</string>
-		<string>uni0203</string>
+		<string>ahookabove</string>
+		<string>ainvertedbreve</string>
 		<string>amacron</string>
 		<string>aogonek</string>
 		<string>aring</string>
@@ -346,109 +327,109 @@
 		<string>eth</string>
 		<string>dcaron</string>
 		<string>dcroat</string>
-		<string>uni1E0D</string>
-		<string>uni01C6</string>
+		<string>ddotbelow</string>
+		<string>dzcaron</string>
 		<string>e</string>
 		<string>eacute</string>
 		<string>ebreve</string>
 		<string>ecaron</string>
 		<string>ecircumflex</string>
-		<string>uni1EBF</string>
-		<string>uni1EC7</string>
-		<string>uni1EC1</string>
-		<string>uni1EC3</string>
-		<string>uni1EC5</string>
-		<string>uni0205</string>
+		<string>ecircumflexacute</string>
+		<string>ecircumflexdotbelow</string>
+		<string>ecircumflexgrave</string>
+		<string>ecircumflexhookabove</string>
+		<string>ecircumflextilde</string>
+		<string>edblgrave</string>
 		<string>edieresis</string>
 		<string>edotaccent</string>
-		<string>uni1EB9</string>
+		<string>edotbelow</string>
 		<string>egrave</string>
-		<string>uni1EBB</string>
-		<string>uni0207</string>
+		<string>ehookabove</string>
+		<string>einvertedbreve</string>
 		<string>emacron</string>
 		<string>eogonek</string>
-		<string>uni1EBD</string>
-		<string>uni0259</string>
+		<string>etilde</string>
+		<string>schwa</string>
 		<string>f</string>
 		<string>g</string>
 		<string>gbreve</string>
 		<string>gcaron</string>
 		<string>gcircumflex</string>
-		<string>uni0123</string>
+		<string>gcommaaccent</string>
 		<string>gdotaccent</string>
 		<string>h</string>
 		<string>hbar</string>
 		<string>hcircumflex</string>
 		<string>i</string>
-		<string>dotlessi</string>
+		<string>idotless</string>
 		<string>iacute</string>
 		<string>ibreve</string>
 		<string>icircumflex</string>
-		<string>uni0209</string>
+		<string>idblgrave</string>
 		<string>idieresis</string>
-		<string>i.loclTRK</string>
-		<string>uni1ECB</string>
+		<string>idotaccent</string>
+		<string>idotbelow</string>
 		<string>igrave</string>
-		<string>uni1EC9</string>
-		<string>uni020B</string>
+		<string>ihookabove</string>
+		<string>iinvertedbreve</string>
 		<string>imacron</string>
 		<string>iogonek</string>
 		<string>itilde</string>
 		<string>j</string>
-		<string>uni0237</string>
+		<string>jdotless</string>
 		<string>jcircumflex</string>
 		<string>k</string>
-		<string>uni0137</string>
+		<string>kcommaaccent</string>
 		<string>kgreenlandic</string>
 		<string>l</string>
 		<string>lacute</string>
 		<string>lcaron</string>
-		<string>uni013C</string>
+		<string>lcommaaccent</string>
 		<string>ldot</string>
-		<string>uni1E37</string>
-		<string>uni01C9</string>
+		<string>ldotbelow</string>
+		<string>lj</string>
 		<string>lslash</string>
 		<string>m</string>
-		<string>uni1E43</string>
+		<string>mdotbelow</string>
 		<string>n</string>
 		<string>nacute</string>
 		<string>ncaron</string>
-		<string>uni0146</string>
-		<string>uni1E45</string>
-		<string>uni1E47</string>
+		<string>ncommaaccent</string>
+		<string>ndotaccent</string>
+		<string>ndotbelow</string>
 		<string>eng</string>
-		<string>uni01CC</string>
+		<string>nj</string>
 		<string>ntilde</string>
 		<string>o</string>
 		<string>oacute</string>
 		<string>obreve</string>
 		<string>ocircumflex</string>
-		<string>uni1ED1</string>
-		<string>uni1ED9</string>
-		<string>uni1ED3</string>
-		<string>uni1ED5</string>
-		<string>uni1ED7</string>
-		<string>uni020D</string>
+		<string>ocircumflexacute</string>
+		<string>ocircumflexdotbelow</string>
+		<string>ocircumflexgrave</string>
+		<string>ocircumflexhookabove</string>
+		<string>ocircumflextilde</string>
+		<string>odblgrave</string>
 		<string>odieresis</string>
-		<string>uni022B</string>
-		<string>uni0231</string>
-		<string>uni1ECD</string>
+		<string>odieresismacron</string>
+		<string>odotaccentmacron</string>
+		<string>odotbelow</string>
 		<string>ograve</string>
-		<string>uni1ECF</string>
+		<string>ohookabove</string>
 		<string>ohorn</string>
-		<string>uni1EDB</string>
-		<string>uni1EE3</string>
-		<string>uni1EDD</string>
-		<string>uni1EDF</string>
-		<string>uni1EE1</string>
+		<string>ohornacute</string>
+		<string>ohorndotbelow</string>
+		<string>ohorngrave</string>
+		<string>ohornhookabove</string>
+		<string>ohorntilde</string>
 		<string>ohungarumlaut</string>
-		<string>uni020F</string>
+		<string>oinvertedbreve</string>
 		<string>omacron</string>
-		<string>uni01EB</string>
+		<string>oogonek</string>
 		<string>oslash</string>
 		<string>oslashacute</string>
 		<string>otilde</string>
-		<string>uni022D</string>
+		<string>otildemacron</string>
 		<string>oe</string>
 		<string>p</string>
 		<string>thorn</string>
@@ -456,39 +437,39 @@
 		<string>r</string>
 		<string>racute</string>
 		<string>rcaron</string>
-		<string>uni0157</string>
-		<string>uni0211</string>
-		<string>uni0213</string>
+		<string>rcommaaccent</string>
+		<string>rdblgrave</string>
+		<string>rinvertedbreve</string>
 		<string>s</string>
 		<string>sacute</string>
 		<string>scaron</string>
 		<string>scedilla</string>
 		<string>scircumflex</string>
-		<string>uni0219</string>
+		<string>scommaaccent</string>
 		<string>germandbls</string>
 		<string>t</string>
 		<string>tbar</string>
 		<string>tcaron</string>
-		<string>uni0163</string>
-		<string>uni021B</string>
-		<string>uni1E6D</string>
+		<string>tcedilla</string>
+		<string>tcommaaccent</string>
+		<string>tdotbelow</string>
 		<string>u</string>
 		<string>uacute</string>
 		<string>ubreve</string>
 		<string>ucircumflex</string>
-		<string>uni0215</string>
+		<string>udblgrave</string>
 		<string>udieresis</string>
-		<string>uni1EE5</string>
+		<string>udotbelow</string>
 		<string>ugrave</string>
-		<string>uni1EE7</string>
+		<string>uhookabove</string>
 		<string>uhorn</string>
-		<string>uni1EE9</string>
-		<string>uni1EF1</string>
-		<string>uni1EEB</string>
-		<string>uni1EED</string>
-		<string>uni1EEF</string>
+		<string>uhornacute</string>
+		<string>uhorndotbelow</string>
+		<string>uhorngrave</string>
+		<string>uhornhookabove</string>
+		<string>uhorntilde</string>
 		<string>uhungarumlaut</string>
-		<string>uni0217</string>
+		<string>uinvertedbreve</string>
 		<string>umacron</string>
 		<string>uogonek</string>
 		<string>uring</string>
@@ -504,15 +485,16 @@
 		<string>yacute</string>
 		<string>ycircumflex</string>
 		<string>ydieresis</string>
-		<string>uni1EF5</string>
+		<string>ydotbelow</string>
 		<string>ygrave</string>
-		<string>uni1EF7</string>
-		<string>uni0233</string>
-		<string>uni1EF9</string>
+		<string>yhookabove</string>
+		<string>ymacron</string>
+		<string>ytilde</string>
 		<string>z</string>
 		<string>zacute</string>
 		<string>zcaron</string>
 		<string>zdotaccent</string>
+		<string>k.001</string>
 		<string>f_f</string>
 		<string>f_f_i</string>
 		<string>f_f_l</string>
@@ -546,67 +528,67 @@
 		<string>Z.sc</string>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
-		<string>uni0D85</string>
-		<string>uni0D86</string>
-		<string>uni0D88</string>
-		<string>uni0D87</string>
-		<string>uni0D93</string>
-		<string>uni0D96</string>
-		<string>uni0DB6</string>
-		<string>uni0DB7</string>
-		<string>uni0DA0</string>
-		<string>uni0DA1</string>
-		<string>uni0DAF</string>
-		<string>uni0DA9</string>
-		<string>uni0DAA</string>
-		<string>uni0DB0</string>
-		<string>uni0D91</string>
-		<string>uni0D92</string>
-		<string>uni0DC6</string>
-		<string>uni0D9C</string>
-		<string>uni0D9D</string>
-		<string>uni0DC4</string>
-		<string>uni0D89</string>
-		<string>uni0D8A</string>
-		<string>uni0DA2</string>
-		<string>uni0DA3</string>
-		<string>uni0DA5</string>
-		<string>uni0D9A</string>
-		<string>uni0D9B</string>
-		<string>uni0DBD</string>
-		<string>uni0DC5</string>
-		<string>uni0DB8</string>
-		<string>uni0DB9</string>
-		<string>uni0DB1</string>
-		<string>uni0DB3</string>
-		<string>uni0DA6</string>
-		<string>uni0D9E</string>
-		<string>uni0DAB</string>
-		<string>uni0DAC</string>
-		<string>uni0D9F</string>
-		<string>uni0DA4</string>
-		<string>uni0D94</string>
-		<string>uni0D95</string>
-		<string>uni0DB4</string>
-		<string>uni0DB5</string>
-		<string>uni0DBB</string>
-		<string>uni0DC3</string>
-		<string>uni0DC1</string>
-		<string>uni0DC2</string>
-		<string>uni0DAD</string>
-		<string>uni0DAE</string>
-		<string>uni0DA7</string>
-		<string>uni0DA8</string>
-		<string>uni0D8B</string>
-		<string>uni0D8C</string>
-		<string>uni0DC0</string>
-		<string>uni0D8D</string>
-		<string>uni0D8F</string>
-		<string>uni0D90</string>
-		<string>uni0DBA</string>
-		<string>uni0D8E</string>
-		<string>uni0DA9.virama</string>
-		<string>uni0DBA.post</string>
+		<string>sinA</string>
+		<string>sinAa</string>
+		<string>sinAae</string>
+		<string>sinAe</string>
+		<string>sinAi</string>
+		<string>sinAu</string>
+		<string>sinBa</string>
+		<string>sinBha</string>
+		<string>sinCa</string>
+		<string>sinCha</string>
+		<string>sinDa</string>
+		<string>sinDda</string>
+		<string>sinDdha</string>
+		<string>sinDha</string>
+		<string>sinE</string>
+		<string>sinEe</string>
+		<string>sinFa</string>
+		<string>sinGa</string>
+		<string>sinGha</string>
+		<string>sinHa</string>
+		<string>sinI</string>
+		<string>sinIi</string>
+		<string>sinJa</string>
+		<string>sinJha</string>
+		<string>sinJnya</string>
+		<string>sinKa</string>
+		<string>sinKha</string>
+		<string>sinLa</string>
+		<string>sinLla</string>
+		<string>sinMa</string>
+		<string>sinMba</string>
+		<string>sinNa</string>
+		<string>sinNda</string>
+		<string>sinNdja</string>
+		<string>sinNga</string>
+		<string>sinNna</string>
+		<string>sinNndda</string>
+		<string>sinNnga</string>
+		<string>sinNya</string>
+		<string>sinO</string>
+		<string>sinOo</string>
+		<string>sinPa</string>
+		<string>sinPha</string>
+		<string>sinRa</string>
+		<string>sinSa</string>
+		<string>sinSha</string>
+		<string>sinSsa</string>
+		<string>sinTa</string>
+		<string>sinTha</string>
+		<string>sinTta</string>
+		<string>sinTtha</string>
+		<string>sinU</string>
+		<string>sinUu</string>
+		<string>sinVa</string>
+		<string>sinVocalicR</string>
+		<string>sinVocalicl</string>
+		<string>sinVocalicll</string>
+		<string>sinYa</string>
+		<string>sinvocalicRr</string>
+		<string>sinDda.virama</string>
+		<string>sinYa.post</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -637,10 +619,10 @@
 		<string>seven.onum</string>
 		<string>eight.onum</string>
 		<string>nine.onum</string>
-		<string>uni00B9</string>
-		<string>uni00B2</string>
-		<string>uni00B3</string>
-		<string>uni2074</string>
+		<string>onesuperior</string>
+		<string>twosuperior</string>
+		<string>threesuperior</string>
+		<string>foursuperior</string>
 		<string>fraction</string>
 		<string>onehalf</string>
 		<string>onequarter</string>
@@ -668,7 +650,7 @@
 		<string>bracketleft</string>
 		<string>bracketright</string>
 		<string>hyphen</string>
-		<string>uni00AD</string>
+		<string>softhyphen</string>
 		<string>endash</string>
 		<string>emdash</string>
 		<string>underscore</string>
@@ -678,43 +660,43 @@
 		<string>quotedblright</string>
 		<string>quoteleft</string>
 		<string>quoteright</string>
-		<string>guillemotleft</string>
-		<string>guillemotright</string>
+		<string>guillemetleft</string>
+		<string>guillemetright</string>
 		<string>guilsinglleft</string>
 		<string>guilsinglright</string>
 		<string>quotedbl</string>
 		<string>quotesingle</string>
-		<string>uni0DF4</string>
+		<string>sinKundaliya</string>
 		<string>space</string>
-		<string>uni00A0</string>
-		<string>uni200D</string>
-		<string>uni200C</string>
+		<string>nbspace</string>
+		<string>zerowidthjoiner</string>
+		<string>zerowidthnonjoiner</string>
 		<string>CR</string>
 		<string>.null</string>
-		<string>uni20B5</string>
+		<string>cedi</string>
 		<string>cent</string>
-		<string>colonmonetary</string>
+		<string>colonsign</string>
 		<string>currency</string>
 		<string>dollar</string>
 		<string>dong</string>
-		<string>Euro</string>
+		<string>euro</string>
 		<string>florin</string>
 		<string>franc</string>
-		<string>uni20B2</string>
-		<string>uni20AD</string>
+		<string>guarani</string>
+		<string>kip</string>
 		<string>lira</string>
-		<string>uni20BA</string>
-		<string>uni20BC</string>
-		<string>uni20A6</string>
+		<string>liraTurkish</string>
+		<string>manat</string>
+		<string>naira</string>
 		<string>peseta</string>
-		<string>uni20B1</string>
-		<string>uni20BD</string>
-		<string>uni20B9</string>
+		<string>peso</string>
+		<string>ruble</string>
+		<string>rupeeIndian</string>
 		<string>sterling</string>
-		<string>uni20A9</string>
+		<string>won</string>
 		<string>yen</string>
-		<string>uni2219</string>
-		<string>uni2215</string>
+		<string>bulletoperator</string>
+		<string>divisionslash</string>
 		<string>plus</string>
 		<string>minus</string>
 		<string>multiply</string>
@@ -730,10 +712,10 @@
 		<string>asciitilde</string>
 		<string>logicalnot</string>
 		<string>asciicircum</string>
-		<string>uni00B5</string>
+		<string>micro</string>
 		<string>percent</string>
 		<string>perthousand</string>
-		<string>uni25CC</string>
+		<string>dottedCircle</string>
 		<string>at</string>
 		<string>ampersand</string>
 		<string>paragraph</string>
@@ -746,38 +728,38 @@
 		<string>brokenbar</string>
 		<string>dagger</string>
 		<string>daggerdbl</string>
-		<string>uni2116</string>
+		<string>numero</string>
 		<string>sun</string>
-		<string>u1F319</string>
-		<string>u1F31B</string>
-		<string>u1F315</string>
-		<string>u1F31D</string>
-		<string>u1F31E</string>
-		<string>uni02C9</string>
-		<string>uni0308</string>
-		<string>uni0307</string>
+		<string>crescentmoon</string>
+		<string>firstquartermoon</string>
+		<string>fullmoon</string>
+		<string>moonwithface</string>
+		<string>sunwithface</string>
+		<string>firsttonechinese</string>
+		<string>dieresiscomb</string>
+		<string>dotaccentcomb</string>
 		<string>gravecomb</string>
 		<string>acutecomb</string>
-		<string>uni030B</string>
+		<string>hungarumlautcomb</string>
 		<string>caroncomb.alt</string>
-		<string>uni0302</string>
-		<string>uni030C</string>
-		<string>uni0306</string>
-		<string>uni030A</string>
+		<string>circumflexcomb</string>
+		<string>caroncomb</string>
+		<string>brevecomb</string>
+		<string>ringcomb</string>
 		<string>tildecomb</string>
-		<string>uni0304</string>
+		<string>macroncomb</string>
 		<string>hookabovecomb</string>
-		<string>uni030F</string>
-		<string>uni0311</string>
-		<string>uni0312</string>
-		<string>uni031B</string>
+		<string>dblgravecomb</string>
+		<string>breveinvertedcomb</string>
+		<string>commaturnedabovecomb</string>
+		<string>horncomb</string>
 		<string>dotbelowcomb</string>
-		<string>uni0324</string>
-		<string>uni0326</string>
-		<string>uni0327</string>
-		<string>uni0328</string>
-		<string>uni032E</string>
-		<string>uni0331</string>
+		<string>dieresisbelowcomb</string>
+		<string>commaaccent</string>
+		<string>cedillacomb</string>
+		<string>ogonekcomb</string>
+		<string>brevebelowcomb</string>
+		<string>macronbelowcomb</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
@@ -791,45 +773,45 @@
 		<string>ogonek</string>
 		<string>ring</string>
 		<string>tilde</string>
-		<string>uni0D82</string>
-		<string>uni0DCF</string>
-		<string>uni0DD1</string>
-		<string>uni0DD0</string>
-		<string>uni0DDB</string>
-		<string>uni0DDE</string>
-		<string>uni0DD9</string>
-		<string>uni0DDA</string>
-		<string>uni0DD2</string>
-		<string>uni0DD3</string>
-		<string>uni0DF3</string>
-		<string>uni0DDF</string>
-		<string>uni0DDC</string>
-		<string>uni0DDD</string>
-		<string>uni0DD8</string>
-		<string>uni0DF2</string>
-		<string>uni0DD4</string>
-		<string>uni0DD6</string>
-		<string>uni0DCA</string>
-		<string>uni0D83</string>
-		<string>uni0DCF.virama</string>
-		<string>uni0DD9.salt</string>
-		<string>uni0DD9.ss01</string>
-		<string>uni0DD2.alt</string>
-		<string>uni0DD2.alt1</string>
-		<string>uni0DD2.alt2</string>
-		<string>uni0DD2.alt3</string>
-		<string>uni0DD3.alt</string>
-		<string>uni0DD3.alt1</string>
-		<string>uni0DD3.alt2</string>
-		<string>uni0DD3.alt3</string>
-		<string>uni0DD4.alt</string>
-		<string>uni0DD4.alt1</string>
-		<string>uni0DD4.alt2</string>
-		<string>uni0DD4.alt3</string>
-		<string>uni0DD6.alt</string>
-		<string>uni0DD6.alt1</string>
-		<string>uni0DD6.alt2</string>
-		<string>uni0DD6.alt3</string>
+		<string>sinAnusvara</string>
+		<string>sinMatraAa</string>
+		<string>sinMatraAae</string>
+		<string>sinMatraAe</string>
+		<string>sinMatraAi</string>
+		<string>sinMatraAu</string>
+		<string>sinMatraE</string>
+		<string>sinMatraEe</string>
+		<string>sinMatraI</string>
+		<string>sinMatraIi</string>
+		<string>sinMatraLl</string>
+		<string>sinMatraLs</string>
+		<string>sinMatraO</string>
+		<string>sinMatraOo</string>
+		<string>sinMatraR</string>
+		<string>sinMatraRr</string>
+		<string>sinMatraU</string>
+		<string>sinMatraUu</string>
+		<string>sinVirama</string>
+		<string>sinVisarga</string>
+		<string>sinMatraAa.virama</string>
+		<string>sinMatraE.salt</string>
+		<string>sinMatraE.ss01</string>
+		<string>sinMatraI.alt</string>
+		<string>sinMatraI.alt1</string>
+		<string>sinMatraI.alt2</string>
+		<string>sinMatraI.alt3</string>
+		<string>sinMatraIi.alt</string>
+		<string>sinMatraIi.alt1</string>
+		<string>sinMatraIi.alt2</string>
+		<string>sinMatraIi.alt3</string>
+		<string>sinMatraU.alt</string>
+		<string>sinMatraU.alt1</string>
+		<string>sinMatraU.alt2</string>
+		<string>sinMatraU.alt3</string>
+		<string>sinMatraUu.alt</string>
+		<string>sinMatraUu.alt1</string>
+		<string>sinMatraUu.alt2</string>
+		<string>sinMatraUu.alt3</string>
 		<string>sinBI</string>
 		<string>sinBIi</string>
 		<string>sinBhI</string>
