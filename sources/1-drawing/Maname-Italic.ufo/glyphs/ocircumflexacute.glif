@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflexacute" format="1">
+  <advance width="443"/>
+  <unicode hex="1ED1"/>
+  <outline>
+    <component base="o"/>
+    <component base="circumflexcomb"/>
+    <component base="acutecomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-05 04:24:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>

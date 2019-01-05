@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aring" format="1">
+  <advance width="484"/>
+  <unicode hex="00E5"/>
+  <outline>
+    <component base="a"/>
+    <component base="ringcomb" xOffset="130" yOffset="-120"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-05 04:26:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>
