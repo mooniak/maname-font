@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0DAC" format="2">
+	<advance width="789"/>
+	<unicode hex="0DAC"/>
+	<outline>
+		<contour>
+			<point x="93" y="-6" type="curve"/>
+			<point x="112" y="-6"/>
+			<point x="122" y="-2"/>
+			<point x="127" y="1" type="curve"/>
+			<point x="109" y="27"/>
+			<point x="83" y="81"/>
+			<point x="83" y="176" type="curve"/>
+			<point x="83" y="278"/>
+			<point x="106" y="386"/>
+			<point x="253" y="366" type="curve"/>
+			<point x="258" y="377" type="line"/>
+			<point x="346" y="391" type="line"/>
+			<point x="343" y="420" type="line"/>
+			<point x="330" y="424"/>
+			<point x="317" y="424"/>
+			<point x="307" y="425" type="curve"/>
+			<point x="136" y="442"/>
+			<point x="30" y="344"/>
+			<point x="30" y="176" type="curve"/>
+			<point x="30" y="88"/>
+			<point x="67" y="27"/>
+		</contour>
+		<component base="uni0DA9" xOffset="87"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-14 04:40:05 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>sinNda</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=sinTta</string>
+		</dict>
+	</lib>
+</glyph>

@@ -4,6 +4,7 @@
   <unicode hex="02C6"/>
   <outline>
     <contour>
+      <point x="-102" y="700" type="line"/>
       <point x="-69" y="712"/>
       <point x="-23" y="742"/>
       <point x="0" y="767" type="curve"/>
@@ -19,13 +20,12 @@
       <point x="-29" y="815"/>
       <point x="-81" y="768"/>
       <point x="-127" y="742" type="curve"/>
-      <point x="-102" y="700" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-01-05 04:22:02 +0000</string>
+      <string>2019-01-05 04:49:39 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>Jan 29 17, 13:22</key>

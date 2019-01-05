@@ -4,25 +4,6 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string> </string>
-		<string><![CDATA[/quoteleft/quoteright ,'"']]></string>
-		<string>/ellipsis -/emdash</string>
-		<string></string>
-		<string>/emdash</string>
-		<string>/acutecomb/sacute</string>
-		<string>/abreveacute</string>
-		<string>E/tildecomb/Etilde</string>
-		<string>/firsttonechinese</string>
-		<string>/dieresiscomb</string>
-		<string>/dotaccentcomb</string>
-		<string>/gravecomb</string>
-		<string>/tildecomb</string>
-		<string>/macroncomb</string>
-		<string>/brevecomb</string>
-		<string>/hookabovecomb</string>
-		<string>/ringcomb</string>
-		<string>abcdefgh/idotless i/jdotless/jdotless jklmnopqrstuvwxyz</string>
-		<string>Q</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>

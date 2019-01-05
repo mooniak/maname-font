@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinThI" format="2">
+	<advance width="609"/>
+	<outline>
+		<contour>
+			<point x="250" y="506" type="curve"/>
+			<point x="239" y="570" type="line"/>
+			<point x="226" y="570"/>
+			<point x="136" y="566"/>
+			<point x="136" y="636" type="curve"/>
+			<point x="136" y="695"/>
+			<point x="217" y="719"/>
+			<point x="286" y="719" type="curve"/>
+			<point x="382" y="719"/>
+			<point x="467" y="681"/>
+			<point x="467" y="627" type="curve"/>
+			<point x="467" y="576"/>
+			<point x="382" y="572"/>
+			<point x="382" y="572" type="curve"/>
+			<point x="422" y="544" type="line"/>
+			<point x="470" y="544"/>
+			<point x="521" y="600"/>
+			<point x="521" y="659" type="curve"/>
+			<point x="521" y="713"/>
+			<point x="458" y="786"/>
+			<point x="333" y="786" type="curve"/>
+			<point x="189" y="786"/>
+			<point x="107" y="729"/>
+			<point x="107" y="630" type="curve"/>
+			<point x="107" y="570"/>
+			<point x="167" y="514"/>
+		</contour>
+		<component base="uni0DAE"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+		</dict>
+	</lib>
+</glyph>

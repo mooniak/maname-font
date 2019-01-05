@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j" format="2">
+	<advance width="282"/>
+	<unicode hex="006A"/>
+	<outline>
+		<contour>
+			<point x="201" y="-6" type="curve"/>
+			<point x="200" y="76"/>
+			<point x="201" y="366"/>
+			<point x="209" y="466" type="curve"/>
+			<point x="209" y="466"/>
+			<point x="101" y="456"/>
+			<point x="14" y="457" type="curve"/>
+			<point x="18" y="410" type="line"/>
+			<point x="89" y="410"/>
+			<point x="112" y="387"/>
+			<point x="116" y="353" type="curve"/>
+			<point x="120" y="306"/>
+			<point x="130" y="150"/>
+			<point x="119" y="-2" type="curve"/>
+			<point x="108" y="-116"/>
+			<point x="52" y="-164"/>
+			<point x="-22" y="-146" type="curve"/>
+			<point x="-39" y="-185" type="line"/>
+			<point x="-28" y="-191"/>
+			<point x="11" y="-204"/>
+			<point x="53" y="-203" type="curve"/>
+			<point x="151" y="-203"/>
+			<point x="203" y="-142"/>
+		</contour>
+		<component base="dotaccent" xOffset="140" yOffset="-7"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinRU_period" format="2">
+	<advance width="1010"/>
+	<outline>
+		<component base="uni0DBB" xOffset="10"/>
+		<component base="uni0DD0" xOffset="530" yOffset="-11"/>
+		<component base="period" xOffset="830"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-17 04:00:07 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>period</string>
+		</dict>
+	</lib>
+</glyph>

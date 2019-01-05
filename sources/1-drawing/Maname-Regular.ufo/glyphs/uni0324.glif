@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0324" format="2">
+	<advance width="276"/>
+	<unicode hex="0324"/>
+	<outline>
+		<contour>
+			<point x="69" y="-213" type="curve"/>
+			<point x="96" y="-213"/>
+			<point x="118" y="-195"/>
+			<point x="118" y="-168" type="curve"/>
+			<point x="118" y="-141"/>
+			<point x="96" y="-119"/>
+			<point x="69" y="-119" type="curve"/>
+			<point x="42" y="-119"/>
+			<point x="21" y="-138"/>
+			<point x="21" y="-165" type="curve"/>
+			<point x="21" y="-192"/>
+			<point x="42" y="-213"/>
+		</contour>
+		<contour>
+			<point x="210" y="-214" type="curve"/>
+			<point x="237" y="-214"/>
+			<point x="255" y="-193"/>
+			<point x="255" y="-166" type="curve"/>
+			<point x="255" y="-139"/>
+			<point x="237" y="-117"/>
+			<point x="210" y="-117" type="curve"/>
+			<point x="183" y="-117"/>
+			<point x="162" y="-139"/>
+			<point x="162" y="-166" type="curve"/>
+			<point x="162" y="-193"/>
+			<point x="183" y="-214"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+		</dict>
+	</lib>
+</glyph>

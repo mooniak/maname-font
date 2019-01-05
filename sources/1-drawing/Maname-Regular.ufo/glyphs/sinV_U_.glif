@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinVU" format="2">
+	<advance width="608"/>
+	<outline>
+		<contour>
+			<point x="217" y="-210" type="curve"/>
+			<point x="542" y="-215" type="line"/>
+			<point x="545" y="280" type="line"/>
+			<point x="519" y="259" type="line"/>
+			<point x="490" y="-133" type="line"/>
+			<point x="389" y="-151"/>
+			<point x="306" y="-164"/>
+			<point x="215" y="-162" type="curve"/>
+			<point x="163" y="-161"/>
+			<point x="141" y="-114"/>
+			<point x="141" y="-87" type="curve"/>
+			<point x="119" y="-82"/>
+			<point x="78" y="-98"/>
+			<point x="67" y="-110" type="curve"/>
+			<point x="75" y="-152"/>
+			<point x="115" y="-208"/>
+		</contour>
+		<component base="uni0DC0" yOffset="-8"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

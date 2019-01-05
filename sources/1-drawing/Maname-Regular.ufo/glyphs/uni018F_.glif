@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni018F" format="2">
+	<advance width="558"/>
+	<unicode hex="018F"/>
+	<outline>
+		<contour>
+			<point x="520" y="333" type="curve"/>
+			<point x="520" y="507"/>
+			<point x="407" y="598"/>
+			<point x="269" y="598" type="curve"/>
+			<point x="142" y="597"/>
+			<point x="69" y="526"/>
+			<point x="53" y="506" type="curve"/>
+			<point x="72" y="480" type="line"/>
+			<point x="74" y="480"/>
+			<point x="135" y="537"/>
+			<point x="229" y="535" type="curve"/>
+			<point x="396" y="533"/>
+			<point x="429" y="408"/>
+			<point x="427" y="281" type="curve"/>
+			<point x="425" y="105"/>
+			<point x="349" y="54"/>
+			<point x="283" y="54" type="curve"/>
+			<point x="190" y="54"/>
+			<point x="120" y="138"/>
+			<point x="120" y="255" type="curve"/>
+			<point x="212" y="256" type="line"/>
+			<point x="455" y="278" type="line"/>
+			<point x="440" y="324" type="line"/>
+			<point x="33" y="322" type="line"/>
+			<point x="12" y="125"/>
+			<point x="107" y="2"/>
+			<point x="268" y="3" type="curve"/>
+			<point x="394" y="5"/>
+			<point x="520" y="116"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+		</dict>
+	</lib>
+</glyph>

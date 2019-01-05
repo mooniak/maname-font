@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinGhU" format="2">
+	<advance width="697"/>
+	<outline>
+		<contour>
+			<point x="259" y="-215" type="curve"/>
+			<point x="633" y="-215" type="line"/>
+			<point x="654" y="-199" type="line"/>
+			<point x="649" y="197" type="line"/>
+			<point x="625" y="195" type="line"/>
+			<point x="599" y="-146" type="line"/>
+			<point x="495" y="-160"/>
+			<point x="351" y="-173"/>
+			<point x="257" y="-171" type="curve"/>
+			<point x="205" y="-170"/>
+			<point x="183" y="-119"/>
+			<point x="183" y="-92" type="curve"/>
+			<point x="161" y="-87"/>
+			<point x="120" y="-103"/>
+			<point x="109" y="-115" type="curve"/>
+			<point x="117" y="-157"/>
+			<point x="157" y="-215"/>
+		</contour>
+		<component base="uni0D9D"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-17 04:44:39 +0000</string>
+		</dict>
+	</lib>
+</glyph>

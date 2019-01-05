@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EE5" format="2">
+	<advance width="561"/>
+	<unicode hex="1EE5"/>
+	<outline>
+		<component base="u"/>
+		<component base="dotbelowcomb" xOffset="76" yOffset="24"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=u</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=u</string>
+		</dict>
+	</lib>
+</glyph>

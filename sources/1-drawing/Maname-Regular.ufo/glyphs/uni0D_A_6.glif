@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0DA6" format="2">
+	<advance width="751"/>
+	<unicode hex="0DA6"/>
+	<outline>
+		<contour>
+			<point x="93" y="2" type="curve"/>
+			<point x="112" y="2"/>
+			<point x="123" y="6"/>
+			<point x="127" y="9" type="curve"/>
+			<point x="112" y="36"/>
+			<point x="85" y="109"/>
+			<point x="85" y="184" type="curve"/>
+			<point x="85" y="309"/>
+			<point x="158" y="416"/>
+			<point x="260" y="406" type="curve"/>
+			<point x="304" y="459" type="line"/>
+			<point x="148" y="473"/>
+			<point x="30" y="370"/>
+			<point x="30" y="206" type="curve"/>
+			<point x="30" y="119"/>
+			<point x="67" y="33"/>
+		</contour>
+		<component base="uni0DA2" xOffset="109"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-16 19:23:41 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>sinNda</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sinJa</string>
+		</dict>
+	</lib>
+</glyph>

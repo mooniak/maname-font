@@ -4,15 +4,16 @@
   <unicode hex="02DB"/>
   <outline>
     <contour>
-      <point x="-7" y="-218"/>
+      <point x="-51" y="-217" type="curve" smooth="yes"/>
+      <point x="-5" y="-217"/>
       <point x="26" y="-199"/>
       <point x="43" y="-189" type="curve"/>
       <point x="29" y="-151" type="line"/>
-      <point x="12" y="-161"/>
-      <point x="-7" y="-168"/>
-      <point x="-34" y="-167" type="curve" smooth="yes"/>
-      <point x="-76" y="-166"/>
-      <point x="-94" y="-150"/>
+      <point x="13" y="-160"/>
+      <point x="-5" y="-167"/>
+      <point x="-29" y="-167" type="curve" smooth="yes"/>
+      <point x="-75" y="-167"/>
+      <point x="-94" y="-151"/>
       <point x="-94" y="-116" type="curve" smooth="yes"/>
       <point x="-94" y="-52"/>
       <point x="-35" y="-16"/>
@@ -22,17 +23,16 @@
       <point x="-8" y="19"/>
       <point x="-24" y="17" type="curve"/>
       <point x="-59" y="15"/>
-      <point x="-172" y="-35"/>
-      <point x="-174" y="-129" type="curve" smooth="yes"/>
-      <point x="-175" y="-177"/>
-      <point x="-140" y="-216"/>
-      <point x="-55" y="-217" type="curve" smooth="yes"/>
+      <point x="-174" y="-36"/>
+      <point x="-174" y="-131" type="curve" smooth="yes"/>
+      <point x="-174" y="-179"/>
+      <point x="-138" y="-217"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-01-05 04:22:02 +0000</string>
+      <string>2019-01-05 04:49:39 +0000</string>
     </dict>
   </lib>
 </glyph>

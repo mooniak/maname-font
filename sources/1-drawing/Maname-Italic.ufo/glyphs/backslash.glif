@@ -4,20 +4,20 @@
   <unicode hex="005C"/>
   <outline>
     <contour>
+      <point x="332" y="-62" type="curve"/>
+      <point x="406" y="-62" type="line"/>
       <point x="286" y="175"/>
       <point x="182" y="412"/>
       <point x="85" y="648" type="curve"/>
       <point x="7" y="651" type="line"/>
       <point x="71" y="521"/>
       <point x="237" y="167"/>
-      <point x="332" y="-62" type="curve"/>
-      <point x="406" y="-62" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-01-05 04:19:55 +0000</string>
+      <string>2019-01-05 04:49:39 +0000</string>
     </dict>
   </lib>
 </glyph>

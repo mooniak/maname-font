@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0DCF.virama" format="2">
+	<advance width="315"/>
+	<outline>
+		<contour>
+			<point x="126" y="391" type="line"/>
+			<point x="159" y="391" type="line"/>
+			<point x="156" y="516" type="line"/>
+			<point x="166" y="497"/>
+			<point x="188" y="477"/>
+			<point x="219" y="478" type="curve"/>
+			<point x="276" y="480"/>
+			<point x="291" y="534"/>
+			<point x="283" y="583" type="curve"/>
+			<point x="269" y="668"/>
+			<point x="162" y="695"/>
+			<point x="138" y="699" type="curve"/>
+			<point x="127" y="689" type="line"/>
+		</contour>
+		<contour>
+			<point x="213" y="547" type="curve"/>
+			<point x="180" y="554"/>
+			<point x="155" y="573"/>
+			<point x="155" y="601" type="curve"/>
+			<point x="155" y="634" type="line"/>
+			<point x="189" y="630"/>
+			<point x="250" y="617"/>
+			<point x="252" y="577" type="curve"/>
+			<point x="253" y="551"/>
+			<point x="233" y="542"/>
+		</contour>
+		<contour>
+			<point x="119" y="-10" type="curve"/>
+			<point x="238" y="-10"/>
+			<point x="273" y="114"/>
+			<point x="273" y="209" type="curve"/>
+			<point x="273" y="353"/>
+			<point x="199" y="417"/>
+			<point x="136" y="417" type="curve"/>
+			<point x="84" y="417"/>
+			<point x="57" y="390"/>
+			<point x="36" y="370" type="curve"/>
+			<point x="32" y="353"/>
+			<point x="32" y="336"/>
+			<point x="35" y="323" type="curve"/>
+			<point x="55" y="335"/>
+			<point x="82" y="345"/>
+			<point x="109" y="345" type="curve"/>
+			<point x="187" y="345"/>
+			<point x="233" y="306"/>
+			<point x="239" y="241" type="curve"/>
+			<point x="249" y="131"/>
+			<point x="193" y="64"/>
+			<point x="109" y="64" type="curve"/>
+			<point x="80" y="64"/>
+			<point x="44" y="74"/>
+			<point x="25" y="79" type="curve"/>
+			<point x="18" y="66"/>
+			<point x="15" y="52"/>
+			<point x="15" y="33" type="curve"/>
+			<point x="19" y="18"/>
+			<point x="67" y="-10"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-13 20:25:11 +0000</string>
+		</dict>
+	</lib>
+</glyph>

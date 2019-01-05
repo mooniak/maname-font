@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinTRIi" format="2">
+	<advance width="825"/>
+	<outline>
+		<component base="uni0DD3.alt1" xOffset="323" yOffset="11"/>
+		<component base="uni0DAD" xOffset="12"/>
+		<component base="sinRakar.long" xOffset="491" yOffset="12"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+		</dict>
+	</lib>
+</glyph>

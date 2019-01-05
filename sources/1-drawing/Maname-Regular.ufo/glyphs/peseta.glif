@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peseta" format="2">
+	<advance width="600"/>
+	<unicode hex="20A7"/>
+	<outline>
+		<contour>
+			<point x="20" y="396" type="line"/>
+			<point x="576" y="396" type="line"/>
+			<point x="572" y="414"/>
+			<point x="568" y="436"/>
+			<point x="564" y="457" type="curve"/>
+			<point x="432" y="449"/>
+			<point x="164" y="449"/>
+			<point x="15" y="457" type="curve"/>
+		</contour>
+		<component base="P"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinMbUu" format="2">
+	<advance width="661"/>
+	<outline>
+		<component base="uni0DB9"/>
+		<component base="uni0DD6.alt" xOffset="568"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-16 19:26:00 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="2">
+	<advance width="645"/>
+	<unicode hex="00BE"/>
+	<outline>
+		<component base="fraction" xOffset="44"/>
+		<component base="uni00B3" yOffset="-55"/>
+		<component base="uni2074" xOffset="463" yOffset="-579"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>three.numr</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>three.numr</string>
+		</dict>
+	</lib>
+</glyph>

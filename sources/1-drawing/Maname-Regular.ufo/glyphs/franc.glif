@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="franc" format="2">
+	<advance width="462"/>
+	<unicode hex="20A3"/>
+	<outline>
+		<contour>
+			<point x="13" y="152" type="line"/>
+			<point x="307" y="152" type="line"/>
+			<point x="303" y="170"/>
+			<point x="300" y="190"/>
+			<point x="296" y="211" type="curve"/>
+			<point x="163" y="205"/>
+			<point x="157" y="205"/>
+			<point x="8" y="211" type="curve"/>
+		</contour>
+		<component base="F"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+		</dict>
+	</lib>
+</glyph>

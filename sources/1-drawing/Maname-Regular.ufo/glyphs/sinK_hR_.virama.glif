@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinKhR.virama" format="2">
+	<advance width="633"/>
+	<outline>
+		<contour>
+			<point x="304" y="-254" type="curve"/>
+			<point x="571" y="-254"/>
+			<point x="596" y="22"/>
+			<point x="595" y="254" type="curve"/>
+			<point x="565" y="233" type="line"/>
+			<point x="555" y="108"/>
+			<point x="552" y="-180"/>
+			<point x="296" y="-180" type="curve"/>
+			<point x="161" y="-180"/>
+			<point x="84" y="-118"/>
+			<point x="84" y="-118" type="curve"/>
+			<point x="76" y="-121"/>
+			<point x="64" y="-130"/>
+			<point x="61" y="-142" type="curve"/>
+			<point x="65" y="-162"/>
+			<point x="152" y="-254"/>
+		</contour>
+		<component base="sinKh.virama"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-16 20:21:49 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sinKha</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinNU" format="2">
+	<advance width="813"/>
+	<outline>
+		<contour>
+			<point x="324" y="-216" type="curve"/>
+			<point x="775" y="-216" type="line"/>
+			<point x="775" y="200" type="line"/>
+			<point x="747" y="198" type="line"/>
+			<point x="729" y="-148" type="line"/>
+			<point x="578" y="-162"/>
+			<point x="459" y="-174"/>
+			<point x="342" y="-172" type="curve"/>
+			<point x="270" y="-171"/>
+			<point x="248" y="-120"/>
+			<point x="248" y="-93" type="curve"/>
+			<point x="226" y="-88"/>
+			<point x="185" y="-104"/>
+			<point x="174" y="-116" type="curve"/>
+			<point x="182" y="-158"/>
+			<point x="222" y="-216"/>
+		</contour>
+		<component base="uni0DB1"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-16 20:17:40 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sinNa</string>
+		</dict>
+	</lib>
+</glyph>
