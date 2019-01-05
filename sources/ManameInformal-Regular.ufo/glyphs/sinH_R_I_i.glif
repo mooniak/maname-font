@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinHRIi" format="2">
-	<advance width="784"/>
-	<outline>
-		<component base="sinRakar.long" xOffset="408" yOffset="19"/>
-		<component base="sinHIi" xOffset="-1"/>
-	</outline>
-</glyph>

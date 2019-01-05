@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinMRI" format="2">
-	<advance width="636"/>
-	<outline>
-		<component base="sinMI"/>
-		<component base="sinRakar.medium" xOffset="599" yOffset="32"/>
-	</outline>
-</glyph>

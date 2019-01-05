@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="2">
+	<advance width="761"/>
+	<unicode hex="00BC"/>
+	<outline>
+		<component base="fraction" xOffset="143" yOffset="40"/>
+		<component base="onesuperior" xOffset="-16" yOffset="-75"/>
+		<component base="foursuperior" xOffset="420" yOffset="-414"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-01-05 08:30:32 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldotbelow" format="1">
+  <advance width="487"/>
+  <unicode hex="1E36"/>
+  <outline>
+    <component base="dotaccent" xOffset="204" yOffset="-242"/>
+    <component base="L"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-03 07:53:27 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="2">
+	<advance width="0"/>
+	<unicode hex="02DB"/>
+	<outline>
+		<contour>
+			<point x="-51" y="-217" type="curve" smooth="yes"/>
+			<point x="-5" y="-217"/>
+			<point x="26" y="-199"/>
+			<point x="43" y="-189" type="curve"/>
+			<point x="29" y="-151" type="line"/>
+			<point x="13" y="-160"/>
+			<point x="-5" y="-167"/>
+			<point x="-29" y="-167" type="curve" smooth="yes"/>
+			<point x="-75" y="-167"/>
+			<point x="-94" y="-151"/>
+			<point x="-94" y="-116" type="curve" smooth="yes"/>
+			<point x="-94" y="-52"/>
+			<point x="-35" y="-16"/>
+			<point x="9" y="2" type="curve"/>
+			<point x="2" y="18" type="line"/>
+			<point x="-15" y="18"/>
+			<point x="-8" y="19"/>
+			<point x="-24" y="17" type="curve"/>
+			<point x="-59" y="15"/>
+			<point x="-174" y="-36"/>
+			<point x="-174" y="-131" type="curve" smooth="yes"/>
+			<point x="-174" y="-179"/>
+			<point x="-138" y="-217"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-01-05 04:56:58 +0000</string>
+		</dict>
+	</lib>
+</glyph>
