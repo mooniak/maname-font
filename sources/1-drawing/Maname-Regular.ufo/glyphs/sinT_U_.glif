@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinTU" format="2">
 	<advance width="851"/>
+	<anchor x="296" y="340" name="MatraI"/>
+	<anchor x="665" y="394" name="Virama"/>
+	<anchor x="759" y="217" name="rakaransaya"/>
 	<outline>
 		<contour>
 			<point x="280" y="-7" type="curve" smooth="yes"/>
@@ -107,9 +110,6 @@
 		</contour>
 		<component base="sinMatraU.alt1" xOffset="507" yOffset="1"/>
 	</outline>
-	<anchor name="MatraI" x="296" y="340"/>
-	<anchor name="Virama" x="665" y="394"/>
-	<anchor name="rakaransaya" x="759" y="217"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>

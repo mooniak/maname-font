@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae-sinhala" format="2">
+	<advance width="853"/>
+	<unicode hex="0D87"/>
+	<outline>
+		<component base="aeMatra-sinhala" xOffset="525"/>
+		<component base="a-sinhala"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-18 07:16:10 +0000</string>
+		</dict>
+	</lib>
+</glyph>

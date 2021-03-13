@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rrVocalicMatra-sinhala" format="2">
+	<advance width="622"/>
+	<unicode hex="0DF2"/>
+	<outline>
+		<component base="rVocalicMatra-sinhala" xOffset="281"/>
+		<component base="rVocalicMatra-sinhala"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+		</dict>
+	</lib>
+</glyph>

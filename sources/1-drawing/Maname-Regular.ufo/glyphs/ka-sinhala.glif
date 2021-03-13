@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ka-sinhala" format="2">
+	<advance width="841"/>
+	<unicode hex="0D9A"/>
+	<anchor x="324" y="340" name="MatraI"/>
+	<anchor x="686" y="402" name="Virama"/>
+	<outline>
+		<contour>
+			<point x="259" y="-6"/>
+			<point x="294" y="21"/>
+			<point x="309" y="62" type="curve"/>
+			<point x="321" y="18"/>
+			<point x="356" y="-6"/>
+			<point x="401" y="-6" type="curve" smooth="yes"/>
+			<point x="492" y="-6"/>
+			<point x="531" y="93"/>
+			<point x="531" y="173" type="curve" smooth="yes"/>
+			<point x="531" y="255"/>
+			<point x="486" y="319"/>
+			<point x="402" y="319" type="curve" smooth="yes"/>
+			<point x="324" y="319"/>
+			<point x="221" y="252"/>
+			<point x="188" y="215" type="curve"/>
+			<point x="219" y="239" type="line"/>
+			<point x="221" y="246"/>
+			<point x="252" y="270"/>
+			<point x="282" y="293" type="curve" smooth="yes"/>
+			<point x="346" y="342"/>
+			<point x="430" y="378"/>
+			<point x="528" y="378" type="curve" smooth="yes"/>
+			<point x="653" y="378"/>
+			<point x="757" y="313"/>
+			<point x="757" y="214" type="curve" smooth="yes"/>
+			<point x="757" y="152"/>
+			<point x="708" y="70"/>
+			<point x="606" y="70" type="curve" smooth="yes"/>
+			<point x="588" y="70"/>
+			<point x="562" y="73"/>
+			<point x="549" y="76" type="curve"/>
+			<point x="536" y="71" type="line"/>
+			<point x="540" y="42"/>
+			<point x="560" y="9"/>
+			<point x="579" y="-6" type="curve"/>
+			<point x="718" y="3"/>
+			<point x="796" y="102"/>
+			<point x="796" y="221" type="curve" smooth="yes"/>
+			<point x="796" y="383"/>
+			<point x="678" y="456"/>
+			<point x="561" y="456" type="curve" smooth="yes"/>
+			<point x="445" y="456"/>
+			<point x="357" y="396"/>
+			<point x="257" y="314" type="curve" smooth="yes"/>
+			<point x="133" y="212"/>
+			<point x="32" y="118"/>
+			<point x="21" y="106" type="curve"/>
+			<point x="17" y="85"/>
+			<point x="40" y="69"/>
+			<point x="45" y="68" type="curve"/>
+			<point x="50" y="81"/>
+			<point x="58" y="94"/>
+			<point x="73" y="110" type="curve" smooth="yes"/>
+			<point x="104" y="144"/>
+			<point x="152" y="176"/>
+			<point x="185" y="197" type="curve" smooth="yes"/>
+			<point x="237" y="230"/>
+			<point x="309" y="252"/>
+			<point x="370" y="252" type="curve" smooth="yes"/>
+			<point x="444" y="252"/>
+			<point x="499" y="220"/>
+			<point x="499" y="161" type="curve" smooth="yes"/>
+			<point x="499" y="104"/>
+			<point x="457" y="68"/>
+			<point x="419" y="68" type="curve" smooth="yes"/>
+			<point x="353" y="68"/>
+			<point x="330" y="119"/>
+			<point x="330" y="168" type="curve" smooth="yes"/>
+			<point x="330" y="173"/>
+			<point x="330" y="178"/>
+			<point x="331" y="183" type="curve"/>
+			<point x="312" y="179" type="line"/>
+			<point x="298" y="116"/>
+			<point x="262" y="67"/>
+			<point x="213" y="67" type="curve" smooth="yes"/>
+			<point x="151" y="67"/>
+			<point x="142" y="128"/>
+			<point x="99" y="128" type="curve" smooth="yes"/>
+			<point x="92" y="128"/>
+			<point x="85" y="127"/>
+			<point x="76" y="124" type="curve"/>
+			<point x="56" y="96" type="line"/>
+			<point x="61" y="101"/>
+			<point x="67" y="103"/>
+			<point x="74" y="103" type="curve" smooth="yes"/>
+			<point x="86" y="103"/>
+			<point x="101" y="97"/>
+			<point x="106" y="86" type="curve" smooth="yes"/>
+			<point x="130" y="34"/>
+			<point x="156" y="-6"/>
+			<point x="215" y="-6" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="131" y="278"/>
+			<point x="147" y="280"/>
+			<point x="159" y="286" type="curve"/>
+			<point x="149" y="299"/>
+			<point x="141" y="310"/>
+			<point x="141" y="336" type="curve" smooth="yes"/>
+			<point x="141" y="385"/>
+			<point x="169" y="416"/>
+			<point x="208" y="416" type="curve" smooth="yes"/>
+			<point x="240" y="416"/>
+			<point x="255" y="396"/>
+			<point x="255" y="363" type="curve" smooth="yes"/>
+			<point x="255" y="334"/>
+			<point x="244" y="307"/>
+			<point x="228" y="290" type="curve"/>
+			<point x="251" y="298" type="line"/>
+			<point x="267" y="314"/>
+			<point x="303" y="356"/>
+			<point x="303" y="396" type="curve" smooth="yes"/>
+			<point x="303" y="435"/>
+			<point x="266" y="450"/>
+			<point x="224" y="450" type="curve" smooth="yes"/>
+			<point x="143" y="450"/>
+			<point x="71" y="394"/>
+			<point x="71" y="325" type="curve" smooth="yes"/>
+			<point x="71" y="294"/>
+			<point x="85" y="278"/>
+			<point x="119" y="278" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-01-05 04:56:29 +0000</string>
+			<key>com.typemytype.robofont.layerData</key>
+			<dict>
+				<key>Regular Oct 26 16, 18:32</key>
+				<dict>
+					<key>anchors</key>
+					<array/>
+					<key>components</key>
+					<array/>
+					<key>contours</key>
+					<array>
+						<dict>
+							<key>points</key>
+							<array>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>35</integer>
+									<key>y</key>
+									<integer>125</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>59</integer>
+									<key>y</key>
+									<integer>149</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>135</integer>
+									<key>y</key>
+									<integer>250</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>322</integer>
+									<key>y</key>
+									<integer>408</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>455</integer>
+									<key>y</key>
+									<integer>521</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>556</integer>
+									<key>y</key>
+									<integer>582</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>706</integer>
+									<key>y</key>
+									<integer>582</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>862</integer>
+									<key>y</key>
+									<integer>582</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>1022</integer>
+									<key>y</key>
+									<integer>494</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>1022</integer>
+									<key>y</key>
+									<integer>291</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>1022</integer>
+									<key>y</key>
+									<integer>135</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>940</integer>
+									<key>y</key>
+									<integer>-8</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<real>765.009</real>
+									<key>y</key>
+									<integer>-8</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<real>739.934</real>
+									<key>y</key>
+									<real>10.555</real>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>729</integer>
+									<key>y</key>
+									<integer>34</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>731</integer>
+									<key>y</key>
+									<integer>72</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>line</string>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>747</integer>
+									<key>y</key>
+									<integer>79</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>766</integer>
+									<key>y</key>
+									<integer>74</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>792</integer>
+									<key>y</key>
+									<integer>68</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>821</integer>
+									<key>y</key>
+									<integer>69</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>919</integer>
+									<key>y</key>
+									<integer>72</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>971</integer>
+									<key>y</key>
+									<integer>175</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>971</integer>
+									<key>y</key>
+									<integer>278</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>971</integer>
+									<key>y</key>
+									<integer>419</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>835</integer>
+									<key>y</key>
+									<integer>515</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>678</integer>
+									<key>y</key>
+									<integer>515</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>549</integer>
+									<key>y</key>
+									<integer>515</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>429</integer>
+									<key>y</key>
+									<integer>441</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>354</integer>
+									<key>y</key>
+									<integer>380</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>337</integer>
+									<key>y</key>
+									<integer>366</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>261</integer>
+									<key>y</key>
+									<integer>303</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>285</integer>
+									<key>y</key>
+									<integer>310</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>line</string>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>266</integer>
+									<key>y</key>
+									<integer>298</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>312</integer>
+									<key>y</key>
+									<integer>348</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>407</integer>
+									<key>y</key>
+									<integer>414</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>502</integer>
+									<key>y</key>
+									<integer>414</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>613</integer>
+									<key>y</key>
+									<integer>414</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>683</integer>
+									<key>y</key>
+									<integer>325</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>678</integer>
+									<key>y</key>
+									<integer>204</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>674</integer>
+									<key>y</key>
+									<integer>110</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>621</integer>
+									<key>y</key>
+									<integer>-8</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>509</integer>
+									<key>y</key>
+									<integer>-8</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>451</integer>
+									<key>y</key>
+									<integer>-8</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>405</integer>
+									<key>y</key>
+									<integer>23</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<real>388.62</real>
+									<key>y</key>
+									<integer>80</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>369</integer>
+									<key>y</key>
+									<integer>26</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>322</integer>
+									<key>y</key>
+									<integer>-10</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<real>262.009</real>
+									<key>y</key>
+									<integer>-8</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>192</integer>
+									<key>y</key>
+									<integer>-6</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>178</integer>
+									<key>y</key>
+									<integer>49</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>143</integer>
+									<key>y</key>
+									<integer>102</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>130</integer>
+									<key>y</key>
+									<integer>122</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>97</integer>
+									<key>y</key>
+									<integer>134</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>79</integer>
+									<key>y</key>
+									<integer>115</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>line</string>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>104</integer>
+									<key>y</key>
+									<integer>152</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>186</integer>
+									<key>y</key>
+									<integer>176</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>164</integer>
+									<key>y</key>
+									<integer>70</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>272</integer>
+									<key>y</key>
+									<integer>70</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>335</integer>
+									<key>y</key>
+									<integer>70</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>385</integer>
+									<key>y</key>
+									<integer>150</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>383</integer>
+									<key>y</key>
+									<integer>232</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>line</string>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>418</integer>
+									<key>y</key>
+									<integer>232</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>420</integer>
+									<key>y</key>
+									<integer>116</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>447</integer>
+									<key>y</key>
+									<integer>64</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>519</integer>
+									<key>y</key>
+									<integer>63</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>582</integer>
+									<key>y</key>
+									<integer>62</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>625</integer>
+									<key>y</key>
+									<integer>127</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>626</integer>
+									<key>y</key>
+									<integer>205</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>627</integer>
+									<key>y</key>
+									<integer>288</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>563</integer>
+									<key>y</key>
+									<integer>347</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>469</integer>
+									<key>y</key>
+									<integer>347</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>389</integer>
+									<key>y</key>
+									<integer>347</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>296</integer>
+									<key>y</key>
+									<integer>299</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>228</integer>
+									<key>y</key>
+									<integer>256</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>178</integer>
+									<key>y</key>
+									<integer>225</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>72</integer>
+									<key>y</key>
+									<integer>125</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>64</integer>
+									<key>y</key>
+									<integer>79</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>58</integer>
+									<key>y</key>
+									<integer>81</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>31</integer>
+									<key>y</key>
+									<integer>98</integer>
+								</dict>
+							</array>
+						</dict>
+						<dict>
+							<key>points</key>
+							<array>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>80</integer>
+									<key>y</key>
+									<integer>428</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>84</integer>
+									<key>y</key>
+									<integer>517</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>158</integer>
+									<key>y</key>
+									<integer>584</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>260</integer>
+									<key>y</key>
+									<integer>584</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>315</integer>
+									<key>y</key>
+									<integer>584</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>364</integer>
+									<key>y</key>
+									<integer>544</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>362</integer>
+									<key>y</key>
+									<integer>491</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>360</integer>
+									<key>y</key>
+									<integer>440</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>335</integer>
+									<key>y</key>
+									<integer>408</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<real>313.71</real>
+									<key>y</key>
+									<integer>387</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>line</string>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<real>287.133</real>
+									<key>y</key>
+									<integer>376</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>305</integer>
+									<key>y</key>
+									<integer>402</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>318</integer>
+									<key>y</key>
+									<integer>417</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>320</integer>
+									<key>y</key>
+									<integer>454</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>322</integer>
+									<key>y</key>
+									<integer>501</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>302</integer>
+									<key>y</key>
+									<integer>538</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>256</integer>
+									<key>y</key>
+									<integer>538</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>212</integer>
+									<key>y</key>
+									<integer>538</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>154</integer>
+									<key>y</key>
+									<integer>505</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>151</integer>
+									<key>y</key>
+									<integer>442</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>149</integer>
+									<key>y</key>
+									<integer>407</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>161</integer>
+									<key>y</key>
+									<integer>389</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>175</integer>
+									<key>y</key>
+									<integer>372</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>159</integer>
+									<key>y</key>
+									<integer>364</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>138</integer>
+									<key>y</key>
+									<integer>361</integer>
+								</dict>
+								<dict>
+									<key>segmentType</key>
+									<string>curve</string>
+									<key>smooth</key>
+									<integer>1</integer>
+									<key>x</key>
+									<integer>122</integer>
+									<key>y</key>
+									<integer>361</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>98</integer>
+									<key>y</key>
+									<integer>361</integer>
+								</dict>
+								<dict>
+									<key>smooth</key>
+									<integer>0</integer>
+									<key>x</key>
+									<integer>78</integer>
+									<key>y</key>
+									<integer>385</integer>
+								</dict>
+							</array>
+						</dict>
+					</array>
+					<key>lib</key>
+					<dict/>
+					<key>name</key>
+					<string>sinKa</string>
+					<key>unicodes</key>
+					<array/>
+					<key>width</key>
+					<integer>1056</integer>
+				</dict>
+			</dict>
+			<key>public.markColor</key>
+			<string>0.04,0.57,0.04,1</string>
+		</dict>
+	</lib>
+</glyph>

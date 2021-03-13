@@ -32,7 +32,7 @@
 			<point x="522" y="410"/>
 			<point x="521" y="362" type="curve"/>
 		</contour>
-		<component base="sinVa"/>
+		<component base="va-sinhala"/>
 	</outline>
 	<lib>
 		<dict>

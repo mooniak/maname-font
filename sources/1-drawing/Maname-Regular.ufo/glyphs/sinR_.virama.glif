@@ -29,7 +29,7 @@
 			<point x="183" y="589"/>
 			<point x="168" y="583"/>
 		</contour>
-		<component base="sinRa"/>
+		<component base="ra-sinhala"/>
 	</outline>
 	<lib>
 		<dict>

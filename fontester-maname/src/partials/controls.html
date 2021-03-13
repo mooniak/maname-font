@@ -1,0 +1,106 @@
+<div class="container controls">
+
+    <div id="controls">
+
+         <!-- Press Ctrl+g to toggle between English and other selected input lanaguage -->
+    <div id='translControl'>
+      <input type="checkbox" id="checkboxId" onclick="javascript:checkboxClickHandler()"></input>
+      Type in <select id="languageDropDown" onchange="javascript:languageChangeHandler()"></select>
+    </div>
+
+<br />
+        <!-- <input  style="float: left;" type="button" id="clear" value="Clear changes" />
+        <button style="float: left;" id="button">Show/Hide unavialabe glyphs</button> -->
+        <button href="javascript://" id="showhide">OpenType Features ↓ </button>
+         </div>
+            <div style="clear:both"></div>
+
+    <div id="otfeatures" style="display: none;">
+        <br/>
+        <table width="100%">
+            <tr>
+                <td valign="top" width="25%">
+                    <input checked id="kern" onchange="refreshFeatures()" type="checkbox">OpenType Kerning
+                    <br>
+                    <input checked id="liga" onchange="refreshFeatures()" type="checkbox">Standard Ligatures
+                    <br>
+                    <input checked id="calt" onchange="refreshFeatures()" type="checkbox">Contextual Alternates
+                    <br>
+                    <br>
+                    <input id="dlig" onchange="refreshFeatures()" type="checkbox">Discretionary Ligatures
+                    <br>
+                    <input id="hlig" onchange="refreshFeatures()" type="checkbox">Historical Ligatures
+                    <br>
+                    <input id="swsh" onchange="refreshFeatures()" type="checkbox">Swashes
+                    <br>
+                    <input id="salt" onchange="refreshFeatures()" type="checkbox">Stylistic Alternates</td>
+                <td valign="top" width="25%">
+                    <input checked name="smcp" onchange="refreshFeatures()" type="radio">SmallCaps Off
+                    <br>
+                    <input id="fake-smcp" name="smcp" onchange="refreshFeatures()" type="radio">Fake SmallCaps
+                    <br>
+                    <input id="smcp" name="smcp" onchange="refreshFeatures()" type="radio">True SmallCaps
+                    <br>
+                    <input id="c2sc" onchange="refreshFeatures()" type="checkbox">Capitals to Small Caps</td>
+                <td valign="top" width="25%">
+                    <input checked name="numsty" onchange="refreshFeatures()" type="radio">Default Figures Style
+                    <br>
+                    <input id="lnum" name="numsty" onchange="refreshFeatures()" type="radio">Lining Figures
+                    <br>
+                    <input id="onum" name="numsty" onchange="refreshFeatures()" type="radio">Oldstyle Figures
+                    <br>
+                    <br>
+                    <input checked name="numspc" onchange="refreshFeatures()" type="radio">Default Figures Width
+                    <br>
+                    <input id="pnum" name="numspc" onchange="refreshFeatures()" type="radio">Proportional Figures
+                    <br>
+                    <input id="tnum" name="numspc" onchange="refreshFeatures()" type="radio">Tabular Figures</td>
+                <td valign="top" width="25%">
+                    <input id="frac" name="frac" onchange="refreshFeatures()" type="checkbox">Fractions
+                    <br>
+                    <input id="zero" onchange="refreshFeatures()" type="checkbox">Slashed zero
+                    <br>
+                    <br>
+                    <input id="ordn" onchange="refreshFeatures()" type="checkbox">Ordinals
+                    <br>
+                    <br>
+                    <input id="sups" onchange="refreshFeatures()" type="checkbox">Superiors
+                    <br>
+                    <input id="sinf" onchange="refreshFeatures()" type="checkbox">Inferiors
+                    <br>
+                    <input id="numr" onchange="refreshFeatures()" type="checkbox">Numerator
+                    <br>
+                    <input id="dnom" onchange="refreshFeatures()" type="checkbox">Denominator</td>
+            </tr>
+            <tr>
+                <td colspan="4" valign="top">
+                    <input id="ss01" onchange="refreshFeatures()" type="checkbox">ss01&nbsp;
+                    <input id="ss02" onchange="refreshFeatures()" type="checkbox">ss02&nbsp;
+                    <input id="ss03" onchange="refreshFeatures()" type="checkbox">ss03&nbsp;
+                    <input id="ss04" onchange="refreshFeatures()" type="checkbox">ss04&nbsp;
+                    <input id="ss05" onchange="refreshFeatures()" type="checkbox">ss05&nbsp;
+                    <input id="ss06" onchange="refreshFeatures()" type="checkbox">ss06&nbsp;
+                    <input id="ss07" onchange="refreshFeatures()" type="checkbox">ss07&nbsp;
+                    <input id="ss08" onchange="refreshFeatures()" type="checkbox">ss08&nbsp;
+                    <input id="ss09" onchange="refreshFeatures()" type="checkbox">ss09&nbsp;
+                    <input id="ss10" onchange="refreshFeatures()" type="checkbox">ss10
+                    <br>
+                </td>
+            </tr>
+            <tr <td colspan="4" valign="top">
+                <input id="ss11" onchange="refreshFeatures()" type="checkbox">ss11&nbsp;
+                <input id="ss12" onchange="refreshFeatures()" type="checkbox">ss12&nbsp;
+                <input id="ss13" onchange="refreshFeatures()" type="checkbox">ss13&nbsp;
+                <input id="ss14" onchange="refreshFeatures()" type="checkbox">ss14&nbsp;
+                <input id="ss15" onchange="refreshFeatures()" type="checkbox">ss15&nbsp;
+                <input id="ss16" onchange="refreshFeatures()" type="checkbox">ss16&nbsp;
+                <input id="ss17" onchange="refreshFeatures()" type="checkbox">ss17&nbsp;
+                <input id="ss18" onchange="refreshFeatures()" type="checkbox">ss18&nbsp;
+                <input id="ss19" onchange="refreshFeatures()" type="checkbox">ss19&nbsp;
+                <input id="ss20" onchange="refreshFeatures()" type="checkbox">ss20
+                <br>
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>

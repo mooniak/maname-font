@@ -2,7 +2,7 @@
 <glyph name="sinSRa" format="2">
 	<advance width="697"/>
 	<outline>
-		<component base="sinSa"/>
+		<component base="sa-sinhala"/>
 		<component base="sinRakar.short" xOffset="649"/>
 	</outline>
 	<lib>

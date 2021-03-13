@@ -39,7 +39,7 @@
 			<point x="117" y="434"/>
 			<point x="168" y="392"/>
 		</contour>
-		<component base="sinNna" xOffset="36" yOffset="4"/>
+		<component base="nna-sinhala" xOffset="36" yOffset="4"/>
 	</outline>
 	<lib>
 		<dict>

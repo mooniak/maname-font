@@ -23,7 +23,7 @@
 			<point x="95" y="-210"/>
 			<point x="197" y="-211" type="curve" smooth="yes"/>
 		</contour>
-		<component base="sinTta"/>
+		<component base="tta-sinhala"/>
 	</outline>
 	<lib>
 		<dict>

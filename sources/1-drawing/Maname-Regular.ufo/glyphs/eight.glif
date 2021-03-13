@@ -59,11 +59,9 @@
 				<key>Jan 19 17, 19:20</key>
 				<dict>
 					<key>anchors</key>
-					<array>
-					</array>
+					<array/>
 					<key>components</key>
-					<array>
-					</array>
+					<array/>
 					<key>contours</key>
 					<array>
 						<dict>
@@ -483,13 +481,11 @@
 						</dict>
 					</array>
 					<key>lib</key>
-					<dict>
-					</dict>
+					<dict/>
 					<key>name</key>
 					<string>eight</string>
 					<key>unicodes</key>
-					<array>
-					</array>
+					<array/>
 					<key>width</key>
 					<integer>626</integer>
 				</dict>

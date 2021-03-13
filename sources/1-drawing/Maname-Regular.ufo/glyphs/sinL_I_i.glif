@@ -45,7 +45,7 @@
 			<point x="99" y="398"/>
 			<point x="157" y="371"/>
 		</contour>
-		<component base="sinLa"/>
+		<component base="la-sinhala"/>
 	</outline>
 	<lib>
 		<dict>

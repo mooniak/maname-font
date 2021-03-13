@@ -1,0 +1,26 @@
+<script src="../{{rootPath}}js/font-tester.js">
+</script>
+<script src="../{{rootPath}}config.js"></script>
+<script charset="utf-8" src="../{{rootPath}}js/otfeatures.js" type="text/javascript"></script>
+<script src="../{{rootPath}}js/transliterate.js" /></script>
+<script>
+    // OT Features Panel
+    $('#showhide').click(function () {
+        $('#otfeatures').slideToggle("fast", function () {
+            $("#showhide").text($(this).is(':visible') ? "Hide OpenType Features ↑" : "OpenType Features ↓");
+        });
+    });
+</script>
+<footer>
+  <div class="container">
+
+<!-- {{ title }} - Credits: {{ credits }} <br> -->
+
+©fontester project contributors.
+
+</div>
+
+</footer>
+
+</body>
+</html>

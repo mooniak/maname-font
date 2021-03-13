@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="auMatra-sinhala" format="2">
+	<advance width="1212"/>
+	<unicode hex="0DDE"/>
+	<outline>
+		<component base="lVocalicMatra-sinhala" xOffset="743"/>
+		<component base="eMatra-sinhala" xOffset="30"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=sinMatraLs</string>
+		</dict>
+	</lib>
+</glyph>

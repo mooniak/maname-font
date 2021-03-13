@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinKSsa" format="2">
 	<advance width="1126"/>
+	<anchor x="353" y="340" name="MatraI"/>
+	<anchor x="715" y="402" name="Virama"/>
 	<outline>
 		<contour>
 			<point x="245" y="-6" type="curve" smooth="yes"/>
@@ -110,10 +112,8 @@
 			<point x="100" y="295"/>
 			<point x="115" y="278"/>
 		</contour>
-		<component base="sinSsa" xOffset="490"/>
+		<component base="ssa-sinhala" xOffset="490"/>
 	</outline>
-	<anchor name="MatraI" x="353" y="340"/>
-	<anchor name="Virama" x="715" y="402"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
@@ -122,9 +122,9 @@
 					<key>alignment</key>
 					<integer>-1</integer>
 					<key>index</key>
-					<integer>0</integer>
+					<integer>2</integer>
 					<key>name</key>
-					<string>sinSsa</string>
+					<string>ssa-sinhala</string>
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
@@ -134,11 +134,9 @@
 				<key>background</key>
 				<dict>
 					<key>anchors</key>
-					<array>
-					</array>
+					<array/>
 					<key>components</key>
-					<array>
-					</array>
+					<array/>
 					<key>contours</key>
 					<array>
 						<dict>
@@ -682,13 +680,11 @@
 						</dict>
 					</array>
 					<key>lib</key>
-					<dict>
-					</dict>
+					<dict/>
 					<key>name</key>
 					<string>sinKSsa</string>
 					<key>unicodes</key>
-					<array>
-					</array>
+					<array/>
 					<key>width</key>
 					<integer>1463</integer>
 				</dict>

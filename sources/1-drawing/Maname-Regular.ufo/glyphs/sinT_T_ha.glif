@@ -96,7 +96,7 @@
 			<point x="233" y="330"/>
 			<point x="219" y="280"/>
 		</contour>
-		<component base="sinTha" xOffset="448"/>
+		<component base="tha-sinhala" xOffset="448"/>
 	</outline>
 	<lib>
 		<dict>

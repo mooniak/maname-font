@@ -71,7 +71,7 @@
 			<point x="648" y="151"/>
 			<point x="673" y="147" type="curve"/>
 		</contour>
-		<component base="sinRa" xOffset="10"/>
+		<component base="ra-sinhala" xOffset="10"/>
 		<component base="comma" xScale="0.99" xyScale="-0.138" yScale="0.99" yxScale="0.138" xOffset="850" yOffset="41"/>
 	</outline>
 	<lib>

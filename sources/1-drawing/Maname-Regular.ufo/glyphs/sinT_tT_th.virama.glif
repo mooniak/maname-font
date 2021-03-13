@@ -2,7 +2,7 @@
 <glyph name="sinTtTth.virama" format="2">
 	<advance width="790"/>
 	<outline>
-		<component base="sinVirama" xOffset="685" yOffset="23"/>
+		<component base="virama-sinhala" xOffset="685" yOffset="23"/>
 		<component base="sinTtTtha"/>
 	</outline>
 	<lib>

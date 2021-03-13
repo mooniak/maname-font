@@ -20,7 +20,7 @@
 			<point x="44" y="133"/>
 			<point x="82" y="75"/>
 		</contour>
-		<component base="sinVa" xOffset="86" yOffset="11"/>
+		<component base="va-sinhala" xOffset="86" yOffset="11"/>
 	</outline>
 	<lib>
 		<dict>

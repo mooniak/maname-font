@@ -20,7 +20,7 @@
 			<point x="75" y="-136"/>
 			<point x="152" y="-228"/>
 		</contour>
-		<component base="sinMa"/>
+		<component base="ma-sinhala"/>
 	</outline>
 	<lib>
 		<dict>

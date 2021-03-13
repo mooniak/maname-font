@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinFR.virama" format="1">
+  <advance width="701"/>
+  <outline>
+    <contour>
+      <point x="330" y="-248" type="curve" smooth="yes"/>
+      <point x="533" y="-248"/>
+      <point x="654" y="-86"/>
+      <point x="654" y="164" type="curve" smooth="yes"/>
+      <point x="654" y="196"/>
+      <point x="652" y="229"/>
+      <point x="648" y="263" type="curve"/>
+      <point x="625" y="211" type="line"/>
+      <point x="614" y="-54"/>
+      <point x="533" y="-173"/>
+      <point x="326" y="-173" type="curve" smooth="yes"/>
+      <point x="172" y="-173"/>
+      <point x="84" y="-85"/>
+      <point x="84" y="-98" type="curve"/>
+      <point x="75" y="-101"/>
+      <point x="67" y="-107"/>
+      <point x="62" y="-114" type="curve"/>
+      <point x="66" y="-134"/>
+      <point x="175" y="-248"/>
+    </contour>
+    <component base="sinF.virama"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-10 03:48:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

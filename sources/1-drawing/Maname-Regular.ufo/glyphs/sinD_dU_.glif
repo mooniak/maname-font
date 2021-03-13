@@ -23,7 +23,7 @@
 			<point x="107" y="-157"/>
 			<point x="147" y="-215"/>
 		</contour>
-		<component base="sinDda" xOffset="-21"/>
+		<component base="dda-sinhala" xOffset="-21"/>
 	</outline>
 	<lib>
 		<dict>

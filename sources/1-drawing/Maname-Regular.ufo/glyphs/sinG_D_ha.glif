@@ -64,7 +64,7 @@
 			<point x="298" y="169"/>
 			<point x="303" y="169"/>
 		</contour>
-		<component base="sinDha" xOffset="401"/>
+		<component base="dha-sinhala" xOffset="401"/>
 	</outline>
 	<lib>
 		<dict>

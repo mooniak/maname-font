@@ -33,7 +33,7 @@
 			<point x="491" y="-179"/>
 			<point x="560" y="-202"/>
 		</contour>
-		<component base="sinYa"/>
+		<component base="ya-sinhala"/>
 	</outline>
 	<lib>
 		<dict>

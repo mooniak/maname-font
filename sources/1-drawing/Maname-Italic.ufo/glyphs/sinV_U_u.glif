@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinVUu" format="1">
+  <advance width="604"/>
+  <outline>
+    <component base="va-sinhala"/>
+    <component base="uuMatra-sinhala" xOffset="522"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-10 03:48:13 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>sinVa</string>
+    </dict>
+  </lib>
+</glyph>

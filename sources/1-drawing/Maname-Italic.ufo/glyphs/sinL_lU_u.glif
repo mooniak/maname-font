@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinLlUu" format="1">
+  <advance width="1006"/>
+  <outline>
+    <component base="sinLlU"/>
+    <component base="aaeMatra-sinhala" xOffset="685"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-10 03:48:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -23,7 +23,7 @@
 			<point x="114" y="-156"/>
 			<point x="154" y="-214"/>
 		</contour>
-		<component base="sinMba" xOffset="15"/>
+		<component base="mba-sinhala" xOffset="15"/>
 	</outline>
 	<lib>
 		<dict>

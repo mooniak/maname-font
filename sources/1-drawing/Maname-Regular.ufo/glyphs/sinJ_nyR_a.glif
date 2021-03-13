@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinJnyRa" format="2">
 	<advance width="818"/>
+	<anchor x="721" y="410" name="Virama"/>
 	<outline>
 		<contour>
 			<point x="322" y="-9" type="curve" smooth="yes"/>
@@ -87,7 +88,6 @@
 		</contour>
 		<component base="sinDRa" xOffset="459"/>
 	</outline>
-	<anchor name="Virama" x="721" y="410"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>

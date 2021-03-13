@@ -111,11 +111,9 @@
 				<key>background</key>
 				<dict>
 					<key>anchors</key>
-					<array>
-					</array>
+					<array/>
 					<key>components</key>
-					<array>
-					</array>
+					<array/>
 					<key>contours</key>
 					<array>
 						<dict>
@@ -171,7 +169,7 @@
 									<key>smooth</key>
 									<integer>0</integer>
 									<key>x</key>
-									<real>509.001</real>
+									<integer>509</integer>
 									<key>y</key>
 									<real>783.965</real>
 								</dict>
@@ -928,19 +926,17 @@
 									<key>x</key>
 									<real>713.322</real>
 									<key>y</key>
-									<real>547.001</real>
+									<integer>547</integer>
 								</dict>
 							</array>
 						</dict>
 					</array>
 					<key>lib</key>
-					<dict>
-					</dict>
+					<dict/>
 					<key>name</key>
 					<string>sinVIi</string>
 					<key>unicodes</key>
-					<array>
-					</array>
+					<array/>
 					<key>width</key>
 					<integer>760</integer>
 				</dict>

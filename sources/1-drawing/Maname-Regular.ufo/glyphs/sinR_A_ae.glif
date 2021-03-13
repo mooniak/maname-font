@@ -57,7 +57,7 @@
 			<point x="615" y="479"/>
 			<point x="640" y="477" type="curve"/>
 		</contour>
-		<component base="sinRa"/>
+		<component base="ra-sinhala"/>
 	</outline>
 	<lib>
 		<dict>

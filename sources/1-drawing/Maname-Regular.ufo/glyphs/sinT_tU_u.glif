@@ -2,8 +2,8 @@
 <glyph name="sinTtUu" format="2">
 	<advance width="611"/>
 	<outline>
-		<component base="sinTta"/>
-		<component base="sinMatraUu" xOffset="529"/>
+		<component base="tta-sinhala"/>
+		<component base="uuMatra-sinhala" xOffset="529"/>
 	</outline>
 	<lib>
 		<dict>

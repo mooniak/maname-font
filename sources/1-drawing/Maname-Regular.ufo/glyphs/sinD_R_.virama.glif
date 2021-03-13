@@ -3,7 +3,7 @@
 	<advance width="438"/>
 	<outline>
 		<component base="sinDRa"/>
-		<component base="sinVirama" xOffset="349" yOffset="-20"/>
+		<component base="virama-sinhala" xOffset="349" yOffset="-20"/>
 	</outline>
 	<lib>
 		<dict>
@@ -15,7 +15,7 @@
 					<key>index</key>
 					<integer>1</integer>
 					<key>name</key>
-					<string>sinVirama</string>
+					<string>virama-sinhala</string>
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>

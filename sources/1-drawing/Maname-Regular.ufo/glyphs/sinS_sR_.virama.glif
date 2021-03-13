@@ -2,9 +2,9 @@
 <glyph name="sinSsR.virama" format="2">
 	<advance width="624"/>
 	<outline>
-		<component base="sinSsa"/>
+		<component base="ssa-sinhala"/>
 		<component base="sinRakar.short" xOffset="586" yOffset="31"/>
-		<component base="sinVirama" xOffset="527" yOffset="43"/>
+		<component base="virama-sinhala" xOffset="527" yOffset="43"/>
 	</outline>
 	<lib>
 		<dict>

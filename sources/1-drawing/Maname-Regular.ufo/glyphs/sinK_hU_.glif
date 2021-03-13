@@ -2,7 +2,7 @@
 <glyph name="sinKhU" format="2">
 	<advance width="653"/>
 	<outline>
-		<component base="sinKha"/>
+		<component base="kha-sinhala"/>
 		<component base="sinMatraU.alt" xOffset="556" yOffset="-51"/>
 	</outline>
 	<lib>

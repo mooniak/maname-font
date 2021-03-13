@@ -1,0 +1,11 @@
+{{> head }}
+{{> nav }}
+{{> controls }}
+<div contenteditable="true" id="transliterate" class="container" style="direction:{{ direction }};">
+    <section id="fullSection" class="txt_2_col otfeat adobe_blank" spellcheck="false" contenteditable="true" ```>
+        {{{contents}}}
+    </section>
+</div>
+<br>
+<div id="errorDiv"></div>
+{{> footer }}

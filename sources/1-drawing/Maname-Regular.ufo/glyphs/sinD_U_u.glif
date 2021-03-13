@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinDUu" format="2">
 	<advance width="456"/>
+	<anchor x="353" y="407" name="Virama"/>
 	<outline>
 		<contour>
 			<point x="238" y="-26" type="curve" smooth="yes"/>
@@ -86,7 +87,6 @@
 			<point x="367" y="-202"/>
 		</contour>
 	</outline>
-	<anchor name="Virama" x="353" y="407"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>

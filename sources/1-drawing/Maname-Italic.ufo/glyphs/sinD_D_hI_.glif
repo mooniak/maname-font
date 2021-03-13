@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinDDhI" format="1">
+  <advance width="790"/>
+  <outline>
+    <contour>
+      <point x="112" y="-2" type="curve"/>
+      <point x="131" y="-2"/>
+      <point x="142" y="2"/>
+      <point x="146" y="5" type="curve"/>
+      <point x="123" y="32"/>
+      <point x="106" y="83"/>
+      <point x="106" y="138" type="curve" smooth="yes"/>
+      <point x="106" y="150"/>
+      <point x="106" y="161"/>
+      <point x="108" y="173" type="curve"/>
+      <point x="122" y="284"/>
+      <point x="212" y="351"/>
+      <point x="317" y="351" type="curve" smooth="yes"/>
+      <point x="332" y="351"/>
+      <point x="347" y="350"/>
+      <point x="363" y="347" type="curve"/>
+      <point x="346" y="336" type="line"/>
+      <point x="448" y="373" type="line"/>
+      <point x="446" y="382" type="line"/>
+      <point x="433" y="384"/>
+      <point x="427" y="385"/>
+      <point x="403" y="387" type="curve" smooth="yes"/>
+      <point x="384" y="389"/>
+      <point x="366" y="390"/>
+      <point x="348" y="390" type="curve" smooth="yes"/>
+      <point x="195" y="390"/>
+      <point x="64" y="321"/>
+      <point x="51" y="172" type="curve"/>
+      <point x="51" y="166"/>
+      <point x="50" y="160"/>
+      <point x="50" y="154" type="curve" smooth="yes"/>
+      <point x="50" y="86"/>
+      <point x="82" y="30"/>
+    </contour>
+    <component base="sinDhI" xOffset="134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-10 03:48:13 +0000</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>x</key>
+          <integer>-39</integer>
+          <key>y</key>
+          <integer>981</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

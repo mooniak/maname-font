@@ -23,7 +23,7 @@
 			<point x="182" y="-158"/>
 			<point x="222" y="-216"/>
 		</contour>
-		<component base="sinNa"/>
+		<component base="na-sinhala"/>
 	</outline>
 	<lib>
 		<dict>

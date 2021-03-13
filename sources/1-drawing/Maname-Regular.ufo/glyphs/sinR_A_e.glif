@@ -32,7 +32,7 @@
 			<point x="509" y="103"/>
 			<point x="531" y="-27"/>
 		</contour>
-		<component base="sinRa" xOffset="-20"/>
+		<component base="ra-sinhala" xOffset="-20"/>
 	</outline>
 	<lib>
 		<dict>

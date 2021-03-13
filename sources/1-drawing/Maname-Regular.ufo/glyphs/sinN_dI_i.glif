@@ -2,7 +2,7 @@
 <glyph name="sinNdIi" format="2">
 	<advance width="549"/>
 	<outline>
-		<component base="sinNda"/>
+		<component base="nda-sinhala"/>
 		<component base="sinMatraIi.alt3" xOffset="308" yOffset="4"/>
 	</outline>
 	<lib>

@@ -1,0 +1,31 @@
+{
+  "name": "fontester",
+  "version": "0.0.1",
+  "license": "GPL-3.0",
+  "repository": "git://github.com/akuru/fontester.git",
+  "description": "Live font testing in browser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "handlebars": "^4.0.2",
+    "harmonize": "^1.4.4",
+    "metalsmith": "^2.0.1",
+    "metalsmith-collections": "^0.7.0",
+    "metalsmith-ignore": "^0.1.2",
+    "metalsmith-layouts": "^1.4.0",
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-markdown-remarkable": "^0.1.1",
+    "metalsmith-permalinks": "^0.5.0",
+    "metalsmith-rootpath": "^0.1.7",
+    "metalsmith-watch": "^1.0.3"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "node-watch": "^0.3.5",
+    "open": "0.0.5",
+    "serve-index": "^1.8.0",
+    "socket.io": "^1.4.5"
+  }
+}

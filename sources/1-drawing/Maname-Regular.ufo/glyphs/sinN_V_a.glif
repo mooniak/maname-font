@@ -96,7 +96,7 @@
 			<point x="276" y="298"/>
 			<point x="264" y="282" type="curve"/>
 		</contour>
-		<component base="sinVa" xOffset="430"/>
+		<component base="va-sinhala" xOffset="430"/>
 	</outline>
 	<lib>
 		<dict>

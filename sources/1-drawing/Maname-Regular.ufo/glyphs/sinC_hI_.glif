@@ -36,7 +36,7 @@
 			<point x="225" y="479"/>
 			<point x="275" y="440"/>
 		</contour>
-		<component base="sinCha"/>
+		<component base="cha-sinhala"/>
 	</outline>
 	<lib>
 		<dict>

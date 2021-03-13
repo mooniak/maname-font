@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMI" format="2">
 	<advance width="660"/>
+	<anchor x="629" y="287" name="rakaransaya"/>
 	<outline>
 		<contour>
 			<point x="321" y="-25" type="curve" smooth="yes"/>
@@ -113,7 +114,6 @@
 			<point x="145" y="-25"/>
 		</contour>
 	</outline>
-	<anchor name="rakaransaya" x="629" y="287"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>

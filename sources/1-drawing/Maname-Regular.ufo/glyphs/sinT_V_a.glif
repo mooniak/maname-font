@@ -94,7 +94,7 @@
 			<point x="233" y="330"/>
 			<point x="219" y="280"/>
 		</contour>
-		<component base="sinVa" xOffset="428"/>
+		<component base="va-sinhala" xOffset="428"/>
 	</outline>
 	<lib>
 		<dict>

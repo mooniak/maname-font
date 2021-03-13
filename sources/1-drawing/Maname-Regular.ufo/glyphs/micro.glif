@@ -2,6 +2,8 @@
 <glyph name="micro" format="2">
 	<advance width="561"/>
 	<unicode hex="00B5"/>
+	<anchor x="257" y="8" name="ogonek"/>
+	<anchor x="265" y="514" name="top"/>
 	<outline>
 		<contour>
 			<point x="82" y="-179" type="line"/>
@@ -72,8 +74,6 @@
 			<point x="379" y="0"/>
 		</contour>
 	</outline>
-	<anchor name="ogonek" x="257" y="8"/>
-	<anchor name="top" x="265" y="514"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>

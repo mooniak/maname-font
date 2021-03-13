@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinNnIi" format="2">
 	<advance width="965"/>
+	<anchor x="807" y="371" name="Virama"/>
 	<outline>
 		<contour>
 			<point x="307" y="-11" type="curve" smooth="yes"/>
@@ -180,7 +181,6 @@
 			<point x="593" y="-26"/>
 		</contour>
 	</outline>
-	<anchor name="Virama" x="807" y="371"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
@@ -190,11 +190,9 @@
 				<key>background</key>
 				<dict>
 					<key>anchors</key>
-					<array>
-					</array>
+					<array/>
 					<key>components</key>
-					<array>
-					</array>
+					<array/>
 					<key>contours</key>
 					<array>
 						<dict>
@@ -484,13 +482,11 @@
 						</dict>
 					</array>
 					<key>lib</key>
-					<dict>
-					</dict>
+					<dict/>
 					<key>name</key>
 					<string>sinNnIi</string>
 					<key>unicodes</key>
-					<array>
-					</array>
+					<array/>
 					<key>width</key>
 					<integer>1253</integer>
 				</dict>

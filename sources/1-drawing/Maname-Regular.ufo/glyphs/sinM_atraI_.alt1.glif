@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraI.alt1" format="2">
 	<advance width="0"/>
+	<anchor x="-1" y="350" name="_MatraI"/>
 	<outline>
 		<contour>
 			<point x="-1" y="349" type="curve"/>
@@ -31,7 +32,6 @@
 			<point x="22" y="536"/>
 		</contour>
 	</outline>
-	<anchor name="_MatraI" x="-1" y="350"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>

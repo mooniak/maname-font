@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinCh.virama" format="2">
 	<advance width="605"/>
+	<anchor x="570" y="196" name="_si_MaU"/>
 	<outline>
 		<contour>
 			<point x="310" y="-20" type="curve" smooth="yes"/>
@@ -136,7 +137,6 @@
 			<point x="431" y="583"/>
 		</contour>
 	</outline>
-	<anchor name="_si_MaU" x="570" y="196"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>

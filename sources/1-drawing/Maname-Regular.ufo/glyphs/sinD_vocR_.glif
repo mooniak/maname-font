@@ -2,8 +2,8 @@
 <glyph name="sinDvocR" format="2">
 	<advance width="768"/>
 	<outline>
-		<component base="sinDa"/>
-		<component base="sinMatraR" xOffset="384"/>
+		<component base="da-sinhala"/>
+		<component base="rVocalicMatra-sinhala" xOffset="384"/>
 	</outline>
 	<lib>
 		<dict>
@@ -15,7 +15,7 @@
 					<key>index</key>
 					<integer>1</integer>
 					<key>name</key>
-					<string>sinMatraR</string>
+					<string>rVocalicMatra-sinhala</string>
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>

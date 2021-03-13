@@ -48,7 +48,7 @@
 			<point x="55" y="578"/>
 			<point x="115" y="534"/>
 		</contour>
-		<component base="sinTtha"/>
+		<component base="ttha-sinhala"/>
 	</outline>
 	<lib>
 		<dict>

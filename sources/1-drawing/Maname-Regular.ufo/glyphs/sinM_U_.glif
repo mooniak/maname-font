@@ -26,7 +26,7 @@
 			<point x="131" y="-204"/>
 			<point x="233" y="-206" type="curve" smooth="yes"/>
 		</contour>
-		<component base="sinMa"/>
+		<component base="ma-sinhala"/>
 	</outline>
 	<lib>
 		<dict>

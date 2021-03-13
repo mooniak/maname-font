@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ii-sinhala" format="2">
+	<advance width="528"/>
+	<unicode hex="0D8A"/>
+	<outline>
+		<contour>
+			<point x="151" y="541" type="curve" smooth="yes"/>
+			<point x="176" y="541"/>
+			<point x="197" y="564"/>
+			<point x="197" y="591" type="curve" smooth="yes"/>
+			<point x="197" y="613"/>
+			<point x="177" y="631"/>
+			<point x="154" y="631" type="curve" smooth="yes"/>
+			<point x="129" y="631"/>
+			<point x="107" y="608"/>
+			<point x="107" y="581" type="curve" smooth="yes"/>
+			<point x="107" y="559"/>
+			<point x="128" y="541"/>
+		</contour>
+		<contour>
+			<point x="447" y="468" type="curve" smooth="yes"/>
+			<point x="473" y="468"/>
+			<point x="493" y="490"/>
+			<point x="493" y="516" type="curve" smooth="yes"/>
+			<point x="493" y="538"/>
+			<point x="477" y="554"/>
+			<point x="455" y="554" type="curve" smooth="yes"/>
+			<point x="429" y="554"/>
+			<point x="407" y="532"/>
+			<point x="407" y="506" type="curve" smooth="yes"/>
+			<point x="407" y="484"/>
+			<point x="425" y="468"/>
+		</contour>
+		<component base="ra-sinhala"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-01-05 04:56:58 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>sinRa</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sinRa</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -2,7 +2,7 @@
 <glyph name="sinLlIi" format="2">
 	<advance width="674"/>
 	<outline>
-		<component base="sinLla" yOffset="-20"/>
+		<component base="lla-sinhala" yOffset="-20"/>
 		<component base="sinMatraIi.alt3" xOffset="330" yOffset="-2"/>
 	</outline>
 	<lib>

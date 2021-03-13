@@ -30,7 +30,7 @@
 			<point x="436" y="450"/>
 			<point x="378" y="450" type="curve"/>
 		</contour>
-		<component base="sinLla"/>
+		<component base="lla-sinhala"/>
 	</outline>
 	<lib>
 		<dict>

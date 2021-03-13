@@ -30,7 +30,7 @@
 			<point x="119" y="528"/>
 			<point x="179" y="487"/>
 		</contour>
-		<component base="sinPha"/>
+		<component base="pha-sinhala"/>
 	</outline>
 	<lib>
 		<dict>

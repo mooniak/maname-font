@@ -2,6 +2,7 @@
 <glyph name="dong" format="2">
 	<advance width="438"/>
 	<unicode hex="20AB"/>
+	<anchor x="427" y="116" name="topright"/>
 	<outline>
 		<contour>
 			<point x="172" y="112" type="curve" smooth="yes"/>
@@ -93,7 +94,6 @@
 			<point x="154" y="538" type="curve"/>
 		</contour>
 	</outline>
-	<anchor name="topright" x="427" y="116"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>

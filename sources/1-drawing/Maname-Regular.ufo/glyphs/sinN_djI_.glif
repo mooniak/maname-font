@@ -33,7 +33,7 @@
 			<point x="399" y="471"/>
 			<point x="459" y="420"/>
 		</contour>
-		<component base="sinNdja"/>
+		<component base="nyja-sinhala"/>
 	</outline>
 	<lib>
 		<dict>

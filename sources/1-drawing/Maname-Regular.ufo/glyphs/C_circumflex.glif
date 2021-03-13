@@ -12,7 +12,7 @@
 			<array>
 				<dict>
 					<key>alignment</key>
-					<true/>
+					<integer>1</integer>
 					<key>index</key>
 					<integer>1</integer>
 					<key>name</key>

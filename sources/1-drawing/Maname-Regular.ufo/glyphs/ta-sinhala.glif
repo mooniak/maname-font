@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ta-sinhala" format="2">
+	<advance width="798"/>
+	<unicode hex="0DAD"/>
+	<anchor x="296" y="340" name="MatraI"/>
+	<anchor x="665" y="394" name="Virama"/>
+	<anchor x="759" y="217" name="rakaransaya"/>
+	<outline>
+		<contour>
+			<point x="408" y="-7"/>
+			<point x="493" y="106"/>
+			<point x="493" y="201" type="curve" smooth="yes"/>
+			<point x="493" y="275"/>
+			<point x="442" y="313"/>
+			<point x="372" y="313" type="curve" smooth="yes"/>
+			<point x="328" y="313"/>
+			<point x="288" y="298"/>
+			<point x="259" y="281" type="curve" smooth="yes"/>
+			<point x="213" y="254"/>
+			<point x="219" y="257"/>
+			<point x="204" y="245" type="curve"/>
+			<point x="214" y="256"/>
+			<point x="228" y="269"/>
+			<point x="249" y="285" type="curve" smooth="yes"/>
+			<point x="308" y="330"/>
+			<point x="384" y="373"/>
+			<point x="495" y="373" type="curve" smooth="yes"/>
+			<point x="623" y="373"/>
+			<point x="715" y="315"/>
+			<point x="715" y="208" type="curve" smooth="yes"/>
+			<point x="715" y="123"/>
+			<point x="658" y="72"/>
+			<point x="536" y="72" type="curve" smooth="yes"/>
+			<point x="532" y="72"/>
+			<point x="531" y="72"/>
+			<point x="506" y="76" type="curve"/>
+			<point x="496" y="71" type="line"/>
+			<point x="500" y="43"/>
+			<point x="521" y="5"/>
+			<point x="534" y="-6" type="curve"/>
+			<point x="701" y="-1"/>
+			<point x="760" y="128"/>
+			<point x="760" y="233" type="curve" smooth="yes"/>
+			<point x="760" y="375"/>
+			<point x="653" y="456"/>
+			<point x="531" y="456" type="curve" smooth="yes"/>
+			<point x="424" y="456"/>
+			<point x="315" y="394"/>
+			<point x="239" y="322" type="curve" smooth="yes"/>
+			<point x="180" y="266"/>
+			<point x="82" y="152"/>
+			<point x="32" y="89" type="curve"/>
+			<point x="28" y="67"/>
+			<point x="57" y="53"/>
+			<point x="58" y="52" type="curve"/>
+			<point x="81" y="113"/>
+			<point x="132" y="160"/>
+			<point x="160" y="183" type="curve" smooth="yes"/>
+			<point x="207" y="222"/>
+			<point x="255" y="247"/>
+			<point x="338" y="247" type="curve" smooth="yes"/>
+			<point x="406" y="247"/>
+			<point x="453" y="230"/>
+			<point x="453" y="184" type="curve" smooth="yes"/>
+			<point x="453" y="139"/>
+			<point x="409" y="70"/>
+			<point x="283" y="70" type="curve" smooth="yes"/>
+			<point x="176" y="70"/>
+			<point x="153" y="120"/>
+			<point x="108" y="120" type="curve" smooth="yes"/>
+			<point x="93" y="120"/>
+			<point x="70" y="115"/>
+			<point x="57" y="101" type="curve"/>
+			<point x="61" y="58" type="line"/>
+			<point x="61" y="78"/>
+			<point x="79" y="95"/>
+			<point x="93" y="95" type="curve" smooth="yes"/>
+			<point x="128" y="95"/>
+			<point x="145" y="-7"/>
+			<point x="273" y="-7" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="203" y="276" type="line"/>
+			<point x="221" y="294"/>
+			<point x="264" y="355"/>
+			<point x="264" y="397" type="curve" smooth="yes"/>
+			<point x="264" y="435"/>
+			<point x="228" y="452"/>
+			<point x="185" y="452" type="curve" smooth="yes"/>
+			<point x="107" y="452"/>
+			<point x="32" y="397"/>
+			<point x="32" y="328" type="curve" smooth="yes"/>
+			<point x="32" y="297"/>
+			<point x="47" y="280"/>
+			<point x="79" y="280" type="curve" smooth="yes"/>
+			<point x="95" y="280"/>
+			<point x="112" y="284"/>
+			<point x="120" y="289" type="curve"/>
+			<point x="114" y="296"/>
+			<point x="102" y="318"/>
+			<point x="102" y="345" type="curve" smooth="yes"/>
+			<point x="102" y="377"/>
+			<point x="119" y="417"/>
+			<point x="164" y="417" type="curve" smooth="yes"/>
+			<point x="198" y="417"/>
+			<point x="213" y="395"/>
+			<point x="213" y="362" type="curve" smooth="yes"/>
+			<point x="213" y="330"/>
+			<point x="199" y="280"/>
+			<point x="180" y="258" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2019-01-05 04:56:29 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinJIi" format="2">
 	<advance width="642"/>
+	<anchor x="560" y="175" name="rakar"/>
 	<outline>
 		<contour>
 			<point x="417" y="429" type="curve"/>
@@ -42,9 +43,8 @@
 			<point x="280" y="486"/>
 			<point x="341" y="429"/>
 		</contour>
-		<component base="sinJa"/>
+		<component base="ja-sinhala"/>
 	</outline>
-	<anchor name="rakar" x="560" y="175"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>

@@ -3,7 +3,7 @@
 	<advance width="784"/>
 	<outline>
 		<component base="sinRakar.long" xOffset="408" yOffset="15"/>
-		<component base="sinHa"/>
+		<component base="ha-sinhala"/>
 	</outline>
 	<lib>
 		<dict>

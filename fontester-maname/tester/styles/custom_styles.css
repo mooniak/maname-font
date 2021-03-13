@@ -1,0 +1,45 @@
+h1 {
+    font-size: 3em;
+}
+
+.txt_2_col {
+    -webkit-columns: 2 100px;
+    -moz-columns: 2 100px;
+    columns: 2 100px;
+}
+
+.txt_3_col {
+    -webkit-columns: 3 350px;
+    -moz-columns: 3 350px;
+    columns: 3 350px;
+}
+
+blockquote {
+    font-size: 1.2em;
+    font-style: italic;
+    border-left: 0px solid #ccc;
+    margin: 1em 10px;
+    padding: 0.5em 10px;
+    quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote:before {
+    color: #ccc;
+    content: open-quote;
+    font-size: 3em;
+    line-height: 0.1em;
+    margin-right: 0.05em;
+    vertical-align: -0.4em;
+}
+
+blockquote p {
+    display: inline;
+}
+
+p{
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+
+}

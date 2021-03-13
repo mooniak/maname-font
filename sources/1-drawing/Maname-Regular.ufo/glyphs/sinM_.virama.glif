@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinM.virama" format="2">
 	<advance width="646"/>
+	<anchor x="610" y="273" name="rakaransaya"/>
 	<outline>
 		<contour>
 			<point x="317" y="-25" type="curve" smooth="yes"/>
@@ -118,7 +119,6 @@
 			<point x="567" y="402" type="curve"/>
 		</contour>
 	</outline>
-	<anchor name="rakaransaya" x="610" y="273"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>

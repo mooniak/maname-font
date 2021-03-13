@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinShIi" format="2">
 	<advance width="747"/>
+	<anchor x="724" y="228" name="rakaransa"/>
 	<outline>
 		<contour>
 			<point x="495" y="-8" type="curve"/>
@@ -134,7 +135,6 @@
 			<point x="380" y="375"/>
 		</contour>
 	</outline>
-	<anchor name="rakaransa" x="724" y="228"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>

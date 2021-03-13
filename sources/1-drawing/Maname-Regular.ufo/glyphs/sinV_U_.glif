@@ -23,7 +23,7 @@
 			<point x="115" y="-208"/>
 			<point x="217" y="-210" type="curve" smooth="yes"/>
 		</contour>
-		<component base="sinVa" yOffset="-8"/>
+		<component base="va-sinhala" yOffset="-8"/>
 	</outline>
 	<lib>
 		<dict>

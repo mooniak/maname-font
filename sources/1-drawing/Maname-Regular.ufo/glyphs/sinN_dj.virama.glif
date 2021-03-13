@@ -29,7 +29,7 @@
 			<point x="558" y="594"/>
 			<point x="545" y="584"/>
 		</contour>
-		<component base="sinNdja"/>
+		<component base="nyja-sinhala"/>
 	</outline>
 	<lib>
 		<dict>

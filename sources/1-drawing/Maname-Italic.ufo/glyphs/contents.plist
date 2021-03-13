@@ -472,8 +472,16 @@
 	<string>Z_dotaccent.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
+	<key>a-sinhala</key>
+	<string>a-sinhala.glif</string>
+	<key>aa-sinhala</key>
+	<string>aa-sinhala.glif</string>
+	<key>aaMatra-sinhala</key>
+	<string>aaM_atra-sinhala.glif</string>
 	<key>aacute</key>
 	<string>aacute.glif</string>
+	<key>aaeMatra-sinhala</key>
+	<string>aaeM_atra-sinhala.glif</string>
 	<key>abreve</key>
 	<string>abreve.glif</string>
 	<key>abreveacute</key>
@@ -510,12 +518,22 @@
 	<string>adotbelow.glif</string>
 	<key>ae</key>
 	<string>ae.glif</string>
+	<key>ae-sinhala</key>
+	<string>ae-sinhala.glif</string>
+	<key>aeMatra-sinhala</key>
+	<string>aeM_atra-sinhala.glif</string>
 	<key>aeacute</key>
 	<string>aeacute.glif</string>
+	<key>aee-sinhala</key>
+	<string>aee-sinhala.glif</string>
 	<key>agrave</key>
 	<string>agrave.glif</string>
 	<key>ahookabove</key>
 	<string>ahookabove.glif</string>
+	<key>ai-sinhala</key>
+	<string>ai-sinhala.glif</string>
+	<key>aiMatra-sinhala</key>
+	<string>aiM_atra-sinhala.glif</string>
 	<key>ainvertedbreve</key>
 	<string>ainvertedbreve.glif</string>
 	<key>alpha</key>
@@ -524,6 +542,8 @@
 	<string>amacron.glif</string>
 	<key>ampersand</key>
 	<string>ampersand.glif</string>
+	<key>anusvaraya-sinhala</key>
+	<string>anusvaraya-sinhala.glif</string>
 	<key>aogonek</key>
 	<string>aogonek.glif</string>
 	<key>approxequal</key>
@@ -540,14 +560,22 @@
 	<string>at.glif</string>
 	<key>atilde</key>
 	<string>atilde.glif</string>
+	<key>au-sinhala</key>
+	<string>au-sinhala.glif</string>
+	<key>auMatra-sinhala</key>
+	<string>auM_atra-sinhala.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
+	<key>ba-sinhala</key>
+	<string>ba-sinhala.glif</string>
 	<key>backslash</key>
 	<string>backslash.glif</string>
 	<key>bar</key>
 	<string>bar.glif</string>
 	<key>beta</key>
 	<string>beta.glif</string>
+	<key>bha-sinhala</key>
+	<string>bha-sinhala.glif</string>
 	<key>braceleft</key>
 	<string>braceleft.glif</string>
 	<key>braceright</key>
@@ -572,6 +600,8 @@
 	<string>bulletoperator.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
+	<key>ca-sinhala</key>
+	<string>ca-sinhala.glif</string>
 	<key>cacute</key>
 	<string>cacute.glif</string>
 	<key>caron</key>
@@ -596,6 +626,8 @@
 	<string>cedillacomb.glif</string>
 	<key>cent</key>
 	<string>cent.glif</string>
+	<key>cha-sinhala</key>
+	<string>cha-sinhala.glif</string>
 	<key>circumflex</key>
 	<string>circumflex.glif</string>
 	<key>circumflexcomb</key>
@@ -606,16 +638,22 @@
 	<string>colonsign.glif</string>
 	<key>comma</key>
 	<string>comma.glif</string>
-	<key>commaaccent</key>
-	<string>commaaccent.glif</string>
+	<key>commaaccentcomb</key>
+	<string>commaaccentcomb.glif</string>
+	<key>commaaccentcomb.001</key>
+	<string>commaaccentcomb.001.glif</string>
 	<key>commaturnedabovecomb</key>
 	<string>commaturnedabovecomb.glif</string>
 	<key>copyright</key>
 	<string>copyright.glif</string>
+	<key>crescentMoon</key>
+	<string>crescentM_oon.glif</string>
 	<key>currency</key>
 	<string>currency.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
+	<key>da-sinhala</key>
+	<string>da-sinhala.glif</string>
 	<key>dagger</key>
 	<string>dagger.glif</string>
 	<key>daggerdbl</key>
@@ -626,12 +664,18 @@
 	<string>dcaron.glif</string>
 	<key>dcroat</key>
 	<string>dcroat.glif</string>
+	<key>dda-sinhala</key>
+	<string>dda-sinhala.glif</string>
+	<key>ddha-sinhala</key>
+	<string>ddha-sinhala.glif</string>
 	<key>ddotbelow</key>
 	<string>ddotbelow.glif</string>
 	<key>degree</key>
 	<string>degree.glif</string>
 	<key>delta</key>
 	<string>delta.glif</string>
+	<key>dha-sinhala</key>
+	<string>dha-sinhala.glif</string>
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
 	<key>dieresisbelowcomb</key>
@@ -658,6 +702,10 @@
 	<string>dzcaron.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
+	<key>e-sinhala</key>
+	<string>e-sinhala.glif</string>
+	<key>eMatra-sinhala</key>
+	<string>eM_atra-sinhala.glif</string>
 	<key>eacute</key>
 	<string>eacute.glif</string>
 	<key>ebreve</key>
@@ -684,6 +732,10 @@
 	<string>edotaccent.glif</string>
 	<key>edotbelow</key>
 	<string>edotbelow.glif</string>
+	<key>ee-sinhala</key>
+	<string>ee-sinhala.glif</string>
+	<key>eeMatra-sinhala</key>
+	<string>eeM_atra-sinhala.glif</string>
 	<key>egrave</key>
 	<string>egrave.glif</string>
 	<key>ehookabove</key>
@@ -732,8 +784,12 @@
 	<string>f_f_i.glif</string>
 	<key>f_f_l</key>
 	<string>f_f_l.glif</string>
+	<key>fa-sinhala</key>
+	<string>fa-sinhala.glif</string>
 	<key>fi</key>
 	<string>fi.glif</string>
+	<key>firstQuarterMoonFace</key>
+	<string>firstQ_uarterM_oonF_ace.glif</string>
 	<key>firsttonechinese</key>
 	<string>firsttonechinese.glif</string>
 	<key>five</key>
@@ -758,8 +814,14 @@
 	<string>fraction.glif</string>
 	<key>franc</key>
 	<string>franc.glif</string>
+	<key>fullMoonFace</key>
+	<string>fullM_oonF_ace.glif</string>
+	<key>fullMoonSymbol</key>
+	<string>fullM_oonS_ymbol.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
+	<key>ga-sinhala</key>
+	<string>ga-sinhala.glif</string>
 	<key>gamma</key>
 	<string>gamma.glif</string>
 	<key>gbreve</key>
@@ -774,6 +836,8 @@
 	<string>gdotaccent.glif</string>
 	<key>germandbls</key>
 	<string>germandbls.glif</string>
+	<key>gha-sinhala</key>
+	<string>gha-sinhala.glif</string>
 	<key>grave</key>
 	<string>grave.glif</string>
 	<key>gravecomb</key>
@@ -794,6 +858,8 @@
 	<string>guilsinglright.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
+	<key>ha-sinhala</key>
+	<string>ha-sinhala.glif</string>
 	<key>hbar</key>
 	<string>hbar.glif</string>
 	<key>hcircumflex</key>
@@ -810,6 +876,10 @@
 	<string>hyphen.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
+	<key>i-sinhala</key>
+	<string>i-sinhala.glif</string>
+	<key>iMatra-sinhala</key>
+	<string>iM_atra-sinhala.glif</string>
 	<key>iacute</key>
 	<string>iacute.glif</string>
 	<key>ibreve</key>
@@ -830,6 +900,10 @@
 	<string>igrave.glif</string>
 	<key>ihookabove</key>
 	<string>ihookabove.glif</string>
+	<key>ii-sinhala</key>
+	<string>ii-sinhala.glif</string>
+	<key>iiMatra-sinhala</key>
+	<string>iiM_atra-sinhala.glif</string>
 	<key>iinvertedbreve</key>
 	<string>iinvertedbreve.glif</string>
 	<key>imacron</key>
@@ -842,20 +916,40 @@
 	<string>itilde.glif</string>
 	<key>j</key>
 	<string>j.glif</string>
+	<key>ja-sinhala</key>
+	<string>ja-sinhala.glif</string>
 	<key>jcircumflex</key>
 	<string>jcircumflex.glif</string>
 	<key>jdotless</key>
 	<string>jdotless.glif</string>
+	<key>jha-sinhala</key>
+	<string>jha-sinhala.glif</string>
+	<key>jnya-sinhala</key>
+	<string>jnya-sinhala.glif</string>
 	<key>k</key>
 	<string>k.glif</string>
+	<key>ka-sinhala</key>
+	<string>ka-sinhala.glif</string>
 	<key>kcommaaccent</key>
 	<string>kcommaaccent.glif</string>
 	<key>kgreenlandic</key>
 	<string>kgreenlandic.glif</string>
+	<key>kha-sinhala</key>
+	<string>kha-sinhala.glif</string>
 	<key>kip</key>
 	<string>kip.glif</string>
+	<key>kunddaliya-sinhala</key>
+	<string>kunddaliya-sinhala.glif</string>
+	<key>kunddaliya-sinhala.001</key>
+	<string>kunddaliya-sinhala.001.glif</string>
 	<key>l</key>
 	<string>l.glif</string>
+	<key>lVocalic-sinhala</key>
+	<string>lV_ocalic-sinhala.glif</string>
+	<key>lVocalicMatra-sinhala</key>
+	<string>lV_ocalicM_atra-sinhala.glif</string>
+	<key>la-sinhala</key>
+	<string>la-sinhala.glif</string>
 	<key>lacute</key>
 	<string>lacute.glif</string>
 	<key>lcaron</key>
@@ -876,12 +970,20 @@
 	<string>liraT_urkish.glif</string>
 	<key>lj</key>
 	<string>lj.glif</string>
+	<key>llVocalic-sinhala</key>
+	<string>llV_ocalic-sinhala.glif</string>
+	<key>llVocalicMatra-sinhala</key>
+	<string>llV_ocalicM_atra-sinhala.glif</string>
+	<key>lla-sinhala</key>
+	<string>lla-sinhala.glif</string>
 	<key>logicalnot</key>
 	<string>logicalnot.glif</string>
 	<key>lslash</key>
 	<string>lslash.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
+	<key>ma-sinhala</key>
+	<string>ma-sinhala.glif</string>
 	<key>macron</key>
 	<string>macron.glif</string>
 	<key>macronbelowcomb</key>
@@ -890,16 +992,22 @@
 	<string>macroncomb.glif</string>
 	<key>manat</key>
 	<string>manat.glif</string>
+	<key>mba-sinhala</key>
+	<string>mba-sinhala.glif</string>
 	<key>mdotbelow</key>
 	<string>mdotbelow.glif</string>
 	<key>micro</key>
 	<string>micro.glif</string>
 	<key>minus</key>
 	<string>minus.glif</string>
+	<key>mooniak</key>
+	<string>mooniak.glif</string>
 	<key>multiply</key>
 	<string>multiply.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
+	<key>na-sinhala</key>
+	<string>na-sinhala.glif</string>
 	<key>nacute</key>
 	<string>nacute.glif</string>
 	<key>naira</key>
@@ -910,10 +1018,14 @@
 	<string>ncaron.glif</string>
 	<key>ncommaaccent</key>
 	<string>ncommaaccent.glif</string>
+	<key>nda-sinhala</key>
+	<string>nda-sinhala.glif</string>
 	<key>ndotaccent</key>
 	<string>ndotaccent.glif</string>
 	<key>ndotbelow</key>
 	<string>ndotbelow.glif</string>
+	<key>nga-sinhala</key>
+	<string>nga-sinhala.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
 	<key>nine.lf</key>
@@ -922,6 +1034,12 @@
 	<string>nine.onum.glif</string>
 	<key>nj</key>
 	<string>nj.glif</string>
+	<key>nna-sinhala</key>
+	<string>nna-sinhala.glif</string>
+	<key>nndda-sinhala</key>
+	<string>nndda-sinhala.glif</string>
+	<key>nnga-sinhala</key>
+	<string>nnga-sinhala.glif</string>
 	<key>notequal</key>
 	<string>notequal.glif</string>
 	<key>ntilde</key>
@@ -930,8 +1048,16 @@
 	<string>numbersign.glif</string>
 	<key>numero</key>
 	<string>numero.glif</string>
+	<key>nya-sinhala</key>
+	<string>nya-sinhala.glif</string>
+	<key>nyja-sinhala</key>
+	<string>nyja-sinhala.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
+	<key>o-sinhala</key>
+	<string>o-sinhala.glif</string>
+	<key>oMatra-sinhala</key>
+	<string>oM_atra-sinhala.glif</string>
 	<key>oacute</key>
 	<string>oacute.glif</string>
 	<key>obreve</key>
@@ -998,6 +1124,10 @@
 	<string>onequarter.glif</string>
 	<key>onesuperior</key>
 	<string>onesuperior.glif</string>
+	<key>oo-sinhala</key>
+	<string>oo-sinhala.glif</string>
+	<key>ooMatra-sinhala</key>
+	<string>ooM_atra-sinhala.glif</string>
 	<key>oogonek</key>
 	<string>oogonek.glif</string>
 	<key>ordfeminine</key>
@@ -1014,6 +1144,8 @@
 	<string>otildemacron.glif</string>
 	<key>p</key>
 	<string>p.glif</string>
+	<key>pa-sinhala</key>
+	<string>pa-sinhala.glif</string>
 	<key>paragraph</key>
 	<string>paragraph.glif</string>
 	<key>parenleft</key>
@@ -1034,6 +1166,8 @@
 	<string>peseta.glif</string>
 	<key>peso</key>
 	<string>peso.glif</string>
+	<key>pha-sinhala</key>
+	<string>pha-sinhala.glif</string>
 	<key>plus</key>
 	<string>plus.glif</string>
 	<key>plusminus</key>
@@ -1062,6 +1196,12 @@
 	<string>quotesingle.glif</string>
 	<key>r</key>
 	<string>r.glif</string>
+	<key>rVocalic-sinhala</key>
+	<string>rV_ocalic-sinhala.glif</string>
+	<key>rVocalicMatra-sinhala</key>
+	<string>rV_ocalicM_atra-sinhala.glif</string>
+	<key>ra-sinhala</key>
+	<string>ra-sinhala.glif</string>
 	<key>racute</key>
 	<string>racute.glif</string>
 	<key>rcaron</key>
@@ -1078,12 +1218,18 @@
 	<string>ringcomb.glif</string>
 	<key>rinvertedbreve</key>
 	<string>rinvertedbreve.glif</string>
+	<key>rrVocalic-sinhala</key>
+	<string>rrV_ocalic-sinhala.glif</string>
+	<key>rrVocalicMatra-sinhala</key>
+	<string>rrV_ocalicM_atra-sinhala.glif</string>
 	<key>ruble</key>
 	<string>ruble.glif</string>
 	<key>rupeeIndian</key>
 	<string>rupeeI_ndian.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
+	<key>sa-sinhala</key>
+	<string>sa-sinhala.glif</string>
 	<key>sacute</key>
 	<string>sacute.glif</string>
 	<key>scaron</key>
@@ -1106,8 +1252,882 @@
 	<string>seven.lf.glif</string>
 	<key>seven.onum</key>
 	<string>seven.onum.glif</string>
-	<key>sinKundaliya</key>
-	<string>sinK_undaliya.glif</string>
+	<key>sha-sinhala</key>
+	<string>sha-sinhala.glif</string>
+	<key>sinB.virama</key>
+	<string>sinB_.virama.glif</string>
+	<key>sinBI</key>
+	<string>sinB_I_.glif</string>
+	<key>sinBIi</key>
+	<string>sinB_I_i.glif</string>
+	<key>sinBR.virama</key>
+	<string>sinB_R_.virama.glif</string>
+	<key>sinBRI</key>
+	<string>sinB_R_I_.glif</string>
+	<key>sinBRIi</key>
+	<string>sinB_R_I_i.glif</string>
+	<key>sinBRa</key>
+	<string>sinB_R_a.glif</string>
+	<key>sinBU</key>
+	<string>sinB_U_.glif</string>
+	<key>sinBUu</key>
+	<string>sinB_U_u.glif</string>
+	<key>sinBh.virama</key>
+	<string>sinB_h.virama.glif</string>
+	<key>sinBhI</key>
+	<string>sinB_hI_.glif</string>
+	<key>sinBhIi</key>
+	<string>sinB_hI_i.glif</string>
+	<key>sinBhRI</key>
+	<string>sinB_hR_I_.glif</string>
+	<key>sinBhRIi</key>
+	<string>sinB_hR_I_i.glif</string>
+	<key>sinBhRa</key>
+	<string>sinB_hR_a.glif</string>
+	<key>sinBhRa.virama</key>
+	<string>sinB_hR_a.virama.glif</string>
+	<key>sinBhU</key>
+	<string>sinB_hU_.glif</string>
+	<key>sinBhUu</key>
+	<string>sinB_hU_u.glif</string>
+	<key>sinC.virama</key>
+	<string>sinC_.virama.glif</string>
+	<key>sinCI</key>
+	<string>sinC_I_.glif</string>
+	<key>sinCIi</key>
+	<string>sinC_I_i.glif</string>
+	<key>sinCR.virama</key>
+	<string>sinC_R_.virama.glif</string>
+	<key>sinCRI</key>
+	<string>sinC_R_I_.glif</string>
+	<key>sinCRIi</key>
+	<string>sinC_R_I_i.glif</string>
+	<key>sinCRa</key>
+	<string>sinC_R_a.glif</string>
+	<key>sinCU</key>
+	<string>sinC_U_.glif</string>
+	<key>sinCUu</key>
+	<string>sinC_U_u.glif</string>
+	<key>sinCh.virama</key>
+	<string>sinC_h.virama.glif</string>
+	<key>sinChI</key>
+	<string>sinC_hI_.glif</string>
+	<key>sinChIi</key>
+	<string>sinC_hI_i.glif</string>
+	<key>sinChU</key>
+	<string>sinC_hU_.glif</string>
+	<key>sinChUu</key>
+	<string>sinC_hU_u.glif</string>
+	<key>sinD.virama</key>
+	<string>sinD_.virama.glif</string>
+	<key>sinDAa.ss01</key>
+	<string>sinD_A_a.ss01.glif</string>
+	<key>sinDAa.virama.ss01</key>
+	<string>sinD_A_a.virama.ss01.glif</string>
+	<key>sinDAae.ss01</key>
+	<string>sinD_A_ae.ss01.glif</string>
+	<key>sinDAe.ss01</key>
+	<string>sinD_A_e.ss01.glif</string>
+	<key>sinDDdh.virama</key>
+	<string>sinD_D_dh.virama.glif</string>
+	<key>sinDDhI</key>
+	<string>sinD_D_hI_.glif</string>
+	<key>sinDDhIi</key>
+	<string>sinD_D_hI_i.glif</string>
+	<key>sinDDhU</key>
+	<string>sinD_D_hU_.glif</string>
+	<key>sinDDhUu</key>
+	<string>sinD_D_hU_u.glif</string>
+	<key>sinDDha</key>
+	<string>sinD_D_ha.glif</string>
+	<key>sinDI</key>
+	<string>sinD_I_.glif</string>
+	<key>sinDIi</key>
+	<string>sinD_I_i.glif</string>
+	<key>sinDR.virama</key>
+	<string>sinD_R_.virama.glif</string>
+	<key>sinDRI</key>
+	<string>sinD_R_I_.glif</string>
+	<key>sinDRIi</key>
+	<string>sinD_R_I_i.glif</string>
+	<key>sinDRa</key>
+	<string>sinD_R_a.glif</string>
+	<key>sinDU</key>
+	<string>sinD_U_.glif</string>
+	<key>sinDUu</key>
+	<string>sinD_U_u.glif</string>
+	<key>sinDV.virama</key>
+	<string>sinD_V_.virama.glif</string>
+	<key>sinDVI</key>
+	<string>sinD_V_I_.glif</string>
+	<key>sinDVIi</key>
+	<string>sinD_V_I_i.glif</string>
+	<key>sinDVU</key>
+	<string>sinD_V_U_.glif</string>
+	<key>sinDVUu</key>
+	<string>sinD_V_U_u.glif</string>
+	<key>sinDVa</key>
+	<string>sinD_V_a.glif</string>
+	<key>sinDYAa.post.ss01</key>
+	<string>sinD_Y_A_a.post.ss01.glif</string>
+	<key>sinDYOo.post.ss01</key>
+	<string>sinD_Y_O_o.post.ss01.glif</string>
+	<key>sinDYUu.post.ss01</key>
+	<string>sinD_Y_U_u.post.ss01.glif</string>
+	<key>sinDYa.post.ss01</key>
+	<string>sinD_Y_a.post.ss01.glif</string>
+	<key>sinDYu.post.ss01</key>
+	<string>sinD_Y_u.post.ss01.glif</string>
+	<key>sinDd.virama</key>
+	<string>sinD_d.virama.glif</string>
+	<key>sinDdI</key>
+	<string>sinD_dI_.glif</string>
+	<key>sinDdIi</key>
+	<string>sinD_dI_i.glif</string>
+	<key>sinDdR.virama</key>
+	<string>sinD_dR_.virama.glif</string>
+	<key>sinDdRI</key>
+	<string>sinD_dR_I_.glif</string>
+	<key>sinDdRIi</key>
+	<string>sinD_dR_I_i.glif</string>
+	<key>sinDdRa</key>
+	<string>sinD_dR_a.glif</string>
+	<key>sinDdU</key>
+	<string>sinD_dU_.glif</string>
+	<key>sinDdUu</key>
+	<string>sinD_dU_u.glif</string>
+	<key>sinDdh.virama</key>
+	<string>sinD_dh.virama.glif</string>
+	<key>sinDdhI</key>
+	<string>sinD_dhI_.glif</string>
+	<key>sinDdhIi</key>
+	<string>sinD_dhI_i.glif</string>
+	<key>sinDdhU</key>
+	<string>sinD_dhU_.glif</string>
+	<key>sinDdhUu</key>
+	<string>sinD_dhU_u.glif</string>
+	<key>sinDh.virama</key>
+	<string>sinD_h.virama.glif</string>
+	<key>sinDhI</key>
+	<string>sinD_hI_.glif</string>
+	<key>sinDhIi</key>
+	<string>sinD_hI_i.glif</string>
+	<key>sinDhR.virama</key>
+	<string>sinD_hR_.virama.glif</string>
+	<key>sinDhRI</key>
+	<string>sinD_hR_I_.glif</string>
+	<key>sinDhRIi</key>
+	<string>sinD_hR_I_i.glif</string>
+	<key>sinDhRa</key>
+	<string>sinD_hR_a.glif</string>
+	<key>sinDhU</key>
+	<string>sinD_hU_.glif</string>
+	<key>sinDhUu</key>
+	<string>sinD_hU_u.glif</string>
+	<key>sinDrI</key>
+	<string>sinD_rI_.glif</string>
+	<key>sinDrIi</key>
+	<string>sinD_rI_i.glif</string>
+	<key>sinDra</key>
+	<string>sinD_ra.glif</string>
+	<key>sinDvocR</key>
+	<string>sinD_vocR_.glif</string>
+	<key>sinDvocRr</key>
+	<string>sinD_vocR_r.glif</string>
+	<key>sinF.virama</key>
+	<string>sinF_.virama.glif</string>
+	<key>sinFI</key>
+	<string>sinF_I_.glif</string>
+	<key>sinFIi</key>
+	<string>sinF_I_i.glif</string>
+	<key>sinFR.virama</key>
+	<string>sinF_R_.virama.glif</string>
+	<key>sinFRI</key>
+	<string>sinF_R_I_.glif</string>
+	<key>sinFRIi</key>
+	<string>sinF_R_I_i.glif</string>
+	<key>sinFRa</key>
+	<string>sinF_R_a.glif</string>
+	<key>sinFU</key>
+	<string>sinF_U_.glif</string>
+	<key>sinFUu</key>
+	<string>sinF_U_u.glif</string>
+	<key>sinG.virama</key>
+	<string>sinG_.virama.glif</string>
+	<key>sinGDha</key>
+	<string>sinG_D_ha.glif</string>
+	<key>sinGI</key>
+	<string>sinG_I_.glif</string>
+	<key>sinGIi</key>
+	<string>sinG_I_i.glif</string>
+	<key>sinGR.virama</key>
+	<string>sinG_R_.virama.glif</string>
+	<key>sinGRI</key>
+	<string>sinG_R_I_.glif</string>
+	<key>sinGRIi</key>
+	<string>sinG_R_I_i.glif</string>
+	<key>sinGRa</key>
+	<string>sinG_R_a.glif</string>
+	<key>sinGU</key>
+	<string>sinG_U_.glif</string>
+	<key>sinGUu</key>
+	<string>sinG_U_u.glif</string>
+	<key>sinGh.virama</key>
+	<string>sinG_h.virama.glif</string>
+	<key>sinGhI</key>
+	<string>sinG_hI_.glif</string>
+	<key>sinGhIi</key>
+	<string>sinG_hI_i.glif</string>
+	<key>sinGhR.virama</key>
+	<string>sinG_hR_.virama.glif</string>
+	<key>sinGhRI</key>
+	<string>sinG_hR_I_.glif</string>
+	<key>sinGhRIi</key>
+	<string>sinG_hR_I_i.glif</string>
+	<key>sinGhRa</key>
+	<string>sinG_hR_a.glif</string>
+	<key>sinGhU</key>
+	<string>sinG_hU_.glif</string>
+	<key>sinGhUu</key>
+	<string>sinG_hU_u.glif</string>
+	<key>sinH.virama</key>
+	<string>sinH_.virama.glif</string>
+	<key>sinHI</key>
+	<string>sinH_I_.glif</string>
+	<key>sinHIi</key>
+	<string>sinH_I_i.glif</string>
+	<key>sinHR.virama</key>
+	<string>sinH_R_.virama.glif</string>
+	<key>sinHRI</key>
+	<string>sinH_R_I_.glif</string>
+	<key>sinHRIi</key>
+	<string>sinH_R_I_i.glif</string>
+	<key>sinHRa</key>
+	<string>sinH_R_a.glif</string>
+	<key>sinHU</key>
+	<string>sinH_U_.glif</string>
+	<key>sinHUu</key>
+	<string>sinH_U_u.glif</string>
+	<key>sinJ.virama</key>
+	<string>sinJ_.virama.glif</string>
+	<key>sinJI</key>
+	<string>sinJ_I_.glif</string>
+	<key>sinJIi</key>
+	<string>sinJ_I_i.glif</string>
+	<key>sinJR.virama</key>
+	<string>sinJ_R_.virama.glif</string>
+	<key>sinJRI</key>
+	<string>sinJ_R_I_.glif</string>
+	<key>sinJRIi</key>
+	<string>sinJ_R_I_i.glif</string>
+	<key>sinJRa</key>
+	<string>sinJ_R_a.glif</string>
+	<key>sinJU</key>
+	<string>sinJ_U_.glif</string>
+	<key>sinJUu</key>
+	<string>sinJ_U_u.glif</string>
+	<key>sinJh.virama</key>
+	<string>sinJ_h.virama.glif</string>
+	<key>sinJhI</key>
+	<string>sinJ_hI_.glif</string>
+	<key>sinJhIi</key>
+	<string>sinJ_hI_i.glif</string>
+	<key>sinJhR.virama</key>
+	<string>sinJ_hR_.virama.glif</string>
+	<key>sinJhRI</key>
+	<string>sinJ_hR_I_.glif</string>
+	<key>sinJhRIi</key>
+	<string>sinJ_hR_I_i.glif</string>
+	<key>sinJhRa</key>
+	<string>sinJ_hR_a.glif</string>
+	<key>sinJhU</key>
+	<string>sinJ_hU_.glif</string>
+	<key>sinJhUu</key>
+	<string>sinJ_hU_u.glif</string>
+	<key>sinJny.virama</key>
+	<string>sinJ_ny.virama.glif</string>
+	<key>sinJnyAa.ss01</key>
+	<string>sinJ_nyA_a.ss01.glif</string>
+	<key>sinJnyAa.virama.ss01</key>
+	<string>sinJ_nyA_a.virama.ss01.glif</string>
+	<key>sinJnyAe.ss01</key>
+	<string>sinJ_nyA_e.ss01.glif</string>
+	<key>sinJnyAee.ss01</key>
+	<string>sinJ_nyA_ee.ss01.glif</string>
+	<key>sinJnyI</key>
+	<string>sinJ_nyI_.glif</string>
+	<key>sinJnyIi</key>
+	<string>sinJ_nyI_i.glif</string>
+	<key>sinJnyR.virama</key>
+	<string>sinJ_nyR_.virama.glif</string>
+	<key>sinJnyRI</key>
+	<string>sinJ_nyR_I_.glif</string>
+	<key>sinJnyRIi</key>
+	<string>sinJ_nyR_I_i.glif</string>
+	<key>sinJnyRa</key>
+	<string>sinJ_nyR_a.glif</string>
+	<key>sinJnyU</key>
+	<string>sinJ_nyU_.glif</string>
+	<key>sinJnyUu</key>
+	<string>sinJ_nyU_u.glif</string>
+	<key>sinK.virama</key>
+	<string>sinK_.virama.glif</string>
+	<key>sinKI</key>
+	<string>sinK_I_.glif</string>
+	<key>sinKIi</key>
+	<string>sinK_I_i.glif</string>
+	<key>sinKRI</key>
+	<string>sinK_R_I_.glif</string>
+	<key>sinKRIi</key>
+	<string>sinK_R_I_i.glif</string>
+	<key>sinKRa</key>
+	<string>sinK_R_a.glif</string>
+	<key>sinKSs.virama</key>
+	<string>sinK_S_s.virama.glif</string>
+	<key>sinKSsI</key>
+	<string>sinK_S_sI_.glif</string>
+	<key>sinKSsIi</key>
+	<string>sinK_S_sI_i.glif</string>
+	<key>sinKSsU</key>
+	<string>sinK_S_sU_.glif</string>
+	<key>sinKSsUu</key>
+	<string>sinK_S_sU_u.glif</string>
+	<key>sinKSsa</key>
+	<string>sinK_S_sa.glif</string>
+	<key>sinKU</key>
+	<string>sinK_U_.glif</string>
+	<key>sinKUu</key>
+	<string>sinK_U_u.glif</string>
+	<key>sinKV.virama</key>
+	<string>sinK_V_.virama.glif</string>
+	<key>sinKVI</key>
+	<string>sinK_V_I_.glif</string>
+	<key>sinKVIi</key>
+	<string>sinK_V_I_i.glif</string>
+	<key>sinKVU</key>
+	<string>sinK_V_U_.glif</string>
+	<key>sinKVUu</key>
+	<string>sinK_V_U_u.glif</string>
+	<key>sinKVa</key>
+	<string>sinK_V_a.glif</string>
+	<key>sinKh.virama</key>
+	<string>sinK_h.virama.glif</string>
+	<key>sinKhI</key>
+	<string>sinK_hI_.glif</string>
+	<key>sinKhIi</key>
+	<string>sinK_hI_i.glif</string>
+	<key>sinKhR.virama</key>
+	<string>sinK_hR_.virama.glif</string>
+	<key>sinKhRI</key>
+	<string>sinK_hR_I_.glif</string>
+	<key>sinKhRIi</key>
+	<string>sinK_hR_I_i.glif</string>
+	<key>sinKhRa</key>
+	<string>sinK_hR_a.glif</string>
+	<key>sinKhU</key>
+	<string>sinK_hU_.glif</string>
+	<key>sinKhUu</key>
+	<string>sinK_hU_u.glif</string>
+	<key>sinL.virama</key>
+	<string>sinL_.virama.glif</string>
+	<key>sinLI</key>
+	<string>sinL_I_.glif</string>
+	<key>sinLIi</key>
+	<string>sinL_I_i.glif</string>
+	<key>sinLU</key>
+	<string>sinL_U_.glif</string>
+	<key>sinLUu</key>
+	<string>sinL_U_u.glif</string>
+	<key>sinLl.virama</key>
+	<string>sinL_l.virama.glif</string>
+	<key>sinLlI</key>
+	<string>sinL_lI_.glif</string>
+	<key>sinLlIi</key>
+	<string>sinL_lI_i.glif</string>
+	<key>sinLlU</key>
+	<string>sinL_lU_.glif</string>
+	<key>sinLlUu</key>
+	<string>sinL_lU_u.glif</string>
+	<key>sinM.virama</key>
+	<string>sinM_.virama.glif</string>
+	<key>sinMI</key>
+	<string>sinM_I_.glif</string>
+	<key>sinMIi</key>
+	<string>sinM_I_i.glif</string>
+	<key>sinMR.virama</key>
+	<string>sinM_R_.virama.glif</string>
+	<key>sinMRI</key>
+	<string>sinM_R_I_.glif</string>
+	<key>sinMRIi</key>
+	<string>sinM_R_I_i.glif</string>
+	<key>sinMRa</key>
+	<string>sinM_R_a.glif</string>
+	<key>sinMU</key>
+	<string>sinM_U_.glif</string>
+	<key>sinMUu</key>
+	<string>sinM_U_u.glif</string>
+	<key>sinMatraAa.virama</key>
+	<string>sinM_atraA_a.virama.glif</string>
+	<key>sinMatraE.salt</key>
+	<string>sinM_atraE_.salt.glif</string>
+	<key>sinMatraE.ss01</key>
+	<string>sinM_atraE_.ss01.glif</string>
+	<key>sinMatraI.alt</key>
+	<string>sinM_atraI_.alt.glif</string>
+	<key>sinMatraI.alt1</key>
+	<string>sinM_atraI_.alt1.glif</string>
+	<key>sinMatraI.alt2</key>
+	<string>sinM_atraI_.alt2.glif</string>
+	<key>sinMatraI.alt3</key>
+	<string>sinM_atraI_.alt3.glif</string>
+	<key>sinMatraIi.alt</key>
+	<string>sinM_atraI_i.alt.glif</string>
+	<key>sinMatraIi.alt1</key>
+	<string>sinM_atraI_i.alt1.glif</string>
+	<key>sinMatraIi.alt2</key>
+	<string>sinM_atraI_i.alt2.glif</string>
+	<key>sinMatraIi.alt3</key>
+	<string>sinM_atraI_i.alt3.glif</string>
+	<key>sinMatraU.alt</key>
+	<string>sinM_atraU_.alt.glif</string>
+	<key>sinMatraU.alt1</key>
+	<string>sinM_atraU_.alt1.glif</string>
+	<key>sinMatraU.alt2</key>
+	<string>sinM_atraU_.alt2.glif</string>
+	<key>sinMatraU.alt3</key>
+	<string>sinM_atraU_.alt3.glif</string>
+	<key>sinMatraUu.alt</key>
+	<string>sinM_atraU_u.alt.glif</string>
+	<key>sinMatraUu.alt1</key>
+	<string>sinM_atraU_u.alt1.glif</string>
+	<key>sinMatraUu.alt2</key>
+	<string>sinM_atraU_u.alt2.glif</string>
+	<key>sinMatraUu.alt3</key>
+	<string>sinM_atraU_u.alt3.glif</string>
+	<key>sinMb.virama</key>
+	<string>sinM_b.virama.glif</string>
+	<key>sinMbI</key>
+	<string>sinM_bI_.glif</string>
+	<key>sinMbIi</key>
+	<string>sinM_bI_i.glif</string>
+	<key>sinMbU</key>
+	<string>sinM_bU_.glif</string>
+	<key>sinMbUu</key>
+	<string>sinM_bU_u.glif</string>
+	<key>sinN.virama</key>
+	<string>sinN_.virama.glif</string>
+	<key>sinND.virama</key>
+	<string>sinN_D_.virama.glif</string>
+	<key>sinNDAa.ss01</key>
+	<string>sinN_D_A_a.ss01.glif</string>
+	<key>sinNDAa.virama.ss01</key>
+	<string>sinN_D_A_a.virama.ss01.glif</string>
+	<key>sinNDAe.ss01</key>
+	<string>sinN_D_A_e.ss01.glif</string>
+	<key>sinNDAee.ss01</key>
+	<string>sinN_D_A_ee.ss01.glif</string>
+	<key>sinNDI</key>
+	<string>sinN_D_I_.glif</string>
+	<key>sinNDIi</key>
+	<string>sinN_D_I_i.glif</string>
+	<key>sinNDRI</key>
+	<string>sinN_D_R_I_.glif</string>
+	<key>sinNDRIi</key>
+	<string>sinN_D_R_I_i.glif</string>
+	<key>sinNDRa</key>
+	<string>sinN_D_R_a.glif</string>
+	<key>sinNDU</key>
+	<string>sinN_D_U_.glif</string>
+	<key>sinNDUu</key>
+	<string>sinN_D_U_u.glif</string>
+	<key>sinNDa</key>
+	<string>sinN_D_a.glif</string>
+	<key>sinNDh.virama</key>
+	<string>sinN_D_h.virama.glif</string>
+	<key>sinNDhI</key>
+	<string>sinN_D_hI_.glif</string>
+	<key>sinNDhIi</key>
+	<string>sinN_D_hI_i.glif</string>
+	<key>sinNDhU</key>
+	<string>sinN_D_hU_.glif</string>
+	<key>sinNDhUu</key>
+	<string>sinN_D_hU_u.glif</string>
+	<key>sinNDha</key>
+	<string>sinN_D_ha.glif</string>
+	<key>sinNI</key>
+	<string>sinN_I_.glif</string>
+	<key>sinNIi</key>
+	<string>sinN_I_i.glif</string>
+	<key>sinNTh.virama</key>
+	<string>sinN_T_h.virama.glif</string>
+	<key>sinNThI</key>
+	<string>sinN_T_hI_.glif</string>
+	<key>sinNThIi</key>
+	<string>sinN_T_hI_i.glif</string>
+	<key>sinNThU</key>
+	<string>sinN_T_hU_.glif</string>
+	<key>sinNThUu</key>
+	<string>sinN_T_hU_u.glif</string>
+	<key>sinNTha</key>
+	<string>sinN_T_ha.glif</string>
+	<key>sinNU</key>
+	<string>sinN_U_.glif</string>
+	<key>sinNUu</key>
+	<string>sinN_U_u.glif</string>
+	<key>sinNV.virama</key>
+	<string>sinN_V_.virama.glif</string>
+	<key>sinNVI</key>
+	<string>sinN_V_I_.glif</string>
+	<key>sinNVIi</key>
+	<string>sinN_V_I_i.glif</string>
+	<key>sinNVU</key>
+	<string>sinN_V_U_.glif</string>
+	<key>sinNVUu</key>
+	<string>sinN_V_U_u.glif</string>
+	<key>sinNVa</key>
+	<string>sinN_V_a.glif</string>
+	<key>sinNd.virama</key>
+	<string>sinN_d.virama.glif</string>
+	<key>sinNdAa.ss01</key>
+	<string>sinN_dA_a.ss01.glif</string>
+	<key>sinNdAa.virama.ss01</key>
+	<string>sinN_dA_a.virama.ss01.glif</string>
+	<key>sinNdAae.ss01</key>
+	<string>sinN_dA_ae.ss01.glif</string>
+	<key>sinNdAe.ss01</key>
+	<string>sinN_dA_e.ss01.glif</string>
+	<key>sinNdI</key>
+	<string>sinN_dI_.glif</string>
+	<key>sinNdIi</key>
+	<string>sinN_dI_i.glif</string>
+	<key>sinNdRa</key>
+	<string>sinN_dR_a.glif</string>
+	<key>sinNdU</key>
+	<string>sinN_dU_.glif</string>
+	<key>sinNdUu</key>
+	<string>sinN_dU_u.glif</string>
+	<key>sinNdda</key>
+	<string>sinN_dda.glif</string>
+	<key>sinNdj.virama</key>
+	<string>sinN_dj.virama.glif</string>
+	<key>sinNdjI</key>
+	<string>sinN_djI_.glif</string>
+	<key>sinNdjIi</key>
+	<string>sinN_djI_i.glif</string>
+	<key>sinNdjR.virama</key>
+	<string>sinN_djR_.virama.glif</string>
+	<key>sinNdjRa</key>
+	<string>sinN_djR_a.glif</string>
+	<key>sinNdjU</key>
+	<string>sinN_djU_.glif</string>
+	<key>sinNdjUu</key>
+	<string>sinN_djU_u.glif</string>
+	<key>sinNg.virama</key>
+	<string>sinN_g.virama.glif</string>
+	<key>sinNgI</key>
+	<string>sinN_gI_.glif</string>
+	<key>sinNgIi</key>
+	<string>sinN_gI_i.glif</string>
+	<key>sinNn.virama</key>
+	<string>sinN_n.virama.glif</string>
+	<key>sinNnI</key>
+	<string>sinN_nI_.glif</string>
+	<key>sinNnIi</key>
+	<string>sinN_nI_i.glif</string>
+	<key>sinNnU</key>
+	<string>sinN_nU_.glif</string>
+	<key>sinNnUu</key>
+	<string>sinN_nU_u.glif</string>
+	<key>sinNndd.virama</key>
+	<string>sinN_ndd.virama.glif</string>
+	<key>sinNnddI</key>
+	<string>sinN_nddI_.glif</string>
+	<key>sinNnddIi</key>
+	<string>sinN_nddI_i.glif</string>
+	<key>sinNnddU</key>
+	<string>sinN_nddU_.glif</string>
+	<key>sinNnddUu</key>
+	<string>sinN_nddU_u.glif</string>
+	<key>sinNng.virama</key>
+	<string>sinN_ng.virama.glif</string>
+	<key>sinNngI</key>
+	<string>sinN_ngI_.glif</string>
+	<key>sinNngIi</key>
+	<string>sinN_ngI_i.glif</string>
+	<key>sinNngU</key>
+	<string>sinN_ngU_.glif</string>
+	<key>sinNngUu</key>
+	<string>sinN_ngU_u.glif</string>
+	<key>sinNy.virama</key>
+	<string>sinN_y.virama.glif</string>
+	<key>sinNyAa.ss01</key>
+	<string>sinN_yA_a.ss01.glif</string>
+	<key>sinNyAa.virama.ss01</key>
+	<string>sinN_yA_a.virama.ss01.glif</string>
+	<key>sinNyAe.ss01</key>
+	<string>sinN_yA_e.ss01.glif</string>
+	<key>sinNyAee.ss01</key>
+	<string>sinN_yA_ee.ss01.glif</string>
+	<key>sinNyI</key>
+	<string>sinN_yI_.glif</string>
+	<key>sinNyIi</key>
+	<string>sinN_yI_i.glif</string>
+	<key>sinNyR.virama</key>
+	<string>sinN_yR_.virama.glif</string>
+	<key>sinNyRI</key>
+	<string>sinN_yR_I_.glif</string>
+	<key>sinNyRIi</key>
+	<string>sinN_yR_I_i.glif</string>
+	<key>sinNyRa</key>
+	<string>sinN_yR_a.glif</string>
+	<key>sinNyU</key>
+	<string>sinN_yU_.glif</string>
+	<key>sinNyUu</key>
+	<string>sinN_yU_u.glif</string>
+	<key>sinP.virama</key>
+	<string>sinP_.virama.glif</string>
+	<key>sinPI</key>
+	<string>sinP_I_.glif</string>
+	<key>sinPIi</key>
+	<string>sinP_I_i.glif</string>
+	<key>sinPR.virama</key>
+	<string>sinP_R_.virama.glif</string>
+	<key>sinPRI</key>
+	<string>sinP_R_I_.glif</string>
+	<key>sinPRIi</key>
+	<string>sinP_R_I_i.glif</string>
+	<key>sinPRa</key>
+	<string>sinP_R_a.glif</string>
+	<key>sinPU</key>
+	<string>sinP_U_.glif</string>
+	<key>sinPUu</key>
+	<string>sinP_U_u.glif</string>
+	<key>sinPh.virama</key>
+	<string>sinP_h.virama.glif</string>
+	<key>sinPhI</key>
+	<string>sinP_hI_.glif</string>
+	<key>sinPhIi</key>
+	<string>sinP_hI_i.glif</string>
+	<key>sinPhU</key>
+	<string>sinP_hU_.glif</string>
+	<key>sinPhUu</key>
+	<string>sinP_hU_u.glif</string>
+	<key>sinR.virama</key>
+	<string>sinR_.virama.glif</string>
+	<key>sinRAae</key>
+	<string>sinR_A_ae.glif</string>
+	<key>sinRAe</key>
+	<string>sinR_A_e.glif</string>
+	<key>sinRI</key>
+	<string>sinR_I_.glif</string>
+	<key>sinRIi</key>
+	<string>sinR_I_i.glif</string>
+	<key>sinRU</key>
+	<string>sinR_U_.glif</string>
+	<key>sinRU_comma</key>
+	<string>sinR_U__comma.glif</string>
+	<key>sinRU_period</key>
+	<string>sinR_U__period.glif</string>
+	<key>sinRUu</key>
+	<string>sinR_U_u.glif</string>
+	<key>sinRUu_comma</key>
+	<string>sinR_U_u_comma.glif</string>
+	<key>sinRUu_period</key>
+	<string>sinR_U_u_period.glif</string>
+	<key>sinRakar</key>
+	<string>sinR_akar.glif</string>
+	<key>sinRakar.long</key>
+	<string>sinR_akar.long.glif</string>
+	<key>sinRakar.medium</key>
+	<string>sinR_akar.medium.glif</string>
+	<key>sinRakar.short</key>
+	<string>sinR_akar.short.glif</string>
+	<key>sinReph</key>
+	<string>sinR_eph.glif</string>
+	<key>sinS.virama</key>
+	<string>sinS_.virama.glif</string>
+	<key>sinSI</key>
+	<string>sinS_I_.glif</string>
+	<key>sinSIi</key>
+	<string>sinS_I_i.glif</string>
+	<key>sinSR.virama</key>
+	<string>sinS_R_.virama.glif</string>
+	<key>sinSRI</key>
+	<string>sinS_R_I_.glif</string>
+	<key>sinSRIi</key>
+	<string>sinS_R_I_i.glif</string>
+	<key>sinSRa</key>
+	<string>sinS_R_a.glif</string>
+	<key>sinSU</key>
+	<string>sinS_U_.glif</string>
+	<key>sinSUu</key>
+	<string>sinS_U_u.glif</string>
+	<key>sinSh.virama</key>
+	<string>sinS_h.virama.glif</string>
+	<key>sinShI</key>
+	<string>sinS_hI_.glif</string>
+	<key>sinShIi</key>
+	<string>sinS_hI_i.glif</string>
+	<key>sinShR.virama</key>
+	<string>sinS_hR_.virama.glif</string>
+	<key>sinShRI</key>
+	<string>sinS_hR_I_.glif</string>
+	<key>sinShRIi</key>
+	<string>sinS_hR_I_i.glif</string>
+	<key>sinShRa</key>
+	<string>sinS_hR_a.glif</string>
+	<key>sinShU</key>
+	<string>sinS_hU_.glif</string>
+	<key>sinShUu</key>
+	<string>sinS_hU_u.glif</string>
+	<key>sinSs.virama</key>
+	<string>sinS_s.virama.glif</string>
+	<key>sinSsI</key>
+	<string>sinS_sI_.glif</string>
+	<key>sinSsIi</key>
+	<string>sinS_sI_i.glif</string>
+	<key>sinSsR.virama</key>
+	<string>sinS_sR_.virama.glif</string>
+	<key>sinSsRI</key>
+	<string>sinS_sR_I_.glif</string>
+	<key>sinSsRIi</key>
+	<string>sinS_sR_I_i.glif</string>
+	<key>sinSsRa</key>
+	<string>sinS_sR_a.glif</string>
+	<key>sinSsU</key>
+	<string>sinS_sU_.glif</string>
+	<key>sinSsUu</key>
+	<string>sinS_sU_u.glif</string>
+	<key>sinT.virama</key>
+	<string>sinT_.virama.glif</string>
+	<key>sinTI</key>
+	<string>sinT_I_.glif</string>
+	<key>sinTIi</key>
+	<string>sinT_I_i.glif</string>
+	<key>sinTR.virama</key>
+	<string>sinT_R_.virama.glif</string>
+	<key>sinTRI</key>
+	<string>sinT_R_I_.glif</string>
+	<key>sinTRIi</key>
+	<string>sinT_R_I_i.glif</string>
+	<key>sinTRa</key>
+	<string>sinT_R_a.glif</string>
+	<key>sinTTh.virama</key>
+	<string>sinT_T_h.virama.glif</string>
+	<key>sinTThI</key>
+	<string>sinT_T_hI_.glif</string>
+	<key>sinTThIi</key>
+	<string>sinT_T_hI_i.glif</string>
+	<key>sinTThU</key>
+	<string>sinT_T_hU_.glif</string>
+	<key>sinTThUu</key>
+	<string>sinT_T_hU_u.glif</string>
+	<key>sinTTha</key>
+	<string>sinT_T_ha.glif</string>
+	<key>sinTU</key>
+	<string>sinT_U_.glif</string>
+	<key>sinTUu</key>
+	<string>sinT_U_u.glif</string>
+	<key>sinTV.virama</key>
+	<string>sinT_V_.virama.glif</string>
+	<key>sinTVI</key>
+	<string>sinT_V_I_.glif</string>
+	<key>sinTVIi</key>
+	<string>sinT_V_I_i.glif</string>
+	<key>sinTVU</key>
+	<string>sinT_V_U_.glif</string>
+	<key>sinTVUu</key>
+	<string>sinT_V_U_u.glif</string>
+	<key>sinTVa</key>
+	<string>sinT_V_a.glif</string>
+	<key>sinTh.virama</key>
+	<string>sinT_h.virama.glif</string>
+	<key>sinThI</key>
+	<string>sinT_hI_.glif</string>
+	<key>sinThIi</key>
+	<string>sinT_hI_i.glif</string>
+	<key>sinThU</key>
+	<string>sinT_hU_.glif</string>
+	<key>sinThUu</key>
+	<string>sinT_hU_u.glif</string>
+	<key>sinTt.virama</key>
+	<string>sinT_t.virama.glif</string>
+	<key>sinTtI</key>
+	<string>sinT_tI_.glif</string>
+	<key>sinTtIi</key>
+	<string>sinT_tI_i.glif</string>
+	<key>sinTtR.virama</key>
+	<string>sinT_tR_.virama.glif</string>
+	<key>sinTtRI</key>
+	<string>sinT_tR_I_.glif</string>
+	<key>sinTtRIi</key>
+	<string>sinT_tR_I_i.glif</string>
+	<key>sinTtRa</key>
+	<string>sinT_tR_a.glif</string>
+	<key>sinTtTth.virama</key>
+	<string>sinT_tT_th.virama.glif</string>
+	<key>sinTtTthI</key>
+	<string>sinT_tT_thI_.glif</string>
+	<key>sinTtTthIi</key>
+	<string>sinT_tT_thI_i.glif</string>
+	<key>sinTtTthU</key>
+	<string>sinT_tT_thU_.glif</string>
+	<key>sinTtTthUu</key>
+	<string>sinT_tT_thU_u.glif</string>
+	<key>sinTtTtha</key>
+	<string>sinT_tT_tha.glif</string>
+	<key>sinTtU</key>
+	<string>sinT_tU_.glif</string>
+	<key>sinTtUu</key>
+	<string>sinT_tU_u.glif</string>
+	<key>sinTth.virama</key>
+	<string>sinT_th.virama.glif</string>
+	<key>sinTthI</key>
+	<string>sinT_thI_.glif</string>
+	<key>sinTthIi</key>
+	<string>sinT_thI_i.glif</string>
+	<key>sinTthU</key>
+	<string>sinT_thU_.glif</string>
+	<key>sinTthUu</key>
+	<string>sinT_thU_u.glif</string>
+	<key>sinV.virama</key>
+	<string>sinV_.virama.glif</string>
+	<key>sinVI</key>
+	<string>sinV_I_.glif</string>
+	<key>sinVIi</key>
+	<string>sinV_I_i.glif</string>
+	<key>sinVR.virama</key>
+	<string>sinV_R_.virama.glif</string>
+	<key>sinVRI</key>
+	<string>sinV_R_I_.glif</string>
+	<key>sinVRIi</key>
+	<string>sinV_R_I_i.glif</string>
+	<key>sinVRa</key>
+	<string>sinV_R_a.glif</string>
+	<key>sinVU</key>
+	<string>sinV_U_.glif</string>
+	<key>sinVUu</key>
+	<string>sinV_U_u.glif</string>
+	<key>sinY.post.virama</key>
+	<string>sinY_.post.virama.glif</string>
+	<key>sinY.virama</key>
+	<string>sinY_.virama.glif</string>
+	<key>sinYI</key>
+	<string>sinY_I_.glif</string>
+	<key>sinYI.post</key>
+	<string>sinY_I_.post.glif</string>
+	<key>sinYIi</key>
+	<string>sinY_I_i.glif</string>
+	<key>sinYIi.post</key>
+	<string>sinY_I_i.post.glif</string>
+	<key>sinYU</key>
+	<string>sinY_U_.glif</string>
+	<key>sinYU.post</key>
+	<string>sinY_U_.post.glif</string>
+	<key>sinYUu</key>
+	<string>sinY_U_u.glif</string>
+	<key>sinYUu.post</key>
+	<string>sinY_U_u.post.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
 	<key>six.lf</key>
@@ -1120,10 +2140,18 @@
 	<string>softhyphen.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
+	<key>ssa-sinhala</key>
+	<string>ssa-sinhala.glif</string>
 	<key>sterling</key>
 	<string>sterling.glif</string>
+	<key>sunFace</key>
+	<string>sunF_ace.glif</string>
+	<key>sunWithRays</key>
+	<string>sunW_ithR_ays.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
+	<key>ta-sinhala</key>
+	<string>ta-sinhala.glif</string>
 	<key>tbar</key>
 	<string>tbar.glif</string>
 	<key>tcaron</key>
@@ -1134,6 +2162,8 @@
 	<string>tcommaaccent.glif</string>
 	<key>tdotbelow</key>
 	<string>tdotbelow.glif</string>
+	<key>tha-sinhala</key>
+	<string>tha-sinhala.glif</string>
 	<key>theta</key>
 	<string>theta.glif</string>
 	<key>thorn</key>
@@ -1154,6 +2184,10 @@
 	<string>tildecomb.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
+	<key>tta-sinhala</key>
+	<string>tta-sinhala.glif</string>
+	<key>ttha-sinhala</key>
+	<string>ttha-sinhala.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
 	<key>two.lf</key>
@@ -1164,6 +2198,10 @@
 	<string>twosuperior.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
+	<key>u-sinhala</key>
+	<string>u-sinhala.glif</string>
+	<key>uMatra-sinhala</key>
+	<string>uM_atra-sinhala.glif</string>
 	<key>uacute</key>
 	<string>uacute.glif</string>
 	<key>ubreve</key>
@@ -1206,8 +2244,18 @@
 	<string>uring.glif</string>
 	<key>utilde</key>
 	<string>utilde.glif</string>
+	<key>uu-sinhala</key>
+	<string>uu-sinhala.glif</string>
+	<key>uuMatra-sinhala</key>
+	<string>uuM_atra-sinhala.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
+	<key>va-sinhala</key>
+	<string>va-sinhala.glif</string>
+	<key>virama-sinhala</key>
+	<string>virama-sinhala.glif</string>
+	<key>visargaya-sinhala</key>
+	<string>visargaya-sinhala.glif</string>
 	<key>w</key>
 	<string>w.glif</string>
 	<key>wacute</key>
@@ -1224,6 +2272,8 @@
 	<string>x.glif</string>
 	<key>y</key>
 	<string>y.glif</string>
+	<key>ya-sinhala</key>
+	<string>ya-sinhala.glif</string>
 	<key>yacute</key>
 	<string>yacute.glif</string>
 	<key>ycircumflex</key>

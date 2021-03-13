@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nyja-sinhala" format="1">
+  <advance width="751"/>
+  <unicode hex="0DA6"/>
+  <outline>
+    <contour>
+      <point x="64" y="2" type="curve"/>
+      <point x="83" y="2"/>
+      <point x="94" y="6"/>
+      <point x="98" y="9" type="curve"/>
+      <point x="86" y="36"/>
+      <point x="65" y="109"/>
+      <point x="71" y="184" type="curve" smooth="yes"/>
+      <point x="82" y="304"/>
+      <point x="158" y="407"/>
+      <point x="253" y="407" type="curve" smooth="yes"/>
+      <point x="257" y="407"/>
+      <point x="262" y="406"/>
+      <point x="266" y="406" type="curve"/>
+      <point x="315" y="459" type="line"/>
+      <point x="306" y="460"/>
+      <point x="296" y="460"/>
+      <point x="287" y="460" type="curve" smooth="yes"/>
+      <point x="145" y="460"/>
+      <point x="32" y="360"/>
+      <point x="18" y="206" type="curve" smooth="yes"/>
+      <point x="11" y="119"/>
+      <point x="40" y="33"/>
+    </contour>
+    <component base="ja-sinhala" yxScale="0.087" xOffset="79"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-10 03:48:37 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>sinNda</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>sinJa</string>
+    </dict>
+  </lib>
+</glyph>

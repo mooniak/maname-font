@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinYUu.post" format="1">
+  <advance width="557"/>
+  <outline>
+    <contour>
+      <point x="473" y="-225" type="curve"/>
+      <point x="495" y="-211" type="line"/>
+      <point x="499" y="225" type="line"/>
+      <point x="468" y="204" type="line"/>
+      <point x="447" y="-175" type="line"/>
+      <point x="472" y="-183" type="line"/>
+      <point x="455" y="-152"/>
+      <point x="417" y="-110"/>
+      <point x="350" y="-110" type="curve" smooth="yes"/>
+      <point x="273" y="-110"/>
+      <point x="242" y="-181"/>
+      <point x="183" y="-181" type="curve" smooth="yes"/>
+      <point x="151" y="-181"/>
+      <point x="118" y="-150"/>
+      <point x="118" y="-103" type="curve"/>
+      <point x="110" y="-100"/>
+      <point x="101" y="-99"/>
+      <point x="91" y="-99" type="curve" smooth="yes"/>
+      <point x="75" y="-99"/>
+      <point x="58" y="-103"/>
+      <point x="46" y="-109" type="curve"/>
+      <point x="46" y="-150"/>
+      <point x="78" y="-220"/>
+      <point x="173" y="-220" type="curve" smooth="yes"/>
+      <point x="258" y="-220"/>
+      <point x="272" y="-179"/>
+      <point x="343" y="-179" type="curve" smooth="yes"/>
+      <point x="399" y="-179"/>
+      <point x="442" y="-202"/>
+    </contour>
+    <component base="sinYa.post" yxScale="0.07" xOffset="-22"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-01-10 03:48:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

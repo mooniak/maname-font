@@ -39,7 +39,7 @@
 			<point x="107" y="436"/>
 			<point x="160" y="390"/>
 		</contour>
-		<component base="sinLa" xOffset="-11" yOffset="16"/>
+		<component base="la-sinhala" xOffset="-11" yOffset="16"/>
 	</outline>
 	<lib>
 		<dict>

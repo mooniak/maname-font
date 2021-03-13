@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ooMatra-sinhala" format="2">
+	<advance width="955"/>
+	<unicode hex="0DDD"/>
+	<outline>
+		<component base="virama-sinhala" xOffset="784"/>
+		<component base="aaMatra-sinhala" xOffset="663" yOffset="-17"/>
+		<component base="eMatra-sinhala"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-12 15:08:21 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinLUu" format="2">
 	<advance width="620"/>
+	<anchor x="608" y="130" name="_si_MaU"/>
 	<outline>
 		<contour>
 			<point x="327" y="-99" type="curve" smooth="yes"/>
@@ -94,7 +95,6 @@
 			<point x="497" y="-248"/>
 		</contour>
 	</outline>
-	<anchor name="_si_MaU" x="608" y="130"/>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
