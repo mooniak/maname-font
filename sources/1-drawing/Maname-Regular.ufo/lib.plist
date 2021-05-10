@@ -26,6 +26,8 @@
 			<string>74</string>
 		</dict>
 	</dict>
+	<key>com.schriftgestaltung.DisplayStrings</key>
+	<array/>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<true/>
 	<key>com.schriftgestaltung.fontMaster.userData</key>

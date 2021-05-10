@@ -8,6 +8,8 @@
 	<integer>578</integer>
 	<key>descender</key>
 	<integer>-193</integer>
+	<key>familyName</key>
+	<string>Maname</string>
 	<key>guidelines</key>
 	<array>
 		<dict>
@@ -33,8 +35,6 @@
 	<string>mooniak</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string>mooniak.com</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Maname</string>
 	<key>openTypeOS2Type</key>
 	<array>
 		<integer>3</integer>
@@ -45,26 +45,34 @@
 	<integer>193</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
 	<integer>1527</integer>
 	<key>openTypeOS2WinDescent</key>
 	<integer>334</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<real>-13.0</real>
-		<real>0.0</real>
-		<real>385.0</real>
-		<real>400.0</real>
-		<real>578.0</real>
-		<real>620.0</real>
-		<real>770.0</real>
-		<real>786.0</real>
+		<integer>-13</integer>
+		<integer>0</integer>
+		<integer>385</integer>
+		<integer>400</integer>
+		<integer>578</integer>
+		<integer>620</integer>
+		<integer>770</integer>
+		<integer>786</integer>
 	</array>
+	<key>postscriptFontName</key>
+	<string>Maname-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<real>-207.0</real>
-		<real>-193.0</real>
+		<integer>-207</integer>
+		<integer>-193</integer>
 	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>unitsPerEm</key>
