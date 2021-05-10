@@ -1,0 +1,114 @@
+[fontpackage]
+########################################################################
+# PACKAGE METADATA #####################################################
+########################################################################
+
+name = "Maname"
+version = "1.0.0" #REQUIERD: SemVer
+status = "BETA" #REQUIERD: [BETA, ALPHA, STABLE]
+authors = ["Mooniak"] #REQUIERD: Authors of the package
+license = "OFL-1.1" #REQUIERD: https://spdx.org/licenses/
+copyright = "Mooniak" #REQUIERD
+category = "Serif" #REQUIERD: #serif, sans, display, monospace, script, dingbat
+license-file = "" #OPTIONAL: URL to licence file or EULA
+license-description = [ #OPTIONAL: URL to licence file or EULA
+    { en_US = ""},
+    { si_LK= ""},
+    { dv_IN= ""}]
+description = "" #OPTIONAL
+repository = { url = "https://github.com/mooniak/maname-fonts", type = "git"} #REQUIERD
+homepage_url = "http://mooniak.com/maname-font" #OPTIONAL
+issues_url = "https://github.com/mooniak/maname-fonts/issues" #OPTIONAL
+date_published = "20 MARCH 2019" #OPTIONAL: Date first published
+fontlog = "" #OPTIONAL: Defults to ROOT (./FONTLOG.md ./FONTLOG.txt ./CHANGELOG.txt) Defult format Markdown .md
+foundry = { name = "Mooniak", email = "hello@mooniak.com", url = "mooniak.com", vendor_id = "MNIK" } #OPTIONAL:
+designers = [ #OPTIONAL: Desiners from the nameID
+  { name = "Pathum Egodawatta", email = "pathum@mooniak.com", url = "pathumego.org" },
+            ]
+
+private = "" #REQUIERD: Boolean, When set to true, conforming
+maintenance = { status = "actively-developed", comment = "" } #OPTIONAL: # `actively-developed`, `passively-maintained`, `as-is`, `experimental`, `looking-for-maintainer`, `deprecated`, and the default `none`,}
+versions_provider = "tags" #REQUIERD: How is the font versions provided. When set to 'tags' the versions will be fetched from the git tags.
+
+tools = "Fontforge, Glyphs" #OPTIONAL: Details realted to font development and build. Similar to tools key in UFR METADATA.yml
+
+########################################################################
+# DISPLAY AND CLASSIFCATION DATA #######################################
+########################################################################
+
+tags = [ #OPTIONAL: Pakage specific display strings for display and testing purposes
+    { style = "" }, # Blackletter, Calligraphic, Condensed, Decorative, Display, Handdrawn, Monospaced, Rounded, Sans-serif, Script, Serif, Slab, Stencil, Symbols"
+    { modulation = "high" },
+    { contrast = "medium" },
+    { width =  "normal" },
+    { body_height =  "normal" },
+    { intended_useage =  "text"}, # large, medium, text, body, branding
+    { figures =  ""},
+    { languages =  "si_LK" },
+    { related_fonts =  "" }, ]
+
+display_texts = [ #OPTIONAL: Pakage specific display strings for display and testing purposes
+    { en_US = ""},
+    { si_LK= "මනමේ නාටකය වනාහී දේශීය නාට්‍ය සම්ප්‍රදායයේ අග්‍ර ඵලයයි"},
+    { dv_IN= ""}]
+
+# Maps to Type.World billboards
+display_images = [ #OPTIONAL Display images and promotional banners
+    { banner = ""},
+    { small= ""},
+    { thumbnail= ""},
+    { medium = ""},
+    { small= ""},
+    { large = ""} ]
+
+links = [ #OPTIONAL: External links and release channels
+    { font_in_use = "" },
+    { googlefonts = "" },
+    { fontlibrary_org = "" },
+        ]
+
+########################################################################
+# FONT BINARIES AND METADATA ###########################################
+########################################################################
+
+[[fonts]]
+name = "" #REQUIERD
+path = "" #OPTIONAL DEFUALTS to ./fonts/otf .fonts
+style = "" #REQUIERD
+weight = "" #REQUIERD
+full_name = "" #OPTIONAL
+preview_image = "" #OPTIONAL
+protected = "" #OPTIONAL
+purpose = "" #OPTIONAL
+variable_font = "" #OPTIONAL
+format = "" #REQUIERD
+free = "" #REQUIERD
+
+[[fonts]]
+# ...
+
+########################################################################
+# APP OR PLATFOROM SPECIFIC CONFIGS AND DATA ###########################
+########################################################################
+
+# Additional metadata and configuration for Type.World protocol
+[fontpackage.typeworld]
+foundry = [
+    { name = "" },
+    { description = "" },
+    { url = "" },
+    { email = "" },
+    { backgroundColor = "" },
+    { support_email = "" },
+    { skype = "" },
+    { twitter = "" },
+    { facebook = "" },
+    { instagram = "" }]
+
+# Additional metadata to generate NPM packages
+[fontpackage.npm]
+# …
+
+# Additional metadata to generate Appstram metadata files
+[fontpackage.appstream]
+# …
