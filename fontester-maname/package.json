@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "handlebars": "^4.0.2",
+    "handlebars": "^4.7.7",
     "harmonize": "^1.4.4",
     "metalsmith": "^2.0.1",
     "metalsmith-collections": "^0.7.0",
