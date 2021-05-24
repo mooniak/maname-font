@@ -2,8 +2,8 @@
 <glyph name="dollar" format="2">
 	<advance width="469"/>
 	<unicode hex="0024"/>
-	<anchor x="234" y="678" name="top"/>
 	<anchor x="249" y="0" name="bottom"/>
+	<anchor x="234" y="678" name="top"/>
 	<outline>
 		<contour>
 			<point x="219" y="-10" type="curve" smooth="yes"/>
@@ -86,7 +86,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2019-01-05 04:56:58 +0000</string>
+			<string>2021-04-16 13:36:00 +0000</string>
 		</dict>
 	</lib>
 </glyph>

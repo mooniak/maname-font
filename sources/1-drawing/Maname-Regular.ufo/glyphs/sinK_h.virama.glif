@@ -125,7 +125,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2019-01-05 04:56:58 +0000</string>
+			<string>2021-05-16 06:12:42 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>sinKha</string>
 			<key>com.typemytype.robofont.layerData</key>
@@ -870,6 +870,8 @@
 					<integer>863</integer>
 				</dict>
 			</dict>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
 		</dict>
 	</lib>
 </glyph>

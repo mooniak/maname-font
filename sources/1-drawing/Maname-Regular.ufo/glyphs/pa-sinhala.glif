@@ -97,7 +97,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2019-01-05 04:56:58 +0000</string>
+			<string>2021-04-16 13:36:00 +0000</string>
 			<key>com.typemytype.robofont.layerData</key>
 			<dict>
 				<key>Jan 18 17, 13:23</key>
@@ -1545,8 +1545,6 @@
 					<integer>816</integer>
 				</dict>
 			</dict>
-			<key>public.markColor</key>
-			<string>0.67,0.95,0.38,1</string>
 		</dict>
 	</lib>
 </glyph>

@@ -3,12 +3,12 @@
 	<advance width="675"/>
 	<outline>
 		<component base="ca-sinhala"/>
-		<component base="sinRakar.medium" xOffset="623" yOffset="28"/>
+		<component base="sinRakar.medium" xOffset="607" yOffset="28"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-09-12 15:08:21 +0000</string>
+			<string>2021-04-16 13:38:52 +0000</string>
 		</dict>
 	</lib>
 </glyph>

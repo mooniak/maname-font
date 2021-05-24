@@ -3,13 +3,13 @@
 	<advance width="1056"/>
 	<outline>
 		<component base="ra-sinhala" xOffset="10"/>
-		<component base="comma" xScale="0.99" xyScale="-0.138" yScale="0.99" yxScale="0.138" xOffset="879" yOffset="41"/>
+		<component base="comma" xScale="0.9904" xyScale="-0.1381" yScale="0.9904" yxScale="0.1381" xOffset="879" yOffset="41"/>
 		<component base="aeMatra-sinhala" xOffset="520" yOffset="-60"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-09-17 08:11:34 +0000</string>
+			<string>2021-04-16 13:36:00 +0000</string>
 		</dict>
 	</lib>
 </glyph>

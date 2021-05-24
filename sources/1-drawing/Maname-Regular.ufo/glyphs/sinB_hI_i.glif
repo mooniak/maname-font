@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinBhIi" format="2">
 	<advance width="808"/>
+	<guideline x="212" y="680" angle="0"/>
 	<outline>
 		<component base="bha-sinhala"/>
 		<component base="sinMatraIi.alt2" xOffset="538" yOffset="32"/>
@@ -8,7 +9,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-09-12 15:08:21 +0000</string>
+			<string>2021-05-16 03:29:36 +0000</string>
 			<key>com.typemytype.robofont.guides</key>
 			<array>
 				<dict>

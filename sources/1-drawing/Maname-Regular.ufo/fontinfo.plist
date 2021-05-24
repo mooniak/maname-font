@@ -35,6 +35,8 @@
 	<string>mooniak</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string>mooniak.com</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
 	<key>openTypeOS2Type</key>
 	<array>
 		<integer>3</integer>
@@ -55,21 +57,21 @@
 	<integer>334</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-13</integer>
-		<integer>0</integer>
-		<integer>385</integer>
-		<integer>400</integer>
-		<integer>578</integer>
-		<integer>620</integer>
-		<integer>770</integer>
-		<integer>786</integer>
+		<real>-13.0</real>
+		<real>0.0</real>
+		<real>385.0</real>
+		<real>400.0</real>
+		<real>578.0</real>
+		<real>620.0</real>
+		<real>770.0</real>
+		<real>786.0</real>
 	</array>
 	<key>postscriptFontName</key>
 	<string>Maname-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>-207</integer>
-		<integer>-193</integer>
+		<real>-207.0</real>
+		<real>-193.0</real>
 	</array>
 	<key>styleMapStyleName</key>
 	<string>regular</string>

@@ -3,8 +3,8 @@
 	<advance width="912"/>
 	<unicode hex="0D8C"/>
 	<outline>
-		<component base="lVocalicMatra-sinhala" xOffset="475" yOffset="1"/>
-		<component base="u-sinhala" yOffset="-24"/>
+		<component base="lVocalicMatra-sinhala" xOffset="475" yOffset="21"/>
+		<component base="u-sinhala" yOffset="-4"/>
 	</outline>
 	<lib>
 		<dict>
@@ -20,7 +20,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-09-16 22:28:57 +0000</string>
+			<string>2021-04-16 13:36:00 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>sinU</string>
 		</dict>

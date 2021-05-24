@@ -133,7 +133,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2019-01-05 04:56:58 +0000</string>
+			<string>2021-05-16 06:12:42 +0000</string>
 			<key>com.typemytype.robofont.guides</key>
 			<array>
 				<dict>
@@ -147,6 +147,8 @@
 					<integer>881</integer>
 				</dict>
 			</array>
+			<key>public.markColor</key>
+			<string>0,0.2,0.88,1</string>
 		</dict>
 	</lib>
 </glyph>

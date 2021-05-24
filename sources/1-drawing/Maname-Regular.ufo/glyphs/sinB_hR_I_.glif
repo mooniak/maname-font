@@ -2,13 +2,13 @@
 <glyph name="sinBhRI" format="2">
 	<advance width="765"/>
 	<outline>
-		<component base="sinRakar.long" xOffset="427" yOffset="-1"/>
+		<component base="sinRakar.long" xOffset="442" yOffset="-1"/>
 		<component base="sinBhI"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-09-12 15:08:21 +0000</string>
+			<string>2021-04-16 13:45:54 +0000</string>
 		</dict>
 	</lib>
 </glyph>

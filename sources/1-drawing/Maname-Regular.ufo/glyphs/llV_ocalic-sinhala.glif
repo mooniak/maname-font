@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="llVocalic-sinhala" format="2">
-	<advance width="1349"/>
+	<advance width="1284"/>
 	<unicode hex="0D90"/>
 	<outline>
 		<component base="lVocalic-sinhala"/>
@@ -20,7 +20,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-09-12 15:08:21 +0000</string>
+			<string>2021-04-16 13:36:00 +0000</string>
 		</dict>
 	</lib>
 </glyph>

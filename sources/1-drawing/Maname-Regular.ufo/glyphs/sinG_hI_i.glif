@@ -8,7 +8,9 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-09-12 15:08:21 +0000</string>
+			<string>2021-05-16 06:06:45 +0000</string>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,1</string>
 		</dict>
 	</lib>
 </glyph>

@@ -2,8 +2,8 @@
 <glyph name="naira" format="2">
 	<advance width="713"/>
 	<unicode hex="20A6"/>
-	<anchor x="353" y="662" name="top"/>
 	<anchor x="357" y="0" name="bottom"/>
+	<anchor x="353" y="662" name="top"/>
 	<outline>
 		<contour>
 			<point x="515" y="-13" type="curve"/>
@@ -111,7 +111,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2019-01-05 04:56:58 +0000</string>
+			<string>2021-04-16 13:36:00 +0000</string>
 		</dict>
 	</lib>
 </glyph>

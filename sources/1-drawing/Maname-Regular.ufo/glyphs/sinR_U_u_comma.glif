@@ -72,12 +72,12 @@
 			<point x="673" y="147" type="curve"/>
 		</contour>
 		<component base="ra-sinhala" xOffset="10"/>
-		<component base="comma" xScale="0.99" xyScale="-0.138" yScale="0.99" yxScale="0.138" xOffset="850" yOffset="41"/>
+		<component base="comma" xScale="0.9904" xyScale="-0.1381" yScale="0.9904" yxScale="0.1381" xOffset="870" yOffset="41"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2019-01-05 04:56:58 +0000</string>
+			<string>2021-04-16 13:42:07 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>comma</string>
 		</dict>

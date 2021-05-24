@@ -27,7 +27,22 @@
 		</dict>
 	</dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
-	<array/>
+	<array>
+		<string>/sinDVI/sinDVIi/sinDVU/sinDVUu/sinDVa</string>
+		<string>/sinBhIi/sinGIi/sinHIi</string>
+		<string>ධ/sinDDhI/sinDDhIi/sinDDhU/sinDDhUu/sinDDha</string>
+		<string>ම/sinMI/sinMIi/sinM.virama</string>
+		<string>බ/sinBI/sinBIi/sinB.virama</string>
+		<string>ඛ/sinKhI/sinKhIi/sinKh.virama</string>
+		<string>ඹ/sinMbI/sinMbIi/sinMb.virama</string>
+		<string>ට/sinTtI/sinTtIi/sinTt.virama</string>
+		<string>ව/sinVI/sinVIi/sinV.virama</string>
+		<string>ඩ/sinDdI/sinDdIi/sinDd.virama</string>
+		<string>ච/sinCI/sinCIi/sinC.virama</string>
+		<string>ධ/sinDhI/sinDhIi/sinDh.virama</string>
+		<string>/sinB.virama/sinC.virama/sinDDdh.virama/sinDd.virama/sinDh.virama/sinKh.virama/sinM.virama/sinMb.virama/sinNndd.virama/sinTt.virama/sinV.virama</string>
+		<string>/sinNdjI</string>
+	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<true/>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
@@ -41,8 +56,6 @@
 	<false/>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<false/>
-	<key>com.schriftgestaltung.weightValue</key>
-	<integer>400</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
 		<string>background</string>

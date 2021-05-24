@@ -2,8 +2,8 @@
 <glyph name="ssa-sinhala" format="2">
 	<advance width="616"/>
 	<unicode hex="0DC2"/>
-	<anchor x="581" y="193" name="rakaransaya"/>
 	<anchor x="538" y="410" name="Virama"/>
+	<anchor x="581" y="193" name="rakaransaya"/>
 	<outline>
 		<contour>
 			<point x="321" y="-20" type="curve" smooth="yes"/>
@@ -134,7 +134,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2019-01-05 04:56:58 +0000</string>
+			<string>2021-04-16 13:36:00 +0000</string>
 		</dict>
 	</lib>
 </glyph>

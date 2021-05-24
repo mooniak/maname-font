@@ -36,13 +36,11 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2019-01-05 04:56:58 +0000</string>
+			<string>2021-04-16 13:36:00 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>sinRa</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>sinRa</string>
-			<key>public.markColor</key>
-			<string>0.67,0.95,0.38,1</string>
 		</dict>
 	</lib>
 </glyph>

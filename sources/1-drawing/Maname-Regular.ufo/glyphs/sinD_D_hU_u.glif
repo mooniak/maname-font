@@ -31,14 +31,16 @@
 			<point x="62" y="18"/>
 		</contour>
 		<component base="dha-sinhala" xOffset="104"/>
-		<component base="sinMatraUu.alt" xOffset="660"/>
+		<component base="sinMatraUu.alt" xOffset="650"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2019-01-05 04:56:29 +0000</string>
+			<string>2021-05-16 05:41:55 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>sinDha</string>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
 		</dict>
 	</lib>
 </glyph>
