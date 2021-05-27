@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinJ.virama" format="2">
-	<advance width="606"/>
+	<advance width="642"/>
 	<outline>
 		<contour>
 			<point x="318" y="293" type="line"/>
@@ -29,12 +29,12 @@
 			<point x="452" y="625"/>
 			<point x="434" y="616"/>
 		</contour>
-		<component base="ja-sinhala"/>
+		<component base="sinJa"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-04-16 13:36:00 +0000</string>
+			<string>2021-05-25 11:03:32 +0000</string>
 		</dict>
 	</lib>
 </glyph>

@@ -57,7 +57,7 @@
 			<point x="191" y="501"/>
 			<point x="252" y="446"/>
 		</contour>
-		<component base="cha-sinhala" xOffset="-20"/>
+		<component base="sinCha" xOffset="-20"/>
 	</outline>
 	<lib>
 		<dict>

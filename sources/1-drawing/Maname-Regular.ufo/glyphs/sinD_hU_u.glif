@@ -2,13 +2,13 @@
 <glyph name="sinDhUu" format="2">
 	<advance width="689"/>
 	<outline>
-		<component base="dha-sinhala"/>
-		<component base="sinMatraUu.alt" xOffset="548"/>
+		<component base="sinDha"/>
+		<component base="sinMatraUu.alt" xOffset="578"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-04-16 13:36:00 +0000</string>
+			<string>2021-05-25 08:26:11 +0000</string>
 		</dict>
 	</lib>
 </glyph>

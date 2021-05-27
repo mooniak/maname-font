@@ -42,7 +42,7 @@
 			<point x="89" y="444"/>
 			<point x="144" y="414"/>
 		</contour>
-		<component base="pa-sinhala"/>
+		<component base="sinPa"/>
 	</outline>
 	<lib>
 		<dict>

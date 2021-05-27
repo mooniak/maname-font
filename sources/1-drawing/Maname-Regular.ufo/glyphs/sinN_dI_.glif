@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinNdI" format="2">
-	<advance width="549"/>
+	<advance width="594"/>
 	<outline>
-		<component base="nda-sinhala"/>
+		<component base="sinNda"/>
 		<component base="sinMatraI.alt3" xOffset="313" yOffset="10"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-04-16 13:36:00 +0000</string>
+			<string>2021-05-27 09:00:44 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>sinDa</string>
 		</dict>

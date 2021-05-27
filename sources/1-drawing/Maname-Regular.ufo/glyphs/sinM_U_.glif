@@ -26,18 +26,16 @@
 			<point x="131" y="-204"/>
 			<point x="233" y="-206" type="curve" smooth="yes"/>
 		</contour>
-		<component base="ma-sinhala"/>
+		<component base="sinMa"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-05-16 05:40:22 +0000</string>
+			<string>2021-05-25 01:39:28 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>sinMa</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>sinMa</string>
-			<key>public.markColor</key>
-			<string>0.06,0.6,0.98,1</string>
 		</dict>
 	</lib>
 </glyph>

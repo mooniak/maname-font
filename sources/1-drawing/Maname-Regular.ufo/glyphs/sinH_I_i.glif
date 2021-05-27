@@ -51,7 +51,7 @@
 			<point x="257" y="412"/>
 			<point x="380" y="372"/>
 		</contour>
-		<component base="ha-sinhala"/>
+		<component base="sinHa"/>
 	</outline>
 	<lib>
 		<dict>

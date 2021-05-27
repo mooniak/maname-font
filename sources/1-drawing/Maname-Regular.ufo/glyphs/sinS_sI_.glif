@@ -3,7 +3,7 @@
 	<advance width="607"/>
 	<outline>
 		<component base="sinMatraI.alt" xOffset="326" yOffset="11"/>
-		<component base="ssa-sinhala" xOffset="-8"/>
+		<component base="sinSsa" xOffset="-8"/>
 	</outline>
 	<lib>
 		<dict>

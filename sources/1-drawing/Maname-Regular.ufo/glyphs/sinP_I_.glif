@@ -30,7 +30,7 @@
 			<point x="78" y="460"/>
 			<point x="122" y="425"/>
 		</contour>
-		<component base="pa-sinhala" xOffset="-9"/>
+		<component base="sinPa" xOffset="-9"/>
 	</outline>
 	<lib>
 		<dict>

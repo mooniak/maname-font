@@ -2,15 +2,13 @@
 <glyph name="sinTthU" format="2">
 	<advance width="637"/>
 	<outline>
-		<component base="ttha-sinhala"/>
-		<component base="uMatra-sinhala" xOffset="552"/>
+		<component base="sinTtha"/>
+		<component base="sinMatraU" xOffset="552"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-05-16 05:40:22 +0000</string>
-			<key>public.markColor</key>
-			<string>0.06,0.6,0.98,1</string>
+			<string>2021-05-25 01:39:28 +0000</string>
 		</dict>
 	</lib>
 </glyph>

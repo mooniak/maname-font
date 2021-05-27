@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinZerolith" format="2">
+	<advance width="177"/>
+	<unicode hex="0DE6"/>
+	<outline>
+		<contour>
+			<point x="113" y="509" type="line"/>
+			<point x="112" y="603" type="line"/>
+			<point x="66" y="593"/>
+			<point x="58" y="573"/>
+			<point x="58" y="562" type="curve" smooth="yes"/>
+			<point x="58" y="529"/>
+			<point x="119" y="516"/>
+			<point x="128" y="520" type="curve"/>
+			<point x="117" y="497" type="line"/>
+			<point x="104" y="492"/>
+			<point x="22" y="507"/>
+			<point x="22" y="563" type="curve" smooth="yes"/>
+			<point x="22" y="620"/>
+			<point x="86" y="614"/>
+			<point x="139" y="645" type="curve"/>
+			<point x="140" y="134" type="line"/>
+			<point x="112" y="133" type="line"/>
+		</contour>
+		<contour>
+			<point x="140" y="193" type="line"/>
+			<point x="113" y="210" type="line"/>
+			<point x="113" y="525" type="line"/>
+			<point x="166" y="504"/>
+			<point x="270" y="489"/>
+			<point x="270" y="399" type="curve" smooth="yes"/>
+			<point x="270" y="356"/>
+			<point x="246" y="317"/>
+			<point x="184" y="317" type="curve" smooth="yes"/>
+			<point x="169" y="317"/>
+			<point x="155" y="320"/>
+			<point x="140" y="327" type="curve"/>
+		</contour>
+		<contour>
+			<point x="140" y="483" type="curve"/>
+			<point x="140" y="351" type="line"/>
+			<point x="149" y="346"/>
+			<point x="159" y="344"/>
+			<point x="172" y="344" type="curve" smooth="yes"/>
+			<point x="209" y="344"/>
+			<point x="214" y="369"/>
+			<point x="214" y="392" type="curve" smooth="yes"/>
+			<point x="214" y="433"/>
+			<point x="186" y="453"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-05-27 09:32:56 +0000</string>
+			<key>public.markColor</key>
+			<string>0.99,0.62,0.11,1</string>
+		</dict>
+	</lib>
+</glyph>

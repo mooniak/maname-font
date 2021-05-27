@@ -112,7 +112,7 @@
 			<point x="100" y="295"/>
 			<point x="115" y="278"/>
 		</contour>
-		<component base="ssa-sinhala" xOffset="490"/>
+		<component base="sinSsa" xOffset="490"/>
 	</outline>
 	<lib>
 		<dict>

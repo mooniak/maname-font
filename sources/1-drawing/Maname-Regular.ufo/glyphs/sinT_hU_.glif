@@ -2,19 +2,17 @@
 <glyph name="sinThU" format="2">
 	<advance width="597"/>
 	<outline>
-		<component base="tha-sinhala"/>
-		<component base="uMatra-sinhala" xOffset="527" yOffset="10"/>
+		<component base="sinTha"/>
+		<component base="sinMatraU" xOffset="527" yOffset="10"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-05-16 05:40:22 +0000</string>
+			<string>2021-05-25 01:39:28 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>sinTha</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>sinTha</string>
-			<key>public.markColor</key>
-			<string>0.06,0.6,0.98,1</string>
 		</dict>
 	</lib>
 </glyph>

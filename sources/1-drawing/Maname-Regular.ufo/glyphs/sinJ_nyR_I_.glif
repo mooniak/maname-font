@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinJnyRI" format="2">
-	<advance width="950"/>
+	<advance width="880"/>
 	<outline>
-		<component base="sinJnyRa" xOffset="5"/>
-		<component base="sinMatraI.alt3" xOffset="666" yOffset="-10"/>
+		<component base="sinJnyRa" xOffset="-15"/>
+		<component base="sinMatraI.alt3" xOffset="692"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-04-16 13:41:29 +0000</string>
+			<string>2021-05-27 09:00:44 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>sinNnga</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>sinDa</string>
-			<key>public.markColor</key>
-			<string>0.85,0.26,0.06,1</string>
 		</dict>
 	</lib>
 </glyph>

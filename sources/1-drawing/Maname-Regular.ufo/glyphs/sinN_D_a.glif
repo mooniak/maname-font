@@ -90,7 +90,7 @@
 			<point x="267" y="300"/>
 			<point x="254" y="282" type="curve"/>
 		</contour>
-		<component base="da-sinhala" xOffset="433"/>
+		<component base="sinDa" xOffset="433"/>
 	</outline>
 	<lib>
 		<dict>

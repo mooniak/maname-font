@@ -3,7 +3,7 @@
 	<advance width="784"/>
 	<outline>
 		<component base="sinHRa" xOffset="-1" yOffset="-1"/>
-		<component base="virama-sinhala" xOffset="594" yOffset="45"/>
+		<component base="sinVirama" xOffset="594" yOffset="45"/>
 	</outline>
 	<lib>
 		<dict>

@@ -28,7 +28,7 @@
 			<point x="438" y="-121"/>
 			<point x="497" y="-187"/>
 		</contour>
-		<component base="sha-sinhala"/>
+		<component base="sinSha"/>
 	</outline>
 	<lib>
 		<dict>

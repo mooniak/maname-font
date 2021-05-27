@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinAu" format="2">
+	<advance width="1084"/>
+	<unicode hex="0D96"/>
+	<outline>
+		<component base="sinO"/>
+		<component base="sinMatraLs" xOffset="640"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-05-27 09:42:08 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>sinO</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sinMatraLs</string>
+			<key>com.typemytype.robofont.layerData</key>
+			<dict>
+				<key>Jan 19 17, 02:22</key>
+				<dict>
+					<key>anchors</key>
+					<array/>
+					<key>components</key>
+					<array>
+						<dict>
+							<key>baseGlyph</key>
+							<string>sinO</string>
+							<key>transformation</key>
+							<array>
+								<integer>1</integer>
+								<integer>0</integer>
+								<integer>0</integer>
+								<integer>1</integer>
+								<integer>0</integer>
+								<integer>0</integer>
+							</array>
+						</dict>
+					</array>
+					<key>contours</key>
+					<array/>
+					<key>lib</key>
+					<dict/>
+					<key>name</key>
+					<string>sinAu</string>
+					<key>unicodes</key>
+					<array/>
+					<key>width</key>
+					<integer>818</integer>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

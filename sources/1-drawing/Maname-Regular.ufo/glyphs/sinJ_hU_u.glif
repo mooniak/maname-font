@@ -2,15 +2,13 @@
 <glyph name="sinJhUu" format="2">
 	<advance width="1159"/>
 	<outline>
-		<component base="jha-sinhala"/>
+		<component base="sinJha"/>
 		<component base="sinMatraUu.alt" xOffset="1019"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-05-16 05:30:17 +0000</string>
-			<key>public.markColor</key>
-			<string>0.85,0.26,0.06,1</string>
+			<string>2021-05-25 07:48:09 +0000</string>
 		</dict>
 	</lib>
 </glyph>

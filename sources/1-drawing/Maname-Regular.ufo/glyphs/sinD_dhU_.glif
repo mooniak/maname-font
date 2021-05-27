@@ -23,14 +23,12 @@
 			<point x="127" y="-157"/>
 			<point x="167" y="-215"/>
 		</contour>
-		<component base="ddha-sinhala"/>
+		<component base="sinDdha"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-05-16 05:40:22 +0000</string>
-			<key>public.markColor</key>
-			<string>0.06,0.6,0.98,1</string>
+			<string>2021-05-25 01:39:28 +0000</string>
 		</dict>
 	</lib>
 </glyph>

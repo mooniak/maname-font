@@ -31,7 +31,7 @@
 			<point x="413" y="658"/>
 			<point x="343" y="526"/>
 		</contour>
-		<component base="na-sinhala"/>
+		<component base="sinNa"/>
 	</outline>
 	<lib>
 		<dict>

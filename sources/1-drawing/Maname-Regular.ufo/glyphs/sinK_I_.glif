@@ -2,7 +2,7 @@
 <glyph name="sinKI" format="2">
 	<advance width="813"/>
 	<outline>
-		<component base="ka-sinhala"/>
+		<component base="sinKa"/>
 		<component base="sinMatraI.alt1" xOffset="316" yOffset="-10"/>
 	</outline>
 	<lib>

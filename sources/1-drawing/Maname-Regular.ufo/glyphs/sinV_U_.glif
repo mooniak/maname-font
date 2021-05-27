@@ -23,14 +23,12 @@
 			<point x="115" y="-208"/>
 			<point x="217" y="-210" type="curve" smooth="yes"/>
 		</contour>
-		<component base="va-sinhala" yOffset="-8"/>
+		<component base="sinVa" yOffset="-8"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-05-16 05:40:22 +0000</string>
-			<key>public.markColor</key>
-			<string>0.06,0.6,0.98,1</string>
+			<string>2021-05-25 01:39:28 +0000</string>
 		</dict>
 	</lib>
 </glyph>
