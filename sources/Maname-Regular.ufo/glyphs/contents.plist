@@ -1836,16 +1836,8 @@
 	<string>sinR_I_i.glif</string>
 	<key>sinRU</key>
 	<string>sinR_U_.glif</string>
-	<key>sinRU_comma</key>
-	<string>sinR_U__comma.glif</string>
-	<key>sinRU_period</key>
-	<string>sinR_U__period.glif</string>
 	<key>sinRUu</key>
 	<string>sinR_U_u.glif</string>
-	<key>sinRUu_comma</key>
-	<string>sinR_U_u_comma.glif</string>
-	<key>sinRUu_period</key>
-	<string>sinR_U_u_period.glif</string>
 	<key>sinRVocalic</key>
 	<string>sinR_V_ocalic.glif</string>
 	<key>sinRa</key>
