@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinBh" format="2">
+	<advance width="799"/>
+	<outline>
+		<component base="sinVirama" xOffset="607" yOffset="29"/>
+		<component base="sinBha"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-06-09 02:26:22 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>sinBha</string>
+		</dict>
+	</lib>
+</glyph>

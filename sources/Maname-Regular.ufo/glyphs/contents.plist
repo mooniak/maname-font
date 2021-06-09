@@ -632,8 +632,6 @@
 	<string>ehookabove.glif</string>
 	<key>eight</key>
 	<string>eight.glif</string>
-	<key>eight.onum</key>
-	<string>eight.onum.glif</string>
 	<key>einvertedbreve</key>
 	<string>einvertedbreve.glif</string>
 	<key>ellipsis</key>
@@ -674,16 +672,12 @@
 	<string>firsttonechinese.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
-	<key>five.onum</key>
-	<string>five.onum.glif</string>
 	<key>fl</key>
 	<string>fl.glif</string>
 	<key>florin</key>
 	<string>florin.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
-	<key>four.onum</key>
-	<string>four.onum.glif</string>
 	<key>foursuperior</key>
 	<string>foursuperior.glif</string>
 	<key>fraction</key>
@@ -848,8 +842,6 @@
 	<string>ndotbelow.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
-	<key>nine.onum</key>
-	<string>nine.onum.glif</string>
 	<key>nj</key>
 	<string>nj.glif</string>
 	<key>notequal</key>
@@ -918,8 +910,6 @@
 	<string>omacron.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
-	<key>one.onum</key>
-	<string>one.onum.glif</string>
 	<key>onehalf</key>
 	<string>onehalf.glif</string>
 	<key>onequarter</key>
@@ -1030,8 +1020,6 @@
 	<string>semicolon.glif</string>
 	<key>seven</key>
 	<string>seven.glif</string>
-	<key>seven.onum</key>
-	<string>seven.onum.glif</string>
 	<key>sinA</key>
 	<string>sinA_.glif</string>
 	<key>sinAa</key>
@@ -1046,14 +1034,14 @@
 	<string>sinA_nusvara.glif</string>
 	<key>sinAu</key>
 	<string>sinA_u.glif</string>
-	<key>sinB.virama</key>
-	<string>sinB_.virama.glif</string>
+	<key>sinB</key>
+	<string>sinB_.glif</string>
 	<key>sinBI</key>
 	<string>sinB_I_.glif</string>
 	<key>sinBIi</key>
 	<string>sinB_I_i.glif</string>
-	<key>sinBR.virama</key>
-	<string>sinB_R_.virama.glif</string>
+	<key>sinBR</key>
+	<string>sinB_R_.glif</string>
 	<key>sinBRI</key>
 	<string>sinB_R_I_.glif</string>
 	<key>sinBRIi</key>
@@ -1068,14 +1056,14 @@
 	<string>sinB_a.glif</string>
 	<key>sinBa.reph</key>
 	<string>sinB_a.reph.glif</string>
-	<key>sinBh.virama</key>
-	<string>sinB_h.virama.glif</string>
+	<key>sinBh</key>
+	<string>sinB_h.glif</string>
 	<key>sinBhI</key>
 	<string>sinB_hI_.glif</string>
 	<key>sinBhIi</key>
 	<string>sinB_hI_i.glif</string>
-	<key>sinBhR.virama</key>
-	<string>sinB_hR_.virama.glif</string>
+	<key>sinBhR</key>
+	<string>sinB_hR_.glif</string>
 	<key>sinBhRI</key>
 	<string>sinB_hR_I_.glif</string>
 	<key>sinBhRIi</key>
@@ -1090,14 +1078,14 @@
 	<string>sinB_ha.glif</string>
 	<key>sinBha.reph</key>
 	<string>sinB_ha.reph.glif</string>
-	<key>sinC.virama</key>
-	<string>sinC_.virama.glif</string>
+	<key>sinC</key>
+	<string>sinC_.glif</string>
 	<key>sinCI</key>
 	<string>sinC_I_.glif</string>
 	<key>sinCIi</key>
 	<string>sinC_I_i.glif</string>
-	<key>sinCR.virama</key>
-	<string>sinC_R_.virama.glif</string>
+	<key>sinCR</key>
+	<string>sinC_R_.glif</string>
 	<key>sinCRI</key>
 	<string>sinC_R_I_.glif</string>
 	<key>sinCRIi</key>
@@ -1112,8 +1100,8 @@
 	<string>sinC_a.glif</string>
 	<key>sinCa.reph</key>
 	<string>sinC_a.reph.glif</string>
-	<key>sinCh.virama</key>
-	<string>sinC_h.virama.glif</string>
+	<key>sinCh</key>
+	<string>sinC_h.glif</string>
 	<key>sinChI</key>
 	<string>sinC_hI_.glif</string>
 	<key>sinChIi</key>
@@ -1126,18 +1114,10 @@
 	<string>sinC_ha.glif</string>
 	<key>sinCha.reph</key>
 	<string>sinC_ha.reph.glif</string>
-	<key>sinD.virama</key>
-	<string>sinD_.virama.glif</string>
-	<key>sinDAa.ss01</key>
-	<string>sinD_A_a.ss01.glif</string>
-	<key>sinDAa.virama.ss01</key>
-	<string>sinD_A_a.virama.ss01.glif</string>
-	<key>sinDAae.ss01</key>
-	<string>sinD_A_ae.ss01.glif</string>
-	<key>sinDAe.ss01</key>
-	<string>sinD_A_e.ss01.glif</string>
-	<key>sinDDh.virama</key>
-	<string>sinD_D_h.virama.glif</string>
+	<key>sinD</key>
+	<string>sinD_.glif</string>
+	<key>sinDDh</key>
+	<string>sinD_D_h.glif</string>
 	<key>sinDDhI</key>
 	<string>sinD_D_hI_.glif</string>
 	<key>sinDDhIi</key>
@@ -1154,8 +1134,8 @@
 	<string>sinD_I_.glif</string>
 	<key>sinDIi</key>
 	<string>sinD_I_i.glif</string>
-	<key>sinDR.virama</key>
-	<string>sinD_R_.virama.glif</string>
+	<key>sinDR</key>
+	<string>sinD_R_.glif</string>
 	<key>sinDRI</key>
 	<string>sinD_R_I_.glif</string>
 	<key>sinDRIi</key>
@@ -1166,8 +1146,8 @@
 	<string>sinD_U_.glif</string>
 	<key>sinDUu</key>
 	<string>sinD_U_u.glif</string>
-	<key>sinDV.virama</key>
-	<string>sinD_V_.virama.glif</string>
+	<key>sinDV</key>
+	<string>sinD_V_.glif</string>
 	<key>sinDVI</key>
 	<string>sinD_V_I_.glif</string>
 	<key>sinDVIi</key>
@@ -1180,28 +1160,18 @@
 	<string>sinD_V_a.glif</string>
 	<key>sinDVa.reph</key>
 	<string>sinD_V_a.reph.glif</string>
-	<key>sinDYAa.post.ss01</key>
-	<string>sinD_Y_A_a.post.ss01.glif</string>
-	<key>sinDYOo.post.ss01</key>
-	<string>sinD_Y_O_o.post.ss01.glif</string>
-	<key>sinDYUu.post.ss01</key>
-	<string>sinD_Y_U_u.post.ss01.glif</string>
-	<key>sinDYu.post.ss01</key>
-	<string>sinD_Y_u.post.ss01.glif</string>
 	<key>sinDa</key>
 	<string>sinD_a.glif</string>
 	<key>sinDa.reph</key>
 	<string>sinD_a.reph.glif</string>
-	<key>sinDaYa.post.ss01</key>
-	<string>sinD_aY_a.post.ss01.glif</string>
-	<key>sinDd.virama</key>
-	<string>sinD_d.virama.glif</string>
+	<key>sinDd</key>
+	<string>sinD_d.glif</string>
 	<key>sinDdI</key>
 	<string>sinD_dI_.glif</string>
 	<key>sinDdIi</key>
 	<string>sinD_dI_i.glif</string>
-	<key>sinDdR.virama</key>
-	<string>sinD_dR_.virama.glif</string>
+	<key>sinDdR</key>
+	<string>sinD_dR_.glif</string>
 	<key>sinDdRI</key>
 	<string>sinD_dR_I_.glif</string>
 	<key>sinDdRIi</key>
@@ -1216,8 +1186,8 @@
 	<string>sinD_da.glif</string>
 	<key>sinDda.reph</key>
 	<string>sinD_da.reph.glif</string>
-	<key>sinDdh.virama</key>
-	<string>sinD_dh.virama.glif</string>
+	<key>sinDdh</key>
+	<string>sinD_dh.glif</string>
 	<key>sinDdhI</key>
 	<string>sinD_dhI_.glif</string>
 	<key>sinDdhIi</key>
@@ -1230,14 +1200,14 @@
 	<string>sinD_dha.glif</string>
 	<key>sinDdha.reph</key>
 	<string>sinD_dha.reph.glif</string>
-	<key>sinDh.virama</key>
-	<string>sinD_h.virama.glif</string>
+	<key>sinDh</key>
+	<string>sinD_h.glif</string>
 	<key>sinDhI</key>
 	<string>sinD_hI_.glif</string>
 	<key>sinDhIi</key>
 	<string>sinD_hI_i.glif</string>
-	<key>sinDhR.virama</key>
-	<string>sinD_hR_.virama.glif</string>
+	<key>sinDhR</key>
+	<string>sinD_hR_.glif</string>
 	<key>sinDhRI</key>
 	<string>sinD_hR_I_.glif</string>
 	<key>sinDhRIi</key>
@@ -1252,24 +1222,20 @@
 	<string>sinD_ha.glif</string>
 	<key>sinDha.reph</key>
 	<string>sinD_ha.reph.glif</string>
-	<key>sinDvocR.ss01</key>
-	<string>sinD_vocR_.ss01.glif</string>
-	<key>sinDvocRr.ss01</key>
-	<string>sinD_vocR_r.ss01.glif</string>
 	<key>sinE</key>
 	<string>sinE_.glif</string>
 	<key>sinEe</key>
 	<string>sinE_e.glif</string>
 	<key>sinEightlith</key>
 	<string>sinE_ightlith.glif</string>
-	<key>sinF.virama</key>
-	<string>sinF_.virama.glif</string>
+	<key>sinF</key>
+	<string>sinF_.glif</string>
 	<key>sinFI</key>
 	<string>sinF_I_.glif</string>
 	<key>sinFIi</key>
 	<string>sinF_I_i.glif</string>
-	<key>sinFR.virama</key>
-	<string>sinF_R_.virama.glif</string>
+	<key>sinFR</key>
+	<string>sinF_R_.glif</string>
 	<key>sinFRI</key>
 	<string>sinF_R_I_.glif</string>
 	<key>sinFRIi</key>
@@ -1288,8 +1254,8 @@
 	<string>sinF_ivelith.glif</string>
 	<key>sinFourlith</key>
 	<string>sinF_ourlith.glif</string>
-	<key>sinG.virama</key>
-	<string>sinG_.virama.glif</string>
+	<key>sinG</key>
+	<string>sinG_.glif</string>
 	<key>sinGDha</key>
 	<string>sinG_D_ha.glif</string>
 	<key>sinGDha.reph</key>
@@ -1298,8 +1264,8 @@
 	<string>sinG_I_.glif</string>
 	<key>sinGIi</key>
 	<string>sinG_I_i.glif</string>
-	<key>sinGR.virama</key>
-	<string>sinG_R_.virama.glif</string>
+	<key>sinGR</key>
+	<string>sinG_R_.glif</string>
 	<key>sinGRI</key>
 	<string>sinG_R_I_.glif</string>
 	<key>sinGRIi</key>
@@ -1314,14 +1280,14 @@
 	<string>sinG_a.glif</string>
 	<key>sinGa.reph</key>
 	<string>sinG_a.reph.glif</string>
-	<key>sinGh.virama</key>
-	<string>sinG_h.virama.glif</string>
+	<key>sinGh</key>
+	<string>sinG_h.glif</string>
 	<key>sinGhI</key>
 	<string>sinG_hI_.glif</string>
 	<key>sinGhIi</key>
 	<string>sinG_hI_i.glif</string>
-	<key>sinGhR.virama</key>
-	<string>sinG_hR_.virama.glif</string>
+	<key>sinGhR</key>
+	<string>sinG_hR_.glif</string>
 	<key>sinGhRI</key>
 	<string>sinG_hR_I_.glif</string>
 	<key>sinGhRIi</key>
@@ -1336,14 +1302,14 @@
 	<string>sinG_ha.glif</string>
 	<key>sinGha.reph</key>
 	<string>sinG_ha.reph.glif</string>
-	<key>sinH.virama</key>
-	<string>sinH_.virama.glif</string>
+	<key>sinH</key>
+	<string>sinH_.glif</string>
 	<key>sinHI</key>
 	<string>sinH_I_.glif</string>
 	<key>sinHIi</key>
 	<string>sinH_I_i.glif</string>
-	<key>sinHR.virama</key>
-	<string>sinH_R_.virama.glif</string>
+	<key>sinHR</key>
+	<string>sinH_R_.glif</string>
 	<key>sinHRI</key>
 	<string>sinH_R_I_.glif</string>
 	<key>sinHRIi</key>
@@ -1362,14 +1328,14 @@
 	<string>sinI_.glif</string>
 	<key>sinIi</key>
 	<string>sinI_i.glif</string>
-	<key>sinJ.virama</key>
-	<string>sinJ_.virama.glif</string>
+	<key>sinJ</key>
+	<string>sinJ_.glif</string>
 	<key>sinJI</key>
 	<string>sinJ_I_.glif</string>
 	<key>sinJIi</key>
 	<string>sinJ_I_i.glif</string>
-	<key>sinJR.virama</key>
-	<string>sinJ_R_.virama.glif</string>
+	<key>sinJR</key>
+	<string>sinJ_R_.glif</string>
 	<key>sinJRI</key>
 	<string>sinJ_R_I_.glif</string>
 	<key>sinJRIi</key>
@@ -1384,14 +1350,14 @@
 	<string>sinJ_a.glif</string>
 	<key>sinJa.reph</key>
 	<string>sinJ_a.reph.glif</string>
-	<key>sinJh.virama</key>
-	<string>sinJ_h.virama.glif</string>
+	<key>sinJh</key>
+	<string>sinJ_h.glif</string>
 	<key>sinJhI</key>
 	<string>sinJ_hI_.glif</string>
 	<key>sinJhIi</key>
 	<string>sinJ_hI_i.glif</string>
-	<key>sinJhR.virama</key>
-	<string>sinJ_hR_.virama.glif</string>
+	<key>sinJhR</key>
+	<string>sinJ_hR_.glif</string>
 	<key>sinJhRI</key>
 	<string>sinJ_hR_I_.glif</string>
 	<key>sinJhRIi</key>
@@ -1406,22 +1372,14 @@
 	<string>sinJ_ha.glif</string>
 	<key>sinJha.reph</key>
 	<string>sinJ_ha.reph.glif</string>
-	<key>sinJny.virama</key>
-	<string>sinJ_ny.virama.glif</string>
-	<key>sinJnyAa.ss01</key>
-	<string>sinJ_nyA_a.ss01.glif</string>
-	<key>sinJnyAa.virama.ss01</key>
-	<string>sinJ_nyA_a.virama.ss01.glif</string>
-	<key>sinJnyAe.ss01</key>
-	<string>sinJ_nyA_e.ss01.glif</string>
-	<key>sinJnyAee.ss01</key>
-	<string>sinJ_nyA_ee.ss01.glif</string>
+	<key>sinJny</key>
+	<string>sinJ_ny.glif</string>
 	<key>sinJnyI</key>
 	<string>sinJ_nyI_.glif</string>
 	<key>sinJnyIi</key>
 	<string>sinJ_nyI_i.glif</string>
-	<key>sinJnyR.virama</key>
-	<string>sinJ_nyR_.virama.glif</string>
+	<key>sinJnyR</key>
+	<string>sinJ_nyR_.glif</string>
 	<key>sinJnyRI</key>
 	<string>sinJ_nyR_I_.glif</string>
 	<key>sinJnyRIi</key>
@@ -1436,8 +1394,8 @@
 	<string>sinJ_nya.glif</string>
 	<key>sinJnya.reph</key>
 	<string>sinJ_nya.reph.glif</string>
-	<key>sinK.virama</key>
-	<string>sinK_.virama.glif</string>
+	<key>sinK</key>
+	<string>sinK_.glif</string>
 	<key>sinKI</key>
 	<string>sinK_I_.glif</string>
 	<key>sinKIi</key>
@@ -1448,8 +1406,8 @@
 	<string>sinK_R_I_i.glif</string>
 	<key>sinKRa</key>
 	<string>sinK_R_a.glif</string>
-	<key>sinKSs.virama</key>
-	<string>sinK_S_s.virama.glif</string>
+	<key>sinKSs</key>
+	<string>sinK_S_s.glif</string>
 	<key>sinKSsI</key>
 	<string>sinK_S_sI_.glif</string>
 	<key>sinKSsIi</key>
@@ -1466,8 +1424,8 @@
 	<string>sinK_U_.glif</string>
 	<key>sinKUu</key>
 	<string>sinK_U_u.glif</string>
-	<key>sinKV.virama</key>
-	<string>sinK_V_.virama.glif</string>
+	<key>sinKV</key>
+	<string>sinK_V_.glif</string>
 	<key>sinKVI</key>
 	<string>sinK_V_I_.glif</string>
 	<key>sinKVIi</key>
@@ -1484,14 +1442,14 @@
 	<string>sinK_a.glif</string>
 	<key>sinKa.reph</key>
 	<string>sinK_a.reph.glif</string>
-	<key>sinKh.virama</key>
-	<string>sinK_h.virama.glif</string>
+	<key>sinKh</key>
+	<string>sinK_h.glif</string>
 	<key>sinKhI</key>
 	<string>sinK_hI_.glif</string>
 	<key>sinKhIi</key>
 	<string>sinK_hI_i.glif</string>
-	<key>sinKhR.virama</key>
-	<string>sinK_hR_.virama.glif</string>
+	<key>sinKhR</key>
+	<string>sinK_hR_.glif</string>
 	<key>sinKhRI</key>
 	<string>sinK_hR_I_.glif</string>
 	<key>sinKhRIi</key>
@@ -1508,8 +1466,8 @@
 	<string>sinK_ha.reph.glif</string>
 	<key>sinKundaliya</key>
 	<string>sinK_undaliya.glif</string>
-	<key>sinL.virama</key>
-	<string>sinL_.virama.glif</string>
+	<key>sinL</key>
+	<string>sinL_.glif</string>
 	<key>sinLI</key>
 	<string>sinL_I_.glif</string>
 	<key>sinLIi</key>
@@ -1524,8 +1482,8 @@
 	<string>sinL_a.glif</string>
 	<key>sinLa.reph</key>
 	<string>sinL_a.reph.glif</string>
-	<key>sinLl.virama</key>
-	<string>sinL_l.virama.glif</string>
+	<key>sinLl</key>
+	<string>sinL_l.glif</string>
 	<key>sinLlI</key>
 	<string>sinL_lI_.glif</string>
 	<key>sinLlIi</key>
@@ -1540,14 +1498,14 @@
 	<string>sinL_la.glif</string>
 	<key>sinLla.reph</key>
 	<string>sinL_la.reph.glif</string>
-	<key>sinM.virama</key>
-	<string>sinM_.virama.glif</string>
+	<key>sinM</key>
+	<string>sinM_.glif</string>
 	<key>sinMI</key>
 	<string>sinM_I_.glif</string>
 	<key>sinMIi</key>
 	<string>sinM_I_i.glif</string>
-	<key>sinMR.virama</key>
-	<string>sinM_R_.virama.glif</string>
+	<key>sinMR</key>
+	<string>sinM_R_.glif</string>
 	<key>sinMRI</key>
 	<string>sinM_R_I_.glif</string>
 	<key>sinMRIi</key>
@@ -1624,8 +1582,8 @@
 	<string>sinM_atraU_u.alt2.glif</string>
 	<key>sinMatraUu.alt3</key>
 	<string>sinM_atraU_u.alt3.glif</string>
-	<key>sinMb.virama</key>
-	<string>sinM_b.virama.glif</string>
+	<key>sinMb</key>
+	<string>sinM_b.glif</string>
 	<key>sinMbI</key>
 	<string>sinM_bI_.glif</string>
 	<key>sinMbIi</key>
@@ -1638,18 +1596,10 @@
 	<string>sinM_ba.glif</string>
 	<key>sinMba.reph</key>
 	<string>sinM_ba.reph.glif</string>
-	<key>sinN.virama</key>
-	<string>sinN_.virama.glif</string>
-	<key>sinND.virama</key>
-	<string>sinN_D_.virama.glif</string>
-	<key>sinNDAa.ss01</key>
-	<string>sinN_D_A_a.ss01.glif</string>
-	<key>sinNDAa.virama.ss01</key>
-	<string>sinN_D_A_a.virama.ss01.glif</string>
-	<key>sinNDAe.ss01</key>
-	<string>sinN_D_A_e.ss01.glif</string>
-	<key>sinNDAee.ss01</key>
-	<string>sinN_D_A_ee.ss01.glif</string>
+	<key>sinN</key>
+	<string>sinN_.glif</string>
+	<key>sinND</key>
+	<string>sinN_D_.glif</string>
 	<key>sinNDI</key>
 	<string>sinN_D_I_.glif</string>
 	<key>sinNDIi</key>
@@ -1668,8 +1618,8 @@
 	<string>sinN_D_a.glif</string>
 	<key>sinNDa.reph</key>
 	<string>sinN_D_a.reph.glif</string>
-	<key>sinNDh.virama</key>
-	<string>sinN_D_h.virama.glif</string>
+	<key>sinNDh</key>
+	<string>sinN_D_h.glif</string>
 	<key>sinNDhI</key>
 	<string>sinN_D_hI_.glif</string>
 	<key>sinNDhIi</key>
@@ -1686,8 +1636,8 @@
 	<string>sinN_I_.glif</string>
 	<key>sinNIi</key>
 	<string>sinN_I_i.glif</string>
-	<key>sinNTh.virama</key>
-	<string>sinN_T_h.virama.glif</string>
+	<key>sinNTh</key>
+	<string>sinN_T_h.glif</string>
 	<key>sinNThI</key>
 	<string>sinN_T_hI_.glif</string>
 	<key>sinNThIi</key>
@@ -1704,8 +1654,8 @@
 	<string>sinN_U_.glif</string>
 	<key>sinNUu</key>
 	<string>sinN_U_u.glif</string>
-	<key>sinNV.virama</key>
-	<string>sinN_V_.virama.glif</string>
+	<key>sinNV</key>
+	<string>sinN_V_.glif</string>
 	<key>sinNVI</key>
 	<string>sinN_V_I_.glif</string>
 	<key>sinNVIi</key>
@@ -1722,16 +1672,8 @@
 	<string>sinN_a.glif</string>
 	<key>sinNa.reph</key>
 	<string>sinN_a.reph.glif</string>
-	<key>sinNd.virama</key>
-	<string>sinN_d.virama.glif</string>
-	<key>sinNdAa.ss01</key>
-	<string>sinN_dA_a.ss01.glif</string>
-	<key>sinNdAa.virama.ss01</key>
-	<string>sinN_dA_a.virama.ss01.glif</string>
-	<key>sinNdAae.ss01</key>
-	<string>sinN_dA_ae.ss01.glif</string>
-	<key>sinNdAe.ss01</key>
-	<string>sinN_dA_e.ss01.glif</string>
+	<key>sinNd</key>
+	<string>sinN_d.glif</string>
 	<key>sinNdI</key>
 	<string>sinN_dI_.glif</string>
 	<key>sinNdIi</key>
@@ -1746,8 +1688,8 @@
 	<string>sinN_da.glif</string>
 	<key>sinNda.reph</key>
 	<string>sinN_da.reph.glif</string>
-	<key>sinNg.virama</key>
-	<string>sinN_g.virama.glif</string>
+	<key>sinNg</key>
+	<string>sinN_g.glif</string>
 	<key>sinNgI</key>
 	<string>sinN_gI_.glif</string>
 	<key>sinNgIi</key>
@@ -1758,8 +1700,8 @@
 	<string>sinN_ga.reph.glif</string>
 	<key>sinNinelith</key>
 	<string>sinN_inelith.glif</string>
-	<key>sinNn.virama</key>
-	<string>sinN_n.virama.glif</string>
+	<key>sinNn</key>
+	<string>sinN_n.glif</string>
 	<key>sinNnI</key>
 	<string>sinN_nI_.glif</string>
 	<key>sinNnIi</key>
@@ -1772,8 +1714,8 @@
 	<string>sinN_na.glif</string>
 	<key>sinNna.reph</key>
 	<string>sinN_na.reph.glif</string>
-	<key>sinNndd.virama</key>
-	<string>sinN_ndd.virama.glif</string>
+	<key>sinNndd</key>
+	<string>sinN_ndd.glif</string>
 	<key>sinNnddI</key>
 	<string>sinN_nddI_.glif</string>
 	<key>sinNnddIi</key>
@@ -1786,8 +1728,8 @@
 	<string>sinN_ndda.glif</string>
 	<key>sinNndda.reph</key>
 	<string>sinN_ndda.reph.glif</string>
-	<key>sinNng.virama</key>
-	<string>sinN_ng.virama.glif</string>
+	<key>sinNng</key>
+	<string>sinN_ng.glif</string>
 	<key>sinNngI</key>
 	<string>sinN_ngI_.glif</string>
 	<key>sinNngIi</key>
@@ -1800,44 +1742,14 @@
 	<string>sinN_nga.glif</string>
 	<key>sinNnga.reph</key>
 	<string>sinN_nga.reph.glif</string>
-	<key>sinNy.virama</key>
-	<string>sinN_y.virama.glif</string>
-	<key>sinNyAa.ss01</key>
-	<string>sinN_yA_a.ss01.glif</string>
-	<key>sinNyAa.virama.ss01</key>
-	<string>sinN_yA_a.virama.ss01.glif</string>
-	<key>sinNyAe.ss01</key>
-	<string>sinN_yA_e.ss01.glif</string>
-	<key>sinNyAee.ss01</key>
-	<string>sinN_yA_ee.ss01.glif</string>
-	<key>sinNyC.virama</key>
-	<string>sinN_yC_.virama.glif</string>
-	<key>sinNyCI</key>
-	<string>sinN_yC_I_.glif</string>
-	<key>sinNyCIi</key>
-	<string>sinN_yC_I_i.glif</string>
-	<key>sinNyCR.virama</key>
-	<string>sinN_yC_R_.virama.glif</string>
-	<key>sinNyCRI</key>
-	<string>sinN_yC_R_I_.glif</string>
-	<key>sinNyCRIi</key>
-	<string>sinN_yC_R_I_i.glif</string>
-	<key>sinNyCRa</key>
-	<string>sinN_yC_R_a.glif</string>
-	<key>sinNyCU</key>
-	<string>sinN_yC_U_.glif</string>
-	<key>sinNyCUu</key>
-	<string>sinN_yC_U_u.glif</string>
-	<key>sinNyCa</key>
-	<string>sinN_yC_a.glif</string>
-	<key>sinNyCa.reph</key>
-	<string>sinN_yC_a.reph.glif</string>
+	<key>sinNy</key>
+	<string>sinN_y.glif</string>
 	<key>sinNyI</key>
 	<string>sinN_yI_.glif</string>
 	<key>sinNyIi</key>
 	<string>sinN_yI_i.glif</string>
-	<key>sinNyR.virama</key>
-	<string>sinN_yR_.virama.glif</string>
+	<key>sinNyR</key>
+	<string>sinN_yR_.glif</string>
 	<key>sinNyRI</key>
 	<string>sinN_yR_I_.glif</string>
 	<key>sinNyRIi</key>
@@ -1852,14 +1764,14 @@
 	<string>sinN_ya.glif</string>
 	<key>sinNya.reph</key>
 	<string>sinN_ya.reph.glif</string>
-	<key>sinNyj.virama</key>
-	<string>sinN_yj.virama.glif</string>
+	<key>sinNyj</key>
+	<string>sinN_yj.glif</string>
 	<key>sinNyjI</key>
 	<string>sinN_yjI_.glif</string>
 	<key>sinNyjIi</key>
 	<string>sinN_yjI_i.glif</string>
-	<key>sinNyjR.virama</key>
-	<string>sinN_yjR_.virama.glif</string>
+	<key>sinNyjR</key>
+	<string>sinN_yjR_.glif</string>
 	<key>sinNyjRa</key>
 	<string>sinN_yjR_a.glif</string>
 	<key>sinNyjU</key>
@@ -1876,14 +1788,14 @@
 	<string>sinO_nelith.glif</string>
 	<key>sinOo</key>
 	<string>sinO_o.glif</string>
-	<key>sinP.virama</key>
-	<string>sinP_.virama.glif</string>
+	<key>sinP</key>
+	<string>sinP_.glif</string>
 	<key>sinPI</key>
 	<string>sinP_I_.glif</string>
 	<key>sinPIi</key>
 	<string>sinP_I_i.glif</string>
-	<key>sinPR.virama</key>
-	<string>sinP_R_.virama.glif</string>
+	<key>sinPR</key>
+	<string>sinP_R_.glif</string>
 	<key>sinPRI</key>
 	<string>sinP_R_I_.glif</string>
 	<key>sinPRIi</key>
@@ -1898,28 +1810,8 @@
 	<string>sinP_a.glif</string>
 	<key>sinPa.reph</key>
 	<string>sinP_a.reph.glif</string>
-	<key>sinPf.virama</key>
-	<string>sinP_f.virama.glif</string>
-	<key>sinPfI</key>
-	<string>sinP_fI_.glif</string>
-	<key>sinPfIi</key>
-	<string>sinP_fI_i.glif</string>
-	<key>sinPfR.virama</key>
-	<string>sinP_fR_.virama.glif</string>
-	<key>sinPfRI</key>
-	<string>sinP_fR_I_.glif</string>
-	<key>sinPfRIi</key>
-	<string>sinP_fR_I_i.glif</string>
-	<key>sinPfRa</key>
-	<string>sinP_fR_a.glif</string>
-	<key>sinPfU</key>
-	<string>sinP_fU_.glif</string>
-	<key>sinPfUu</key>
-	<string>sinP_fU_u.glif</string>
-	<key>sinPfa</key>
-	<string>sinP_fa.glif</string>
-	<key>sinPh.virama</key>
-	<string>sinP_h.virama.glif</string>
+	<key>sinPh</key>
+	<string>sinP_h.glif</string>
 	<key>sinPhI</key>
 	<string>sinP_hI_.glif</string>
 	<key>sinPhIi</key>
@@ -1932,8 +1824,8 @@
 	<string>sinP_ha.glif</string>
 	<key>sinPha.reph</key>
 	<string>sinP_ha.reph.glif</string>
-	<key>sinR.virama</key>
-	<string>sinR_.virama.glif</string>
+	<key>sinR</key>
+	<string>sinR_.glif</string>
 	<key>sinRAae</key>
 	<string>sinR_A_ae.glif</string>
 	<key>sinRAe</key>
@@ -1958,8 +1850,6 @@
 	<string>sinR_V_ocalic.glif</string>
 	<key>sinRa</key>
 	<string>sinR_a.glif</string>
-	<key>sinRa.reph</key>
-	<string>sinR_a.reph.glif</string>
 	<key>sinRakar</key>
 	<string>sinR_akar.glif</string>
 	<key>sinRakar.long</key>
@@ -1972,14 +1862,14 @@
 	<string>sinR_eph.glif</string>
 	<key>sinRrVocalic</key>
 	<string>sinR_rV_ocalic.glif</string>
-	<key>sinS.virama</key>
-	<string>sinS_.virama.glif</string>
+	<key>sinS</key>
+	<string>sinS_.glif</string>
 	<key>sinSI</key>
 	<string>sinS_I_.glif</string>
 	<key>sinSIi</key>
 	<string>sinS_I_i.glif</string>
-	<key>sinSR.virama</key>
-	<string>sinS_R_.virama.glif</string>
+	<key>sinSR</key>
+	<string>sinS_R_.glif</string>
 	<key>sinSRI</key>
 	<string>sinS_R_I_.glif</string>
 	<key>sinSRIi</key>
@@ -1996,14 +1886,14 @@
 	<string>sinS_a.reph.glif</string>
 	<key>sinSevenlith</key>
 	<string>sinS_evenlith.glif</string>
-	<key>sinSh.virama</key>
-	<string>sinS_h.virama.glif</string>
+	<key>sinSh</key>
+	<string>sinS_h.glif</string>
 	<key>sinShI</key>
 	<string>sinS_hI_.glif</string>
 	<key>sinShIi</key>
 	<string>sinS_hI_i.glif</string>
-	<key>sinShR.virama</key>
-	<string>sinS_hR_.virama.glif</string>
+	<key>sinShR</key>
+	<string>sinS_hR_.glif</string>
 	<key>sinShRI</key>
 	<string>sinS_hR_I_.glif</string>
 	<key>sinShRIi</key>
@@ -2020,14 +1910,14 @@
 	<string>sinS_ha.reph.glif</string>
 	<key>sinSixlith</key>
 	<string>sinS_ixlith.glif</string>
-	<key>sinSs.virama</key>
-	<string>sinS_s.virama.glif</string>
+	<key>sinSs</key>
+	<string>sinS_s.glif</string>
 	<key>sinSsI</key>
 	<string>sinS_sI_.glif</string>
 	<key>sinSsIi</key>
 	<string>sinS_sI_i.glif</string>
-	<key>sinSsR.virama</key>
-	<string>sinS_sR_.virama.glif</string>
+	<key>sinSsR</key>
+	<string>sinS_sR_.glif</string>
 	<key>sinSsRI</key>
 	<string>sinS_sR_I_.glif</string>
 	<key>sinSsRIi</key>
@@ -2042,22 +1932,22 @@
 	<string>sinS_sa.glif</string>
 	<key>sinSsa.reph</key>
 	<string>sinS_sa.reph.glif</string>
-	<key>sinT.virama</key>
-	<string>sinT_.virama.glif</string>
+	<key>sinT</key>
+	<string>sinT_.glif</string>
 	<key>sinTI</key>
 	<string>sinT_I_.glif</string>
 	<key>sinTIi</key>
 	<string>sinT_I_i.glif</string>
-	<key>sinTR.virama</key>
-	<string>sinT_R_.virama.glif</string>
+	<key>sinTR</key>
+	<string>sinT_R_.glif</string>
 	<key>sinTRI</key>
 	<string>sinT_R_I_.glif</string>
 	<key>sinTRIi</key>
 	<string>sinT_R_I_i.glif</string>
 	<key>sinTRa</key>
 	<string>sinT_R_a.glif</string>
-	<key>sinTTh.virama</key>
-	<string>sinT_T_h.virama.glif</string>
+	<key>sinTTh</key>
+	<string>sinT_T_h.glif</string>
 	<key>sinTThI</key>
 	<string>sinT_T_hI_.glif</string>
 	<key>sinTThIi</key>
@@ -2074,8 +1964,8 @@
 	<string>sinT_U_.glif</string>
 	<key>sinTUu</key>
 	<string>sinT_U_u.glif</string>
-	<key>sinTV.virama</key>
-	<string>sinT_V_.virama.glif</string>
+	<key>sinTV</key>
+	<string>sinT_V_.glif</string>
 	<key>sinTVI</key>
 	<string>sinT_V_I_.glif</string>
 	<key>sinTVIi</key>
@@ -2092,8 +1982,8 @@
 	<string>sinT_a.glif</string>
 	<key>sinTa.reph</key>
 	<string>sinT_a.reph.glif</string>
-	<key>sinTh.virama</key>
-	<string>sinT_h.virama.glif</string>
+	<key>sinTh</key>
+	<string>sinT_h.glif</string>
 	<key>sinThI</key>
 	<string>sinT_hI_.glif</string>
 	<key>sinThIi</key>
@@ -2110,22 +2000,22 @@
 	<string>sinT_hreelith.glif</string>
 	<key>sinTouch</key>
 	<string>sinT_ouch.glif</string>
-	<key>sinTt.virama</key>
-	<string>sinT_t.virama.glif</string>
+	<key>sinTt</key>
+	<string>sinT_t.glif</string>
 	<key>sinTtI</key>
 	<string>sinT_tI_.glif</string>
 	<key>sinTtIi</key>
 	<string>sinT_tI_i.glif</string>
-	<key>sinTtR.virama</key>
-	<string>sinT_tR_.virama.glif</string>
+	<key>sinTtR</key>
+	<string>sinT_tR_.glif</string>
 	<key>sinTtRI</key>
 	<string>sinT_tR_I_.glif</string>
 	<key>sinTtRIi</key>
 	<string>sinT_tR_I_i.glif</string>
 	<key>sinTtRa</key>
 	<string>sinT_tR_a.glif</string>
-	<key>sinTtTth.virama</key>
-	<string>sinT_tT_th.virama.glif</string>
+	<key>sinTtTth</key>
+	<string>sinT_tT_th.glif</string>
 	<key>sinTtTthI</key>
 	<string>sinT_tT_thI_.glif</string>
 	<key>sinTtTthIi</key>
@@ -2146,8 +2036,8 @@
 	<string>sinT_ta.glif</string>
 	<key>sinTta.reph</key>
 	<string>sinT_ta.reph.glif</string>
-	<key>sinTth.virama</key>
-	<string>sinT_th.virama.glif</string>
+	<key>sinTth</key>
+	<string>sinT_th.glif</string>
 	<key>sinTthI</key>
 	<string>sinT_thI_.glif</string>
 	<key>sinTthIi</key>
@@ -2166,14 +2056,14 @@
 	<string>sinU_.glif</string>
 	<key>sinUu</key>
 	<string>sinU_u.glif</string>
-	<key>sinV.virama</key>
-	<string>sinV_.virama.glif</string>
+	<key>sinV</key>
+	<string>sinV_.glif</string>
 	<key>sinVI</key>
 	<string>sinV_I_.glif</string>
 	<key>sinVIi</key>
 	<string>sinV_I_i.glif</string>
-	<key>sinVR.virama</key>
-	<string>sinV_R_.virama.glif</string>
+	<key>sinVR</key>
+	<string>sinV_R_.glif</string>
 	<key>sinVRI</key>
 	<string>sinV_R_I_.glif</string>
 	<key>sinVRIi</key>
@@ -2192,8 +2082,8 @@
 	<string>sinV_irama.glif</string>
 	<key>sinVisarga</key>
 	<string>sinV_isarga.glif</string>
-	<key>sinY.virama</key>
-	<string>sinY_.virama.glif</string>
+	<key>sinY</key>
+	<string>sinY_.glif</string>
 	<key>sinYI</key>
 	<string>sinY_I_.glif</string>
 	<key>sinYIi</key>
@@ -2220,12 +2110,34 @@
 	<string>sinY_ansaya.reph.glif</string>
 	<key>sinYansaya.virama</key>
 	<string>sinY_ansaya.virama.glif</string>
+	<key>sinYansaya_Reph_MatraAa</key>
+	<string>sinY_ansaya_R_eph_M_atraA_a.glif</string>
 	<key>sinZerolith</key>
 	<string>sinZ_erolith.glif</string>
+	<key>sinfP</key>
+	<string>sinfP_.glif</string>
+	<key>sinfPI</key>
+	<string>sinfP_I_.glif</string>
+	<key>sinfPIi</key>
+	<string>sinfP_I_i.glif</string>
+	<key>sinfPR</key>
+	<string>sinfP_R_.glif</string>
+	<key>sinfPRI</key>
+	<string>sinfP_R_I_.glif</string>
+	<key>sinfPRIi</key>
+	<string>sinfP_R_I_i.glif</string>
+	<key>sinfPRa</key>
+	<string>sinfP_R_a.glif</string>
+	<key>sinfPU</key>
+	<string>sinfP_U_.glif</string>
+	<key>sinfPUu</key>
+	<string>sinfP_U_u.glif</string>
+	<key>sinfPa</key>
+	<string>sinfP_a.glif</string>
+	<key>sinfPa.reph</key>
+	<string>sinfP_a.reph.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
-	<key>six.onum</key>
-	<string>six.onum.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
 	<key>softhyphen</key>
@@ -2250,8 +2162,6 @@
 	<string>thorn.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
-	<key>three.onum</key>
-	<string>three.onum.glif</string>
 	<key>threequarters</key>
 	<string>threequarters.glif</string>
 	<key>threesuperior</key>
@@ -2264,8 +2174,6 @@
 	<string>trademark.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
-	<key>two.onum</key>
-	<string>two.onum.glif</string>
 	<key>twosuperior</key>
 	<string>twosuperior.glif</string>
 	<key>u</key>
@@ -2358,8 +2266,6 @@
 	<string>zdotaccent.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
-	<key>zero.onum</key>
-	<string>zero.onum.glif</string>
 	<key>zerowidthjoiner</key>
 	<string>zerowidthjoiner.glif</string>
 	<key>zerowidthnonjoiner</key>

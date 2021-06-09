@@ -39,85 +39,85 @@ lookup sinreph {
 
 lookup sin_virama {
   sub sinMatraAa sinVirama by sinMatraAa.virama;
-  sub sinKa sinVirama by sinK.virama;
-  sub sinKha sinVirama by sinKh.virama;
-  sub sinGa sinVirama by sinG.virama;
-  sub sinGha sinVirama by sinGh.virama;
-  sub sinNga sinVirama by sinNg.virama;
-  sub sinNnga sinVirama by sinNng.virama;
-  sub sinCa sinVirama by sinC.virama;
-  sub sinCha sinVirama by sinCh.virama;
-  sub sinJa sinVirama by sinJ.virama;
-  sub sinJha sinVirama by sinJh.virama;
-  sub sinNya sinVirama by sinNy.virama;
-  sub sinJnya sinVirama by sinJny.virama;
-  sub sinNyja sinVirama by sinNyj.virama;
-  sub sinTta sinVirama by sinTt.virama;
-  sub sinTtha sinVirama by sinTth.virama;
-  sub sinDda sinVirama by sinDd.virama;
-  sub sinDdha sinVirama by sinDdh.virama;
-  sub sinNna sinVirama by sinNn.virama;
-  sub sinNndda sinVirama by sinNndd.virama;
-  sub sinTa sinVirama by sinT.virama;
-  sub sinTha sinVirama by sinTh.virama;
-  sub sinDa sinVirama by sinD.virama;
-  sub sinDha sinVirama by sinDh.virama;
-  sub sinNa sinVirama by sinN.virama;
-  sub sinNda sinVirama by sinNd.virama;
-  sub sinPa sinVirama by sinP.virama;
-  sub sinPha sinVirama by sinPh.virama;
-  sub sinBa sinVirama by sinB.virama;
-  sub sinBha sinVirama by sinBh.virama;
-  sub sinMa sinVirama by sinM.virama;
-  sub sinMba sinVirama by sinMb.virama;
-  sub sinYa sinVirama by sinY.virama;
-  sub sinRa sinVirama by sinR.virama;
-  sub sinLa sinVirama by sinL.virama;
-  sub sinVa sinVirama by sinV.virama;
-  sub sinSha sinVirama by sinSh.virama;
-  sub sinSsa sinVirama by sinSs.virama;
-  sub sinSa sinVirama by sinS.virama;
-  sub sinHa sinVirama by sinH.virama;
-  sub sinLla sinVirama by sinLl.virama;
-  sub sinFa sinVirama by sinF.virama;
+  sub sinKa sinVirama by sinK;
+  sub sinKha sinVirama by sinKh;
+  sub sinGa sinVirama by sinG;
+  sub sinGha sinVirama by sinGh;
+  sub sinNga sinVirama by sinNg;
+  sub sinNnga sinVirama by sinNng;
+  sub sinCa sinVirama by sinC;
+  sub sinCha sinVirama by sinCh;
+  sub sinJa sinVirama by sinJ;
+  sub sinJha sinVirama by sinJh;
+  sub sinNya sinVirama by sinNy;
+  sub sinJnya sinVirama by sinJny;
+  sub sinNyja sinVirama by sinNyj;
+  sub sinTta sinVirama by sinTt;
+  sub sinTtha sinVirama by sinTth;
+  sub sinDda sinVirama by sinDd;
+  sub sinDdha sinVirama by sinDdh;
+  sub sinNna sinVirama by sinNn;
+  sub sinNndda sinVirama by sinNndd;
+  sub sinTa sinVirama by sinT;
+  sub sinTha sinVirama by sinTh;
+  sub sinDa sinVirama by sinD;
+  sub sinDha sinVirama by sinDh;
+  sub sinNa sinVirama by sinN;
+  sub sinNda sinVirama by sinNd;
+  sub sinPa sinVirama by sinP;
+  sub sinPha sinVirama by sinPh;
+  sub sinBa sinVirama by sinB;
+  sub sinBha sinVirama by sinBh;
+  sub sinMa sinVirama by sinM;
+  sub sinMba sinVirama by sinMb;
+  sub sinYa sinVirama by sinY;
+  sub sinRa sinVirama by sinR;
+  sub sinLa sinVirama by sinL;
+  sub sinVa sinVirama by sinV;
+  sub sinSha sinVirama by sinSh;
+  sub sinSsa sinVirama by sinSs;
+  sub sinSa sinVirama by sinS;
+  sub sinHa sinVirama by sinH;
+  sub sinLla sinVirama by sinLl;
+  sub sinFa sinVirama by sinF;
 
-  sub sinKhRa sinVirama by sinKhR.virama;
-  sub sinGRa sinVirama by sinGR.virama;
-  sub sinDVa sinVirama by sinDV.virama;
-  sub sinKVa sinVirama by sinKV.virama;
-  sub sinKSsa sinVirama by sinKSs.virama;
-  sub sinNVa sinVirama by sinNV.virama;
-  sub sinNDa  sinVirama by sinND.virama;
-  sub sinTtTtha sinVirama by sinTtTth.virama;
-  sub sinDDha sinVirama by sinDDh.virama;
-  sub sinTVa sinVirama by sinTV.virama;
-  sub sinTTha sinVirama by sinTTh.virama;
-  sub sinNDha sinVirama by sinNDh.virama;
-  sub sinNTha sinVirama by sinNTh.virama;
+  sub sinKhRa sinVirama by sinKhR;
+  sub sinGRa sinVirama by sinGR;
+  sub sinDVa sinVirama by sinDV;
+  sub sinKVa sinVirama by sinKV;
+  sub sinKSsa sinVirama by sinKSs;
+  sub sinNVa sinVirama by sinNV;
+  sub sinNDa  sinVirama by sinND;
+  sub sinTtTtha sinVirama by sinTtTth;
+  sub sinDDha sinVirama by sinDDh;
+  sub sinTVa sinVirama by sinTV;
+  sub sinTTha sinVirama by sinTTh;
+  sub sinNDha sinVirama by sinNDh;
+  sub sinNTha sinVirama by sinNTh;
   sub sinYansaya sinVirama by sinYansaya.virama;
 
-   sub sinGhRa sinVirama by sinGhR.virama;
-   sub sinCRa sinVirama by sinCR.virama;
-   sub sinJRa sinVirama by sinJR.virama;
-   sub sinJhRa sinVirama by sinJhR.virama;
-   sub sinNyRa sinVirama by sinNyR.virama;
-   sub sinTtRa sinVirama by sinTtR.virama;
-   sub sinJnyRa sinVirama by sinJnyR.virama;
-   sub sinNyjRa sinVirama by sinNyjR.virama;
-   sub sinDdRa sinVirama by sinDdR.virama;
-   sub sinTRa sinVirama by sinTR.virama;
-   sub sinDRa sinVirama by sinDR.virama;
-   sub sinDhRa sinVirama by sinDhR.virama;
-   sub sinPRa sinVirama by sinPR.virama;
-   sub sinBhRa sinVirama by sinBhR.virama;
-   sub sinMRa sinVirama by sinMR.virama;
-   sub sinVRa sinVirama by sinVR.virama;
-   sub sinShRa sinVirama by sinShR.virama;
-   sub sinSsRa sinVirama by sinSsR.virama;
-   sub sinSRa sinVirama by sinSR.virama;
-   sub sinHRa sinVirama by sinHR.virama;
-   sub sinFRa sinVirama by sinFR.virama;
-   sub sinBRa sinVirama by sinBR.virama;
+   sub sinGhRa sinVirama by sinGhR;
+   sub sinCRa sinVirama by sinCR;
+   sub sinJRa sinVirama by sinJR;
+   sub sinJhRa sinVirama by sinJhR;
+   sub sinNyRa sinVirama by sinNyR;
+   sub sinTtRa sinVirama by sinTtR;
+   sub sinJnyRa sinVirama by sinJnyR;
+   sub sinNyjRa sinVirama by sinNyjR;
+   sub sinDdRa sinVirama by sinDdR;
+   sub sinTRa sinVirama by sinTR;
+   sub sinDRa sinVirama by sinDR;
+   sub sinDhRa sinVirama by sinDhR;
+   sub sinPRa sinVirama by sinPR;
+   sub sinBhRa sinVirama by sinBhR;
+   sub sinMRa sinVirama by sinMR;
+   sub sinVRa sinVirama by sinVR;
+   sub sinShRa sinVirama by sinShR;
+   sub sinSsRa sinVirama by sinSsR;
+   sub sinSRa sinVirama by sinSR;
+   sub sinHRa sinVirama by sinHR;
+   sub sinFRa sinVirama by sinFR;
+   sub sinBRa sinVirama by sinBR;
  } sin_virama;
 
 #---- ABVS ----
@@ -235,6 +235,8 @@ lookup sinabvs_3 {
   sub sinShRa sinMatraI by sinShRI;
   sub sinSRa sinMatraI by sinSRI;
   sub sinHRa sinMatraI by sinHRI;
+  sub sinFRa sinMatraI by sinFRI;
+
 } sinabvs_3;
 
 lookup sinabvs_4 {
@@ -260,6 +262,8 @@ lookup sinabvs_4 {
   sub sinShRa sinMatraIi by sinShRIi;
   sub sinSRa sinMatraIi by sinSRIi;
   sub sinHRa sinMatraIi by sinHRIi;
+  sub sinFRa sinMatraIi by sinFRIi;
+
 } sinabvs_4;
 
 lookup sinabvs_5 {
@@ -292,6 +296,7 @@ lookup sinabvs_6 {
 
 lookup sinabvs_7 {
   sub sinYansaya sinReph by sinYansaya.reph;
+  sub sinYansaya sinMatraAa sinReph  by sinYansaya_Reph_MatraAa;
   sub sinKa sinReph by sinKa.reph;
   sub sinKha sinReph by sinKha.reph;
   sub sinGa sinReph by sinGa.reph;
@@ -466,8 +471,6 @@ lookup sinblws_4 {
   sub	sinTtTtha	sinMatraUu	by	sinTtTthUu;
   sub sinYansaya sinMatraUu by sinYUu.post;
 } sinblws_4;
-
-
 lookup sinblws_6 {
 sub [sinKRa sinKhRa sinGRa sinGhRa sinCRa sinJRa sinJhRa sinNyRa sinTtRa sinJnyRa sinNyjRa sinDdRa sinTRa sinDRa sinDhRa sinPRa sinBhRa sinMRa sinVRa sinShRa sinSsRa sinSRa sinHRa sinFRa sinNDRa sinBRa sinKRa sinKhRa sinGRa sinGhRa sinCRa sinJRa sinJhRa sinNyRa sinTtRa sinJnyRa sinNyjRa sinDdRa sinTRa sinDRa sinDhRa sinPRa sinBhRa sinMRa sinVRa sinShRa sinSsRa sinSRa sinHRa sinFRa sinNDRa sinBRa ] sinMatraU' by sinMatraAe;
 sub [sinKRa sinKhRa sinGRa sinGhRa sinCRa sinJRa sinJhRa sinNyRa sinTtRa sinJnyRa sinNyjRa sinDdRa sinTRa sinDRa sinDhRa sinPRa sinBhRa sinMRa sinVRa sinShRa sinSsRa sinSRa sinHRa sinFRa sinNDRa sinBRa sinKRa sinKhRa sinGRa sinGhRa sinCRa sinJRa sinJhRa sinNyRa sinTtRa sinJnyRa sinNyjRa sinDdRa sinTRa sinDRa sinDhRa sinPRa sinBhRa sinMRa sinVRa sinShRa sinSsRa sinSRa sinHRa sinFRa sinNDRa sinBRa ] sinMatraUu' by sinMatraAae; 
@@ -530,40 +533,6 @@ lookup sinsplit_matra {
   sub sinMatraAu by sinMatraLs;
 } sinsplit_matra;
 
-#----------- Da forms ------------
-#---------------------------------
-
-lookup sin_da_subscripts {
-sub sinDa sinMatraAa by sinDAa.ss01;
-sub sinDa sinMatraAa.virama by sinDAa.virama.ss01;
-sub sinDa sinMatraAae by sinDAae.ss01;
-sub sinDa sinMatraAe by sinDAe.ss01;
-sub sinDa sinYansaya sinMatraAa.virama by sinDYOo.post.ss01;
-sub sinDa sinYUu.post by sinDYUu.post.ss01;
-sub sinDa sinYansaya by sinDaYa.post.ss01;
-sub sinDa sinYansaya sinMatraAa by sinDYAa.post.ss01;
-sub sinDa sinYU.post by sinDYu.post.ss01;
-sub sinNda sinMatraAa by sinNdAa.ss01;
-sub sinNda sinMatraAa.virama by sinNdAa.virama.ss01;
-sub sinNda sinMatraAae by sinNdAae.ss01;
-sub sinNda sinMatraAe by sinNdAe.ss01;
-sub sinJnya sinMatraAa by sinJnyAa.ss01;
-sub sinJnya sinMatraAa.virama by sinJnyAa.virama.ss01;
-sub sinJnya sinMatraAae by sinJnyAee.ss01;
-sub sinJnya sinMatraAe by sinJnyAe.ss01;
-sub sinNDa sinMatraAa by sinNDAa.ss01;
-sub sinNDa sinMatraAa.virama by sinNDAa.virama.ss01;
-sub sinNDa sinMatraAae by sinNDAee.ss01;
-sub sinNDa sinMatraAe by sinNDAe.ss01;
-sub sinNya sinMatraAa by sinNyAa.ss01;
-sub sinNya sinMatraAa.virama by sinNyAa.virama.ss01;
-sub sinNya sinMatraAae by sinNyAee.ss01;
-sub sinNya sinMatraAe by sinNyAe.ss01;
-  sub sinDa sinMatraR by sinDvocR.ss01;
-  sub sinDa sinMatraRr by sinDvocRr.ss01;
-} sin_da_subscripts;
-
-
 #----------- Sinhala Numerals------------
 #---------------------------------
 
@@ -579,6 +548,27 @@ sub seven by sinSevenlith;
 sub eight by sinEightlith;
 sub nine by sinNinelith;
 } sin_lithnum_style;
+
+#----------- Sinhala fPa------------
+#---------------------------------
+
+
+lookup sin_fPa {
+  sub sinFa by sinfPa;
+  sub sinF by sinfP;
+  sub sinFI by sinfPI;
+  sub sinFIi by sinfPIi;
+  sub sinFU by sinfPU;
+  sub sinFUu by sinfPUu;
+  sub sinFUu by sinfPUu;
+  sub sinFRa by sinfPRa;
+  sub sinFRa by sinfPRa;
+  sub sinFR by sinfPR;
+  sub sinFRI by sinfPRI;
+  sub sinFRIi by sinfPRIi;
+  sub sinFa.reph by sinfPa.reph	;
+
+} sin_fPa;
 
 #----------- Sinhala touching  ------------
 #---------------------------------
@@ -726,21 +716,32 @@ feature psts {
       lookup sin_psts;
 } psts;
 
-feature ss01 {
+feature ss03 {
   script sinh;
   featureNames {
-    name "Sinhala Da-form Subscripts";
-    name 1 "Sinhala Da-form Subscripts";
+  	name "Sinhala Lith Numerals";
+  	name 1 "Sinhala Lith Numerals";
 	};
-    lookup sin_da_subscripts;
-} ss01;
-
-feature ss02 {
-  script sinh;
     lookup sin_lithnum_style;
-} ss02;
+} ss03;
 
 feature dist {
   pos sinTouch <0 0 -120 0>;
 } dist;
+
+feature ss02 {
+  featureNames {
+  	name "Sinhala fPa";
+  	name 1 "Sinhala fPa";
+	};
+    lookup sin_fPa;
+} ss02;
+
+feature ss03 {
+  featureNames {
+  	name "Sinhala Lith Numerals";
+  	name 1 "Sinhala Lith Numerals";
+	};
+    lookup sin_lithnum_style;
+} ss03;
 

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinNng" format="2">
+	<advance width="849"/>
+	<outline>
+		<component base="sinNnga"/>
+		<component base="sinVirama" xOffset="691" yOffset="43"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-06-09 02:26:22 +0000</string>
+		</dict>
+	</lib>
+</glyph>

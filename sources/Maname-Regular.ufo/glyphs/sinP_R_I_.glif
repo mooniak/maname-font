@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinPRI" format="2">
-	<advance width="595"/>
+	<advance width="625"/>
 	<outline>
-		<component base="sinPRa" xOffset="-22"/>
-		<component base="sinMatraI.alt" xOffset="320" yOffset="13"/>
+		<component base="sinPRa"/>
+		<component base="sinMatraI.alt" xOffset="342" yOffset="13"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-04-16 13:36:00 +0000</string>
+			<string>2021-05-27 11:41:55 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>sinPa</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

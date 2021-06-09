@@ -2,7 +2,6 @@
 <glyph name="sinJnya" format="2">
 	<advance width="953"/>
 	<unicode hex="0DA5"/>
-	<anchor x="721" y="410" name="Virama"/>
 	<outline>
 		<contour>
 			<point x="102" y="-8" type="curve"/>
@@ -26,7 +25,7 @@
 			<point x="76" y="23"/>
 		</contour>
 		<contour>
-			<point x="682" y="462" type="line"/>
+			<point x="702" y="462" type="line"/>
 			<point x="461" y="462"/>
 			<point x="393" y="333"/>
 			<point x="388" y="170" type="curve"/>
@@ -81,7 +80,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-05-27 09:00:44 +0000</string>
+			<string>2021-05-27 11:41:46 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>sinNnga</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

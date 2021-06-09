@@ -1,14 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinNTha.reph" format="2">
-	<advance width="600"/>
+	<advance width="1029"/>
 	<outline>
+		<contour>
+			<point x="575" y="419" type="line"/>
+			<point x="611" y="438"/>
+			<point x="638" y="474"/>
+			<point x="638" y="531" type="curve" smooth="yes"/>
+			<point x="638" y="616"/>
+			<point x="572" y="677"/>
+			<point x="481" y="677" type="curve" smooth="yes"/>
+			<point x="385" y="677"/>
+			<point x="332" y="608"/>
+			<point x="332" y="536" type="curve" smooth="yes"/>
+			<point x="332" y="483"/>
+			<point x="368" y="440"/>
+			<point x="425" y="440" type="curve" smooth="yes"/>
+			<point x="473" y="440"/>
+			<point x="498" y="472"/>
+			<point x="498" y="508" type="curve" smooth="yes"/>
+			<point x="498" y="551"/>
+			<point x="466" y="583"/>
+			<point x="429" y="583" type="curve" smooth="yes"/>
+			<point x="385" y="583"/>
+			<point x="367" y="544"/>
+			<point x="357" y="534" type="curve"/>
+			<point x="366" y="521" type="line"/>
+			<point x="381" y="530"/>
+			<point x="394" y="540"/>
+			<point x="426" y="540" type="curve" smooth="yes"/>
+			<point x="449" y="540"/>
+			<point x="473" y="529"/>
+			<point x="473" y="510" type="curve" smooth="yes"/>
+			<point x="473" y="486"/>
+			<point x="448" y="480"/>
+			<point x="429" y="480" type="curve" smooth="yes"/>
+			<point x="392" y="480"/>
+			<point x="372" y="505"/>
+			<point x="372" y="547" type="curve" smooth="yes"/>
+			<point x="372" y="596"/>
+			<point x="431" y="616"/>
+			<point x="481" y="616" type="curve" smooth="yes"/>
+			<point x="513" y="616"/>
+			<point x="606" y="601"/>
+			<point x="606" y="529" type="curve" smooth="yes"/>
+			<point x="606" y="489"/>
+			<point x="594" y="463"/>
+			<point x="557" y="448" type="curve"/>
+		</contour>
+		<component base="sinNTha"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-05-27 09:21:31 +0000</string>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
+			<string>2021-05-27 11:41:46 +0000</string>
 		</dict>
 	</lib>
 </glyph>
