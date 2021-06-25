@@ -5,12 +5,12 @@
 	<outline>
 		<component base="O"/>
 		<component base="dotaccentcomb" xOffset="322" yOffset="97"/>
-		<component base="macroncomb" xOffset="330" yOffset="134"/>
+		<component base="macroncomb" xOffset="330" yOffset="264"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-04-16 13:36:00 +0000</string>
+			<string>2021-06-25 11:36:04 +0000</string>
 		</dict>
 	</lib>
 </glyph>

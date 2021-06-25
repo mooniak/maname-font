@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinNya.reph" format="2">
-	<advance width="600"/>
+	<advance width="1043"/>
 	<outline>
+		<component base="sinNya"/>
+		<component base="sinReph" xOffset="889" yOffset="22"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-05-27 09:21:31 +0000</string>
-			<key>public.markColor</key>
-			<string>0.99,0.62,0.11,1</string>
+			<string>2021-05-27 11:41:46 +0000</string>
 		</dict>
 	</lib>
 </glyph>

@@ -50,10 +50,10 @@
 		</contour>
 		<contour>
 			<point x="334" y="1" type="line"/>
-			<point x="597" y="1" type="line"/>
-			<point x="589" y="48" type="line"/>
-			<point x="520" y="48"/>
-			<point x="489" y="81"/>
+			<point x="600" y="1" type="line"/>
+			<point x="592" y="48" type="line"/>
+			<point x="523" y="48"/>
+			<point x="479" y="111"/>
 			<point x="338" y="332" type="curve"/>
 			<point x="327" y="342" type="line"/>
 			<point x="315" y="361"/>
@@ -74,11 +74,11 @@
 			<point x="11" y="617" type="curve"/>
 			<point x="18" y="565" type="line"/>
 			<point x="89" y="565"/>
-			<point x="104" y="546"/>
-			<point x="145" y="481" type="curve" smooth="yes"/>
-			<point x="193" y="404"/>
-			<point x="227" y="347"/>
-			<point x="258" y="288" type="curve"/>
+			<point x="106" y="546"/>
+			<point x="147" y="481" type="curve" smooth="yes"/>
+			<point x="195" y="404"/>
+			<point x="229" y="347"/>
+			<point x="260" y="288" type="curve"/>
 			<point x="280" y="267" type="line"/>
 			<point x="301" y="240"/>
 			<point x="360" y="156"/>
@@ -94,7 +94,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-04-16 13:36:00 +0000</string>
+			<string>2021-06-25 10:57:33 +0000</string>
 		</dict>
 	</lib>
 </glyph>

@@ -292,6 +292,7 @@ lookup sinabvs_6 {
 
 lookup sinabvs_7 {
   sub sinYansaya sinReph by sinYansaya.reph;
+  sub sinYansaya sinMatraAa sinReph  by sinYansaya_Reph_MatraAa;
   sub sinKa sinReph by sinKa.reph;
   sub sinKha sinReph by sinKha.reph;
   sub sinGa sinReph by sinGa.reph;
@@ -466,8 +467,6 @@ lookup sinblws_4 {
   sub	sinTtTtha	sinMatraUu	by	sinTtTthUu;
   sub sinYansaya sinMatraUu by sinYUu.post;
 } sinblws_4;
-
-
 lookup sinblws_6 {
 sub [sinKRa sinKhRa sinGRa sinGhRa sinCRa sinJRa sinJhRa sinNyRa sinTtRa sinJnyRa sinNyjRa sinDdRa sinTRa sinDRa sinDhRa sinPRa sinBhRa sinMRa sinVRa sinShRa sinSsRa sinSRa sinHRa sinFRa sinNDRa sinBRa sinKRa sinKhRa sinGRa sinGhRa sinCRa sinJRa sinJhRa sinNyRa sinTtRa sinJnyRa sinNyjRa sinDdRa sinTRa sinDRa sinDhRa sinPRa sinBhRa sinMRa sinVRa sinShRa sinSsRa sinSRa sinHRa sinFRa sinNDRa sinBRa ] sinMatraU' by sinMatraAe;
 sub [sinKRa sinKhRa sinGRa sinGhRa sinCRa sinJRa sinJhRa sinNyRa sinTtRa sinJnyRa sinNyjRa sinDdRa sinTRa sinDRa sinDhRa sinPRa sinBhRa sinMRa sinVRa sinShRa sinSsRa sinSRa sinHRa sinFRa sinNDRa sinBRa sinKRa sinKhRa sinGRa sinGhRa sinCRa sinJRa sinJhRa sinNyRa sinTtRa sinJnyRa sinNyjRa sinDdRa sinTRa sinDRa sinDhRa sinPRa sinBhRa sinMRa sinVRa sinShRa sinSsRa sinSRa sinHRa sinFRa sinNDRa sinBRa ] sinMatraUu' by sinMatraAae; 
@@ -529,40 +528,6 @@ lookup sinsplit_matra {
   sub sinMatraOo by sinMatraAa.virama;
   sub sinMatraAu by sinMatraLs;
 } sinsplit_matra;
-
-#----------- Da forms ------------
-#---------------------------------
-
-lookup sin_da_subscripts {
-sub sinDa sinMatraAa by sinDAa.ss01;
-sub sinDa sinMatraAa.virama by sinDAa.virama.ss01;
-sub sinDa sinMatraAae by sinDAae.ss01;
-sub sinDa sinMatraAe by sinDAe.ss01;
-sub sinDa sinYansaya sinMatraAa.virama by sinDYOo.post.ss01;
-sub sinDa sinYUu.post by sinDYUu.post.ss01;
-sub sinDa sinYansaya by sinDaYa.post.ss01;
-sub sinDa sinYansaya sinMatraAa by sinDYAa.post.ss01;
-sub sinDa sinYU.post by sinDYu.post.ss01;
-sub sinNda sinMatraAa by sinNdAa.ss01;
-sub sinNda sinMatraAa.virama by sinNdAa.virama.ss01;
-sub sinNda sinMatraAae by sinNdAae.ss01;
-sub sinNda sinMatraAe by sinNdAe.ss01;
-sub sinJnya sinMatraAa by sinJnyAa.ss01;
-sub sinJnya sinMatraAa.virama by sinJnyAa.virama.ss01;
-sub sinJnya sinMatraAae by sinJnyAee.ss01;
-sub sinJnya sinMatraAe by sinJnyAe.ss01;
-sub sinNDa sinMatraAa by sinNDAa.ss01;
-sub sinNDa sinMatraAa.virama by sinNDAa.virama.ss01;
-sub sinNDa sinMatraAae by sinNDAee.ss01;
-sub sinNDa sinMatraAe by sinNDAe.ss01;
-sub sinNya sinMatraAa by sinNyAa.ss01;
-sub sinNya sinMatraAa.virama by sinNyAa.virama.ss01;
-sub sinNya sinMatraAae by sinNyAee.ss01;
-sub sinNya sinMatraAe by sinNyAe.ss01;
-  sub sinDa sinMatraR by sinDvocR.ss01;
-  sub sinDa sinMatraRr by sinDvocRr.ss01;
-} sin_da_subscripts;
-
 
 #----------- Sinhala Numerals------------
 #---------------------------------
@@ -725,15 +690,6 @@ feature psts {
   script sinh;
       lookup sin_psts;
 } psts;
-
-feature ss01 {
-  script sinh;
-  featureNames {
-    name "Sinhala Da-form Subscripts";
-    name 1 "Sinhala Da-form Subscripts";
-	};
-    lookup sin_da_subscripts;
-} ss01;
 
 feature ss02 {
   script sinh;

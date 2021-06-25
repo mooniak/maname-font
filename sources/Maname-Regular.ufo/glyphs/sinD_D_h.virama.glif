@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinDDh.virama" format="2">
-	<advance width="809"/>
+	<advance width="803"/>
 	<outline>
 		<contour>
 			<point x="729" y="370" type="line"/>
@@ -39,7 +39,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-05-27 09:13:59 +0000</string>
+			<string>2021-05-27 11:41:55 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>sinDha</string>
 		</dict>

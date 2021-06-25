@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinPU" format="2">
-	<advance width="599"/>
+	<advance width="625"/>
 	<outline>
 		<contour>
 			<point x="569" y="-215" type="line"/>
@@ -31,7 +31,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-05-25 07:48:09 +0000</string>
+			<string>2021-05-27 11:41:55 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>sinPa</string>
 		</dict>

@@ -16,7 +16,7 @@
 			<key>angle</key>
 			<integer>0</integer>
 			<key>x</key>
-			<integer>221</integer>
+			<integer>181</integer>
 			<key>y</key>
 			<integer>460</integer>
 		</dict>
@@ -35,6 +35,8 @@
 	<string>mooniak</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string>mooniak.com</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
 	<key>openTypeOS2Type</key>
 	<array>
 		<integer>3</integer>

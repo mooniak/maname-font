@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinYansaya_Reph_MatraAa" format="2">
+	<advance width="842"/>
+	<outline>
+		<component base="sinReph" xOffset="601" yOffset="26"/>
+		<component base="sinYansaya"/>
+		<component base="sinMatraAa" xOffset="540"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-05-27 11:41:46 +0000</string>
+		</dict>
+	</lib>
+</glyph>
