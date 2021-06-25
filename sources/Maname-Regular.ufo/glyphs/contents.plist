@@ -634,8 +634,12 @@
 	<string>eight.glif</string>
 	<key>eight.onum</key>
 	<string>eight.onum.glif</string>
+	<key>eightArchaic-sinhala</key>
+	<string>eightA_rchaic-sinhala.glif</string>
 	<key>eightlith-sinhala</key>
 	<string>eightlith-sinhala.glif</string>
+	<key>eightyArchaic-sinhala</key>
+	<string>eightyA_rchaic-sinhala.glif</string>
 	<key>einvertedbreve</key>
 	<string>einvertedbreve.glif</string>
 	<key>ellipsis</key>
@@ -672,22 +676,30 @@
 	<string>f_f_l.glif</string>
 	<key>fi</key>
 	<string>fi.glif</string>
+	<key>fiftyArchaic-sinhala</key>
+	<string>fiftyA_rchaic-sinhala.glif</string>
 	<key>firsttonechinese</key>
 	<string>firsttonechinese.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
 	<key>five.onum</key>
 	<string>five.onum.glif</string>
+	<key>fiveArchaic-sinhala</key>
+	<string>fiveA_rchaic-sinhala.glif</string>
 	<key>fivelith-sinhala</key>
 	<string>fivelith-sinhala.glif</string>
 	<key>fl</key>
 	<string>fl.glif</string>
 	<key>florin</key>
 	<string>florin.glif</string>
+	<key>fortyArchaic-sinhala</key>
+	<string>fortyA_rchaic-sinhala.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
 	<key>four.onum</key>
 	<string>four.onum.glif</string>
+	<key>fourArchaic-sinhala</key>
+	<string>fourA_rchaic-sinhala.glif</string>
 	<key>fourlith-sinhala</key>
 	<string>fourlith-sinhala.glif</string>
 	<key>foursuperior</key>
@@ -856,8 +868,12 @@
 	<string>nine.glif</string>
 	<key>nine.onum</key>
 	<string>nine.onum.glif</string>
+	<key>nineArchaic-sinhala</key>
+	<string>nineA_rchaic-sinhala.glif</string>
 	<key>ninelith-sinhala</key>
 	<string>ninelith-sinhala.glif</string>
+	<key>ninetyArchaic-sinhala</key>
+	<string>ninetyA_rchaic-sinhala.glif</string>
 	<key>nj</key>
 	<string>nj.glif</string>
 	<key>notequal</key>
@@ -928,14 +944,20 @@
 	<string>one.glif</string>
 	<key>one.onum</key>
 	<string>one.onum.glif</string>
+	<key>oneArchaic-sinhala</key>
+	<string>oneA_rchaic-sinhala.glif</string>
 	<key>onehalf</key>
 	<string>onehalf.glif</string>
+	<key>onehundredArchaic-sinhala</key>
+	<string>onehundredA_rchaic-sinhala.glif</string>
 	<key>onelith-sinhala</key>
 	<string>onelith-sinhala.glif</string>
 	<key>onequarter</key>
 	<string>onequarter.glif</string>
 	<key>onesuperior</key>
 	<string>onesuperior.glif</string>
+	<key>onethousandArchaic-sinhala</key>
+	<string>onethousandA_rchaic-sinhala.glif</string>
 	<key>oogonek</key>
 	<string>oogonek.glif</string>
 	<key>ordfeminine</key>
@@ -1042,8 +1064,12 @@
 	<string>seven.glif</string>
 	<key>seven.onum</key>
 	<string>seven.onum.glif</string>
+	<key>sevenArchaic-sinhala</key>
+	<string>sevenA_rchaic-sinhala.glif</string>
 	<key>sevenlith-sinhala</key>
 	<string>sevenlith-sinhala.glif</string>
+	<key>seventyArchaic-sinhala</key>
+	<string>seventyA_rchaic-sinhala.glif</string>
 	<key>sinA</key>
 	<string>sinA_.glif</string>
 	<key>sinAa</key>
@@ -1800,6 +1826,8 @@
 	<string>sinN_yja.reph.glif</string>
 	<key>sinO</key>
 	<string>sinO_.glif</string>
+	<key>sinOnelith</key>
+	<string>sinO_nelith.glif</string>
 	<key>sinOo</key>
 	<string>sinO_o.glif</string>
 	<key>sinP.virama</key>
@@ -2142,8 +2170,12 @@
 	<string>six.glif</string>
 	<key>six.onum</key>
 	<string>six.onum.glif</string>
+	<key>sixArchaic-sinhala</key>
+	<string>sixA_rchaic-sinhala.glif</string>
 	<key>sixlith-sinhala</key>
 	<string>sixlith-sinhala.glif</string>
+	<key>sixtyArchaic-sinhala</key>
+	<string>sixtyA_rchaic-sinhala.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
 	<key>softhyphen</key>
@@ -2164,12 +2196,18 @@
 	<string>tcommaaccent.glif</string>
 	<key>tdotbelow</key>
 	<string>tdotbelow.glif</string>
+	<key>tenArchaic-sinhala</key>
+	<string>tenA_rchaic-sinhala.glif</string>
+	<key>thirtyArchaic-sinhala</key>
+	<string>thirtyA_rchaic-sinhala.glif</string>
 	<key>thorn</key>
 	<string>thorn.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
 	<key>three.onum</key>
 	<string>three.onum.glif</string>
+	<key>threeArchaic-sinhala</key>
+	<string>threeA_rchaic-sinhala.glif</string>
 	<key>threelith-sinhala</key>
 	<string>threelith-sinhala.glif</string>
 	<key>threequarters</key>
@@ -2182,10 +2220,14 @@
 	<string>tildecomb.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
+	<key>twentyArchaic-sinhala</key>
+	<string>twentyA_rchaic-sinhala.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
 	<key>two.onum</key>
 	<string>two.onum.glif</string>
+	<key>twoArchaic-sinhala</key>
+	<string>twoA_rchaic-sinhala.glif</string>
 	<key>twolith-sinhala</key>
 	<string>twolith-sinhala.glif</string>
 	<key>twosuperior</key>

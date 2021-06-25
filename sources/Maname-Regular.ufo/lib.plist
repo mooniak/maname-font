@@ -5889,6 +5889,7 @@ ARROWROOT/space BARLEY/space CHERVIL/space DUMPLING/space ENDIVE/space FLAXSEED/
 		<string>threequarters</string>
 		<string>zerolith-sinhala</string>
 		<string>onelith-sinhala</string>
+		<string>sinOnelith</string>
 		<string>twolith-sinhala</string>
 		<string>threelith-sinhala</string>
 		<string>fourlith-sinhala</string>
@@ -5897,6 +5898,26 @@ ARROWROOT/space BARLEY/space CHERVIL/space DUMPLING/space ENDIVE/space FLAXSEED/
 		<string>sevenlith-sinhala</string>
 		<string>eightlith-sinhala</string>
 		<string>ninelith-sinhala</string>
+		<string>oneArchaic-sinhala</string>
+		<string>twoArchaic-sinhala</string>
+		<string>threeArchaic-sinhala</string>
+		<string>fourArchaic-sinhala</string>
+		<string>fiveArchaic-sinhala</string>
+		<string>sixArchaic-sinhala</string>
+		<string>sevenArchaic-sinhala</string>
+		<string>eightArchaic-sinhala</string>
+		<string>nineArchaic-sinhala</string>
+		<string>tenArchaic-sinhala</string>
+		<string>twentyArchaic-sinhala</string>
+		<string>thirtyArchaic-sinhala</string>
+		<string>fortyArchaic-sinhala</string>
+		<string>fiftyArchaic-sinhala</string>
+		<string>sixtyArchaic-sinhala</string>
+		<string>seventyArchaic-sinhala</string>
+		<string>eightyArchaic-sinhala</string>
+		<string>ninetyArchaic-sinhala</string>
+		<string>onehundredArchaic-sinhala</string>
+		<string>onethousandArchaic-sinhala</string>
 		<string>period</string>
 		<string>comma</string>
 		<string>colon</string>
