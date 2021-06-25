@@ -634,6 +634,8 @@
 	<string>eight.glif</string>
 	<key>eight.onum</key>
 	<string>eight.onum.glif</string>
+	<key>eightlith-sinhala</key>
+	<string>eightlith-sinhala.glif</string>
 	<key>einvertedbreve</key>
 	<string>einvertedbreve.glif</string>
 	<key>ellipsis</key>
@@ -676,6 +678,8 @@
 	<string>five.glif</string>
 	<key>five.onum</key>
 	<string>five.onum.glif</string>
+	<key>fivelith-sinhala</key>
+	<string>fivelith-sinhala.glif</string>
 	<key>fl</key>
 	<string>fl.glif</string>
 	<key>florin</key>
@@ -684,6 +688,8 @@
 	<string>four.glif</string>
 	<key>four.onum</key>
 	<string>four.onum.glif</string>
+	<key>fourlith-sinhala</key>
+	<string>fourlith-sinhala.glif</string>
 	<key>foursuperior</key>
 	<string>foursuperior.glif</string>
 	<key>fraction</key>
@@ -850,6 +856,8 @@
 	<string>nine.glif</string>
 	<key>nine.onum</key>
 	<string>nine.onum.glif</string>
+	<key>ninelith-sinhala</key>
+	<string>ninelith-sinhala.glif</string>
 	<key>nj</key>
 	<string>nj.glif</string>
 	<key>notequal</key>
@@ -922,6 +930,8 @@
 	<string>one.onum.glif</string>
 	<key>onehalf</key>
 	<string>onehalf.glif</string>
+	<key>onelith-sinhala</key>
+	<string>onelith-sinhala.glif</string>
 	<key>onequarter</key>
 	<string>onequarter.glif</string>
 	<key>onesuperior</key>
@@ -1032,6 +1042,8 @@
 	<string>seven.glif</string>
 	<key>seven.onum</key>
 	<string>seven.onum.glif</string>
+	<key>sevenlith-sinhala</key>
+	<string>sevenlith-sinhala.glif</string>
 	<key>sinA</key>
 	<string>sinA_.glif</string>
 	<key>sinAa</key>
@@ -1238,8 +1250,6 @@
 	<string>sinE_.glif</string>
 	<key>sinEe</key>
 	<string>sinE_e.glif</string>
-	<key>sinEightlith</key>
-	<string>sinE_ightlith.glif</string>
 	<key>sinF.virama</key>
 	<string>sinF_.virama.glif</string>
 	<key>sinFI</key>
@@ -1262,10 +1272,6 @@
 	<string>sinF_a.glif</string>
 	<key>sinFa.reph</key>
 	<string>sinF_a.reph.glif</string>
-	<key>sinFivelith</key>
-	<string>sinF_ivelith.glif</string>
-	<key>sinFourlith</key>
-	<string>sinF_ourlith.glif</string>
 	<key>sinG.virama</key>
 	<string>sinG_.virama.glif</string>
 	<key>sinGDha</key>
@@ -1710,8 +1716,6 @@
 	<string>sinN_ga.glif</string>
 	<key>sinNga.reph</key>
 	<string>sinN_ga.reph.glif</string>
-	<key>sinNinelith</key>
-	<string>sinN_inelith.glif</string>
 	<key>sinNn.virama</key>
 	<string>sinN_n.virama.glif</string>
 	<key>sinNnI</key>
@@ -1796,8 +1800,6 @@
 	<string>sinN_yja.reph.glif</string>
 	<key>sinO</key>
 	<string>sinO_.glif</string>
-	<key>sinOnelith</key>
-	<string>sinO_nelith.glif</string>
 	<key>sinOo</key>
 	<string>sinO_o.glif</string>
 	<key>sinP.virama</key>
@@ -1916,8 +1918,6 @@
 	<string>sinS_a.glif</string>
 	<key>sinSa.reph</key>
 	<string>sinS_a.reph.glif</string>
-	<key>sinSevenlith</key>
-	<string>sinS_evenlith.glif</string>
 	<key>sinSh.virama</key>
 	<string>sinS_h.virama.glif</string>
 	<key>sinShI</key>
@@ -1940,8 +1940,6 @@
 	<string>sinS_ha.glif</string>
 	<key>sinSha.reph</key>
 	<string>sinS_ha.reph.glif</string>
-	<key>sinSixlith</key>
-	<string>sinS_ixlith.glif</string>
 	<key>sinSs.virama</key>
 	<string>sinS_s.virama.glif</string>
 	<key>sinSsI</key>
@@ -2028,8 +2026,6 @@
 	<string>sinT_ha.glif</string>
 	<key>sinTha.reph</key>
 	<string>sinT_ha.reph.glif</string>
-	<key>sinThreelith</key>
-	<string>sinT_hreelith.glif</string>
 	<key>sinTouch</key>
 	<string>sinT_ouch.glif</string>
 	<key>sinTt.virama</key>
@@ -2082,8 +2078,6 @@
 	<string>sinT_tha.glif</string>
 	<key>sinTtha.reph</key>
 	<string>sinT_tha.reph.glif</string>
-	<key>sinTwolith</key>
-	<string>sinT_wolith.glif</string>
 	<key>sinU</key>
 	<string>sinU_.glif</string>
 	<key>sinUu</key>
@@ -2144,12 +2138,12 @@
 	<string>sinY_ansaya.virama.glif</string>
 	<key>sinYansaya_Reph_MatraAa</key>
 	<string>sinY_ansaya_R_eph_M_atraA_a.glif</string>
-	<key>sinZerolith</key>
-	<string>sinZ_erolith.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
 	<key>six.onum</key>
 	<string>six.onum.glif</string>
+	<key>sixlith-sinhala</key>
+	<string>sixlith-sinhala.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
 	<key>softhyphen</key>
@@ -2176,6 +2170,8 @@
 	<string>three.glif</string>
 	<key>three.onum</key>
 	<string>three.onum.glif</string>
+	<key>threelith-sinhala</key>
+	<string>threelith-sinhala.glif</string>
 	<key>threequarters</key>
 	<string>threequarters.glif</string>
 	<key>threesuperior</key>
@@ -2190,6 +2186,8 @@
 	<string>two.glif</string>
 	<key>two.onum</key>
 	<string>two.onum.glif</string>
+	<key>twolith-sinhala</key>
+	<string>twolith-sinhala.glif</string>
 	<key>twosuperior</key>
 	<string>twosuperior.glif</string>
 	<key>u</key>
@@ -2284,6 +2282,8 @@
 	<string>zero.glif</string>
 	<key>zero.onum</key>
 	<string>zero.onum.glif</string>
+	<key>zerolith-sinhala</key>
+	<string>zerolith-sinhala.glif</string>
 	<key>zerowidthjoiner</key>
 	<string>zerowidthjoiner.glif</string>
 	<key>zerowidthnonjoiner</key>

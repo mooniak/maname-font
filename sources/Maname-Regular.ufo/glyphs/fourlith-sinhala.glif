@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinFourlith" format="2">
-	<advance width="600"/>
+<glyph name="fourlith-sinhala" format="2">
+	<advance width="642"/>
 	<unicode hex="0DEA"/>
 	<outline>
+		<component base="sinJa"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-05-27 11:41:46 +0000</string>
+			<string>2021-06-25 11:57:11 +0000</string>
 		</dict>
 	</lib>
 </glyph>

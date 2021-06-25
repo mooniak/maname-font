@@ -42,6 +42,14 @@ ARROWROOT/space BARLEY/space CHERVIL/space DUMPLING/space ENDIVE/space FLAXSEED/
 		<string>æ</string>
 		<string>/OE</string>
 		<string>/sinNg.virama/sinC.virama</string>
+		<string>/threelith-sinhala</string>
+		<string>/fourlith-sinhala</string>
+		<string>/fivelith-sinhala</string>
+		<string>/sevenlith-sinhala</string>
+		<string>/eightlith-sinhala</string>
+		<string>/onelith-sinhala</string>
+		<string>/twolith-sinhala</string>
+		<string>/sixlith-sinhala</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<true/>
@@ -4194,6 +4202,11 @@ ARROWROOT/space BARLEY/space CHERVIL/space DUMPLING/space ENDIVE/space FLAXSEED/
 			</array>
 		</dict>
 	</array>
+	<key>com.schriftgestaltung.font.userData</key>
+	<dict>
+		<key>LWPluginVersion</key>
+		<string>1429</string>
+	</dict>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSCornerRadius</key>
@@ -5874,16 +5887,16 @@ ARROWROOT/space BARLEY/space CHERVIL/space DUMPLING/space ENDIVE/space FLAXSEED/
 		<string>onehalf</string>
 		<string>onequarter</string>
 		<string>threequarters</string>
-		<string>sinZerolith</string>
-		<string>sinOnelith</string>
-		<string>sinTwolith</string>
-		<string>sinThreelith</string>
-		<string>sinFourlith</string>
-		<string>sinFivelith</string>
-		<string>sinSixlith</string>
-		<string>sinSevenlith</string>
-		<string>sinEightlith</string>
-		<string>sinNinelith</string>
+		<string>zerolith-sinhala</string>
+		<string>onelith-sinhala</string>
+		<string>twolith-sinhala</string>
+		<string>threelith-sinhala</string>
+		<string>fourlith-sinhala</string>
+		<string>fivelith-sinhala</string>
+		<string>sixlith-sinhala</string>
+		<string>sevenlith-sinhala</string>
+		<string>eightlith-sinhala</string>
+		<string>ninelith-sinhala</string>
 		<string>period</string>
 		<string>comma</string>
 		<string>colon</string>
