@@ -33,26 +33,6 @@
 		<string>adhesion
 Hamburgfontsiv
 ARROWROOT/space BARLEY/space CHERVIL/space DUMPLING/space ENDIVE/space FLAXSEED/space GARBANZO/space HIJIKI/space ISHTU/space JICAMA/space KALE/space LYCHEE/space MARJORAM/space NECTARINE/space OXTAIL/space PIZZA/space QUINOA/space ROQUEFORT/space SQUASH/space TOFU/space UPPUMA/space VANILLA/space WHEAT/space XERGIS/space YOGURT/space ZWEIBACK/space 0/space 1/space 2/space 3/space 4/space 5/space 6/space 7/space 8/space 9/space !/space ?</string>
-		<string>F,/quotedblright/space/quotedblleft B/quotedblright/space/quotedblleft C/quotedblright/space/quotedblleft D/quotedblright/space/quotedblleft E/quotedblright/space/quotedblleft F/quotedblright/space/quotedblleft G/quotedblright/space/quotedblleft H/quotedblright/space/quotedblleft I/quotedblright/space/quotedblleft J/quotedblright/space/quotedblleft K/quotedblright/space/quotedblleft L/quotedblright/space/quotedblleft M/quotedblright/space/quotedblleft N/quotedblright/space/quotedblleft O/quotedblright/space/quotedblleft P/quotedblright/space/quotedblleft Q/quotedblright/space/quotedblleft R/quotedblright/space/quotedblleft S/quotedblright/space/quotedblleft T/quotedblright/space/quotedblleft U/quotedblright/space/quotedblleft V/quotedblright/space/quotedblleft W/quotedblright/space/quotedblleft X/quotedblright/space/quotedblleft Y/quotedblright/space/quotedblleft Z/quotedblright 
-/quotedblleft a/quotedblright/space/quotedblleft b/quotedblright/space/quotedblleft c/quotedblright/space/quotedblleft d/quotedblright/space/quotedblleft e/quotedblright/space/quotedblleft f/quotedblright/space/quotedblleft g/quotedblright/space/quotedblleft h/quotedblright/space/quotedblleft i/quotedblright/space/quotedblleft j/quotedblright/space/quotedblleft k/quotedblright/space/quotedblleft l/quotedblright/space/quotedblleft m/quotedblright/space/quotedblleft n/quotedblright/space/quotedblleft o/quotedblright/space/quotedblleft p/quotedblright/space/quotedblleft q/quotedblright/space/quotedblleft r/quotedblright/space/quotedblleft s/quotedblright/space/quotedblleft t/quotedblright/space/quotedblleft u/quotedblright/space/quotedblleft v/quotedblright/space/quotedblleft w/quotedblright/space/quotedblleft x/quotedblright/space/quotedblleft y/quotedblright/space/quotedblleft z/quotedblright 
-
-/quoteleft A/quoteright/space/quoteleft B/quoteright/space/quoteleft C/quoteright/space/quoteleft D/quoteright/space/quoteleft E/quoteright/space/quoteleft F/quoteright/space/quoteleft G/quoteright/space/quoteleft H/quoteright/space/quoteleft I/quoteright/space/quoteleft J/quoteright/space/quoteleft K/quoteright/space/quoteleft L/quoteright/space/quoteleft M/quoteright/space/quoteleft N/quoteright/space/quoteleft O/quoteright/space/quoteleft P/quoteright/space/quoteleft Q/quoteright/space/quoteleft R/quoteright/space/quoteleft S/quoteright/space/quoteleft T/quoteright/space/quoteleft U/quoteright/space/quoteleft V/quoteright/space/quoteleft W/quoteright/space/quoteleft X/quoteright/space/quoteleft Y/quoteright/space/quoteleft Z/quoteright 
-/quoteleft a/quoteright/space/quoteleft b/quoteright/space/quoteleft c/quoteright/space/quoteleft d/quoteright/space/quoteleft e/quoteright/space/quoteleft f/quoteright/space/quoteleft g/quoteright/space/quoteleft h/quoteright/space/quoteleft i/quoteright/space/quoteleft j/quoteright/space/quoteleft k/quoteright/space/quoteleft l/quoteright/space/quoteleft m/quoteright/space/quoteleft n/quoteright/space/quoteleft o/quoteright/space/quoteleft p/quoteright/space/quoteleft q/quoteright/space/quoteleft r/quoteright/space/quoteleft s/quoteright/space/quoteleft t/quoteright/space/quoteleft u/quoteright/space/quoteleft v/quoteright/space/quoteleft w/quoteright/space/quoteleft x/quoteright/space/quoteleft y/quoteright/space/quoteleft z/quoteright</string>
-		<string>/Odotaccentmacron</string>
-		<string>æ</string>
-		<string>/OE</string>
-		<string>/sinNg.virama/sinC.virama</string>
-		<string>/threelith-sinhala</string>
-		<string>/fourlith-sinhala</string>
-		<string>/fivelith-sinhala</string>
-		<string>/sevenlith-sinhala</string>
-		<string>/eightlith-sinhala</string>
-		<string>/onelith-sinhala</string>
-		<string>/twolith-sinhala</string>
-		<string>/sixlith-sinhala</string>
-		<string>/Germandbls</string>
-		<string>/sinTouch</string>
-		<string>/sinKRa/sinMatraU.sub/sinMatraUu.sub</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<true/>
