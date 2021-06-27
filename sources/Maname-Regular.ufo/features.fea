@@ -11,7 +11,7 @@ languagesystem latn TRK;
 languagesystem latn CRT;
 languagesystem latn AZE;
 
-# Prefix: Features
+# Prefix: Prefix
 #---- --AKHN ------------
 
 lookup sinakhands {
