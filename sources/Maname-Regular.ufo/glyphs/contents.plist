@@ -1616,6 +1616,8 @@
 	<string>sinM_atraU_.glif</string>
 	<key>sinMatraU.alt1</key>
 	<string>sinM_atraU_.alt1.glif</string>
+	<key>sinMatraU.sub</key>
+	<string>sinM_atraU_.sub.glif</string>
 	<key>sinMatraUu</key>
 	<string>sinM_atraU_u.glif</string>
 	<key>sinMatraUu.alt</key>
@@ -1626,6 +1628,8 @@
 	<string>sinM_atraU_u.alt2.glif</string>
 	<key>sinMatraUu.alt3</key>
 	<string>sinM_atraU_u.alt3.glif</string>
+	<key>sinMatraUu.sub</key>
+	<string>sinM_atraU_u.sub.glif</string>
 	<key>sinMb.virama</key>
 	<string>sinM_b.virama.glif</string>
 	<key>sinMbI</key>

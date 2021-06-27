@@ -52,6 +52,7 @@ ARROWROOT/space BARLEY/space CHERVIL/space DUMPLING/space ENDIVE/space FLAXSEED/
 		<string>/sixlith-sinhala</string>
 		<string>/Germandbls</string>
 		<string>/sinTouch</string>
+		<string>/sinKRa/sinMatraU.sub/sinMatraUu.sub</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<true/>
@@ -6582,7 +6583,6 @@ ARROWROOT/space BARLEY/space CHERVIL/space DUMPLING/space ENDIVE/space FLAXSEED/
 		<string>threequarters</string>
 		<string>zerolith-sinhala</string>
 		<string>onelith-sinhala</string>
-		<string>sinOnelith</string>
 		<string>twolith-sinhala</string>
 		<string>threelith-sinhala</string>
 		<string>fourlith-sinhala</string>
@@ -6751,6 +6751,9 @@ ARROWROOT/space BARLEY/space CHERVIL/space DUMPLING/space ENDIVE/space FLAXSEED/
 		<string>macron</string>
 		<string>cedilla</string>
 		<string>ogonek</string>
+		<string>sinMatraU.sub</string>
+		<string>sinMatraUu.sub</string>
+		<string>sinOnelith</string>
 		<string>sinRU_comma</string>
 		<string>sinRU_period</string>
 		<string>sinRUu_comma</string>
