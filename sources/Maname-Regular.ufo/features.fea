@@ -529,22 +529,6 @@ lookup sinsplit_matra {
   sub sinMatraAu by sinMatraLs;
 } sinsplit_matra;
 
-#----------- Sinhala Numerals------------
-#---------------------------------
-
-lookup sin_lithnum_style {
-  sub zero by sinZerolith;
-sub one by sinOnelith;
-sub two by sinTwolith;
-sub three by sinThreelith;
-sub four by sinFourlith;
-sub five by sinFivelith;
-sub six by sinSixlith;
-sub seven by sinSevenlith;
-sub eight by sinEightlith;
-sub nine by sinNinelith;
-} sin_lithnum_style;
-
 #----------- Sinhala touching  ------------
 #---------------------------------
 
@@ -690,11 +674,6 @@ feature psts {
   script sinh;
       lookup sin_psts;
 } psts;
-
-feature ss02 {
-  script sinh;
-    lookup sin_lithnum_style;
-} ss02;
 
 feature dist {
   pos sinTouch <0 0 -120 0>;
