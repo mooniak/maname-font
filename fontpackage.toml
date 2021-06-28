@@ -16,9 +16,9 @@ license-description = [ #OPTIONAL: URL to licence file or EULA
     { si_LK= ""},
     { dv_IN= ""}]
 description = "" #OPTIONAL
-repository = { url = "https://github.com/mooniak/maname-fonts", type = "git"} #REQUIERD
+repository = { url = "https://github.com/mooniak/maname-font", type = "git"} #REQUIERD
 homepage_url = "http://mooniak.com/maname-font" #OPTIONAL
-issues_url = "https://github.com/mooniak/maname-fonts/issues" #OPTIONAL
+issues_url = "https://github.com/mooniak/maname-font/issues" #OPTIONAL
 date_published = "20 MARCH 2019" #OPTIONAL: Date first published
 fontlog = "" #OPTIONAL: Defults to ROOT (./FONTLOG.md ./FONTLOG.txt ./CHANGELOG.txt) Defult format Markdown .md
 foundry = { name = "Mooniak", email = "hello@mooniak.com", url = "mooniak.com", vendor_id = "MNIK" } #OPTIONAL:

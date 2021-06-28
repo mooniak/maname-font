@@ -28,7 +28,7 @@ contribute to the project or make your own version of the font.
 
 See the project website for the current trunk and the various branches:
 
-http://mooniak.com/maname-fonts
+http://mooniak.com/maname-font
 
 
 ChangeLog

@@ -8,4 +8,4 @@ There is no stable release of the font yet :( You can contribute to get the stab
 ## Development preview
 
 This section presents a preview of fonts in active development in the `dev` branch. Images are built from the sources on a daily basis, so things are bound to be broken, ugly and imperfect :)
-![maname-fonts-daily-status](https://github.com/mooniak/maname-fonts/blob/dev/documentation/daily-status.png)
+![maname-font-daily-status](https://github.com/mooniak/maname-font/blob/dev/documentation/daily-status.png)
