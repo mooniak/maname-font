@@ -33,7 +33,6 @@
 		<string>adhesion
 Hamburgfontsiv
 ARROWROOT BARLEY CHERVIL DUMPLING ENDIVE FLAXSEED GARBANZO HIJIKI ISHTU JICAMA KALE LYCHEE MARJORAM NECTARINE OXTAIL PIZZA QUINOA ROQUEFORT SQUASH TOFU UPPUMA VANILLA WHEAT XERGIS YOGURT ZWEIBACK 0 1 2 3 4 5 6 7 8 9 ! ?</string>
-		<string></string>
 		<string>/sinFa.reph</string>
 		<string>𑇥</string>
 		<string>𑇫</string>
@@ -1733,16 +1732,6 @@ ARROWROOT BARLEY CHERVIL DUMPLING ENDIVE FLAXSEED GARBANZO HIJIKI ISHTU JICAMA K
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
-		<string>zero.onum</string>
-		<string>one.onum</string>
-		<string>two.onum</string>
-		<string>three.onum</string>
-		<string>four.onum</string>
-		<string>five.onum</string>
-		<string>six.onum</string>
-		<string>seven.onum</string>
-		<string>eight.onum</string>
-		<string>nine.onum</string>
 		<string>fraction</string>
 		<string>onehalf</string>
 		<string>onequarter</string>

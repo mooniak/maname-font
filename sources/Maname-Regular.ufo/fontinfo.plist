@@ -6,6 +6,8 @@
 	<integer>770</integer>
 	<key>capHeight</key>
 	<integer>578</integer>
+	<key>copyright</key>
+	<string>Copyright 2015—2023 The Maname Project Authors &lt;See at https://github.com/mooniak/maname-font/&gt;</string>
 	<key>descender</key>
 	<integer>-193</integer>
 	<key>familyName</key>
@@ -31,12 +33,16 @@
 	<string>Pathum Egodawatta</string>
 	<key>openTypeNameLicense</key>
 	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameManufacturer</key>
 	<string>mooniak</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string>mooniak.com</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
+	<key>openTypeNameSampleText</key>
+	<string>දැරණියගලට ඉහල අහසේ දඟකරන වලාපෙළ මවනා සොඳුරු දසුන රාත්‍රිය උදාවත් සමග ක්‍ෂයවේ.</string>
 	<key>openTypeOS2Type</key>
 	<array>
 		<integer>3</integer>
@@ -47,6 +53,8 @@
 	<integer>193</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>MNIK</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
@@ -67,7 +75,7 @@
 		<real>786.0</real>
 	</array>
 	<key>postscriptFontName</key>
-	<string>Maname-Regular</string>
+	<string>Maname</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<real>-207.0</real>
