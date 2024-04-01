@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>.notdef</key>
+	<string>_notdef.glif</string>
 	<key>.null</key>
 	<string>_null.glif</string>
 	<key>A</key>
@@ -988,6 +990,8 @@
 	<string>periodcentered.glif</string>
 	<key>periodcentered.loclCAT</key>
 	<string>periodcentered.loclC_A_T_.glif</string>
+	<key>periodcentered.loclCAT.case</key>
+	<string>periodcentered.loclC_A_T_.case.glif</string>
 	<key>perthousand</key>
 	<string>perthousand.glif</string>
 	<key>peseta</key>

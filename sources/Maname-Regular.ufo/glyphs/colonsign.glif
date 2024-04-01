@@ -22,8 +22,10 @@
 	</outline>
 	<lib>
 		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-05-27 11:41:46 +0000</string>
+			<string>2024-04-01 06:48:46 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>=C</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
