@@ -1,5 +1,5 @@
 sources:
-  - Maname-Regular.ufo
+  - Maname.glyphs
 outputDir: "../fonts"
 buildStatic: true
 buildVariable: false

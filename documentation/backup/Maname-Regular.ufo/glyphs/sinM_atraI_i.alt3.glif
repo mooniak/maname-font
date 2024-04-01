@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinMatraIi.alt3" format="2">
+	<advance width="0"/>
+	<outline>
+		<contour>
+			<point x="-51" y="387" type="curve"/>
+			<point x="-55" y="441" type="line"/>
+			<point x="-97" y="454"/>
+			<point x="-140" y="471"/>
+			<point x="-140" y="520" type="curve" smooth="yes"/>
+			<point x="-140" y="592"/>
+			<point x="-41" y="597"/>
+			<point x="-9" y="597" type="curve" smooth="yes"/>
+			<point x="51" y="597"/>
+			<point x="134" y="567"/>
+			<point x="134" y="518" type="curve" smooth="yes"/>
+			<point x="134" y="476"/>
+			<point x="114" y="451"/>
+			<point x="83" y="451" type="curve" smooth="yes"/>
+			<point x="58" y="451"/>
+			<point x="33" y="457"/>
+			<point x="33" y="481" type="curve" smooth="yes"/>
+			<point x="33" y="500"/>
+			<point x="57" y="511"/>
+			<point x="80" y="511" type="curve" smooth="yes"/>
+			<point x="112" y="511"/>
+			<point x="125" y="501"/>
+			<point x="140" y="492" type="curve"/>
+			<point x="149" y="505" type="line"/>
+			<point x="139" y="515"/>
+			<point x="121" y="554"/>
+			<point x="77" y="554" type="curve" smooth="yes"/>
+			<point x="40" y="554"/>
+			<point x="8" y="522"/>
+			<point x="8" y="479" type="curve" smooth="yes"/>
+			<point x="8" y="443"/>
+			<point x="33" y="411"/>
+			<point x="87" y="411" type="curve" smooth="yes"/>
+			<point x="138" y="411"/>
+			<point x="174" y="454"/>
+			<point x="174" y="527" type="curve" smooth="yes"/>
+			<point x="174" y="589"/>
+			<point x="107" y="658"/>
+			<point x="11" y="658" type="curve" smooth="yes"/>
+			<point x="-90" y="658"/>
+			<point x="-172" y="597"/>
+			<point x="-172" y="512" type="curve" smooth="yes"/>
+			<point x="-172" y="433"/>
+			<point x="-114" y="395"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2024-04-01 07:38:10 +0000</string>
+		</dict>
+	</lib>
+</glyph>

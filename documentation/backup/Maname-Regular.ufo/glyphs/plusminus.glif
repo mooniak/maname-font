@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plusminus" format="2">
+	<advance width="462"/>
+	<unicode hex="00B1"/>
+	<outline>
+		<contour>
+			<point x="59" y="252" type="line"/>
+			<point x="110" y="254"/>
+			<point x="169" y="255"/>
+			<point x="233" y="255" type="curve" smooth="yes"/>
+			<point x="297" y="255"/>
+			<point x="365" y="254"/>
+			<point x="434" y="252" type="curve"/>
+			<point x="441" y="326" type="line"/>
+			<point x="381" y="325"/>
+			<point x="315" y="324"/>
+			<point x="250" y="324" type="curve" smooth="yes"/>
+			<point x="185" y="324"/>
+			<point x="120" y="325"/>
+			<point x="60" y="326" type="curve"/>
+		</contour>
+		<contour>
+			<point x="72" y="-8" type="line"/>
+			<point x="123" y="-6"/>
+			<point x="177" y="-5"/>
+			<point x="235" y="-5" type="curve" smooth="yes"/>
+			<point x="293" y="-5"/>
+			<point x="355" y="-6"/>
+			<point x="424" y="-8" type="curve"/>
+			<point x="431" y="67" type="line"/>
+			<point x="371" y="65"/>
+			<point x="311" y="64"/>
+			<point x="252" y="64" type="curve" smooth="yes"/>
+			<point x="192" y="64"/>
+			<point x="133" y="65"/>
+			<point x="73" y="67" type="curve"/>
+		</contour>
+		<contour>
+			<point x="211" y="109" type="curve"/>
+			<point x="285" y="112" type="line"/>
+			<point x="283" y="168"/>
+			<point x="282" y="227"/>
+			<point x="282" y="291" type="curve" smooth="yes"/>
+			<point x="282" y="347"/>
+			<point x="283" y="407"/>
+			<point x="285" y="472" type="curve"/>
+			<point x="211" y="470" type="line"/>
+			<point x="213" y="417"/>
+			<point x="214" y="364"/>
+			<point x="214" y="311" type="curve" smooth="yes"/>
+			<point x="214" y="243"/>
+			<point x="213" y="176"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2024-04-01 07:38:10 +0000</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oneArchaic-sinhala" format="2">
+	<advance width="690"/>
+	<unicode hex="111E1"/>
+	<outline>
+		<contour>
+			<point x="602" y="0" type="line"/>
+			<point x="630" y="0" type="line"/>
+			<point x="630" y="401" type="line"/>
+			<point x="602" y="401" type="line"/>
+		</contour>
+		<component base="sinOnelith"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2024-04-01 07:38:10 +0000</string>
+		</dict>
+	</lib>
+</glyph>
