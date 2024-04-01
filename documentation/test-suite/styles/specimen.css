@@ -1,0 +1,82 @@
+html {
+}
+
+@media print {
+body {
+  width: auto;
+  font-size: 12px;
+  line-height: 1.6;
+  padding: 0px 0px 0px 0px;
+  font-weight: normal;
+}
+
+h3, h4 {
+  page-break-after: avoid;
+}
+pre, blockquote {
+  page-break-inside: avoid;
+}
+}
+
+@page{
+}
+
+@page:left {
+    margin-left: 2cm;
+    margin-right: 1cm;
+    padding-right: 1.5cm;
+    font-family: 'Inconsloata',monospace;
+    @top-left{
+        content: "Maname Fonts Project";
+        font-size: 10px;
+        font-family: 'Inconsloata',monospace;
+        vertical-align: bottom;
+        border-bottom: 0.5pt solid;
+        margin-bottom: 10pt;
+        }
+    @bottom-left {
+      content: "Maname Fonts Project";
+      font-size: 10px;
+      font-family: 'Inconsloata',monospace;
+      vertical-align: bottom;
+      margin-bottom: 1cm;
+
+        }
+}
+
+
+@page:right {
+    margin-left: 2cm;
+    margin-right: 1cm;
+    padding-left: 1.5cm;
+    @top-right{
+      font-size: 10px;
+      font-family: 'Inconsloata',monospace;
+      vertical-align: bottom;
+      border-bottom: 0.5pt solid;
+      margin-bottom: 10pt;
+      content: counter(page);
+      }
+    @bottom-right {
+      content: "Maname Fonts Project";
+      font-size: 10px;
+      font-family: 'Inconsloata',monospace;
+      vertical-align: bottom;
+      margin-bottom: 1cm;
+      }
+}
+
+@page:first {
+    margin: 1cm 1cm;
+    color: green;
+    background: white;
+}
+
+.page-break	{ display: block; page-break-before: always; }
+
+
+/*specfics*/
+
+h1{
+  font-size: 20px;
+}

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinPh.virama" format="2">
-	<advance width="625"/>
-	<outline>
-		<component base="sinPha"/>
-		<component base="sinVirama" xOffset="547" yOffset="20"/>
-	</outline>
-</glyph>

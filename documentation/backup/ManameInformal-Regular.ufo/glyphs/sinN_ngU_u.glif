@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinNngUu" format="2">
-	<advance width="849"/>
-	<outline>
-		<component base="sinNnga"/>
-		<component base="sinMatraUu.alt1" xOffset="570"/>
-	</outline>
-</glyph>
