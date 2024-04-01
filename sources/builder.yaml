@@ -1,0 +1,8 @@
+sources:
+  - Maname-Regular.ufo
+outputDir: "../fonts"
+buildStatic: true
+buildVariable: false
+buildTTF: true
+buildOTF: true
+buildWebfont: true
