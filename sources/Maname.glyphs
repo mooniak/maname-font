@@ -1,5 +1,5 @@
 {
-.appVersion = "3151";
+.appVersion = "3246";
 .formatVersion = 3;
 DisplayStrings = (
 "adhesion
@@ -19,7 +19,7 @@ ARROWROOT BARLEY CHERVIL DUMPLING ENDIVE FLAXSEED GARBANZO HIJIKI ISHTU JICAMA K
 "/sinKa.reph/sinKha.reph/sinGa.reph/sinGha.reph/sinNga.reph/sinNnga.reph/sinCa.reph/sinCha.reph/sinJa.reph/sinJha.reph/sinNya.reph/sinJnya.reph/sinNyja.reph/sinTta.reph/sinTtha.reph/sinDda.reph/sinDdha.reph/sinNna.reph/sinNndda.reph/sinTa.reph/sinTha.reph/sinDa.reph/sinDha.reph/sinNa.reph/sinNda.reph/sinPa.reph/sinPha.reph/sinBa.reph/sinBha.reph/sinMa.reph/sinMba.reph/sinYa.reph/sinLa.reph/sinVa.reph/sinSha.reph/sinSsa.reph/sinSa.reph/sinHa.reph/sinLla.reph/sinFa.reph/sinKSsa.reph/sinKVa.reph/sinTVa.reph/sinTTha.reph/sinNDa.reph/sinNDha.reph/sinNVa.reph/sinNTha.reph/sinGDha.reph/sinDVa.reph/sinDDha.reph/sinTtTtha.reph/sinYansaya.reph/sinYansaya_Reph_MatraAa",
 "/sinCha.reph",
 "/sinRAe/sinRAae",
-"/sinRUu_period"
+"¢"
 );
 customParameters = (
 {
@@ -45362,7 +45362,7 @@ unicode = 70;
 },
 {
 glyphname = G;
-lastChange = "2024-04-01 07:38:10 +0000";
+lastChange = "2024-04-05 09:28:11 +0000";
 layers = (
 {
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
@@ -45422,22 +45422,21 @@ nodes = (
 (548,82,l),
 (551,201,ls),
 (552,247,o),
-(584,254,o),
-(604,254,cs),
-(617,254,l),
-(609,300,l),
-(573,298,o),
-(526,296,o),
-(487,296,cs),
-(454,296,o),
-(421,297,o),
-(382,300,c),
-(387,251,l),
-(440,251,o),
-(464,236,o),
-(464,203,cs),
-(464,148,o),
-(454,35,l)
+(574,254,o),
+(594,254,cs),
+(607,254,l),
+(599,300,l),
+(563,298,o),
+(516,296,o),
+(477,296,cs),
+(444,296,o),
+(411,297,o),
+(372,300,c),
+(377,251,l),
+(430,251,o),
+(454,236,o),
+(454,203,c),
+(444,35,l)
 );
 }
 );
@@ -65253,7 +65252,7 @@ unicode = 8470;
 },
 {
 glyphname = cent;
-lastChange = "2024-04-01 07:38:10 +0000";
+lastChange = "2024-04-05 09:28:37 +0000";
 layers = (
 {
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
@@ -65310,7 +65309,6 @@ nodes = (
 (288,507,o),
 (290,594,c),
 (229,585,l),
-(233,473,o),
 (220,-39,l)
 );
 }
@@ -71957,6 +71955,15 @@ type = descender;
 );
 properties = (
 {
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2015—2023 The Maname Project Authors <See at https://github.com/mooniak/maname-font/>";
+}
+);
+},
+{
 key = designers;
 values = (
 {
@@ -71964,6 +71971,19 @@ language = dflt;
 value = "Pathum Egodawatta";
 }
 );
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = licenseURL;
+value = "http://scripts.sil.org/OFL";
 },
 {
 key = manufacturers;
@@ -71979,15 +71999,6 @@ key = manufacturerURL;
 value = mooniak.com;
 },
 {
-key = licenses;
-values = (
-{
-language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-}
-);
-},
-{
 key = sampleTexts;
 values = (
 {
@@ -71995,19 +72006,6 @@ language = dflt;
 value = "දැරණියගලට ඉහල අහසේ දඟකරන වලාපෙළ මවනා සොඳුරු දසුන රාත්‍රිය උදාවත් සමග ක්‍ෂයවේ.";
 }
 );
-},
-{
-key = copyrights;
-values = (
-{
-language = dflt;
-value = "Copyright 2015—2023 The Maname Project Authors <See at https://github.com/mooniak/maname-font/>";
-}
-);
-},
-{
-key = licenseURL;
-value = "http://scripts.sil.org/OFL";
 },
 {
 key = vendorID;
