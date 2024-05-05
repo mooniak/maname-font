@@ -1,0 +1,3 @@
+[submodule "documentation/matd-project"]
+	path = documentation/matd-project
+	url = https://github.com/pathumego/matd-project

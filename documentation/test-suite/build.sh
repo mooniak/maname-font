@@ -11,5 +11,5 @@ weasyprint specimen_gen.html specimen.pdf
 weasyprint status_gen.html -r 600 status.png
 
 # mv ./specimen.pdf ../../documentation/
-mv ./daily-status.png ../../documentation/
+# mv ./daily-status.png ../../documentation/
 rm -rf status_gen.html specimen_gen.html data.html
