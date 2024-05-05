@@ -1,5 +1,5 @@
 {
-.appVersion = "3246";
+.appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
 "adhesion
@@ -19,7 +19,13 @@ ARROWROOT BARLEY CHERVIL DUMPLING ENDIVE FLAXSEED GARBANZO HIJIKI ISHTU JICAMA K
 "/sinKa.reph/sinKha.reph/sinGa.reph/sinGha.reph/sinNga.reph/sinNnga.reph/sinCa.reph/sinCha.reph/sinJa.reph/sinJha.reph/sinNya.reph/sinJnya.reph/sinNyja.reph/sinTta.reph/sinTtha.reph/sinDda.reph/sinDdha.reph/sinNna.reph/sinNndda.reph/sinTa.reph/sinTha.reph/sinDa.reph/sinDha.reph/sinNa.reph/sinNda.reph/sinPa.reph/sinPha.reph/sinBa.reph/sinBha.reph/sinMa.reph/sinMba.reph/sinYa.reph/sinLa.reph/sinVa.reph/sinSha.reph/sinSsa.reph/sinSa.reph/sinHa.reph/sinLla.reph/sinFa.reph/sinKSsa.reph/sinKVa.reph/sinTVa.reph/sinTTha.reph/sinNDa.reph/sinNDha.reph/sinNVa.reph/sinNTha.reph/sinGDha.reph/sinDVa.reph/sinDDha.reph/sinTtTtha.reph/sinYansaya.reph/sinYansaya_Reph_MatraAa",
 "/sinCha.reph",
 "/sinRAe/sinRAae",
-"¢"
+"¢",
+"ıi",
+"̇i",
+"˙̇",
+"˙̇",
+a,
+OQg
 );
 customParameters = (
 {
@@ -722,7 +728,7 @@ value = (
 );
 }
 );
-date = "2016-12-26 08:57:20 +0000";
+date = "2024-05-05 19:56:57 +0000";
 familyName = Maname;
 featurePrefixes = (
 {
@@ -47841,7 +47847,7 @@ unicode = 222;
 },
 {
 glyphname = Q;
-lastChange = "2024-04-01 07:38:10 +0000";
+lastChange = "2024-05-05 12:49:53 +0000";
 layers = (
 {
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
@@ -71433,6 +71439,7 @@ X = -11.38005;
 Y = -22.7601;
 Z = -11.38005;
 comma = -11.38005;
+g = 190;
 period = -22.7601;
 };
 R = {
@@ -72345,6 +72352,6 @@ zerowidthnonjoiner = uni200C;
 };
 UFOFormat = 3;
 };
-versionMajor = 0;
-versionMinor = 21;
+versionMajor = 1;
+versionMinor = 0;
 }
