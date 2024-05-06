@@ -25,7 +25,10 @@ ARROWROOT BARLEY CHERVIL DUMPLING ENDIVE FLAXSEED GARBANZO HIJIKI ISHTU JICAMA K
 "˙̇",
 "˙̇",
 a,
-OQg
+OQg,
+"»",
+"«»‹›",
+"«»"
 );
 customParameters = (
 {
@@ -63353,7 +63356,7 @@ unicode = 8217;
 },
 {
 glyphname = guillemetleft;
-lastChange = "2021-05-27 11:41:46 +0000";
+lastChange = "2024-05-06 03:12:58 +0000";
 layers = (
 {
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
@@ -63363,16 +63366,20 @@ ref = guilsinglleft;
 },
 {
 ref = guilsinglleft;
+},
+{
+pos = (200,0);
+ref = guilsinglleft;
 }
 );
-width = 462;
+width = 492;
 }
 );
 unicode = 171;
 },
 {
 glyphname = guillemetright;
-lastChange = "2021-05-27 11:41:46 +0000";
+lastChange = "2024-05-06 03:13:03 +0000";
 layers = (
 {
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
@@ -63381,6 +63388,10 @@ shapes = (
 ref = guilsinglright;
 },
 {
+ref = guilsinglright;
+},
+{
+pos = (200,0);
 ref = guilsinglright;
 }
 );
