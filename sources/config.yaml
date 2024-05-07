@@ -1,8 +1,7 @@
 sources:
   - Maname.glyphs
-outputDir: "../fonts"
+familyName: Maname
 buildStatic: true
-buildVariable: false
 buildTTF: true
 buildOTF: true
 buildWebfont: true
