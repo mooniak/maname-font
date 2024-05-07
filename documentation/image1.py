@@ -18,13 +18,17 @@ import argparse
 WIDTH, HEIGHT, MARGIN, FRAMES = 2048, 2048, 128, 1
 FONT_PATH = "fonts/ttf/Maname-Regular.ttf"
 FONT_LICENSE = "OFL v1.1"
-AUXILIARY_FONT = "Inconsolata"
+AUXILIARY_FONT = "Helvetica"
 AUXILIARY_FONT_SIZE = 48
 
-BIG_TEXT = "AaBb අක"
+# Update BIG_TEXT for multiple lines
+
+BIG_TEXT_LINES = ["හරි?", "AbGg"]
 BIG_TEXT_FONT_SIZE = 730
 BIG_TEXT_SIDE_MARGIN = MARGIN * 1
-BIG_TEXT_BOTTOM_MARGIN = MARGIN * 2
+BIG_TEXT_BOTTOM_MARGIN = MARGIN * 3
+
+
 
 GRID_VIEW = False # Toggle this for a grid overlay
 
@@ -90,11 +94,10 @@ def draw_main_text():
     stroke(None)
     font(FONT_PATH)
     fontSize(BIG_TEXT_FONT_SIZE)
-    # Adjust this line to center main text manually.
-    # TODO: This should be done automatically when drawbot-skia
-    # has support for textBox() and FormattedString
-    #text(BIG_TEXT, ((WIDTH / 2) - MARGIN * 4.75, (HEIGHT / 2) - MARGIN * 2.5))
-    text(BIG_TEXT, (BIG_TEXT_SIDE_MARGIN, BIG_TEXT_BOTTOM_MARGIN))
+    y = BIG_TEXT_BOTTOM_MARGIN
+    for line in BIG_TEXT_LINES:
+        text(line, (BIG_TEXT_SIDE_MARGIN, y))
+        y += BIG_TEXT_FONT_SIZE * 1.2  # Adjust the line spacing as needed
 
 
 # Divider lines
