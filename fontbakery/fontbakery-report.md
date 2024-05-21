@@ -38,8 +38,26 @@ These won't break the CI job for now, but will become effective after some time 
 
 
 
-<details><summary>[12] Maname-Regular.ttf</summary>
+<details><summary>[13] Maname-Regular.ttf</summary>
 <div>
+<details>
+    <summary>🔥 <b>FAIL</b> Checking OS/2 usWinAscent & usWinDescent. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
+    <div>
+
+
+
+
+
+
+
+* 🔥 **FAIL** <p>OS/2.usWinDescent value should be equal or greater than 342, but got 334 instead</p>
+ [code: descent]
+
+
+
+</div>
+</details>
+
 <details>
     <summary>⚠️ <b>WARN</b> Check glyphs in mark glyph class are non-spacing. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.gdef.html#"></a></summary>
     <div>
@@ -327,6 +345,26 @@ sinVirama (U+0DCA)</p>
 
 - sinOnelith
 
+- sinPf.virama
+
+- sinPfI
+
+- sinPfIi
+
+- sinPfR.virama
+
+- sinPfRI
+
+- sinPfRIi
+
+- sinPfRa
+
+- sinPfU
+
+- sinPfUu
+
+- sinPfa
+
 - sinPha.reph
 
 - sinRU_period
@@ -421,25 +459,11 @@ sinVirama (U+0DCA)</p>
 
 * sinFI: L&lt;&lt;470.0,447.0&gt;--&lt;470.0,447.0&gt;&gt; -&gt; L&lt;&lt;470.0,447.0&gt;--&lt;471.0,447.0&gt;&gt;
 
-* sinJny.virama: L&lt;&lt;723.0,492.0&gt;--&lt;725.0,492.0&gt;&gt; -&gt; L&lt;&lt;725.0,492.0&gt;--&lt;730.0,492.0&gt;&gt;
+* sinJny.virama: L&lt;&lt;730.0,492.0&gt;--&lt;730.0,492.0&gt;&gt; -&gt; L&lt;&lt;730.0,492.0&gt;--&lt;733.0,492.0&gt;&gt;
 
-* sinJny.virama: L&lt;&lt;725.0,492.0&gt;--&lt;730.0,492.0&gt;&gt; -&gt; L&lt;&lt;730.0,492.0&gt;--&lt;730.0,492.0&gt;&gt;
+* sinJnya (U+0DA5): L&lt;&lt;730.0,492.0&gt;--&lt;730.0,492.0&gt;&gt; -&gt; L&lt;&lt;730.0,492.0&gt;--&lt;733.0,492.0&gt;&gt;
 
-* sinJnyI: L&lt;&lt;723.0,492.0&gt;--&lt;725.0,492.0&gt;&gt; -&gt; L&lt;&lt;725.0,492.0&gt;--&lt;730.0,492.0&gt;&gt;
-
-* sinJnyI: L&lt;&lt;725.0,492.0&gt;--&lt;730.0,492.0&gt;&gt; -&gt; L&lt;&lt;730.0,492.0&gt;--&lt;730.0,492.0&gt;&gt;
-
-* sinJnyIi: L&lt;&lt;723.0,492.0&gt;--&lt;725.0,492.0&gt;&gt; -&gt; L&lt;&lt;725.0,492.0&gt;--&lt;730.0,492.0&gt;&gt;
-
-* sinJnyIi: L&lt;&lt;725.0,492.0&gt;--&lt;730.0,492.0&gt;&gt; -&gt; L&lt;&lt;730.0,492.0&gt;--&lt;730.0,492.0&gt;&gt;
-
-* sinJnya (U+0DA5): L&lt;&lt;723.0,492.0&gt;--&lt;725.0,492.0&gt;&gt; -&gt; L&lt;&lt;725.0,492.0&gt;--&lt;730.0,492.0&gt;&gt;
-
-* sinJnya (U+0DA5): L&lt;&lt;725.0,492.0&gt;--&lt;730.0,492.0&gt;&gt; -&gt; L&lt;&lt;730.0,492.0&gt;--&lt;730.0,492.0&gt;&gt;
-
-* sinJnya.reph: L&lt;&lt;723.0,492.0&gt;--&lt;725.0,492.0&gt;&gt; -&gt; L&lt;&lt;725.0,492.0&gt;--&lt;730.0,492.0&gt;&gt;
-
-* sinJnya.reph: L&lt;&lt;725.0,492.0&gt;--&lt;730.0,492.0&gt;&gt; -&gt; L&lt;&lt;730.0,492.0&gt;--&lt;730.0,492.0&gt;&gt;
+* sinJnya.reph: L&lt;&lt;730.0,492.0&gt;--&lt;730.0,492.0&gt;&gt; -&gt; L&lt;&lt;730.0,492.0&gt;--&lt;733.0,492.0&gt;&gt;
 
 * sinKUu: L&lt;&lt;599.0,83.0&gt;--&lt;600.0,83.0&gt;&gt; -&gt; L&lt;&lt;600.0,83.0&gt;--&lt;600.0,83.0&gt;&gt;
 
@@ -459,17 +483,37 @@ sinVirama (U+0DCA)</p>
 
 * sinNnI: L&lt;&lt;365.0,490.0&gt;--&lt;366.0,490.0&gt;&gt; -&gt; L&lt;&lt;366.0,490.0&gt;--&lt;367.0,490.0&gt;&gt;
 
-* sinNy.virama: L&lt;&lt;840.0,492.0&gt;--&lt;843.0,492.0&gt;&gt; -&gt; L&lt;&lt;843.0,492.0&gt;--&lt;845.0,492.0&gt;&gt;
+* sinNy.virama: L&lt;&lt;864.0,492.0&gt;--&lt;864.0,492.0&gt;&gt; -&gt; L&lt;&lt;864.0,492.0&gt;--&lt;864.0,492.0&gt;&gt;
 
-* sinNyI: L&lt;&lt;840.0,492.0&gt;--&lt;843.0,492.0&gt;&gt; -&gt; L&lt;&lt;843.0,492.0&gt;--&lt;845.0,492.0&gt;&gt;
+* sinNy.virama: L&lt;&lt;864.0,492.0&gt;--&lt;864.0,492.0&gt;&gt; -&gt; L&lt;&lt;864.0,492.0&gt;--&lt;866.0,492.0&gt;&gt;
 
-* sinNyIi: L&lt;&lt;840.0,492.0&gt;--&lt;843.0,492.0&gt;&gt; -&gt; L&lt;&lt;843.0,492.0&gt;--&lt;845.0,492.0&gt;&gt;
+* sinNy.virama: L&lt;&lt;864.0,492.0&gt;--&lt;866.0,492.0&gt;&gt; -&gt; L&lt;&lt;866.0,492.0&gt;--&lt;866.0,492.0&gt;&gt;
+
+* sinNyI: L&lt;&lt;864.0,492.0&gt;--&lt;864.0,492.0&gt;&gt; -&gt; L&lt;&lt;864.0,492.0&gt;--&lt;864.0,492.0&gt;&gt;
+
+* sinNyI: L&lt;&lt;864.0,492.0&gt;--&lt;864.0,492.0&gt;&gt; -&gt; L&lt;&lt;864.0,492.0&gt;--&lt;866.0,492.0&gt;&gt;
+
+* sinNyI: L&lt;&lt;864.0,492.0&gt;--&lt;866.0,492.0&gt;&gt; -&gt; L&lt;&lt;866.0,492.0&gt;--&lt;866.0,492.0&gt;&gt;
+
+* sinNyI: L&lt;&lt;866.0,492.0&gt;--&lt;866.0,492.0&gt;&gt; -&gt; L&lt;&lt;866.0,492.0&gt;--&lt;867.0,492.0&gt;&gt;
+
+* sinNyIi: L&lt;&lt;864.0,492.0&gt;--&lt;864.0,492.0&gt;&gt; -&gt; L&lt;&lt;864.0,492.0&gt;--&lt;864.0,492.0&gt;&gt;
+
+* sinNyIi: L&lt;&lt;864.0,492.0&gt;--&lt;864.0,492.0&gt;&gt; -&gt; L&lt;&lt;864.0,492.0&gt;--&lt;866.0,492.0&gt;&gt;
 
 * sinNyUu: L&lt;&lt;845.0,490.0&gt;--&lt;845.0,490.0&gt;&gt; -&gt; L&lt;&lt;845.0,490.0&gt;--&lt;845.0,490.0&gt;&gt;
 
-* sinNya (U+0DA4): L&lt;&lt;840.0,492.0&gt;--&lt;843.0,492.0&gt;&gt; -&gt; L&lt;&lt;843.0,492.0&gt;--&lt;845.0,492.0&gt;&gt;
+* sinNya (U+0DA4): L&lt;&lt;864.0,492.0&gt;--&lt;864.0,492.0&gt;&gt; -&gt; L&lt;&lt;864.0,492.0&gt;--&lt;864.0,492.0&gt;&gt;
 
-* sinNya.reph: L&lt;&lt;840.0,492.0&gt;--&lt;843.0,492.0&gt;&gt; -&gt; L&lt;&lt;843.0,492.0&gt;--&lt;845.0,492.0&gt;&gt;
+* sinNya (U+0DA4): L&lt;&lt;864.0,492.0&gt;--&lt;864.0,492.0&gt;&gt; -&gt; L&lt;&lt;864.0,492.0&gt;--&lt;866.0,492.0&gt;&gt;
+
+* sinNya (U+0DA4): L&lt;&lt;864.0,492.0&gt;--&lt;866.0,492.0&gt;&gt; -&gt; L&lt;&lt;866.0,492.0&gt;--&lt;866.0,492.0&gt;&gt;
+
+* sinNya.reph: L&lt;&lt;864.0,492.0&gt;--&lt;864.0,492.0&gt;&gt; -&gt; L&lt;&lt;864.0,492.0&gt;--&lt;864.0,492.0&gt;&gt;
+
+* sinNya.reph: L&lt;&lt;864.0,492.0&gt;--&lt;864.0,492.0&gt;&gt; -&gt; L&lt;&lt;864.0,492.0&gt;--&lt;866.0,492.0&gt;&gt;
+
+* sinNya.reph: L&lt;&lt;864.0,492.0&gt;--&lt;866.0,492.0&gt;&gt; -&gt; L&lt;&lt;866.0,492.0&gt;--&lt;866.0,492.0&gt;&gt;
 
 * sinPR.virama: L&lt;&lt;604.0,203.0&gt;--&lt;604.0,202.0&gt;&gt; -&gt; L&lt;&lt;604.0,202.0&gt;--&lt;604.0,201.0&gt;&gt;
 
@@ -553,23 +597,21 @@ sinVirama (U+0DCA)</p>
 
 * sinB.virama: L&lt;&lt;222.0,696.0&gt;--&lt;256.0,705.0&gt;&gt;/B&lt;&lt;256.0,705.0&gt;-&lt;236.0,702.0&gt;-&lt;229.0,699.0&gt;&gt; = 6.2957143604074775
 
-* sinBR.virama: B&lt;&lt;629.5,66.0&gt;-&lt;638.0,114.0&gt;-&lt;642.0,158.0&gt;&gt;/B&lt;&lt;642.0,158.0&gt;-&lt;619.0,87.0&gt;-&lt;569.5,39.0&gt;&gt; = 12.754974085179038
-
 * sinBR.virama: L&lt;&lt;222.0,696.0&gt;--&lt;256.0,705.0&gt;&gt;/B&lt;&lt;256.0,705.0&gt;-&lt;236.0,702.0&gt;-&lt;229.0,699.0&gt;&gt; = 6.2957143604074775
 
-* sinBRa: B&lt;&lt;629.5,66.0&gt;-&lt;638.0,114.0&gt;-&lt;642.0,158.0&gt;&gt;/B&lt;&lt;642.0,158.0&gt;-&lt;619.0,87.0&gt;-&lt;569.5,39.0&gt;&gt; = 12.754974085179038
+* sinBRIi: B&lt;&lt;588.0,21.0&gt;-&lt;603.0,68.0&gt;-&lt;610.0,115.0&gt;&gt;/B&lt;&lt;610.0,115.0&gt;-&lt;589.0,63.0&gt;-&lt;549.0,27.0&gt;&gt; = 13.51998528416231
 
 * sinBh.virama: B&lt;&lt;129.5,244.5&gt;-&lt;151.0,277.0&gt;-&lt;187.0,295.0&gt;&gt;/B&lt;&lt;187.0,295.0&gt;-&lt;132.0,283.0&gt;-&lt;91.5,264.0&gt;&gt; = 14.257035359650056
 
-* sinBhI: B&lt;&lt;629.5,244.5&gt;-&lt;651.0,277.0&gt;-&lt;687.0,295.0&gt;&gt;/B&lt;&lt;687.0,295.0&gt;-&lt;632.0,283.0&gt;-&lt;591.5,264.0&gt;&gt; = 14.257035359650056
+* sinBhI: B&lt;&lt;129.5,244.5&gt;-&lt;151.0,277.0&gt;-&lt;187.0,295.0&gt;&gt;/B&lt;&lt;187.0,295.0&gt;-&lt;132.0,283.0&gt;-&lt;91.5,264.0&gt;&gt; = 14.257035359650056
 
 * sinBhIi: B&lt;&lt;129.5,244.5&gt;-&lt;151.0,277.0&gt;-&lt;187.0,295.0&gt;&gt;/B&lt;&lt;187.0,295.0&gt;-&lt;132.0,283.0&gt;-&lt;91.5,264.0&gt;&gt; = 14.257035359650056
 
 * sinBhR.virama: B&lt;&lt;129.5,244.5&gt;-&lt;151.0,277.0&gt;-&lt;187.0,295.0&gt;&gt;/B&lt;&lt;187.0,295.0&gt;-&lt;132.0,283.0&gt;-&lt;91.5,264.0&gt;&gt; = 14.257035359650056
 
-* sinBhRI: B&lt;&lt;991.5,244.5&gt;-&lt;1013.0,277.0&gt;-&lt;1049.0,295.0&gt;&gt;/B&lt;&lt;1049.0,295.0&gt;-&lt;994.0,283.0&gt;-&lt;953.5,264.0&gt;&gt; = 14.257035359650056
+* sinBhRI: B&lt;&lt;129.5,244.5&gt;-&lt;151.0,277.0&gt;-&lt;187.0,295.0&gt;&gt;/B&lt;&lt;187.0,295.0&gt;-&lt;132.0,283.0&gt;-&lt;91.5,264.0&gt;&gt; = 14.257035359650056
 
-* sinBhRIi: B&lt;&lt;491.5,244.5&gt;-&lt;513.0,277.0&gt;-&lt;549.0,295.0&gt;&gt;/B&lt;&lt;549.0,295.0&gt;-&lt;494.0,283.0&gt;-&lt;453.5,264.0&gt;&gt; = 14.257035359650056
+* sinBhRIi: B&lt;&lt;129.5,244.5&gt;-&lt;151.0,277.0&gt;-&lt;187.0,295.0&gt;&gt;/B&lt;&lt;187.0,295.0&gt;-&lt;132.0,283.0&gt;-&lt;91.5,264.0&gt;&gt; = 14.257035359650056
 
 * sinBhRa: B&lt;&lt;129.5,244.5&gt;-&lt;151.0,277.0&gt;-&lt;187.0,295.0&gt;&gt;/B&lt;&lt;187.0,295.0&gt;-&lt;132.0,283.0&gt;-&lt;91.5,264.0&gt;&gt; = 14.257035359650056
 
@@ -613,15 +655,11 @@ sinVirama (U+0DCA)</p>
 
 * sinDdR.virama: B&lt;&lt;119.5,233.5&gt;-&lt;146.0,271.0&gt;-&lt;190.0,291.0&gt;&gt;/B&lt;&lt;190.0,291.0&gt;-&lt;136.0,276.0&gt;-&lt;102.5,257.5&gt;&gt; = 8.919843783662243
 
-* sinDdR.virama: B&lt;&lt;634.5,15.5&gt;-&lt;649.0,71.0&gt;-&lt;655.0,124.0&gt;&gt;/B&lt;&lt;655.0,124.0&gt;-&lt;633.0,63.0&gt;-&lt;591.0,22.0&gt;&gt; = 13.373313471499712
-
-* sinDdRI: B&lt;&lt;176.5,226.5&gt;-&lt;204.0,244.0&gt;-&lt;236.0,255.0&gt;&gt;/B&lt;&lt;236.0,255.0&gt;-&lt;174.0,240.0&gt;-&lt;128.0,219.5&gt;&gt; = 5.369865291827683
+* sinDdRI: B&lt;&lt;155.5,226.5&gt;-&lt;183.0,244.0&gt;-&lt;215.0,255.0&gt;&gt;/B&lt;&lt;215.0,255.0&gt;-&lt;153.0,240.0&gt;-&lt;107.0,219.5&gt;&gt; = 5.369865291827683
 
 * sinDdRIi: B&lt;&lt;198.0,232.0&gt;-&lt;238.0,249.0&gt;-&lt;277.0,260.0&gt;&gt;/B&lt;&lt;277.0,260.0&gt;-&lt;200.0,247.0&gt;-&lt;142.5,222.5&gt;&gt; = 6.168228939920462
 
 * sinDdRa: B&lt;&lt;119.5,233.5&gt;-&lt;146.0,271.0&gt;-&lt;190.0,291.0&gt;&gt;/B&lt;&lt;190.0,291.0&gt;-&lt;136.0,276.0&gt;-&lt;102.5,257.5&gt;&gt; = 8.919843783662243
-
-* sinDdRa: B&lt;&lt;634.5,15.5&gt;-&lt;649.0,71.0&gt;-&lt;655.0,124.0&gt;&gt;/B&lt;&lt;655.0,124.0&gt;-&lt;633.0,63.0&gt;-&lt;591.0,22.0&gt;&gt; = 13.373313471499712
 
 * sinDdU: B&lt;&lt;98.5,233.5&gt;-&lt;125.0,271.0&gt;-&lt;169.0,291.0&gt;&gt;/B&lt;&lt;169.0,291.0&gt;-&lt;115.0,276.0&gt;-&lt;81.5,257.5&gt;&gt; = 8.919843783662243
 
@@ -651,21 +689,15 @@ sinVirama (U+0DCA)</p>
 
 * sinDhR.virama: B&lt;&lt;290.0,666.0&gt;-&lt;287.0,666.0&gt;-&lt;283.0,664.0&gt;&gt;/L&lt;&lt;283.0,664.0&gt;--&lt;290.0,666.0&gt;&gt; = 10.619655276155106
 
-* sinDhR.virama: B&lt;&lt;573.5,11.5&gt;-&lt;588.0,66.0&gt;-&lt;594.0,118.0&gt;&gt;/B&lt;&lt;594.0,118.0&gt;-&lt;575.0,60.0&gt;-&lt;537.0,22.0&gt;&gt; = 11.556137500419315
+* sinDhR.virama: B&lt;&lt;571.0,20.5&gt;-&lt;586.0,67.0&gt;-&lt;593.0,114.0&gt;&gt;/B&lt;&lt;593.0,114.0&gt;-&lt;573.0,58.0&gt;-&lt;535.5,21.0&gt;&gt; = 11.182679425038485
 
 * sinDhR.virama: L&lt;&lt;216.0,648.0&gt;--&lt;240.0,654.0&gt;&gt;/B&lt;&lt;240.0,654.0&gt;-&lt;226.0,652.0&gt;-&lt;221.0,650.0&gt;&gt; = 5.906141113770497
 
-* sinDhRI: B&lt;&lt;578.0,0.0&gt;-&lt;593.0,52.0&gt;-&lt;600.0,103.0&gt;&gt;/B&lt;&lt;600.0,103.0&gt;-&lt;581.0,51.0&gt;-&lt;542.0,17.5&gt;&gt; = 12.256232317771861
-
-* sinDhRIi: B&lt;&lt;562.5,10.0&gt;-&lt;577.0,64.0&gt;-&lt;583.0,117.0&gt;&gt;/B&lt;&lt;583.0,117.0&gt;-&lt;563.0,58.0&gt;-&lt;523.0,21.0&gt;&gt; = 12.266971466553883
-
-* sinDhRa: B&lt;&lt;595.0,16.5&gt;-&lt;609.0,72.0&gt;-&lt;615.0,125.0&gt;&gt;/B&lt;&lt;615.0,125.0&gt;-&lt;596.0,63.0&gt;-&lt;558.5,23.5&gt;&gt; = 10.578951416906921
+* sinDhRIi: B&lt;&lt;559.5,19.5&gt;-&lt;575.0,66.0&gt;-&lt;582.0,112.0&gt;&gt;/B&lt;&lt;582.0,112.0&gt;-&lt;561.0,55.0&gt;-&lt;521.5,19.5&gt;&gt; = 11.572317640053319
 
 * sinE (U+0D91): B&lt;&lt;134.5,210.0&gt;-&lt;165.0,243.0&gt;-&lt;211.0,262.0&gt;&gt;/B&lt;&lt;211.0,262.0&gt;-&lt;147.0,248.0&gt;-&lt;99.5,227.0&gt;&gt; = 10.103666086968094
 
 * sinEe (U+0D92): B&lt;&lt;114.5,210.0&gt;-&lt;145.0,243.0&gt;-&lt;191.0,262.0&gt;&gt;/B&lt;&lt;191.0,262.0&gt;-&lt;127.0,248.0&gt;-&lt;79.5,227.0&gt;&gt; = 10.103666086968094
-
-* sinFUu: L&lt;&lt;660.0,-173.0&gt;--&lt;674.0,183.0&gt;&gt;/B&lt;&lt;674.0,183.0&gt;-&lt;664.0,135.0&gt;-&lt;638.5,90.5&gt;&gt; = 9.516244586618052
 
 * sinI (U+0D89): B&lt;&lt;509.5,26.0&gt;-&lt;445.0,-22.0&gt;-&lt;333.0,-51.0&gt;&gt;/B&lt;&lt;333.0,-51.0&gt;-&lt;346.0,-50.0&gt;-&lt;360.0,-48.5&gt;&gt; = 10.11799460385907
 
@@ -687,8 +719,6 @@ sinVirama (U+0DCA)</p>
 
 * sinJhR.virama: L&lt;&lt;693.0,648.0&gt;--&lt;717.0,654.0&gt;&gt;/B&lt;&lt;717.0,654.0&gt;-&lt;703.0,652.0&gt;-&lt;698.0,650.0&gt;&gt; = 5.906141113770497
 
-* sinJhRI: B&lt;&lt;1043.0,6.5&gt;-&lt;1058.0,60.0&gt;-&lt;1065.0,112.0&gt;&gt;/B&lt;&lt;1065.0,112.0&gt;-&lt;1046.0,57.0&gt;-&lt;1006.0,20.5&gt;&gt; = 11.390900248314123
-
 * sinJhRI: B&lt;&lt;258.0,286.0&gt;-&lt;240.0,272.0&gt;-&lt;228.0,261.0&gt;&gt;/B&lt;&lt;228.0,261.0&gt;-&lt;265.0,288.0&gt;-&lt;316.0,311.0&gt;&gt; = 6.391106228521098
 
 * sinJhRIi: B&lt;&lt;258.0,286.0&gt;-&lt;240.0,272.0&gt;-&lt;228.0,261.0&gt;&gt;/B&lt;&lt;228.0,261.0&gt;-&lt;265.0,288.0&gt;-&lt;316.0,311.0&gt;&gt; = 6.391106228521098
@@ -709,9 +739,9 @@ sinVirama (U+0DCA)</p>
 
 * sinKIi: B&lt;&lt;261.5,281.0&gt;-&lt;246.0,269.0&gt;-&lt;237.0,260.0&gt;&gt;/B&lt;&lt;237.0,260.0&gt;-&lt;261.0,278.0&gt;-&lt;292.0,294.5&gt;&gt; = 8.13010235415596
 
-* sinKRI: B&lt;&lt;623.5,281.0&gt;-&lt;608.0,269.0&gt;-&lt;599.0,260.0&gt;&gt;/B&lt;&lt;599.0,260.0&gt;-&lt;623.0,278.0&gt;-&lt;654.0,294.5&gt;&gt; = 8.13010235415596
+* sinKRI: B&lt;&lt;261.5,281.0&gt;-&lt;246.0,269.0&gt;-&lt;237.0,260.0&gt;&gt;/B&lt;&lt;237.0,260.0&gt;-&lt;261.0,278.0&gt;-&lt;292.0,294.5&gt;&gt; = 8.13010235415596
 
-* sinKRIi: B&lt;&lt;623.5,281.0&gt;-&lt;608.0,269.0&gt;-&lt;599.0,260.0&gt;&gt;/B&lt;&lt;599.0,260.0&gt;-&lt;623.0,278.0&gt;-&lt;654.0,294.5&gt;&gt; = 8.13010235415596
+* sinKRIi: B&lt;&lt;261.5,281.0&gt;-&lt;246.0,269.0&gt;-&lt;237.0,260.0&gt;&gt;/B&lt;&lt;237.0,260.0&gt;-&lt;261.0,278.0&gt;-&lt;292.0,294.5&gt;&gt; = 8.13010235415596
 
 * sinKRa: B&lt;&lt;261.5,281.0&gt;-&lt;246.0,269.0&gt;-&lt;237.0,260.0&gt;&gt;/B&lt;&lt;237.0,260.0&gt;-&lt;261.0,278.0&gt;-&lt;292.0,294.5&gt;&gt; = 8.13010235415596
 
@@ -851,8 +881,6 @@ sinVirama (U+0DCA)</p>
 
 * sinNUu: B&lt;&lt;258.0,264.0&gt;-&lt;248.0,253.0&gt;-&lt;239.0,242.0&gt;&gt;/B&lt;&lt;239.0,242.0&gt;-&lt;278.0,272.0&gt;-&lt;319.0,294.0&gt;&gt; = 13.142001108672124
 
-* sinNUu: L&lt;&lt;785.0,-173.0&gt;--&lt;799.0,173.0&gt;&gt;/B&lt;&lt;799.0,173.0&gt;-&lt;784.0,121.0&gt;-&lt;750.5,77.0&gt;&gt; = 13.773753962980852
-
 * sinNV.virama: B&lt;&lt;285.0,251.0&gt;-&lt;275.0,240.0&gt;-&lt;265.0,228.0&gt;&gt;/B&lt;&lt;265.0,228.0&gt;-&lt;305.0,258.0&gt;-&lt;345.5,280.0&gt;&gt; = 13.324531261890755
 
 * sinNV.virama: B&lt;&lt;712.0,719.0&gt;-&lt;709.0,719.0&gt;-&lt;706.0,718.0&gt;&gt;/L&lt;&lt;706.0,718.0&gt;--&lt;712.0,719.0&gt;&gt; = 8.972626614896358
@@ -927,37 +955,23 @@ sinVirama (U+0DCA)</p>
 
 * sinRU: B&lt;&lt;206.5,424.5&gt;-&lt;168.0,399.0&gt;-&lt;143.0,375.0&gt;&gt;/B&lt;&lt;143.0,375.0&gt;-&lt;170.0,400.0&gt;-&lt;216.0,424.0&gt;&gt; = 1.0334588338579653
 
-* sinRU_comma: B&lt;&lt;206.5,424.5&gt;-&lt;168.0,399.0&gt;-&lt;143.0,375.0&gt;&gt;/B&lt;&lt;143.0,375.0&gt;-&lt;170.0,400.0&gt;-&lt;216.0,424.0&gt;&gt; = 1.0334588338579653
-
-* sinRU_period: B&lt;&lt;206.5,424.5&gt;-&lt;168.0,399.0&gt;-&lt;143.0,375.0&gt;&gt;/B&lt;&lt;143.0,375.0&gt;-&lt;170.0,400.0&gt;-&lt;216.0,424.0&gt;&gt; = 1.0334588338579653
-
 * sinRUu: B&lt;&lt;216.5,424.5&gt;-&lt;178.0,399.0&gt;-&lt;153.0,375.0&gt;&gt;/B&lt;&lt;153.0,375.0&gt;-&lt;180.0,400.0&gt;-&lt;226.0,424.0&gt;&gt; = 1.0334588338579653
-
-* sinRUu_comma: B&lt;&lt;216.5,424.5&gt;-&lt;178.0,399.0&gt;-&lt;153.0,375.0&gt;&gt;/B&lt;&lt;153.0,375.0&gt;-&lt;180.0,400.0&gt;-&lt;226.0,424.0&gt;&gt; = 1.0334588338579653
-
-* sinRUu_period: B&lt;&lt;216.5,424.5&gt;-&lt;178.0,399.0&gt;-&lt;153.0,375.0&gt;&gt;/B&lt;&lt;153.0,375.0&gt;-&lt;180.0,400.0&gt;-&lt;226.0,424.0&gt;&gt; = 1.0334588338579653
 
 * sinRa (U+0DBB): B&lt;&lt;206.5,424.5&gt;-&lt;168.0,399.0&gt;-&lt;143.0,375.0&gt;&gt;/B&lt;&lt;143.0,375.0&gt;-&lt;170.0,400.0&gt;-&lt;216.0,424.0&gt;&gt; = 1.0334588338579653
 
-* sinS.virama: B&lt;&lt;111.5,246.5&gt;-&lt;147.0,284.0&gt;-&lt;197.0,305.0&gt;&gt;/B&lt;&lt;197.0,305.0&gt;-&lt;134.0,294.0&gt;-&lt;88.0,273.5&gt;&gt; = 12.878222517507803
+* sinS.virama: B&lt;&lt;108.5,246.5&gt;-&lt;144.0,284.0&gt;-&lt;194.0,305.0&gt;&gt;/B&lt;&lt;194.0,305.0&gt;-&lt;131.0,294.0&gt;-&lt;85.0,273.5&gt;&gt; = 12.878222517507803
 
 * sinSI: B&lt;&lt;108.5,246.5&gt;-&lt;144.0,284.0&gt;-&lt;194.0,305.0&gt;&gt;/B&lt;&lt;194.0,305.0&gt;-&lt;131.0,294.0&gt;-&lt;85.0,273.5&gt;&gt; = 12.878222517507803
 
 * sinSIi: B&lt;&lt;108.5,246.5&gt;-&lt;144.0,284.0&gt;-&lt;194.0,305.0&gt;&gt;/B&lt;&lt;194.0,305.0&gt;-&lt;131.0,294.0&gt;-&lt;85.0,273.5&gt;&gt; = 12.878222517507803
 
-* sinSR.virama: B&lt;&lt;111.5,246.5&gt;-&lt;147.0,284.0&gt;-&lt;197.0,305.0&gt;&gt;/B&lt;&lt;197.0,305.0&gt;-&lt;134.0,294.0&gt;-&lt;88.0,273.5&gt;&gt; = 12.878222517507803
+* sinSR.virama: B&lt;&lt;108.5,246.5&gt;-&lt;144.0,284.0&gt;-&lt;194.0,305.0&gt;&gt;/B&lt;&lt;194.0,305.0&gt;-&lt;131.0,294.0&gt;-&lt;85.0,273.5&gt;&gt; = 12.878222517507803
 
 * sinSRI: B&lt;&lt;108.5,246.5&gt;-&lt;144.0,284.0&gt;-&lt;194.0,305.0&gt;&gt;/B&lt;&lt;194.0,305.0&gt;-&lt;131.0,294.0&gt;-&lt;85.0,273.5&gt;&gt; = 12.878222517507803
 
-* sinSRI: B&lt;&lt;654.5,10.5&gt;-&lt;668.0,64.0&gt;-&lt;674.0,123.0&gt;&gt;/B&lt;&lt;674.0,123.0&gt;-&lt;659.0,67.0&gt;-&lt;616.0,27.5&gt;&gt; = 9.188352223644328
-
 * sinSRIi: B&lt;&lt;108.5,246.5&gt;-&lt;144.0,284.0&gt;-&lt;194.0,305.0&gt;&gt;/B&lt;&lt;194.0,305.0&gt;-&lt;131.0,294.0&gt;-&lt;85.0,273.5&gt;&gt; = 12.878222517507803
 
-* sinSRIi: B&lt;&lt;654.5,10.5&gt;-&lt;668.0,64.0&gt;-&lt;674.0,123.0&gt;&gt;/B&lt;&lt;674.0,123.0&gt;-&lt;659.0,67.0&gt;-&lt;616.0,27.5&gt;&gt; = 9.188352223644328
-
 * sinSRa: B&lt;&lt;108.5,246.5&gt;-&lt;144.0,284.0&gt;-&lt;194.0,305.0&gt;&gt;/B&lt;&lt;194.0,305.0&gt;-&lt;131.0,294.0&gt;-&lt;85.0,273.5&gt;&gt; = 12.878222517507803
-
-* sinSRa: B&lt;&lt;654.5,10.5&gt;-&lt;668.0,64.0&gt;-&lt;674.0,123.0&gt;&gt;/B&lt;&lt;674.0,123.0&gt;-&lt;659.0,67.0&gt;-&lt;616.0,27.5&gt;&gt; = 9.188352223644328
 
 * sinSU: B&lt;&lt;108.5,246.5&gt;-&lt;144.0,284.0&gt;-&lt;194.0,305.0&gt;&gt;/B&lt;&lt;194.0,305.0&gt;-&lt;131.0,294.0&gt;-&lt;85.0,273.5&gt;&gt; = 12.878222517507803
 
@@ -1119,8 +1133,6 @@ sinVirama (U+0DCA)</p>
 
 * sinTa.reph: B&lt;&lt;62.0,62.0&gt;-&lt;60.0,59.0&gt;-&lt;59.0,55.0&gt;&gt;/B&lt;&lt;59.0,55.0&gt;-&lt;59.0,56.0&gt;-&lt;51.0,60.5&gt;&gt; = 14.036243467926484
 
-* sinTtRI: B&lt;&lt;573.5,128.5&gt;-&lt;579.0,183.0&gt;-&lt;582.0,224.0&gt;&gt;/B&lt;&lt;582.0,224.0&gt;-&lt;571.0,150.0&gt;-&lt;533.0,93.5&gt;&gt; = 4.270111552058981
-
 * sinV.virama: B&lt;&lt;275.0,719.0&gt;-&lt;272.0,719.0&gt;-&lt;269.0,718.0&gt;&gt;/L&lt;&lt;269.0,718.0&gt;--&lt;275.0,719.0&gt;&gt; = 8.972626614896358
 
 * sinV.virama: L&lt;&lt;201.0,702.0&gt;--&lt;229.0,708.0&gt;&gt;/B&lt;&lt;229.0,708.0&gt;-&lt;213.0,706.0&gt;-&lt;207.0,704.0&gt;&gt; = 4.969740728110216
@@ -1150,8 +1162,6 @@ sinVirama (U+0DCA)</p>
 * uni0DE9 (U+0DE9): B&lt;&lt;580.5,122.0&gt;-&lt;577.0,104.0&gt;-&lt;576.0,98.0&gt;&gt;/L&lt;&lt;576.0,98.0&gt;--&lt;576.0,99.0&gt;&gt; = 9.462322208025613
 
 * uni0DE9 (U+0DE9): L&lt;&lt;576.0,98.0&gt;--&lt;576.0,99.0&gt;&gt;/B&lt;&lt;576.0,99.0&gt;-&lt;569.0,67.0&gt;-&lt;559.5,38.5&gt;&gt; = 12.33908727832618
-
-* uni0DEE (U+0DEE): B&lt;&lt;206.5,424.5&gt;-&lt;168.0,399.0&gt;-&lt;143.0,375.0&gt;&gt;/B&lt;&lt;143.0,375.0&gt;-&lt;170.0,400.0&gt;-&lt;216.0,424.0&gt;&gt; = 1.0334588338579653
 
 * uni0DEF (U+0DEF): B&lt;&lt;580.5,122.0&gt;-&lt;577.0,104.0&gt;-&lt;576.0,98.0&gt;&gt;/L&lt;&lt;576.0,98.0&gt;--&lt;576.0,99.0&gt;&gt; = 9.462322208025613
 
@@ -1217,11 +1227,11 @@ sinVirama (U+0DCA)</p>
 
 * oe (U+0153): L&lt;&lt;786.0,225.0&gt;--&lt;481.0,223.0&gt;&gt;
 
-* sinBUu: L&lt;&lt;703.0,203.0&gt;--&lt;705.0,-218.0&gt;&gt;
+* sinBUu: L&lt;&lt;633.0,134.0&gt;--&lt;635.0,-238.0&gt;&gt;
 
 * sinBhR.virama: L&lt;&lt;581.0,471.0&gt;--&lt;583.0,713.0&gt;&gt;
 
-* sinDDhUu: L&lt;&lt;833.0,203.0&gt;--&lt;835.0,-218.0&gt;&gt;
+* sinDDhUu: L&lt;&lt;763.0,110.0&gt;--&lt;765.0,-238.0&gt;&gt;
 
 * sinDU: L&lt;&lt;454.0,-240.0&gt;--&lt;196.0,-242.0&gt;&gt;
 
@@ -1229,33 +1239,31 @@ sinVirama (U+0DCA)</p>
 
 * sinDVUu: L&lt;&lt;693.0,174.0&gt;--&lt;690.0,-211.0&gt;&gt;
 
-* sinDdUu: L&lt;&lt;720.0,203.0&gt;--&lt;722.0,-218.0&gt;&gt;
+* sinDdUu: L&lt;&lt;653.0,119.0&gt;--&lt;655.0,-238.0&gt;&gt;
 
-* sinDdhUu: L&lt;&lt;719.0,203.0&gt;--&lt;721.0,-218.0&gt;&gt;
+* sinDdhUu: L&lt;&lt;653.0,144.0&gt;--&lt;655.0,-238.0&gt;&gt;
 
-* sinDhUu: L&lt;&lt;680.0,203.0&gt;--&lt;682.0,-218.0&gt;&gt;
+* sinDhUu: L&lt;&lt;603.0,93.0&gt;--&lt;605.0,-238.0&gt;&gt;
 
-* sinF.virama.alt: L&lt;&lt;467.0,612.0&gt;--&lt;468.0,739.0&gt;&gt;
-
-* sinFRa.virama.alt: L&lt;&lt;468.0,612.0&gt;--&lt;469.0,739.0&gt;&gt;
+* sinFR.virama: L&lt;&lt;519.0,458.0&gt;--&lt;521.0,719.0&gt;&gt;
 
 * sinFUu.alt: L&lt;&lt;631.0,154.0&gt;--&lt;633.0,-190.0&gt;&gt;
 
-* sinFUu: L&lt;&lt;708.0,227.0&gt;--&lt;711.0,-217.0&gt;&gt;
+* sinFUu: L&lt;&lt;673.0,177.0&gt;--&lt;676.0,-248.0&gt;&gt;
 
 * sinGhR.virama: L&lt;&lt;567.0,486.0&gt;--&lt;569.0,719.0&gt;&gt;
 
-* sinGhUu: L&lt;&lt;734.0,203.0&gt;--&lt;736.0,-218.0&gt;&gt;
+* sinGhUu: L&lt;&lt;673.0,110.0&gt;--&lt;675.0,-248.0&gt;&gt;
 
-* sinJhUu: L&lt;&lt;1120.0,203.0&gt;--&lt;1122.0,-218.0&gt;&gt;
+* sinJhUu: L&lt;&lt;1063.0,120.0&gt;--&lt;1065.0,-238.0&gt;&gt;
 
-* sinKSsUu: L&lt;&lt;1146.0,203.0&gt;--&lt;1148.0,-218.0&gt;&gt;
+* sinKSsUu: L&lt;&lt;1100.0,144.0&gt;--&lt;1102.0,-238.0&gt;&gt;
 
 * sinKVU: L&lt;&lt;1051.0,179.0&gt;--&lt;1049.0,-215.0&gt;&gt;
 
 * sinKVUu: L&lt;&lt;1051.0,174.0&gt;--&lt;1048.0,-211.0&gt;&gt;
 
-* sinKhUu: L&lt;&lt;696.0,203.0&gt;--&lt;698.0,-218.0&gt;&gt;
+* sinKhUu: L&lt;&lt;640.0,225.0&gt;--&lt;642.0,-183.0&gt;&gt;
 
 * sinMU: L&lt;&lt;633.0,223.0&gt;--&lt;631.0,-212.0&gt;&gt;
 
@@ -1265,13 +1273,13 @@ sinVirama (U+0DCA)</p>
 
 * sinMatraUu.alt: L&lt;&lt;23.0,195.0&gt;--&lt;25.0,-209.0&gt;&gt;
 
-* sinMbUu: L&lt;&lt;734.0,203.0&gt;--&lt;736.0,-218.0&gt;&gt;
+* sinMbUu: L&lt;&lt;663.0,118.0&gt;--&lt;665.0,-238.0&gt;&gt;
 
 * sinNDU: L&lt;&lt;908.0,-240.0&gt;--&lt;650.0,-242.0&gt;&gt;
 
 * sinNDhUu: L&lt;&lt;24.0,151.0&gt;--&lt;26.0,-218.0&gt;&gt;
 
-* sinNUu: L&lt;&lt;833.0,227.0&gt;--&lt;836.0,-217.0&gt;&gt;
+* sinNUu: L&lt;&lt;783.0,131.0&gt;--&lt;786.0,-248.0&gt;&gt;
 
 * sinNVU: L&lt;&lt;1027.0,179.0&gt;--&lt;1025.0,-215.0&gt;&gt;
 
@@ -1281,17 +1289,23 @@ sinVirama (U+0DCA)</p>
 
 * sinNnUu: L&lt;&lt;924.0,256.0&gt;--&lt;927.0,-188.0&gt;&gt;
 
-* sinNnddUu: L&lt;&lt;851.0,203.0&gt;--&lt;853.0,-218.0&gt;&gt;
+* sinNnddUu: L&lt;&lt;784.0,119.0&gt;--&lt;786.0,-238.0&gt;&gt;
 
 * sinNyU: L&lt;&lt;1035.0,-240.0&gt;--&lt;777.0,-242.0&gt;&gt;
 
-* sinPUu: L&lt;&lt;649.0,203.0&gt;--&lt;651.0,-218.0&gt;&gt;
+* sinPUu: L&lt;&lt;593.0,144.0&gt;--&lt;595.0,-248.0&gt;&gt;
+
+* sinPf.virama: L&lt;&lt;467.0,612.0&gt;--&lt;468.0,739.0&gt;&gt;
+
+* sinPfR.virama: L&lt;&lt;468.0,612.0&gt;--&lt;469.0,739.0&gt;&gt;
+
+* sinPfUu: L&lt;&lt;631.0,154.0&gt;--&lt;633.0,-190.0&gt;&gt;
 
 * sinR.virama: L&lt;&lt;54.0,300.0&gt;--&lt;57.0,764.0&gt;&gt;
 
-* sinSUu: L&lt;&lt;734.0,203.0&gt;--&lt;736.0,-218.0&gt;&gt;
+* sinSUu: L&lt;&lt;671.0,115.0&gt;--&lt;673.0,-238.0&gt;&gt;
 
-* sinSsUu: L&lt;&lt;24.0,203.0&gt;--&lt;26.0,-218.0&gt;&gt;
+* sinSsUu: L&lt;&lt;594.0,144.0&gt;--&lt;596.0,-238.0&gt;&gt;
 
 * sinTThUu: L&lt;&lt;1016.0,172.0&gt;--&lt;1013.0,-211.0&gt;&gt;
 
@@ -1354,8 +1368,8 @@ sinVirama (U+0DCA)</p>
 
 * ⚠️ **WARN** <p>The dot of soft dotted characters used in orthographies <em>must</em> disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌ ị̀ ị́ ị̂ ị̃ ị̄</p>
 <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: į̆ į̇ į̈ į̉ į̊ į̋ į̏ į̑ į̒ į̛̀ į̛́ į̛̂ į̛̃ į̛̄ į̛̆ į̛̇ į̛̈ į̛̉ į̛̊ į̛̋</p>
-<p>Your font fully covers the following languages that require the soft-dotted feature: Dutch (Latn, 31,709,104 speakers), Lithuanian (Latn, 2,357,094 speakers), Igbo (Latn, 27,823,640 speakers), Ekpeye (Latn, 226,000 speakers), Ebira (Latn, 2,200,000 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Yala (Latn, 200,000 speakers), South Central Banda (Latn, 244,000 speakers), Makaa (Latn, 221,000 speakers), Southern Kisi (Latn, 360,000 speakers), Lugbara (Latn, 2,200,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Mundani (Latn, 34,000 speakers), Ma’di (Latn, 584,000 speakers), Dan (Latn, 1,099,244 speakers), Cicipu (Latn, 44,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Ngbaka (Latn, 1,020,000 speakers), Nateni (Latn, 100,000 speakers), Dii (Latn, 71,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Fur (Latn, 1,230,163 speakers), Mango (Latn, 77,000 speakers), Bafut (Latn, 158,146 speakers), Nzakara (Latn, 50,000 speakers), Gulay (Latn, 250,478 speakers), Aghem (Latn, 38,843 speakers), Koonzime (Latn, 40,000 speakers), Mfumte (Latn, 79,000 speakers), Vute (Latn, 21,000 speakers), Sar (Latn, 500,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Ejagham (Latn, 120,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Navajo (Latn, 166,319 speakers), Zapotec (Latn, 490,000 speakers), Kom (Latn, 360,685 speakers), Basaa (Latn, 332,940 speakers), Avokaya (Latn, 100,000 speakers).</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Ebira (Latn, 2,200,000 speakers), Dutch (Latn, 31,709,104 speakers), Ekpeye (Latn, 226,000 speakers), Igbo (Latn, 27,823,640 speakers), Lithuanian (Latn, 2,357,094 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Navajo (Latn, 166,319 speakers), Avokaya (Latn, 100,000 speakers), Mundani (Latn, 34,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Ngbaka (Latn, 1,020,000 speakers), Makaa (Latn, 221,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Gulay (Latn, 250,478 speakers), Zapotec (Latn, 490,000 speakers), Koonzime (Latn, 40,000 speakers), South Central Banda (Latn, 244,000 speakers), Ejagham (Latn, 120,000 speakers), Dan (Latn, 1,099,244 speakers), Kom (Latn, 360,685 speakers), Sar (Latn, 500,000 speakers), Lugbara (Latn, 2,200,000 speakers), Nateni (Latn, 100,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Nzakara (Latn, 50,000 speakers), Bafut (Latn, 158,146 speakers), Mfumte (Latn, 79,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Dii (Latn, 71,000 speakers), Southern Kisi (Latn, 360,000 speakers), Mango (Latn, 77,000 speakers), Vute (Latn, 21,000 speakers), Aghem (Latn, 38,843 speakers), Cicipu (Latn, 44,000 speakers), Fur (Latn, 1,230,163 speakers), Yala (Latn, 200,000 speakers), Basaa (Latn, 332,940 speakers), Ma’di (Latn, 584,000 speakers).</p>
  [code: soft-dotted]
 
 
@@ -1379,29 +1393,29 @@ be served. You can solve this by either manually adding additional
 subset declarations to METADATA.pb, or by editing the glyphset
 definitions.</p>
 <ul>
-<li>U+02C7 CARON: try adding one of: canadian-aboriginal, yi, tifinagh</li>
+<li>U+02C7 CARON: try adding one of: yi, canadian-aboriginal, tifinagh</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
-<li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
-<li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
-<li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, tifinagh, math, coptic</li>
-<li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, malayalam, coptic, math, tifinagh, canadian-aboriginal, old-permic, syriac</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, tifinagh, coptic, cherokee</li>
+<li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, syriac, tifinagh, math, old-permic, malayalam, coptic</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
-<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
+<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+0311 COMBINING INVERTED BREVE: try adding coptic</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: not included in any glyphset definition</li>
 <li>U+031B COMBINING HORN: not included in any glyphset definition</li>
-<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, syriac</li>
+<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: syriac, cherokee</li>
 <li>U+0326 COMBINING COMMA BELOW: not included in any glyphset definition</li>
 <li>U+0327 COMBINING CEDILLA: not included in any glyphset definition</li>
 <li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, caucasian-albanian, tifinagh, gothic, syriac</li>
-<li>U+2219 BULLET OPERATOR: try adding one of: symbols, yi, tai-tham, math</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, caucasian-albanian, tifinagh, cherokee</li>
+<li>U+2219 BULLET OPERATOR: try adding one of: math, tai-tham, yi, symbols</li>
 <li>U+FB01 LATIN SMALL LIGATURE FI: not included in any glyphset definition</li>
 <li>U+FB02 LATIN SMALL LIGATURE FL: not included in any glyphset definition</li>
 </ul>
@@ -1488,7 +1502,7 @@ definitions.</p>
 
 | 💥 ERROR | ☠ FATAL | 🔥 FAIL | ⚠️ WARN | ⏩ SKIP | ℹ️ INFO | ✅ PASS | 🔎 DEBUG | 
 | ---|---|---|---|---|---|---|---|
-| 0 | 0 | 0 | 13 | 115 | 7 | 116 | 0 | 
+| 0 | 0 | 1 | 13 | 115 | 7 | 115 | 0 | 
 | 0% | 0% | 0% | 5% | 46% | 3% | 46% | 0% | 
 
 
