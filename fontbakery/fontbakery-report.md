@@ -689,11 +689,7 @@ sinVirama (U+0DCA)</p>
 
 * sinDhR.virama: B&lt;&lt;290.0,666.0&gt;-&lt;287.0,666.0&gt;-&lt;283.0,664.0&gt;&gt;/L&lt;&lt;283.0,664.0&gt;--&lt;290.0,666.0&gt;&gt; = 10.619655276155106
 
-* sinDhR.virama: B&lt;&lt;571.0,20.5&gt;-&lt;586.0,67.0&gt;-&lt;593.0,114.0&gt;&gt;/B&lt;&lt;593.0,114.0&gt;-&lt;573.0,58.0&gt;-&lt;535.5,21.0&gt;&gt; = 11.182679425038485
-
 * sinDhR.virama: L&lt;&lt;216.0,648.0&gt;--&lt;240.0,654.0&gt;&gt;/B&lt;&lt;240.0,654.0&gt;-&lt;226.0,652.0&gt;-&lt;221.0,650.0&gt;&gt; = 5.906141113770497
-
-* sinDhRIi: B&lt;&lt;559.5,19.5&gt;-&lt;575.0,66.0&gt;-&lt;582.0,112.0&gt;&gt;/B&lt;&lt;582.0,112.0&gt;-&lt;561.0,55.0&gt;-&lt;521.5,19.5&gt;&gt; = 11.572317640053319
 
 * sinE (U+0D91): B&lt;&lt;134.5,210.0&gt;-&lt;165.0,243.0&gt;-&lt;211.0,262.0&gt;&gt;/B&lt;&lt;211.0,262.0&gt;-&lt;147.0,248.0&gt;-&lt;99.5,227.0&gt;&gt; = 10.103666086968094
 
@@ -733,17 +729,17 @@ sinVirama (U+0DCA)</p>
 
 * sinJha.reph: B&lt;&lt;284.0,306.0&gt;-&lt;244.0,277.0&gt;-&lt;228.0,261.0&gt;&gt;/B&lt;&lt;228.0,261.0&gt;-&lt;265.0,288.0&gt;-&lt;316.0,311.0&gt;&gt; = 8.880659150520234
 
-* sinK.virama: B&lt;&lt;261.5,281.0&gt;-&lt;246.0,269.0&gt;-&lt;237.0,260.0&gt;&gt;/B&lt;&lt;237.0,260.0&gt;-&lt;261.0,278.0&gt;-&lt;292.0,294.5&gt;&gt; = 8.13010235415596
+* sinK.virama: B&lt;&lt;281.5,281.0&gt;-&lt;266.0,269.0&gt;-&lt;257.0,260.0&gt;&gt;/B&lt;&lt;257.0,260.0&gt;-&lt;281.0,278.0&gt;-&lt;312.0,294.5&gt;&gt; = 8.13010235415596
 
-* sinKI: B&lt;&lt;261.5,281.0&gt;-&lt;246.0,269.0&gt;-&lt;237.0,260.0&gt;&gt;/B&lt;&lt;237.0,260.0&gt;-&lt;261.0,278.0&gt;-&lt;292.0,294.5&gt;&gt; = 8.13010235415596
+* sinKI: B&lt;&lt;281.5,281.0&gt;-&lt;266.0,269.0&gt;-&lt;257.0,260.0&gt;&gt;/B&lt;&lt;257.0,260.0&gt;-&lt;281.0,278.0&gt;-&lt;312.0,294.5&gt;&gt; = 8.13010235415596
 
-* sinKIi: B&lt;&lt;261.5,281.0&gt;-&lt;246.0,269.0&gt;-&lt;237.0,260.0&gt;&gt;/B&lt;&lt;237.0,260.0&gt;-&lt;261.0,278.0&gt;-&lt;292.0,294.5&gt;&gt; = 8.13010235415596
+* sinKIi: B&lt;&lt;281.5,281.0&gt;-&lt;266.0,269.0&gt;-&lt;257.0,260.0&gt;&gt;/B&lt;&lt;257.0,260.0&gt;-&lt;281.0,278.0&gt;-&lt;312.0,294.5&gt;&gt; = 8.13010235415596
 
-* sinKRI: B&lt;&lt;261.5,281.0&gt;-&lt;246.0,269.0&gt;-&lt;237.0,260.0&gt;&gt;/B&lt;&lt;237.0,260.0&gt;-&lt;261.0,278.0&gt;-&lt;292.0,294.5&gt;&gt; = 8.13010235415596
+* sinKRI: B&lt;&lt;281.5,281.0&gt;-&lt;266.0,269.0&gt;-&lt;257.0,260.0&gt;&gt;/B&lt;&lt;257.0,260.0&gt;-&lt;281.0,278.0&gt;-&lt;312.0,294.5&gt;&gt; = 8.13010235415596
 
-* sinKRIi: B&lt;&lt;261.5,281.0&gt;-&lt;246.0,269.0&gt;-&lt;237.0,260.0&gt;&gt;/B&lt;&lt;237.0,260.0&gt;-&lt;261.0,278.0&gt;-&lt;292.0,294.5&gt;&gt; = 8.13010235415596
+* sinKRIi: B&lt;&lt;281.5,281.0&gt;-&lt;266.0,269.0&gt;-&lt;257.0,260.0&gt;&gt;/B&lt;&lt;257.0,260.0&gt;-&lt;281.0,278.0&gt;-&lt;312.0,294.5&gt;&gt; = 8.13010235415596
 
-* sinKRa: B&lt;&lt;261.5,281.0&gt;-&lt;246.0,269.0&gt;-&lt;237.0,260.0&gt;&gt;/B&lt;&lt;237.0,260.0&gt;-&lt;261.0,278.0&gt;-&lt;292.0,294.5&gt;&gt; = 8.13010235415596
+* sinKRa: B&lt;&lt;281.5,281.0&gt;-&lt;266.0,269.0&gt;-&lt;257.0,260.0&gt;&gt;/B&lt;&lt;257.0,260.0&gt;-&lt;281.0,278.0&gt;-&lt;312.0,294.5&gt;&gt; = 8.13010235415596
 
 * sinKSs.virama: B&lt;&lt;281.0,286.0&gt;-&lt;263.0,272.0&gt;-&lt;252.0,261.0&gt;&gt;/B&lt;&lt;252.0,261.0&gt;-&lt;289.0,288.0&gt;-&lt;339.5,311.0&gt;&gt; = 8.880659150520193
 
@@ -783,9 +779,9 @@ sinVirama (U+0DCA)</p>
 
 * sinKVa: B&lt;&lt;267.0,286.0&gt;-&lt;249.0,272.0&gt;-&lt;238.0,261.0&gt;&gt;/B&lt;&lt;238.0,261.0&gt;-&lt;275.0,288.0&gt;-&lt;325.5,311.0&gt;&gt; = 8.880659150520193
 
-* sinKa (U+0D9A): B&lt;&lt;261.5,281.0&gt;-&lt;246.0,269.0&gt;-&lt;237.0,260.0&gt;&gt;/B&lt;&lt;237.0,260.0&gt;-&lt;261.0,278.0&gt;-&lt;292.0,294.5&gt;&gt; = 8.13010235415596
+* sinKa (U+0D9A): B&lt;&lt;281.5,281.0&gt;-&lt;266.0,269.0&gt;-&lt;257.0,260.0&gt;&gt;/B&lt;&lt;257.0,260.0&gt;-&lt;281.0,278.0&gt;-&lt;312.0,294.5&gt;&gt; = 8.13010235415596
 
-* sinKa.reph: B&lt;&lt;261.5,281.0&gt;-&lt;246.0,269.0&gt;-&lt;237.0,260.0&gt;&gt;/B&lt;&lt;237.0,260.0&gt;-&lt;261.0,278.0&gt;-&lt;292.0,294.5&gt;&gt; = 8.13010235415596
+* sinKa.reph: B&lt;&lt;281.5,281.0&gt;-&lt;266.0,269.0&gt;-&lt;257.0,260.0&gt;&gt;/B&lt;&lt;257.0,260.0&gt;-&lt;281.0,278.0&gt;-&lt;312.0,294.5&gt;&gt; = 8.13010235415596
 
 * sinKh.virama: B&lt;&lt;176.5,652.5&gt;-&lt;186.0,674.0&gt;-&lt;194.0,688.0&gt;&gt;/L&lt;&lt;194.0,688.0&gt;--&lt;189.0,681.0&gt;&gt; = 5.792796495032087
 
@@ -850,8 +846,6 @@ sinVirama (U+0DCA)</p>
 * sinNDhU: B&lt;&lt;260.0,265.5&gt;-&lt;250.0,254.0&gt;-&lt;239.0,242.0&gt;&gt;/B&lt;&lt;239.0,242.0&gt;-&lt;279.0,272.0&gt;-&lt;320.0,294.0&gt;&gt; = 10.61965527615514
 
 * sinNDhUu: B&lt;&lt;255.0,265.5&gt;-&lt;245.0,254.0&gt;-&lt;234.0,242.0&gt;&gt;/B&lt;&lt;234.0,242.0&gt;-&lt;274.0,272.0&gt;-&lt;315.0,294.0&gt;&gt; = 10.61965527615514
-
-* sinNDhUu: B&lt;&lt;61.5,72.0&gt;-&lt;34.0,110.0&gt;-&lt;24.0,151.0&gt;&gt;/L&lt;&lt;24.0,151.0&gt;--&lt;26.0,-218.0&gt;&gt; = 13.396417814573885
 
 * sinNDha.reph: B&lt;&lt;255.0,265.5&gt;-&lt;245.0,254.0&gt;-&lt;234.0,242.0&gt;&gt;/B&lt;&lt;234.0,242.0&gt;-&lt;274.0,272.0&gt;-&lt;315.0,294.0&gt;&gt; = 10.61965527615514
 
@@ -959,31 +953,27 @@ sinVirama (U+0DCA)</p>
 
 * sinRa (U+0DBB): B&lt;&lt;206.5,424.5&gt;-&lt;168.0,399.0&gt;-&lt;143.0,375.0&gt;&gt;/B&lt;&lt;143.0,375.0&gt;-&lt;170.0,400.0&gt;-&lt;216.0,424.0&gt;&gt; = 1.0334588338579653
 
-* sinS.virama: B&lt;&lt;108.5,246.5&gt;-&lt;144.0,284.0&gt;-&lt;194.0,305.0&gt;&gt;/B&lt;&lt;194.0,305.0&gt;-&lt;131.0,294.0&gt;-&lt;85.0,273.5&gt;&gt; = 12.878222517507803
+* sinS.virama: B&lt;&lt;121.5,246.5&gt;-&lt;157.0,284.0&gt;-&lt;207.0,305.0&gt;&gt;/B&lt;&lt;207.0,305.0&gt;-&lt;144.0,294.0&gt;-&lt;98.0,273.5&gt;&gt; = 12.878222517507803
 
-* sinSI: B&lt;&lt;108.5,246.5&gt;-&lt;144.0,284.0&gt;-&lt;194.0,305.0&gt;&gt;/B&lt;&lt;194.0,305.0&gt;-&lt;131.0,294.0&gt;-&lt;85.0,273.5&gt;&gt; = 12.878222517507803
+* sinSI: B&lt;&lt;121.5,246.5&gt;-&lt;157.0,284.0&gt;-&lt;207.0,305.0&gt;&gt;/B&lt;&lt;207.0,305.0&gt;-&lt;144.0,294.0&gt;-&lt;98.0,273.5&gt;&gt; = 12.878222517507803
 
-* sinSIi: B&lt;&lt;108.5,246.5&gt;-&lt;144.0,284.0&gt;-&lt;194.0,305.0&gt;&gt;/B&lt;&lt;194.0,305.0&gt;-&lt;131.0,294.0&gt;-&lt;85.0,273.5&gt;&gt; = 12.878222517507803
+* sinSIi: B&lt;&lt;121.5,246.5&gt;-&lt;157.0,284.0&gt;-&lt;207.0,305.0&gt;&gt;/B&lt;&lt;207.0,305.0&gt;-&lt;144.0,294.0&gt;-&lt;98.0,273.5&gt;&gt; = 12.878222517507803
 
-* sinSR.virama: B&lt;&lt;108.5,246.5&gt;-&lt;144.0,284.0&gt;-&lt;194.0,305.0&gt;&gt;/B&lt;&lt;194.0,305.0&gt;-&lt;131.0,294.0&gt;-&lt;85.0,273.5&gt;&gt; = 12.878222517507803
+* sinSR.virama: B&lt;&lt;121.5,246.5&gt;-&lt;157.0,284.0&gt;-&lt;207.0,305.0&gt;&gt;/B&lt;&lt;207.0,305.0&gt;-&lt;144.0,294.0&gt;-&lt;98.0,273.5&gt;&gt; = 12.878222517507803
 
-* sinSRI: B&lt;&lt;108.5,246.5&gt;-&lt;144.0,284.0&gt;-&lt;194.0,305.0&gt;&gt;/B&lt;&lt;194.0,305.0&gt;-&lt;131.0,294.0&gt;-&lt;85.0,273.5&gt;&gt; = 12.878222517507803
+* sinSRI: B&lt;&lt;121.5,246.5&gt;-&lt;157.0,284.0&gt;-&lt;207.0,305.0&gt;&gt;/B&lt;&lt;207.0,305.0&gt;-&lt;144.0,294.0&gt;-&lt;98.0,273.5&gt;&gt; = 12.878222517507803
 
-* sinSRIi: B&lt;&lt;108.5,246.5&gt;-&lt;144.0,284.0&gt;-&lt;194.0,305.0&gt;&gt;/B&lt;&lt;194.0,305.0&gt;-&lt;131.0,294.0&gt;-&lt;85.0,273.5&gt;&gt; = 12.878222517507803
+* sinSRIi: B&lt;&lt;121.5,246.5&gt;-&lt;157.0,284.0&gt;-&lt;207.0,305.0&gt;&gt;/B&lt;&lt;207.0,305.0&gt;-&lt;144.0,294.0&gt;-&lt;98.0,273.5&gt;&gt; = 12.878222517507803
 
-* sinSRa: B&lt;&lt;108.5,246.5&gt;-&lt;144.0,284.0&gt;-&lt;194.0,305.0&gt;&gt;/B&lt;&lt;194.0,305.0&gt;-&lt;131.0,294.0&gt;-&lt;85.0,273.5&gt;&gt; = 12.878222517507803
+* sinSRa: B&lt;&lt;121.5,246.5&gt;-&lt;157.0,284.0&gt;-&lt;207.0,305.0&gt;&gt;/B&lt;&lt;207.0,305.0&gt;-&lt;144.0,294.0&gt;-&lt;98.0,273.5&gt;&gt; = 12.878222517507803
 
-* sinSU: B&lt;&lt;108.5,246.5&gt;-&lt;144.0,284.0&gt;-&lt;194.0,305.0&gt;&gt;/B&lt;&lt;194.0,305.0&gt;-&lt;131.0,294.0&gt;-&lt;85.0,273.5&gt;&gt; = 12.878222517507803
+* sinSU: B&lt;&lt;121.5,246.5&gt;-&lt;157.0,284.0&gt;-&lt;207.0,305.0&gt;&gt;/B&lt;&lt;207.0,305.0&gt;-&lt;144.0,294.0&gt;-&lt;98.0,273.5&gt;&gt; = 12.878222517507803
 
-* sinSUu: B&lt;&lt;108.5,246.5&gt;-&lt;144.0,284.0&gt;-&lt;194.0,305.0&gt;&gt;/B&lt;&lt;194.0,305.0&gt;-&lt;131.0,294.0&gt;-&lt;85.0,273.5&gt;&gt; = 12.878222517507803
+* sinSUu: B&lt;&lt;121.5,246.5&gt;-&lt;157.0,284.0&gt;-&lt;207.0,305.0&gt;&gt;/B&lt;&lt;207.0,305.0&gt;-&lt;144.0,294.0&gt;-&lt;98.0,273.5&gt;&gt; = 12.878222517507803
 
-* sinSa (U+0DC3): B&lt;&lt;108.5,246.5&gt;-&lt;144.0,284.0&gt;-&lt;194.0,305.0&gt;&gt;/B&lt;&lt;194.0,305.0&gt;-&lt;131.0,294.0&gt;-&lt;85.0,273.5&gt;&gt; = 12.878222517507803
+* sinSa (U+0DC3): B&lt;&lt;121.5,246.5&gt;-&lt;157.0,284.0&gt;-&lt;207.0,305.0&gt;&gt;/B&lt;&lt;207.0,305.0&gt;-&lt;144.0,294.0&gt;-&lt;98.0,273.5&gt;&gt; = 12.878222517507803
 
-* sinSa.reph: B&lt;&lt;108.5,246.5&gt;-&lt;144.0,284.0&gt;-&lt;194.0,305.0&gt;&gt;/B&lt;&lt;194.0,305.0&gt;-&lt;131.0,294.0&gt;-&lt;85.0,273.5&gt;&gt; = 12.878222517507803
-
-* sinShRIi: B&lt;&lt;722.5,399.5&gt;-&lt;750.0,357.0&gt;-&lt;756.0,301.0&gt;&gt;/L&lt;&lt;756.0,301.0&gt;--&lt;756.0,302.0&gt;&gt; = 6.115503566285384
-
-* sinShRIi: L&lt;&lt;756.0,301.0&gt;--&lt;756.0,302.0&gt;&gt;/B&lt;&lt;756.0,302.0&gt;-&lt;763.0,257.0&gt;-&lt;763.0,213.0&gt;&gt; = 8.84181456019167
+* sinSa.reph: B&lt;&lt;121.5,246.5&gt;-&lt;157.0,284.0&gt;-&lt;207.0,305.0&gt;&gt;/B&lt;&lt;207.0,305.0&gt;-&lt;144.0,294.0&gt;-&lt;98.0,273.5&gt;&gt; = 12.878222517507803
 
 * sinT.virama: B&lt;&lt;258.0,297.0&gt;-&lt;227.0,273.0&gt;-&lt;211.0,256.0&gt;&gt;/B&lt;&lt;211.0,256.0&gt;-&lt;219.0,263.0&gt;-&lt;223.0,265.5&gt;&gt; = 5.549779423218771
 
@@ -1237,7 +1227,7 @@ sinVirama (U+0DCA)</p>
 
 * sinDVU: L&lt;&lt;699.0,179.0&gt;--&lt;697.0,-215.0&gt;&gt;
 
-* sinDVUu: L&lt;&lt;693.0,174.0&gt;--&lt;690.0,-211.0&gt;&gt;
+* sinDVUu: L&lt;&lt;676.0,132.0&gt;--&lt;673.0,-255.0&gt;&gt;
 
 * sinDdUu: L&lt;&lt;653.0,119.0&gt;--&lt;655.0,-238.0&gt;&gt;
 
@@ -1261,7 +1251,7 @@ sinVirama (U+0DCA)</p>
 
 * sinKVU: L&lt;&lt;1051.0,179.0&gt;--&lt;1049.0,-215.0&gt;&gt;
 
-* sinKVUu: L&lt;&lt;1051.0,174.0&gt;--&lt;1048.0,-211.0&gt;&gt;
+* sinKVUu: L&lt;&lt;1034.0,132.0&gt;--&lt;1031.0,-255.0&gt;&gt;
 
 * sinKhUu: L&lt;&lt;640.0,225.0&gt;--&lt;642.0,-183.0&gt;&gt;
 
@@ -1277,13 +1267,13 @@ sinVirama (U+0DCA)</p>
 
 * sinNDU: L&lt;&lt;908.0,-240.0&gt;--&lt;650.0,-242.0&gt;&gt;
 
-* sinNDhUu: L&lt;&lt;24.0,151.0&gt;--&lt;26.0,-218.0&gt;&gt;
+* sinNDhUu: L&lt;&lt;1032.0,106.0&gt;--&lt;1034.0,-228.0&gt;&gt;
 
 * sinNUu: L&lt;&lt;783.0,131.0&gt;--&lt;786.0,-248.0&gt;&gt;
 
 * sinNVU: L&lt;&lt;1027.0,179.0&gt;--&lt;1025.0,-215.0&gt;&gt;
 
-* sinNVUu: L&lt;&lt;1023.0,174.0&gt;--&lt;1020.0,-211.0&gt;&gt;
+* sinNVUu: L&lt;&lt;1006.0,132.0&gt;--&lt;1003.0,-255.0&gt;&gt;
 
 * sinNdU: L&lt;&lt;547.0,-240.0&gt;--&lt;289.0,-242.0&gt;&gt;
 
@@ -1303,7 +1293,7 @@ sinVirama (U+0DCA)</p>
 
 * sinR.virama: L&lt;&lt;54.0,300.0&gt;--&lt;57.0,764.0&gt;&gt;
 
-* sinSUu: L&lt;&lt;671.0,115.0&gt;--&lt;673.0,-238.0&gt;&gt;
+* sinSUu: L&lt;&lt;684.0,115.0&gt;--&lt;686.0,-238.0&gt;&gt;
 
 * sinSsUu: L&lt;&lt;594.0,144.0&gt;--&lt;596.0,-238.0&gt;&gt;
 
@@ -1311,7 +1301,7 @@ sinVirama (U+0DCA)</p>
 
 * sinTVU: L&lt;&lt;1006.0,179.0&gt;--&lt;1004.0,-215.0&gt;&gt;
 
-* sinTVUu: L&lt;&lt;1031.0,174.0&gt;--&lt;1028.0,-211.0&gt;&gt;
+* sinTVUu: L&lt;&lt;1014.0,132.0&gt;--&lt;1011.0,-255.0&gt;&gt;
 
 * sinTtTthUu: L&lt;&lt;754.0,157.0&gt;--&lt;751.0,-213.0&gt;&gt;
 
@@ -1368,8 +1358,8 @@ sinVirama (U+0DCA)</p>
 
 * ⚠️ **WARN** <p>The dot of soft dotted characters used in orthographies <em>must</em> disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌ ị̀ ị́ ị̂ ị̃ ị̄</p>
 <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: į̆ į̇ į̈ į̉ į̊ į̋ į̏ į̑ į̒ į̛̀ į̛́ į̛̂ į̛̃ į̛̄ į̛̆ į̛̇ į̛̈ į̛̉ į̛̊ į̛̋</p>
-<p>Your font fully covers the following languages that require the soft-dotted feature: Ebira (Latn, 2,200,000 speakers), Dutch (Latn, 31,709,104 speakers), Ekpeye (Latn, 226,000 speakers), Igbo (Latn, 27,823,640 speakers), Lithuanian (Latn, 2,357,094 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Navajo (Latn, 166,319 speakers), Avokaya (Latn, 100,000 speakers), Mundani (Latn, 34,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Ngbaka (Latn, 1,020,000 speakers), Makaa (Latn, 221,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Gulay (Latn, 250,478 speakers), Zapotec (Latn, 490,000 speakers), Koonzime (Latn, 40,000 speakers), South Central Banda (Latn, 244,000 speakers), Ejagham (Latn, 120,000 speakers), Dan (Latn, 1,099,244 speakers), Kom (Latn, 360,685 speakers), Sar (Latn, 500,000 speakers), Lugbara (Latn, 2,200,000 speakers), Nateni (Latn, 100,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Nzakara (Latn, 50,000 speakers), Bafut (Latn, 158,146 speakers), Mfumte (Latn, 79,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Dii (Latn, 71,000 speakers), Southern Kisi (Latn, 360,000 speakers), Mango (Latn, 77,000 speakers), Vute (Latn, 21,000 speakers), Aghem (Latn, 38,843 speakers), Cicipu (Latn, 44,000 speakers), Fur (Latn, 1,230,163 speakers), Yala (Latn, 200,000 speakers), Basaa (Latn, 332,940 speakers), Ma’di (Latn, 584,000 speakers).</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Ekpeye (Latn, 226,000 speakers), Igbo (Latn, 27,823,640 speakers), Dutch (Latn, 31,709,104 speakers), Lithuanian (Latn, 2,357,094 speakers), Ebira (Latn, 2,200,000 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Bete-Bendi (Latn, 100,000 speakers), Aghem (Latn, 38,843 speakers), Zapotec (Latn, 490,000 speakers), Mango (Latn, 77,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Kom (Latn, 360,685 speakers), Dii (Latn, 71,000 speakers), Sar (Latn, 500,000 speakers), Lugbara (Latn, 2,200,000 speakers), Navajo (Latn, 166,319 speakers), Mundani (Latn, 34,000 speakers), Ma’di (Latn, 584,000 speakers), Koonzime (Latn, 40,000 speakers), Mfumte (Latn, 79,000 speakers), Cicipu (Latn, 44,000 speakers), Vute (Latn, 21,000 speakers), Avokaya (Latn, 100,000 speakers), Nzakara (Latn, 50,000 speakers), Makaa (Latn, 221,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Southern Kisi (Latn, 360,000 speakers), Gulay (Latn, 250,478 speakers), Dan (Latn, 1,099,244 speakers), Basaa (Latn, 332,940 speakers), South Central Banda (Latn, 244,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Ejagham (Latn, 120,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Fur (Latn, 1,230,163 speakers), Yala (Latn, 200,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Nateni (Latn, 100,000 speakers), Bafut (Latn, 158,146 speakers).</p>
  [code: soft-dotted]
 
 
@@ -1393,29 +1383,29 @@ be served. You can solve this by either manually adding additional
 subset declarations to METADATA.pb, or by editing the glyphset
 definitions.</p>
 <ul>
-<li>U+02C7 CARON: try adding one of: yi, canadian-aboriginal, tifinagh</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, canadian-aboriginal, yi</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
-<li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
-<li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
-<li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, tifinagh, coptic, cherokee</li>
-<li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, syriac, tifinagh, math, old-permic, malayalam, coptic</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, tifinagh, coptic</li>
+<li>U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: tifinagh, tai-le, old-permic, malayalam, canadian-aboriginal, syriac, coptic, math</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
-<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
+<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+0311 COMBINING INVERTED BREVE: try adding coptic</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: not included in any glyphset definition</li>
 <li>U+031B COMBINING HORN: not included in any glyphset definition</li>
-<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: syriac, cherokee</li>
+<li>U+0324 COMBINING DIAERESIS BELOW: try adding one of: cherokee, syriac</li>
 <li>U+0326 COMBINING COMMA BELOW: not included in any glyphset definition</li>
 <li>U+0327 COMBINING CEDILLA: not included in any glyphset definition</li>
 <li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: gothic, syriac, caucasian-albanian, tifinagh, cherokee</li>
-<li>U+2219 BULLET OPERATOR: try adding one of: math, tai-tham, yi, symbols</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: tifinagh, gothic, caucasian-albanian, syriac, cherokee</li>
+<li>U+2219 BULLET OPERATOR: try adding one of: symbols, math, yi, tai-tham</li>
 <li>U+FB01 LATIN SMALL LIGATURE FI: not included in any glyphset definition</li>
 <li>U+FB02 LATIN SMALL LIGATURE FL: not included in any glyphset definition</li>
 </ul>
