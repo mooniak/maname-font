@@ -38,27 +38,8 @@ These won't break the CI job for now, but will become effective after some time 
 
 
 
-<details><summary>[24] Maname-Regular.ttf</summary>
+<details><summary>[21] Maname-Regular.ttf</summary>
 <div>
-<details>
-    <summary>🔥 <b>FAIL</b> Check glyphs do not have duplicate components which have the same x,y coordinates. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/opentype.glyf.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* 🔥 **FAIL** <p>The following glyphs have duplicate components which have the same x,y coordinates:
-* {'glyph': 'trtight', 'component': 'guilsinglright', 'x': 0, 'y': 0}</p>
- [code: found-duplicates]
-
-
-
-</div>
-</details>
-
 <details>
     <summary>🔥 <b>FAIL</b> Check that legacy accents aren't used in composite glyphs. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/universal.html#"></a></summary>
     <div>
@@ -153,11 +134,11 @@ These won't break the CI job for now, but will become effective after some time 
 <tbody>
 <tr>
 <td align="left">nl_Latn (Dutch)</td>
-<td align="left">Shaper didn't attach acutecomb to J</td>
+<td align="left">Shaper didn't attach acutecomb to uni0237</td>
 </tr>
 <tr>
 <td align="left">^</td>
-<td align="left">Shaper didn't attach acutecomb to uni0237</td>
+<td align="left">Shaper didn't attach acutecomb to J</td>
 </tr>
 </tbody>
 </table>
@@ -179,7 +160,7 @@ These won't break the CI job for now, but will become effective after some time 
 
 
 * 🔥 **FAIL** <p>First line in license file is:</p>
-<p>&quot;copyright (c) 2015-2017, maname fonts project authors.&quot;</p>
+<p>&quot;copyright (c) 2015-2017, maname project authors.&quot;</p>
 <p>which does not match the expected format, similar to:</p>
 <p>&quot;Copyright 2022 The Familyname Project Authors (git url)&quot;</p>
  [code: bad-format]
@@ -202,77 +183,8 @@ These won't break the CI job for now, but will become effective after some time 
 * 🔥 **FAIL** <p>Name Table entry: Copyright notices should match a pattern similar to:</p>
 <p>&quot;Copyright 2019 The Familyname Project Authors (git url)&quot;</p>
 <p>But instead we have got:</p>
-<p>&quot;Copyright 2015—2023 The Maname Project Authors &lt;See at <a href="https://github.com/mooniak/maname-font/%3E">https://github.com/mooniak/maname-font/&gt;</a>&quot;</p>
+<p>&quot;Copyright 2015—2023 The Maname Project Authors ( <a href="https://github.com/mooniak/maname-font">https://github.com/mooniak/maname-font</a>)&quot;</p>
  [code: bad-notice-format]
-
-
-
-</div>
-</details>
-
-<details>
-    <summary>🔥 <b>FAIL</b> Check font names are correct <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.name.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* 🔥 **FAIL** <p>Font names are incorrect:</p>
-<table>
-<thead>
-<tr>
-<th align="left">nameID</th>
-<th align="left">current</th>
-<th align="left">expected</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">Family Name</td>
-<td align="left">Maname</td>
-<td align="left">Maname</td>
-</tr>
-<tr>
-<td align="left">Subfamily Name</td>
-<td align="left">Regular</td>
-<td align="left">Regular</td>
-</tr>
-<tr>
-<td align="left">Full Name</td>
-<td align="left">Maname Regular</td>
-<td align="left">Maname Regular</td>
-</tr>
-<tr>
-<td align="left">Postscript Name</td>
-<td align="left"><strong>Maname</strong></td>
-<td align="left"><strong>Maname-Regular</strong></td>
-</tr>
-</tbody>
-</table>
- [code: bad-names]
-
-
-
-</div>
-</details>
-
-<details>
-    <summary>🔥 <b>FAIL</b> Checking OS/2 fsType does not impose restrictions. <a href="https://fontbakery.readthedocs.io/en/stable/fontbakery/checks/googlefonts.os2.html#"></a></summary>
-    <div>
-
-
-
-
-
-
-
-* 🔥 **FAIL** <p>In this font fsType is set to 8 meaning that:
-The font may be embedded but must only be installed temporarily on other systems.</p>
-<p>No such DRM restrictions can be enabled on the Google Fonts collection, so the fsType field must be set to zero (Installable Embedding) instead.</p>
- [code: drm]
 
 
 
@@ -289,7 +201,7 @@ The font may be embedded but must only be installed temporarily on other systems
 
 
 
-* 🔥 **FAIL** <p>Bad string at [nameID 0, 'utf_16_be']: 'b'Copyright 2015—2023 The Maname Project Authors &lt;See at <a href="https://github.com/mooniak/maname-font/%3E">https://github.com/mooniak/maname-font/&gt;</a>''</p>
+* 🔥 **FAIL** <p>Bad string at [nameID 0, 'utf_16_be']: 'b'Copyright 2015—2023 The Maname Project Authors ( <a href="https://github.com/mooniak/maname-font">https://github.com/mooniak/maname-font</a>)''</p>
  [code: bad-string]
 
 
@@ -1603,7 +1515,7 @@ plus</p>
 * ⚠️ **WARN** <p>The dot of soft dotted characters used in orthographies <em>must</em> disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌ ị̀ ị́ ị̂ ị̃ ị̄</p>
 <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: į̆ į̇ į̈ į̉ į̊ į̋ į̏ į̑ į̒ į̛̀ į̛́ į̛̂ į̛̃ į̛̄ į̛̆ į̛̇ į̛̈ į̛̉ į̛̊ į̛̋</p>
 <p>Your font fully covers the following languages that require the soft-dotted feature: Lithuanian (Latn, 2,357,094 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Makaa (Latn, 221,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Dan (Latn, 1,099,244 speakers), Vute (Latn, 21,000 speakers), Yala (Latn, 200,000 speakers), Gulay (Latn, 250,478 speakers), Navajo (Latn, 166,319 speakers), Igbo (Latn, 27,823,640 speakers), Aghem (Latn, 38,843 speakers), Koonzime (Latn, 40,000 speakers), Mango (Latn, 77,000 speakers), Cicipu (Latn, 44,000 speakers), South Central Banda (Latn, 244,000 speakers), Dii (Latn, 71,000 speakers), Ebira (Latn, 2,200,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Southern Kisi (Latn, 360,000 speakers), Ma’di (Latn, 584,000 speakers), Bafut (Latn, 158,146 speakers), Ekpeye (Latn, 226,000 speakers), Ejagham (Latn, 120,000 speakers), Fur (Latn, 1,230,163 speakers), Avokaya (Latn, 100,000 speakers), Kom (Latn, 360,685 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Nateni (Latn, 100,000 speakers), Mundani (Latn, 34,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Dutch (Latn, 31,709,104 speakers), Lugbara (Latn, 2,200,000 speakers), Mfumte (Latn, 79,000 speakers), Zapotec (Latn, 490,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Sar (Latn, 500,000 speakers), Basaa (Latn, 332,940 speakers), Nzakara (Latn, 50,000 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Dutch (Latn, 31,709,104 speakers), Dii (Latn, 71,000 speakers), Avokaya (Latn, 100,000 speakers), Ebira (Latn, 2,200,000 speakers), Kom (Latn, 360,685 speakers), Ejagham (Latn, 120,000 speakers), Ekpeye (Latn, 226,000 speakers), Basaa (Latn, 332,940 speakers), Koonzime (Latn, 40,000 speakers), Dan (Latn, 1,099,244 speakers), Igbo (Latn, 27,823,640 speakers), Yala (Latn, 200,000 speakers), Nzakara (Latn, 50,000 speakers), Zapotec (Latn, 490,000 speakers), Southern Kisi (Latn, 360,000 speakers), Mango (Latn, 77,000 speakers), Lugbara (Latn, 2,200,000 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Mfumte (Latn, 79,000 speakers), Nateni (Latn, 100,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), South Central Banda (Latn, 244,000 speakers), Bafut (Latn, 158,146 speakers), Vute (Latn, 21,000 speakers), Navajo (Latn, 166,319 speakers), Sar (Latn, 500,000 speakers), Mundani (Latn, 34,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Makaa (Latn, 221,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Fur (Latn, 1,230,163 speakers), Cicipu (Latn, 44,000 speakers), Ngbaka (Latn, 1,020,000 speakers), Gulay (Latn, 250,478 speakers), Aghem (Latn, 38,843 speakers), Ma’di (Latn, 584,000 speakers).</p>
  [code: soft-dotted]
 
 
@@ -1627,18 +1539,18 @@ be served. You can solve this by either manually adding additional
 subset declarations to METADATA.pb, or by editing the glyphset
 definitions.</p>
 <ul>
-<li>U+02C7 CARON: try adding one of: yi, canadian-aboriginal, tifinagh</li>
+<li>U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
 <li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
 <li>U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, tifinagh, cherokee</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: cherokee, math, coptic, tifinagh</li>
 <li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: math, canadian-aboriginal, tai-le, syriac, old-permic, coptic, malayalam, tifinagh</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: coptic, tai-le, math, old-permic, canadian-aboriginal, malayalam, syriac, tifinagh</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
-<li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
+<li>U+030C COMBINING CARON: try adding one of: cherokee, tai-le</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+0311 COMBINING INVERTED BREVE: try adding coptic</li>
 <li>U+0312 COMBINING TURNED COMMA ABOVE: not included in any glyphset definition</li>
@@ -1648,8 +1560,8 @@ definitions.</p>
 <li>U+0327 COMBINING CEDILLA: not included in any glyphset definition</li>
 <li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: caucasian-albanian, gothic, syriac, cherokee, tifinagh</li>
-<li>U+2219 BULLET OPERATOR: try adding one of: yi, tai-tham, symbols, math</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, caucasian-albanian, gothic, syriac, tifinagh</li>
+<li>U+2219 BULLET OPERATOR: try adding one of: symbols, math, tai-tham, yi</li>
 <li>U+FB01 LATIN SMALL LIGATURE FI: not included in any glyphset definition</li>
 <li>U+FB02 LATIN SMALL LIGATURE FL: not included in any glyphset definition</li>
 </ul>
@@ -1776,8 +1688,8 @@ definitions.</p>
 
 | 💥 ERROR | ☠ FATAL | 🔥 FAIL | ⚠️ WARN | ⏩ SKIP | ℹ️ INFO | ✅ PASS | 🔎 DEBUG | 
 | ---|---|---|---|---|---|---|---|
-| 0 | 0 | 10 | 16 | 115 | 7 | 103 | 0 | 
-| 0% | 0% | 4% | 6% | 46% | 3% | 41% | 0% | 
+| 0 | 0 | 7 | 16 | 115 | 7 | 106 | 0 | 
+| 0% | 0% | 3% | 6% | 46% | 3% | 42% | 0% | 
 
 
 
