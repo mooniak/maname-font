@@ -692,13 +692,8 @@ sinYansaya_Reph_MatraAa
 );
 },
 {
-name = licenses;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
 name = fsType;
 value = (
-3
 );
 },
 {
@@ -16362,6 +16357,7 @@ nodes = (
 width = 1;
 }
 );
+subCategory = Nonspacing;
 unicode = 3530;
 },
 {
@@ -45752,27 +45748,11 @@ layers = (
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
 shapes = (
 {
-closed = 1;
-nodes = (
-(442,426,o),
-(475,534,o),
-(485,616,c),
-(465,621,o),
-(442,625,o),
-(419,625,cs),
-(412,625,o),
-(404,625,o),
-(397,624,c),
-(391,558,o),
-(372,460,o),
-(359,409,c),
-(367,396,o),
-(396,386,o),
-(416,384,c)
-);
+ref = L;
 },
 {
-ref = L;
+pos = (430,0);
+ref = _caron;
 }
 );
 width = 528;
@@ -50535,24 +50515,8 @@ shapes = (
 ref = d;
 },
 {
-closed = 1;
-nodes = (
-(572,456,o),
-(605,564,o),
-(615,646,c),
-(595,651,o),
-(572,655,o),
-(549,655,cs),
-(542,655,o),
-(534,655,o),
-(527,654,c),
-(521,588,o),
-(502,490,o),
-(489,439,c),
-(497,426,o),
-(526,416,o),
-(546,414,c)
-);
+pos = (560,30);
+ref = _caron;
 }
 );
 width = 627;
@@ -52278,24 +52242,8 @@ shapes = (
 ref = l;
 },
 {
-closed = 1;
-nodes = (
-(342,456,o),
-(375,564,o),
-(385,646,c),
-(365,651,o),
-(342,655,o),
-(319,655,cs),
-(312,655,o),
-(304,655,o),
-(297,654,c),
-(291,588,o),
-(272,490,o),
-(259,439,c),
-(267,426,o),
-(296,416,o),
-(316,414,c)
-);
+pos = (330,30);
+ref = _caron;
 }
 );
 width = 414;
@@ -54716,24 +54664,8 @@ shapes = (
 ref = t;
 },
 {
-closed = 1;
-nodes = (
-(412,451,o),
-(445,559,o),
-(455,641,c),
-(435,646,o),
-(412,650,o),
-(389,650,cs),
-(382,650,o),
-(374,650,o),
-(367,649,c),
-(361,583,o),
-(342,485,o),
-(329,434,c),
-(337,421,o),
-(366,411,o),
-(386,409,c)
-);
+pos = (400,30);
+ref = _caron;
 }
 );
 width = 475;
@@ -69169,9 +69101,6 @@ shapes = (
 ref = guilsinglright;
 },
 {
-ref = guilsinglright;
-},
-{
 pos = (200,0);
 ref = guilsinglright;
 }
@@ -70127,6 +70056,38 @@ nodes = (
 width = 664;
 }
 );
+},
+{
+export = 0;
+glyphname = _caron;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(12,426,o),
+(45,534,o),
+(55,616,c),
+(35,621,o),
+(12,625,o),
+(-11,625,cs),
+(-18,625,o),
+(-26,625,o),
+(-33,624,c),
+(-39,558,o),
+(-58,460,o),
+(-71,409,c),
+(-63,396,o),
+(-34,386,o),
+(-14,384,c)
+);
+}
+);
+width = 0;
+}
+);
 }
 );
 instances = (
@@ -70138,7 +70099,7 @@ name = Regular;
 properties = (
 {
 key = postscriptFontName;
-value = Maname;
+value = "Maname-Regular";
 }
 );
 }
@@ -70941,7 +70902,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2015—2023 The Maname Project Authors <See at https://github.com/mooniak/maname-font/>";
+value = "Copyright 2015—2023 The Maname Project Authors ( https://github.com/mooniak/maname-font)";
 }
 );
 },
