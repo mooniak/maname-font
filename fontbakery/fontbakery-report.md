@@ -50,7 +50,7 @@ These won't break the CI job for now, but will become effective after some time 
 
 
 
-* 🔥 **FAIL** <p>Current FontBakery version is 0.12.6, while a newer 0.12.7 is already available. Please upgrade it with 'pip install -U fontbakery'</p>
+* 🔥 **FAIL** <p>Current FontBakery version is 0.12.6, while a newer 0.12.9 is already available. Please upgrade it with 'pip install -U fontbakery'</p>
  [code: outdated-fontbakery]
 
 
@@ -598,8 +598,6 @@ sinVirama (U+0DCA)</p>
 * sinB.virama: L&lt;&lt;222.0,696.0&gt;--&lt;256.0,705.0&gt;&gt;/B&lt;&lt;256.0,705.0&gt;-&lt;236.0,702.0&gt;-&lt;229.0,699.0&gt;&gt; = 6.2957143604074775
 
 * sinBR.virama: L&lt;&lt;222.0,696.0&gt;--&lt;256.0,705.0&gt;&gt;/B&lt;&lt;256.0,705.0&gt;-&lt;236.0,702.0&gt;-&lt;229.0,699.0&gt;&gt; = 6.2957143604074775
-
-* sinBRIi: B&lt;&lt;588.0,21.0&gt;-&lt;603.0,68.0&gt;-&lt;610.0,115.0&gt;&gt;/B&lt;&lt;610.0,115.0&gt;-&lt;589.0,63.0&gt;-&lt;549.0,27.0&gt;&gt; = 13.51998528416231
 
 * sinBh.virama: B&lt;&lt;129.5,244.5&gt;-&lt;151.0,277.0&gt;-&lt;187.0,295.0&gt;&gt;/B&lt;&lt;187.0,295.0&gt;-&lt;132.0,283.0&gt;-&lt;91.5,264.0&gt;&gt; = 14.257035359650056
 
@@ -1217,7 +1215,7 @@ sinVirama (U+0DCA)</p>
 
 * oe (U+0153): L&lt;&lt;786.0,225.0&gt;--&lt;481.0,223.0&gt;&gt;
 
-* sinBUu: L&lt;&lt;633.0,134.0&gt;--&lt;635.0,-238.0&gt;&gt;
+* sinBUu: L&lt;&lt;653.0,206.0&gt;--&lt;655.0,-156.0&gt;&gt;
 
 * sinBhR.virama: L&lt;&lt;581.0,471.0&gt;--&lt;583.0,713.0&gt;&gt;
 
@@ -1229,25 +1227,25 @@ sinVirama (U+0DCA)</p>
 
 * sinDVUu: L&lt;&lt;676.0,132.0&gt;--&lt;673.0,-255.0&gt;&gt;
 
-* sinDdUu: L&lt;&lt;653.0,119.0&gt;--&lt;655.0,-238.0&gt;&gt;
+* sinDdUu: L&lt;&lt;673.0,196.0&gt;--&lt;675.0,-168.0&gt;&gt;
 
 * sinDdhUu: L&lt;&lt;653.0,144.0&gt;--&lt;655.0,-238.0&gt;&gt;
 
-* sinDhUu: L&lt;&lt;603.0,93.0&gt;--&lt;605.0,-238.0&gt;&gt;
+* sinDhUu: L&lt;&lt;633.0,217.0&gt;--&lt;635.0,-198.0&gt;&gt;
 
 * sinFR.virama: L&lt;&lt;519.0,458.0&gt;--&lt;521.0,719.0&gt;&gt;
 
 * sinFUu.alt: L&lt;&lt;631.0,154.0&gt;--&lt;633.0,-190.0&gt;&gt;
 
-* sinFUu: L&lt;&lt;673.0,177.0&gt;--&lt;676.0,-248.0&gt;&gt;
+* sinFUu: L&lt;&lt;677.0,201.0&gt;--&lt;680.0,-167.0&gt;&gt;
 
 * sinGhR.virama: L&lt;&lt;567.0,486.0&gt;--&lt;569.0,719.0&gt;&gt;
 
 * sinGhUu: L&lt;&lt;673.0,110.0&gt;--&lt;675.0,-248.0&gt;&gt;
 
-* sinJhUu: L&lt;&lt;1063.0,120.0&gt;--&lt;1065.0,-238.0&gt;&gt;
+* sinJhUu: L&lt;&lt;1093.0,263.0&gt;--&lt;1095.0,-158.0&gt;&gt;
 
-* sinKSsUu: L&lt;&lt;1100.0,144.0&gt;--&lt;1102.0,-238.0&gt;&gt;
+* sinKSsUu: L&lt;&lt;1100.0,144.0&gt;--&lt;1102.0,-218.0&gt;&gt;
 
 * sinKVU: L&lt;&lt;1051.0,179.0&gt;--&lt;1049.0,-215.0&gt;&gt;
 
@@ -1279,11 +1277,11 @@ sinVirama (U+0DCA)</p>
 
 * sinNnUu: L&lt;&lt;924.0,256.0&gt;--&lt;927.0,-188.0&gt;&gt;
 
-* sinNnddUu: L&lt;&lt;784.0,119.0&gt;--&lt;786.0,-238.0&gt;&gt;
+* sinNnddUu: L&lt;&lt;804.0,196.0&gt;--&lt;806.0,-168.0&gt;&gt;
 
 * sinNyU: L&lt;&lt;1035.0,-240.0&gt;--&lt;777.0,-242.0&gt;&gt;
 
-* sinPUu: L&lt;&lt;593.0,144.0&gt;--&lt;595.0,-248.0&gt;&gt;
+* sinPUu: L&lt;&lt;597.0,159.0&gt;--&lt;599.0,-228.0&gt;&gt;
 
 * sinPf.virama: L&lt;&lt;467.0,612.0&gt;--&lt;468.0,739.0&gt;&gt;
 
@@ -1295,7 +1293,7 @@ sinVirama (U+0DCA)</p>
 
 * sinSUu: L&lt;&lt;684.0,115.0&gt;--&lt;686.0,-238.0&gt;&gt;
 
-* sinSsUu: L&lt;&lt;594.0,144.0&gt;--&lt;596.0,-238.0&gt;&gt;
+* sinSsUu: L&lt;&lt;594.0,144.0&gt;--&lt;596.0,-218.0&gt;&gt;
 
 * sinTThUu: L&lt;&lt;1016.0,172.0&gt;--&lt;1013.0,-211.0&gt;&gt;
 
@@ -1358,8 +1356,8 @@ sinVirama (U+0DCA)</p>
 
 * ⚠️ **WARN** <p>The dot of soft dotted characters used in orthographies <em>must</em> disappear in the following strings: į̀ į́ į̂ į̃ į̄ į̌ ị̀ ị́ ị̂ ị̃ ị̄</p>
 <p>The dot of soft dotted characters <em>should</em> disappear in other cases, for example: į̆ į̇ į̈ į̉ į̊ į̋ į̏ į̑ į̒ į̛̀ į̛́ į̛̂ į̛̃ į̛̄ į̛̆ į̛̇ į̛̈ į̛̉ į̛̊ į̛̋</p>
-<p>Your font fully covers the following languages that require the soft-dotted feature: Ebira (Latn, 2,200,000 speakers), Igbo (Latn, 27,823,640 speakers), Ekpeye (Latn, 226,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Dutch (Latn, 31,709,104 speakers).</p>
-<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Basaa (Latn, 332,940 speakers), Mango (Latn, 77,000 speakers), Fur (Latn, 1,230,163 speakers), Gulay (Latn, 250,478 speakers), Aghem (Latn, 38,843 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Koonzime (Latn, 40,000 speakers), Nateni (Latn, 100,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Bafut (Latn, 158,146 speakers), Avokaya (Latn, 100,000 speakers), Ma’di (Latn, 584,000 speakers), Makaa (Latn, 221,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Ngbaka (Latn, 1,020,000 speakers), Nzakara (Latn, 50,000 speakers), Lugbara (Latn, 2,200,000 speakers), Yala (Latn, 200,000 speakers), Kpelle, Guinea (Latn, 622,000 speakers), South Central Banda (Latn, 244,000 speakers), Kom (Latn, 360,685 speakers), Belarusian (Cyrl, 10,064,517 speakers), Ejagham (Latn, 120,000 speakers), Mundani (Latn, 34,000 speakers), Southern Kisi (Latn, 360,000 speakers), Vute (Latn, 21,000 speakers), Dii (Latn, 71,000 speakers), Sar (Latn, 500,000 speakers), Zapotec (Latn, 490,000 speakers), Mfumte (Latn, 79,000 speakers), Dan (Latn, 1,099,244 speakers), Cicipu (Latn, 44,000 speakers), Navajo (Latn, 166,319 speakers).</p>
+<p>Your font fully covers the following languages that require the soft-dotted feature: Ebira (Latn, 2,200,000 speakers), Dutch (Latn, 31,709,104 speakers), Ekpeye (Latn, 226,000 speakers), Lithuanian (Latn, 2,357,094 speakers), Igbo (Latn, 27,823,640 speakers).</p>
+<p>Your font does <em>not</em> cover the following languages that require the soft-dotted feature: Lugbara (Latn, 2,200,000 speakers), Fur (Latn, 1,230,163 speakers), Yala (Latn, 200,000 speakers), Gulay (Latn, 250,478 speakers), Nzakara (Latn, 50,000 speakers), Mfumte (Latn, 79,000 speakers), Bafut (Latn, 158,146 speakers), Navajo (Latn, 166,319 speakers), Mundani (Latn, 34,000 speakers), Dii (Latn, 71,000 speakers), Cicipu (Latn, 44,000 speakers), Ukrainian (Cyrl, 29,273,587 speakers), Zapotec (Latn, 490,000 speakers), Bete-Bendi (Latn, 100,000 speakers), Kom (Latn, 360,685 speakers), Aghem (Latn, 38,843 speakers), Ngbaka (Latn, 1,020,000 speakers), Vute (Latn, 21,000 speakers), Dan (Latn, 1,099,244 speakers), Avokaya (Latn, 100,000 speakers), Ejagham (Latn, 120,000 speakers), Basaa (Latn, 332,940 speakers), Kpelle, Guinea (Latn, 622,000 speakers), Belarusian (Cyrl, 10,064,517 speakers), Ijo, Southeast (Latn, 2,471,000 speakers), Mango (Latn, 77,000 speakers), Nateni (Latn, 100,000 speakers), Southern Kisi (Latn, 360,000 speakers), Ma’di (Latn, 584,000 speakers), South Central Banda (Latn, 244,000 speakers), Sar (Latn, 500,000 speakers), Koonzime (Latn, 40,000 speakers), Makaa (Latn, 221,000 speakers).</p>
  [code: soft-dotted]
 
 
@@ -1383,17 +1381,17 @@ be served. You can solve this by either manually adding additional
 subset declarations to METADATA.pb, or by editing the glyphset
 definitions.</p>
 <ul>
-<li>U+02C7 CARON: try adding one of: tifinagh, yi, canadian-aboriginal</li>
+<li>U+02C7 CARON: try adding one of: yi, canadian-aboriginal, tifinagh</li>
 <li>U+02C9 MODIFIER LETTER MACRON: not included in any glyphset definition</li>
-<li>U+02D8 BREVE: try adding one of: yi, canadian-aboriginal</li>
-<li>U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal</li>
-<li>U+02DB OGONEK: try adding one of: yi, canadian-aboriginal</li>
+<li>U+02D8 BREVE: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi</li>
+<li>U+02DB OGONEK: try adding one of: canadian-aboriginal, yi</li>
 <li>U+02DD DOUBLE ACUTE ACCENT: not included in any glyphset definition</li>
-<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, tifinagh, coptic, cherokee</li>
+<li>U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: coptic, cherokee, tifinagh, math</li>
 <li>U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh</li>
-<li>U+0307 COMBINING DOT ABOVE: try adding one of: tai-le, canadian-aboriginal, syriac, tifinagh, math, coptic, old-permic, malayalam</li>
+<li>U+0307 COMBINING DOT ABOVE: try adding one of: canadian-aboriginal, syriac, old-permic, coptic, tifinagh, tai-le, math, malayalam</li>
 <li>U+030A COMBINING RING ABOVE: try adding syriac</li>
-<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee</li>
+<li>U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: cherokee, osage</li>
 <li>U+030C COMBINING CARON: try adding one of: tai-le, cherokee</li>
 <li>U+030F COMBINING DOUBLE GRAVE ACCENT: not included in any glyphset definition</li>
 <li>U+0311 COMBINING INVERTED BREVE: try adding coptic</li>
@@ -1404,8 +1402,8 @@ definitions.</p>
 <li>U+0327 COMBINING CEDILLA: not included in any glyphset definition</li>
 <li>U+0328 COMBINING OGONEK: not included in any glyphset definition</li>
 <li>U+032E COMBINING BREVE BELOW: try adding syriac</li>
-<li>U+0331 COMBINING MACRON BELOW: try adding one of: cherokee, syriac, gothic, tifinagh, caucasian-albanian</li>
-<li>U+2219 BULLET OPERATOR: try adding one of: tai-tham, symbols, math, yi</li>
+<li>U+0331 COMBINING MACRON BELOW: try adding one of: syriac, cherokee, tifinagh, gothic, caucasian-albanian</li>
+<li>U+2219 BULLET OPERATOR: try adding one of: tai-tham, math, yi, symbols</li>
 <li>U+FB01 LATIN SMALL LIGATURE FI: not included in any glyphset definition</li>
 <li>U+FB02 LATIN SMALL LIGATURE FL: not included in any glyphset definition</li>
 </ul>
