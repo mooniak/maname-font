@@ -52288,7 +52288,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (148,90);
+pos = (148,110);
 ref = dotaccentcomb;
 }
 );
@@ -52312,7 +52312,7 @@ pos = (276,1);
 },
 {
 name = top;
-pos = (149,500);
+pos = (149,520);
 }
 );
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
@@ -52365,7 +52365,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (148,40);
+pos = (148,60);
 ref = acutecomb;
 }
 );
@@ -52384,7 +52384,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (149,70);
+pos = (149,90);
 ref = brevecomb;
 }
 );
@@ -52403,7 +52403,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (148,39);
+pos = (148,59);
 ref = circumflexcomb;
 }
 );
@@ -52422,7 +52422,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (149,90);
+pos = (149,110);
 ref = dblgravecomb;
 }
 );
@@ -52441,7 +52441,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (150,90);
+pos = (150,110);
 ref = dieresiscomb;
 }
 );
@@ -52460,7 +52460,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (148,90);
+pos = (148,110);
 ref = dotaccentcomb;
 }
 );
@@ -52478,7 +52478,7 @@ shapes = (
 ref = i;
 },
 {
-pos = (149,204);
+pos = (149,224);
 ref = dotbelowcomb;
 }
 );
@@ -52497,7 +52497,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (148,90);
+pos = (148,110);
 ref = gravecomb;
 }
 );
@@ -52516,7 +52516,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (149,90);
+pos = (149,110);
 ref = hookabovecomb;
 }
 );
@@ -52535,7 +52535,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (149,90);
+pos = (149,110);
 ref = breveinvertedcomb;
 }
 );
@@ -52554,7 +52554,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (149,90);
+pos = (149,110);
 ref = macroncomb;
 }
 );
@@ -52573,7 +52573,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (148,90);
+pos = (148,110);
 ref = dotaccentcomb;
 },
 {
@@ -52596,7 +52596,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (149,40);
+pos = (149,60);
 ref = tildecomb;
 }
 );
@@ -52625,7 +52625,7 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (148,100);
+pos = (148,120);
 ref = dotaccentcomb;
 }
 );
@@ -52645,7 +52645,7 @@ pos = (156,-131);
 },
 {
 name = top;
-pos = (149,510);
+pos = (149,530);
 }
 );
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
@@ -52701,7 +52701,7 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (148,50);
+pos = (148,70);
 ref = acutecomb;
 }
 );
@@ -52719,7 +52719,7 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (148,49);
+pos = (148,69);
 ref = circumflexcomb;
 }
 );
