@@ -3263,7 +3263,7 @@ pos = (734,420);
 },
 {
 name = bottom;
-pos = (842,230);
+pos = (842,250);
 },
 {
 name = reph;
@@ -4133,7 +4133,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (711,182);
+pos = (738,272);
 },
 {
 name = reph;
@@ -4566,7 +4566,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (611,182);
+pos = (634,262);
 },
 {
 name = reph;
@@ -4578,7 +4578,7 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(564,-23,o),
+(544,-23,o),
 (642,137,o),
 (642,296,cs),
 (642,513,o),
@@ -4640,7 +4640,7 @@ nodes = (
 (98,293,o),
 (98,143,cs),
 (98,36,o),
-(207,-23,o),
+(205,-23,o),
 (347,-23,cs)
 );
 },
@@ -5271,7 +5271,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (1061,182);
+pos = (1091,262);
 },
 {
 name = reph;
@@ -6356,7 +6356,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (651,182);
+pos = (671,252);
 },
 {
 name = reph;
@@ -7503,7 +7503,7 @@ pos = (692,411);
 },
 {
 name = bottom;
-pos = (790,226);
+pos = (787,276);
 },
 {
 name = top;
@@ -7822,7 +7822,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (601,182);
+pos = (631,222);
 },
 {
 name = reph;
@@ -8620,7 +8620,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (591,172);
+pos = (595,192);
 },
 {
 name = top;
@@ -9728,7 +9728,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (631,182);
+pos = (651,264);
 },
 {
 name = reph;
@@ -10325,7 +10325,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (783,238);
+pos = (783,288);
 },
 {
 name = top;
@@ -11399,7 +11399,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (742,238);
+pos = (752,268);
 },
 {
 name = virama;
@@ -11513,7 +11513,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (592,182);
+pos = (592,202);
 },
 {
 name = top;
@@ -13464,7 +13464,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (731,182);
+pos = (741,252);
 },
 {
 name = top;
@@ -13681,7 +13681,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (671,182);
+pos = (675,263);
 },
 {
 name = reph;
@@ -25833,6 +25833,12 @@ width = 849;
 glyphname = sinCIi;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (644,251);
+}
+);
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
 shapes = (
 {
@@ -27585,6 +27591,12 @@ width = 625;
 glyphname = sinBIi;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (634,251);
+}
+);
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
 shapes = (
 {
@@ -27709,7 +27721,7 @@ nodes = (
 );
 }
 );
-width = 653;
+width = 673;
 }
 );
 },
@@ -34423,7 +34435,7 @@ shapes = (
 ref = sinCa;
 },
 {
-pos = (575,-44);
+pos = (598,36);
 ref = sinMatraUu;
 }
 );
@@ -34490,7 +34502,8 @@ shapes = (
 ref = sinJa;
 },
 {
-pos = (671,0);
+alignment = -1;
+pos = (571,0);
 ref = sinMatraUu.alt2;
 scale = (1.0426,1.0426);
 }
@@ -34509,7 +34522,7 @@ shapes = (
 ref = sinJha;
 },
 {
-pos = (1039,-20);
+pos = (1069,60);
 ref = sinMatraUu.alt;
 scale = (1.0426,1.0426);
 }
@@ -34863,7 +34876,7 @@ shapes = (
 ref = sinDda;
 },
 {
-pos = (629,-20);
+pos = (649,50);
 ref = sinMatraUu.alt;
 scale = (1.0426,1.0426);
 }
@@ -35260,7 +35273,7 @@ shapes = (
 ref = sinDha;
 },
 {
-pos = (579,-20);
+pos = (609,20);
 ref = sinMatraUu.alt;
 scale = (1.0426,1.0426);
 }
@@ -35341,7 +35354,7 @@ shapes = (
 ref = sinPa;
 },
 {
-pos = (569,-30);
+pos = (573,-10);
 ref = sinMatraUu.alt;
 scale = (1.0426,1.0426);
 }
@@ -35378,7 +35391,7 @@ shapes = (
 ref = sinBa;
 },
 {
-pos = (609,-20);
+pos = (629,62);
 ref = sinMatraUu.alt;
 scale = (1.0426,1.0426);
 }
@@ -35859,7 +35872,7 @@ shapes = (
 ref = sinSsa;
 },
 {
-pos = (570,-20);
+pos = (570,0);
 ref = sinMatraUu.alt;
 scale = (1.0426,1.0426);
 }
@@ -35963,7 +35976,7 @@ shapes = (
 ref = sinFa;
 },
 {
-pos = (653,-31);
+pos = (657,50);
 ref = sinMatraUu.alt3;
 scale = (1.0426,1.0426);
 }
@@ -36155,7 +36168,7 @@ shapes = (
 ref = sinKSsa;
 },
 {
-pos = (1076,-20);
+pos = (1076,0);
 ref = sinMatraUu.alt;
 scale = (1.0426,1.0426);
 }
@@ -37199,7 +37212,7 @@ shapes = (
 ref = sinKa;
 },
 {
-pos = (832,-39);
+pos = (832,-19);
 ref = sinRakar.long;
 scale = (1.0426,1.0426);
 }
@@ -37218,7 +37231,7 @@ shapes = (
 ref = sinKha;
 },
 {
-pos = (640,-25);
+pos = (639,-25);
 ref = sinRakar.medium;
 scale = (1.0426,1.0426);
 }
@@ -37237,7 +37250,7 @@ shapes = (
 ref = sinGa;
 },
 {
-pos = (701,-87);
+pos = (728,3);
 ref = sinRakar.long;
 scale = (1.0426,1.0426);
 }
@@ -37275,7 +37288,7 @@ shapes = (
 ref = sinCa;
 },
 {
-pos = (613,-80);
+pos = (635,0);
 ref = sinRakar.medium;
 scale = (1.0426,1.0426);
 }
@@ -37294,7 +37307,7 @@ shapes = (
 ref = sinJa;
 },
 {
-pos = (601,-8);
+pos = (605,12);
 ref = sinRakar.short;
 scale = (1.0426,1.0426);
 }
@@ -37313,7 +37326,7 @@ shapes = (
 ref = sinJha;
 },
 {
-pos = (1063,-80);
+pos = (1092,0);
 ref = sinRakar.medium;
 scale = (1.0426,1.0426);
 }
@@ -37414,33 +37427,33 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(125,7,o),
-(135,12,o),
-(140,15,c),
-(119,40,o),
-(108,98,o),
-(108,154,cs),
-(108,173,o),
-(109,190,o),
-(111,206,cs),
-(127,339,o),
-(212,427,o),
-(311,435,c),
-(314,439,l),
-(420,477,l),
-(417,483,l),
-(404,486,o),
-(383,487,o),
-(359,487,cs),
-(220,487,o),
-(65,378,o),
-(51,204,cs),
-(50,196,o),
-(50,189,o),
-(50,181,cs),
-(50,111,o),
-(74,40,o),
-(106,7,c)
+(86,4,o),
+(96,9,o),
+(101,12,c),
+(80,37,o),
+(69,95,o),
+(69,151,cs),
+(69,170,o),
+(70,187,o),
+(72,203,cs),
+(88,336,o),
+(173,424,o),
+(272,432,c),
+(275,436,l),
+(381,474,l),
+(378,480,l),
+(365,483,o),
+(344,484,o),
+(320,484,cs),
+(181,484,o),
+(26,375,o),
+(12,201,cs),
+(11,193,o),
+(11,186,o),
+(11,178,cs),
+(11,108,o),
+(35,37,o),
+(67,4,c)
 );
 },
 {
@@ -37641,7 +37654,7 @@ shapes = (
 ref = sinTta;
 },
 {
-pos = (573,-30);
+pos = (572,-30);
 ref = sinRakar.medium;
 scale = (1.0426,1.0426);
 }
@@ -37660,7 +37673,7 @@ shapes = (
 ref = sinDda;
 },
 {
-pos = (653,-80);
+pos = (672,-10);
 ref = sinRakar.medium;
 scale = (1.0426,1.0426);
 }
@@ -37679,7 +37692,7 @@ shapes = (
 ref = sinTa;
 },
 {
-pos = (780,-43);
+pos = (777,7);
 ref = sinRakar.long;
 scale = (1.0426,1.0426);
 }
@@ -37801,7 +37814,7 @@ shapes = (
 ref = sinDha;
 },
 {
-pos = (603,-80);
+pos = (632,-40);
 ref = sinRakar.medium;
 scale = (1.0426,1.0426);
 }
@@ -37834,22 +37847,22 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(596,-216,o),
+(596,-236,o),
 (602,67,o),
 (602,211,c),
 (579,196,l),
 (567,40,o),
-(539,-136,o),
-(321,-136,cs),
-(156,-136,o),
-(79,-62,o),
-(79,-62,c),
-(68,-65,o),
-(60,-71,o),
-(55,-78,c),
-(59,-99,o),
-(131,-216,o),
-(316,-216,cs)
+(539,-156,o),
+(321,-156,cs),
+(156,-156,o),
+(79,-82,o),
+(79,-82,c),
+(68,-85,o),
+(60,-91,o),
+(55,-98,c),
+(59,-119,o),
+(131,-236,o),
+(316,-236,cs)
 );
 },
 {
@@ -37870,7 +37883,7 @@ shapes = (
 ref = sinBa;
 },
 {
-pos = (633,-80);
+pos = (652,2);
 ref = sinRakar.medium;
 scale = (1.0426,1.0426);
 }
@@ -37889,7 +37902,7 @@ shapes = (
 ref = sinBha;
 },
 {
-pos = (773,-31);
+pos = (773,19);
 ref = sinRakar.long;
 scale = (1.0426,1.0426);
 }
@@ -37978,7 +37991,7 @@ shapes = (
 ref = sinSha;
 },
 {
-pos = (732,-31);
+pos = (742,-1);
 ref = sinRakar.long;
 scale = (1.0426,1.0426);
 }
@@ -37998,7 +38011,7 @@ shapes = (
 ref = sinSsa;
 },
 {
-pos = (602,2);
+pos = (602,22);
 ref = sinRakar.short;
 scale = (1.0426,1.0426);
 }
@@ -38036,7 +38049,7 @@ shapes = (
 ref = sinHa;
 },
 {
-pos = (721,-87);
+pos = (731,-17);
 ref = sinRakar.long;
 scale = (1.0426,1.0426);
 }
@@ -38055,7 +38068,7 @@ shapes = (
 ref = sinFa;
 },
 {
-pos = (661,-87);
+pos = (665,-6);
 ref = sinRakar.long;
 scale = (1.0426,1.0426);
 }
@@ -38464,7 +38477,7 @@ shapes = (
 ref = sinC.virama;
 },
 {
-pos = (613,-80);
+pos = (635,0);
 ref = sinRakar.medium;
 scale = (1.0426,1.0426);
 }
@@ -38789,7 +38802,7 @@ shapes = (
 ref = sinTt.virama;
 },
 {
-pos = (573,-30);
+pos = (572,-30);
 ref = sinRakar.medium;
 scale = (1.0426,1.0426);
 }
@@ -38808,7 +38821,7 @@ shapes = (
 ref = sinDd.virama;
 },
 {
-pos = (653,-80);
+pos = (672,-10);
 ref = sinRakar.medium;
 scale = (1.0426,1.0426);
 }
@@ -38902,7 +38915,7 @@ shapes = (
 ref = sinB.virama;
 },
 {
-pos = (633,-80);
+pos = (652,2);
 ref = sinRakar.medium;
 scale = (1.0426,1.0426);
 }
@@ -38921,7 +38934,7 @@ shapes = (
 ref = sinBh.virama;
 },
 {
-pos = (773,-31);
+pos = (773,19);
 ref = sinRakar.long;
 scale = (1.0426,1.0426);
 }
@@ -39028,7 +39041,7 @@ shapes = (
 ref = sinSsa;
 },
 {
-pos = (602,2);
+pos = (602,22);
 ref = sinRakar.short;
 scale = (1.0426,1.0426);
 },
@@ -39187,7 +39200,7 @@ shapes = (
 ref = sinKI;
 },
 {
-pos = (832,-39);
+pos = (832,-19);
 ref = sinRakar.long;
 scale = (1.0426,1.0426);
 }
@@ -39206,7 +39219,7 @@ shapes = (
 ref = sinKhI;
 },
 {
-pos = (623,-60);
+pos = (622,-60);
 ref = sinRakar.medium;
 scale = (1.0426,1.0426);
 }
@@ -39263,7 +39276,7 @@ shapes = (
 ref = sinCI;
 },
 {
-pos = (614,-25);
+pos = (613,-25);
 ref = sinRakar.medium;
 scale = (1.0426,1.0426);
 }
@@ -39282,7 +39295,7 @@ shapes = (
 ref = sinJI;
 },
 {
-pos = (601,-8);
+pos = (605,12);
 ref = sinRakar.short;
 scale = (1.0426,1.0426);
 }
@@ -39301,7 +39314,7 @@ shapes = (
 ref = sinJhI;
 },
 {
-pos = (1074,-30);
+pos = (1073,-30);
 ref = sinRakar.medium;
 scale = (1.0426,1.0426);
 }
@@ -39504,7 +39517,7 @@ shapes = (
 ref = sinTtI;
 },
 {
-pos = (573,-80);
+pos = (572,-80);
 ref = sinRakar.medium;
 scale = (1.0426,1.0426);
 }
@@ -39523,7 +39536,7 @@ shapes = (
 ref = sinDdI;
 },
 {
-pos = (663,-30);
+pos = (662,-30);
 ref = sinRakar.medium;
 scale = (1.0426,1.0426);
 }
@@ -39604,7 +39617,7 @@ shapes = (
 ref = sinDhI;
 },
 {
-pos = (613,-30);
+pos = (612,-30);
 ref = sinRakar.medium;
 scale = (1.0426,1.0426);
 }
@@ -39665,7 +39678,7 @@ shapes = (
 ref = sinBhI;
 },
 {
-pos = (773,-31);
+pos = (773,19);
 ref = sinRakar.long;
 scale = (1.0426,1.0426);
 }
@@ -39813,7 +39826,7 @@ shapes = (
 ref = sinHI;
 },
 {
-pos = (721,-87);
+pos = (731,-17);
 ref = sinRakar.long;
 scale = (1.0426,1.0426);
 }
@@ -40032,7 +40045,7 @@ ref = sinMatraIi.alt1;
 scale = (1.0426,1.0426);
 },
 {
-pos = (832,-39);
+pos = (832,-19);
 ref = sinRakar.long;
 scale = (1.0426,1.0426);
 }
@@ -40108,12 +40121,12 @@ shapes = (
 ref = sinCIi;
 },
 {
-pos = (685,0);
+pos = (645,-11);
 ref = sinRakar.medium;
 scale = (1.0426,1.0426);
 }
 );
-width = 706;
+width = 685;
 }
 );
 },
@@ -40127,7 +40140,7 @@ shapes = (
 ref = sinJIi;
 },
 {
-pos = (601,-8);
+pos = (605,12);
 ref = sinRakar.short;
 scale = (1.0426,1.0426);
 }
@@ -40385,7 +40398,7 @@ ref = sinMatraIi.alt1;
 scale = (1.0426,1.0426);
 },
 {
-pos = (780,-43);
+pos = (777,7);
 ref = sinRakar.long;
 scale = (1.0426,1.0426);
 }
@@ -40504,12 +40517,12 @@ shapes = (
 ref = sinBIi;
 },
 {
-pos = (653,0);
+pos = (635,-11);
 ref = sinRakar.medium;
 scale = (1.0426,1.0426);
 }
 );
-width = 674;
+width = 673;
 }
 );
 },
@@ -40523,7 +40536,7 @@ shapes = (
 ref = sinBhIi;
 },
 {
-pos = (773,-31);
+pos = (773,19);
 ref = sinRakar.long;
 scale = (1.0426,1.0426);
 }
@@ -40606,12 +40619,6 @@ width = 600;
 glyphname = sinShRIi;
 layers = (
 {
-anchors = (
-{
-name = rakaransa;
-pos = (752,247);
-}
-);
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
 shapes = (
 {
@@ -40653,9 +40660,28 @@ nodes = (
 );
 },
 {
-pos = (432,33);
-ref = sinRakar.long;
-scale = (1.0426,1.0426);
+closed = 1;
+nodes = (
+(633,-215,o),
+(759,-18,o),
+(759,213,cs),
+(759,243,o),
+(757,272,o),
+(752,302,c),
+(718,248,l),
+(707,24,o),
+(664,-125,o),
+(417,-136,cs),
+(246,-143,o),
+(136,-62,o),
+(136,-75,c),
+(127,-79,o),
+(119,-85,o),
+(113,-92,c),
+(118,-113,o),
+(236,-226,o),
+(429,-220,cs)
+);
 },
 {
 closed = 1;
@@ -40820,7 +40846,7 @@ shapes = (
 ref = sinHIi;
 },
 {
-pos = (721,-87);
+pos = (731,-17);
 ref = sinRakar.long;
 scale = (1.0426,1.0426);
 }
@@ -49739,9 +49765,9 @@ nodes = (
 (295,409,o),
 (307,352,cs),
 (312,328,o),
-(314,291,o),
-(314,243,cs),
-(314,185,o),
+(314,287,o),
+(314,239,cs),
+(314,181,o),
 (311,125,o),
 (306,88,c),
 (314,88,l),
@@ -49764,16 +49790,16 @@ nodes = (
 (129,75,o),
 (129,119,cs),
 (129,178,o),
-(175,224,o),
-(257,224,cs),
-(295,224,o),
-(326,214,o),
-(332,210,c),
-(332,274,l),
-(327,274,o),
-(267,270,o),
-(204,255,cs),
-(84,226,o),
+(175,220,o),
+(257,220,cs),
+(295,220,o),
+(326,210,o),
+(332,206,c),
+(332,270,l),
+(327,270,o),
+(267,266,o),
+(204,251,cs),
+(84,222,o),
 (31,174,o),
 (31,100,cs),
 (31,25,o),
@@ -52262,7 +52288,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (148,70);
+pos = (148,90);
 ref = dotaccentcomb;
 }
 );
@@ -52286,7 +52312,7 @@ pos = (276,1);
 },
 {
 name = top;
-pos = (149,480);
+pos = (149,500);
 }
 );
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
@@ -52339,7 +52365,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (148,20);
+pos = (148,40);
 ref = acutecomb;
 }
 );
@@ -52358,7 +52384,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (149,50);
+pos = (149,70);
 ref = brevecomb;
 }
 );
@@ -52377,7 +52403,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (148,19);
+pos = (148,39);
 ref = circumflexcomb;
 }
 );
@@ -52396,7 +52422,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (149,70);
+pos = (149,90);
 ref = dblgravecomb;
 }
 );
@@ -52415,7 +52441,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (150,70);
+pos = (150,90);
 ref = dieresiscomb;
 }
 );
@@ -52434,7 +52460,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (148,70);
+pos = (148,90);
 ref = dotaccentcomb;
 }
 );
@@ -52452,7 +52478,7 @@ shapes = (
 ref = i;
 },
 {
-pos = (149,184);
+pos = (149,204);
 ref = dotbelowcomb;
 }
 );
@@ -52471,7 +52497,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (148,70);
+pos = (148,90);
 ref = gravecomb;
 }
 );
@@ -52490,7 +52516,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (149,70);
+pos = (149,90);
 ref = hookabovecomb;
 }
 );
@@ -52509,7 +52535,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (149,70);
+pos = (149,90);
 ref = breveinvertedcomb;
 }
 );
@@ -52528,7 +52554,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (149,70);
+pos = (149,90);
 ref = macroncomb;
 }
 );
@@ -52547,7 +52573,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (148,70);
+pos = (148,90);
 ref = dotaccentcomb;
 },
 {
@@ -52570,7 +52596,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (149,20);
+pos = (149,40);
 ref = tildecomb;
 }
 );
@@ -54763,10 +54789,10 @@ nodes = (
 (358,44,o),
 (358,123,cs),
 (358,202,o),
-(289,237,o),
-(227,268,cs),
-(207,278,ls),
-(165,299,o),
+(289,238,o),
+(227,269,cs),
+(207,279,ls),
+(165,300,o),
 (131,326,o),
 (131,366,cs),
 (131,403,o),
@@ -72343,7 +72369,7 @@ layers = (
 anchors = (
 {
 name = _bottom;
-pos = (-2,251);
+pos = (-1,251);
 }
 );
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
@@ -72488,11 +72514,11 @@ layers = (
 anchors = (
 {
 name = _si_MaU;
-pos = (573,209);
+pos = (624,209);
 },
 {
 name = rakar;
-pos = (578,177);
+pos = (629,177);
 }
 );
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
@@ -72591,56 +72617,61 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(361,190,l),
-(516,204,l),
-(505,237,l),
-(454,235,o),
-(410,234,o),
-(367,234,cs),
-(323,234,o),
-(247,235,o),
-(189,237,c),
-(198,202,l),
-(247,202,o),
-(327,192,o),
-(327,139,c)
+(361,184,l),
+(516,199,l),
+(505,231,l),
+(454,229,o),
+(410,228,o),
+(367,228,cs),
+(323,228,o),
+(247,229,o),
+(189,231,c),
+(198,197,l),
+(247,197,o),
+(327,186,o),
+(327,134,c)
 );
 },
 {
 closed = 1;
 nodes = (
-(495,-105,l),
-(487,-78,l),
-(433,-78,o),
-(377,-70,o),
-(374,-49,cs),
-(361,47,o),
-(363,141,o),
-(363,204,cs),
-(363,277,o),
-(362,385,o),
-(366,439,cs),
-(370,520,o),
-(424,571,o),
-(465,571,cs),
-(478,571,o),
-(492,569,o),
-(504,567,c),
-(501,618,l),
-(414,609,o),
-(315,541,o),
-(315,421,cs),
-(317,254,o),
-(317,77,o),
-(317,-47,c),
-(317,-47,o),
-(314,-72,o),
-(227,-72,c),
-(234,-105,l)
+(495,-100,l),
+(487,-73,l),
+(433,-73,o),
+(377,-65,o),
+(374,-45,cs),
+(361,52,o),
+(363,146,o),
+(363,210,cs),
+(363,283,o),
+(362,390,o),
+(366,444,cs),
+(370,525,o),
+(424,576,o),
+(465,576,cs),
+(520,576,o),
+(564,560,o),
+(596,513,c),
+(612,545,o),
+(629,561,o),
+(629,606,c),
+(622,609,o),
+(575,623,o),
+(524,623,cs),
+(430,623,o),
+(315,554,o),
+(315,427,cs),
+(317,258,o),
+(317,82,o),
+(317,-43,c),
+(317,-43,o),
+(314,-67,o),
+(227,-67,c),
+(234,-100,l)
 );
 }
 );
-width = 655;
+width = 670;
 }
 );
 },
@@ -73588,8 +73619,16 @@ value = "දැරණියගලට ඉහල අහසේ දඟකරන ව�
 );
 },
 {
+key = uniqueID;
+value = "Version 1.000; [9a6da2f]-dev";
+},
+{
 key = vendorID;
 value = mnik;
+},
+{
+key = versionString;
+value = "Version 1.000-dev";
 }
 );
 settings = {
