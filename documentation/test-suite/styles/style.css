@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Maname';
-    src: url("../Maname.ttf")format("trutype");
+    src: url("../../../fonts/ttf/Maname-Regular.ttf")format("trutype");
     font-weight: 400;
 }
 body {

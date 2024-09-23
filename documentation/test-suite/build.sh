@@ -5,10 +5,10 @@ GITHASH="$(git rev-parse --short HEAD)"
 
 echo '<p class='production-data'>' 'Generated on' $DATE '#'$GITHASH '</p>' > data.html
 cat data.html specimen.html > specimen_gen.html
-cat status.html data.html  > status_gen.html
+# cat status.html data.html  > status_gen.html
 
 weasyprint specimen_gen.html specimen.pdf
-weasyprint status_gen.html -r 600 status.png
+# weasyprint status_gen.html -r 600 status.png
 
 # mv ./specimen.pdf ../../documentation/
 # mv ./daily-status.png ../../documentation/
