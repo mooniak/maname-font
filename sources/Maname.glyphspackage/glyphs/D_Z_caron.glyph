@@ -1,0 +1,19 @@
+{
+glyphname = DZcaron;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (631,0);
+ref = Zcaron;
+}
+);
+width = 1194;
+}
+);
+unicode = 452;
+}

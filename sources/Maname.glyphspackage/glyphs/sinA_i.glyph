@@ -1,0 +1,24 @@
+{
+glyphname = sinAi;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+alignment = -1;
+pos = (471,0);
+ref = sinE;
+},
+{
+alignment = -1;
+pos = (0,-7);
+ref = sinMatraE;
+}
+);
+width = 1138;
+}
+);
+metricLeft = sinMatraE;
+metricRight = sinE;
+unicode = 3475;
+}

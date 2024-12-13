@@ -1,0 +1,22 @@
+{
+glyphname = sinYansaya_Reph_MatraAa;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = sinYansaya;
+},
+{
+pos = (600,0);
+ref = sinMatraAa;
+},
+{
+pos = (667,23);
+ref = sinReph;
+}
+);
+width = 907;
+}
+);
+}

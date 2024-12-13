@@ -1,0 +1,143 @@
+{
+glyphname = circumflex;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(72,704,o),
+(141,760,o),
+(153,783,c),
+(124,783,l),
+(134,767,o),
+(218,702,o),
+(253,689,c),
+(260,698,o),
+(269,720,o),
+(272,732,c),
+(223,761,o),
+(172,786,o),
+(138,822,c),
+(111,788,o),
+(54,752,o),
+(8,727,c),
+(33,690,l)
+);
+}
+);
+userData = {
+com.typemytype.robofont.layerData = {
+"Jan 29 17, 13:22" = {
+anchors = (
+{
+name = _top;
+x = 0;
+y = 873;
+}
+);
+components = (
+);
+contours = (
+{
+points = (
+{
+smooth = 0;
+x = -90;
+y = 934;
+},
+{
+smooth = 0;
+x = -30;
+y = 969;
+},
+{
+segmentType = curve;
+smooth = 0;
+x = 0;
+y = 1002;
+},
+{
+smooth = 0;
+x = 30;
+y = 979;
+},
+{
+smooth = 0;
+x = 92;
+y = 918;
+},
+{
+segmentType = curve;
+smooth = 0;
+x = 141;
+y = 909;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 170;
+y = 964;
+},
+{
+smooth = 0;
+x = 109;
+y = 996;
+},
+{
+smooth = 0;
+x = 53;
+y = 1058;
+},
+{
+segmentType = curve;
+smooth = 0;
+x = 19;
+y = 1103;
+},
+{
+segmentType = line;
+smooth = 0;
+x = -13;
+y = 1103;
+},
+{
+smooth = 0;
+x = -39;
+y = 1069;
+},
+{
+smooth = 0;
+x = -105;
+y = 1007;
+},
+{
+segmentType = curve;
+smooth = 0;
+x = -165;
+y = 964;
+},
+{
+segmentType = line;
+smooth = 0;
+x = -133;
+y = 909;
+}
+);
+}
+);
+lib = {
+};
+name = circumflex;
+unicodes = (
+);
+width = 0;
+};
+};
+};
+width = 278;
+}
+);
+unicode = 710;
+}

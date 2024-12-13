@@ -1,0 +1,29 @@
+{
+glyphname = j;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (156,-10);
+},
+{
+name = top;
+pos = (149,470);
+}
+);
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (148,120);
+ref = dotaccentcomb;
+}
+);
+width = 232;
+}
+);
+unicode = 106;
+}

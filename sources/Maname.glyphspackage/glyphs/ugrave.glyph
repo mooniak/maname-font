@@ -1,0 +1,19 @@
+{
+glyphname = ugrave;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (248,100);
+ref = gravecomb;
+}
+);
+width = 546;
+}
+);
+unicode = 249;
+}

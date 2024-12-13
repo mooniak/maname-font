@@ -1,0 +1,19 @@
+{
+glyphname = sinPR.virama;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+pos = (517,53);
+ref = sinVirama;
+},
+{
+pos = (2,0);
+ref = sinPRa;
+}
+);
+width = 644;
+}
+);
+}

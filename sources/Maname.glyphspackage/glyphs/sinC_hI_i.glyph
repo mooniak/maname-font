@@ -1,0 +1,267 @@
+{
+glyphname = sinChIi;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(344,466,o),
+(357,468,o),
+(370,473,c),
+(376,495,l),
+(325,495,o),
+(247,516,o),
+(247,602,cs),
+(247,666,o),
+(302,707,o),
+(349,709,cs),
+(393,711,o),
+(460,704,o),
+(460,659,cs),
+(460,636,o),
+(437,611,o),
+(405,611,cs),
+(388,611,o),
+(370,622,o),
+(370,643,cs),
+(370,685,o),
+(420,693,o),
+(447,693,cs),
+(456,693,o),
+(462,692,o),
+(462,692,c),
+(469,702,l),
+(456,706,o),
+(445,715,o),
+(414,715,cs),
+(380,715,o),
+(328,697,o),
+(322,648,cs),
+(321,644,o),
+(321,641,o),
+(321,637,cs),
+(321,600,o),
+(352,578,o),
+(393,578,cs),
+(468,578,o),
+(506,625,o),
+(506,669,cs),
+(506,679,o),
+(504,690,o),
+(500,701,cs),
+(489,730,o),
+(458,776,o),
+(377,776,cs),
+(249,776,o),
+(198,683,o),
+(198,610,cs),
+(198,523,o),
+(261,466,o),
+(331,466,cs)
+);
+},
+{
+pos = (-20,0);
+ref = sinCha;
+}
+);
+userData = {
+com.typemytype.robofont.layerData = {
+background = {
+anchors = (
+);
+components = (
+);
+contours = (
+{
+points = (
+{
+segmentType = curve;
+smooth = 1;
+x = 372;
+y = 654;
+},
+{
+smooth = 0;
+x = 372;
+y = 798;
+},
+{
+smooth = 0;
+x = 487;
+y = 875;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 596;
+y = 875;
+},
+{
+smooth = 0;
+x = 727;
+y = 875;
+},
+{
+smooth = 0;
+x = 764;
+y = 802;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 770;
+y = 790;
+},
+{
+smooth = 0;
+x = 778;
+y = 774;
+},
+{
+smooth = 0;
+x = 785;
+y = 749;
+},
+{
+segmentType = curve;
+smooth = 0;
+x = 785;
+y = 741;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 732;
+y = 719;
+},
+{
+smooth = 0;
+x = 731;
+y = 730;
+},
+{
+smooth = 0;
+x = 724;
+y = 739;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 709;
+y = 750;
+},
+{
+smooth = 0;
+x = 686;
+y = 767;
+},
+{
+smooth = 0;
+x = 652;
+y = 786;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 580;
+y = 784;
+},
+{
+smooth = 0;
+x = 498;
+y = 782;
+},
+{
+smooth = 0;
+x = 423;
+y = 738;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 423;
+y = 647;
+},
+{
+smooth = 0;
+x = 423;
+y = 573;
+},
+{
+smooth = 0;
+x = 506;
+y = 550;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 543;
+y = 550;
+},
+{
+smooth = 0;
+x = 573;
+y = 550;
+},
+{
+smooth = 0;
+x = 563;
+y = 552;
+},
+{
+segmentType = curve;
+smooth = 0;
+x = 571;
+y = 553;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 561;
+y = 523;
+},
+{
+smooth = 0;
+x = 544;
+y = 512;
+},
+{
+smooth = 0;
+x = 531;
+y = 507;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 515;
+y = 507;
+},
+{
+smooth = 0;
+x = 437;
+y = 507;
+},
+{
+smooth = 0;
+x = 372;
+y = 562;
+}
+);
+}
+);
+lib = {
+};
+name = sinChIi;
+unicodes = (
+);
+width = 937;
+};
+};
+};
+width = 586;
+}
+);
+}

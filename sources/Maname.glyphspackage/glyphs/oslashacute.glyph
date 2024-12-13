@@ -1,0 +1,19 @@
+{
+glyphname = oslashacute;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = oslash;
+},
+{
+pos = (268,30);
+ref = acutecomb;
+}
+);
+width = 510;
+}
+);
+unicode = 511;
+}

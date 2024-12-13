@@ -1,0 +1,24 @@
+{
+export = 0;
+glyphname = onequarter;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = fraction;
+},
+{
+pos = (462,0);
+ref = onesuperior;
+},
+{
+pos = (717,0);
+ref = foursuperior;
+}
+);
+width = 1072;
+}
+);
+unicode = 188;
+}

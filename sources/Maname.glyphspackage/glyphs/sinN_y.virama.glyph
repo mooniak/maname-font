@@ -1,0 +1,19 @@
+{
+glyphname = sinNy.virama;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = sinNya;
+},
+{
+pos = (965,68);
+ref = sinVirama;
+}
+);
+width = 1094;
+}
+);
+metricRight = "da-sinhala";
+}

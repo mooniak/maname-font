@@ -1,0 +1,21 @@
+{
+glyphname = firsttonechinese;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(306,582,l),
+(299,639,l),
+(15,639,l),
+(23,582,l)
+);
+}
+);
+width = 0;
+}
+);
+unicode = 713;
+}

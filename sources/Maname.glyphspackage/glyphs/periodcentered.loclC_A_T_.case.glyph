@@ -1,0 +1,14 @@
+{
+glyphname = periodcentered.loclCAT.case;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = periodcentered.loclCAT;
+}
+);
+width = 245;
+}
+);
+}

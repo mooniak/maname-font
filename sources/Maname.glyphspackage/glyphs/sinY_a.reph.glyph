@@ -1,0 +1,19 @@
+{
+glyphname = sinYa.reph;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = sinYa;
+},
+{
+pos = (370,-11);
+ref = sinReph.2;
+scale = (1.0282,1.0282);
+}
+);
+width = 695;
+}
+);
+}

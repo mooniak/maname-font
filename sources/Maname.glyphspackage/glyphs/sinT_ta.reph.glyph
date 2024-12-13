@@ -1,0 +1,18 @@
+{
+glyphname = sinTta.reph;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = sinTta;
+},
+{
+pos = (540,160);
+ref = sinReph;
+}
+);
+width = 628;
+}
+);
+}

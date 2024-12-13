@@ -1,0 +1,23 @@
+{
+category = Mark;
+glyphname = sinMatraO;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+alignment = -1;
+pos = (663,-17);
+ref = sinMatraAa;
+},
+{
+ref = sinMatraE;
+}
+);
+width = 941;
+}
+);
+script = sinhala;
+subCategory = Spacing;
+unicode = 3548;
+}

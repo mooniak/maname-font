@@ -1,0 +1,19 @@
+{
+glyphname = sinDhUu;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = sinDha;
+},
+{
+pos = (609,20);
+ref = sinMatraUu.alt;
+scale = (1.0426,1.0426);
+}
+);
+width = 676;
+}
+);
+}

@@ -1,0 +1,34 @@
+{
+glyphname = sinBhIi;
+layers = (
+{
+guides = (
+{
+pos = (212,680);
+}
+);
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = sinBha;
+},
+{
+pos = (581,33);
+ref = sinMatraIi.alt2;
+scale = (1.0426,1.0426);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+x = 417;
+y = 890;
+}
+);
+};
+width = 835;
+}
+);
+}

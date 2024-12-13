@@ -1,0 +1,24 @@
+{
+glyphname = sinKRIi;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = sinKa;
+},
+{
+pos = (358,9);
+ref = sinMatraIi.alt1;
+scale = (1.0426,1.0426);
+},
+{
+pos = (832,-19);
+ref = sinRakar.long;
+scale = (1.0426,1.0426);
+}
+);
+width = 899;
+}
+);
+}

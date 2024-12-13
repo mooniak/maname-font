@@ -1,0 +1,20 @@
+{
+glyphname = sinBhI;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = sinBha;
+},
+{
+pos = (560,-23);
+ref = sinMatraI.alt2;
+scale = (1.0426,1.0426);
+}
+);
+width = 835;
+}
+);
+metricLeft = sinBha;
+}

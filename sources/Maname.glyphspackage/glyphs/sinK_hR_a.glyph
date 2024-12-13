@@ -1,0 +1,19 @@
+{
+glyphname = sinKhRa;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = sinKha;
+},
+{
+pos = (639,-25);
+ref = sinRakar.medium;
+scale = (1.0426,1.0426);
+}
+);
+width = 682;
+}
+);
+}

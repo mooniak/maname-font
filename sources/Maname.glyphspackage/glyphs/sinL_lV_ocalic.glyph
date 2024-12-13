@@ -1,0 +1,20 @@
+{
+glyphname = sinLlVocalic;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+alignment = -1;
+ref = sinLVocalic;
+},
+{
+pos = (820,0);
+ref = sinMatraLs;
+}
+);
+width = 1284;
+}
+);
+unicode = 3472;
+}

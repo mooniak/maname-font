@@ -1,0 +1,27 @@
+{
+export = 0;
+glyphname = kip;
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(501,283,l),
+(489,344,l),
+(352,336,o),
+(155,337,o),
+(16,344,c),
+(21,283,l)
+);
+},
+{
+ref = K;
+}
+);
+width = 656;
+}
+);
+unicode = 8365;
+}
