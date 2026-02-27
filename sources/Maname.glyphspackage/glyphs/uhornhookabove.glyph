@@ -8,7 +8,8 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (249,354);
+alignment = -1;
+pos = (262,100);
 ref = hookabovecomb;
 }
 );

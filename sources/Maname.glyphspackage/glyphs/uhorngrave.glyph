@@ -8,7 +8,8 @@ shapes = (
 ref = uhorn;
 },
 {
-pos = (248,354);
+alignment = -1;
+pos = (247,121);
 ref = gravecomb;
 }
 );

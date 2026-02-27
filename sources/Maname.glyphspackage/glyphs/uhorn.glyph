@@ -8,7 +8,8 @@ shapes = (
 ref = u;
 },
 {
-pos = (249,100);
+alignment = -1;
+pos = (510,-84);
 ref = horncomb;
 }
 );
