@@ -1,5 +1,5 @@
 {
-.appVersion = "3260";
+.appVersion = "3513";
 .formatVersion = 3;
 axes = (
 {
@@ -2460,6 +2460,7 @@ disablesNiceNames = 1;
 };
 unitsPerEm = 1000;
 userData = {
+GSDontShowVersionAlert = 1;
 LWPluginVersion = "1429";
 UFO.lib = {
 GSDimensionPlugin.Dimensions = {
