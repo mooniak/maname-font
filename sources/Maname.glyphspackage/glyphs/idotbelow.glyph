@@ -8,8 +8,9 @@ shapes = (
 ref = i;
 },
 {
-pos = (149,224);
-ref = dotbelowcomb;
+alignment = -1;
+pos = (84,-736);
+ref = dotaccent;
 }
 );
 width = 305;

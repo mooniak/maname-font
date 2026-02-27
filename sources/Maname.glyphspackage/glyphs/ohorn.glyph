@@ -8,11 +8,12 @@ shapes = (
 ref = o;
 },
 {
-pos = (269,80);
+alignment = -1;
+pos = (519,-104);
 ref = horncomb;
 }
 );
-width = 510;
+width = 560;
 }
 );
 unicode = 417;

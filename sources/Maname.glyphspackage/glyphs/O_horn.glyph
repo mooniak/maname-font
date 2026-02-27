@@ -8,11 +8,12 @@ shapes = (
 ref = O;
 },
 {
-pos = (309,240);
+alignment = -1;
+pos = (611,32);
 ref = horncomb;
 }
 );
-width = 630;
+width = 640;
 }
 );
 metricLeft = "=O";
