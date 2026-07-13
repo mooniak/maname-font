@@ -1,0 +1,19 @@
+{
+glyphname = "jRIi-sinh";
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = "jIi-sinh";
+},
+{
+pos = (605,12);
+ref = "rasign-sinh.short";
+scale = (1.0426,1.0426);
+}
+);
+width = 671;
+}
+);
+}

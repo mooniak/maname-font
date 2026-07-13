@@ -1,0 +1,19 @@
+{
+glyphname = "nDhUu-sinh";
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = "nDha-sinh";
+},
+{
+pos = (1008,-10);
+ref = "uusign-sinh.alt";
+scale = (1.0426,1.0426);
+}
+);
+width = 1100;
+}
+);
+}

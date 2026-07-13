@@ -1,0 +1,23 @@
+{
+glyphname = "ssR-sinh";
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = "ssa-sinh";
+},
+{
+pos = (602,22);
+ref = "rasign-sinh.short";
+scale = (1.0426,1.0426);
+},
+{
+pos = (516,61);
+ref = "virama-sinh";
+}
+);
+width = 643;
+}
+);
+}

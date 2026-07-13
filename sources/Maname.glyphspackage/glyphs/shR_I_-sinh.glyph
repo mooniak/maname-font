@@ -1,0 +1,19 @@
+{
+glyphname = "shRI-sinh";
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = "shI-sinh";
+},
+{
+pos = (731,-31);
+ref = "rasign-sinh.long";
+scale = (1.0426,1.0426);
+}
+);
+width = 796;
+}
+);
+}

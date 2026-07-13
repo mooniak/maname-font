@@ -1,0 +1,19 @@
+{
+glyphname = "khRI-sinh";
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = "khI-sinh";
+},
+{
+pos = (622,-60);
+ref = "rasign-sinh.medium";
+scale = (1.0426,1.0426);
+}
+);
+width = 677;
+}
+);
+}

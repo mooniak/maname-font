@@ -1,0 +1,19 @@
+{
+glyphname = "dI-sinh";
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = "da-sinh";
+},
+{
+pos = (238,11);
+ref = "isign-sinh.alt3";
+scale = (1.0426,1.0426);
+}
+);
+width = 483;
+}
+);
+}

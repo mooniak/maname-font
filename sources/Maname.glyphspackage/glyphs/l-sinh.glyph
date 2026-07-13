@@ -1,0 +1,20 @@
+{
+glyphname = "l-sinh";
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = "la-sinh";
+},
+{
+pos = (591,47);
+ref = "virama-sinh";
+}
+);
+width = 694;
+}
+);
+metricLeft = "la-sinhala";
+metricRight = "la-sinhala";
+}

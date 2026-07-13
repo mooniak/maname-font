@@ -1,0 +1,19 @@
+{
+glyphname = "kSsIi-sinh";
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = "kSsa-sinh";
+},
+{
+pos = (837,-20);
+ref = "iisign-sinh.alt";
+scale = (1.0426,1.0426);
+}
+);
+width = 1126;
+}
+);
+}

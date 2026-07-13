@@ -1,0 +1,19 @@
+{
+glyphname = "dR-sinh";
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = "dRa-sinh";
+},
+{
+alignment = -1;
+pos = (349,-20);
+ref = "virama-sinh";
+}
+);
+width = 438;
+}
+);
+}

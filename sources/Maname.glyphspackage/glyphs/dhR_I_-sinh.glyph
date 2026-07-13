@@ -1,0 +1,21 @@
+{
+glyphname = "dhRI-sinh";
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = "dhI-sinh";
+},
+{
+pos = (612,-30);
+ref = "rasign-sinh.medium";
+scale = (1.0426,1.0426);
+}
+);
+width = 664;
+}
+);
+metricLeft = sinDha;
+metricRight = sinDha;
+}

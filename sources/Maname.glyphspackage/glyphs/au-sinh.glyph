@@ -1,0 +1,50 @@
+{
+glyphname = "au-sinh";
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = "o-sinh";
+},
+{
+pos = (643,0);
+ref = "vocalicllsign-sinh";
+}
+);
+userData = {
+com.typemytype.robofont.layerData = {
+"Jan 19 17, 02:22" = {
+anchors = (
+);
+components = (
+{
+baseGlyph = sinO;
+transformation = (
+1,
+0,
+0,
+1,
+0,
+0
+);
+}
+);
+contours = (
+);
+lib = {
+};
+name = "au-sinh";
+unicodes = (
+);
+width = 818;
+};
+};
+};
+width = 1112;
+}
+);
+metricLeft = sinO;
+metricRight = sinMatraLs;
+unicode = 3478;
+}

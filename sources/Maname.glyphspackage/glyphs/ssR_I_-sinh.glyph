@@ -1,0 +1,20 @@
+{
+glyphname = "ssRI-sinh";
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = "ssRa-sinh";
+},
+{
+pos = (353,33);
+ref = "isign-sinh.alt";
+scale = (1.0426,1.0426);
+}
+);
+width = 643;
+}
+);
+metricRight = sinPa;
+}

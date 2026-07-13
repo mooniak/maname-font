@@ -1,0 +1,18 @@
+{
+glyphname = "ttha_repha-sinh";
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = "ttha-sinh";
+},
+{
+pos = (390,10);
+ref = "repha-sinh";
+}
+);
+width = 669;
+}
+);
+}
