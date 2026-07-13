@@ -1,0 +1,86 @@
+{
+  "name": "Maname",
+  "id": "maname",
+  "type": "family",
+  "designer": [
+    "Mooniak"
+  ],
+  "scripts": [
+    "Sinh"
+  ],
+  "description": "A Sinhala serif typeface by the Mooniak foundry, first published in 2019.",
+  "license": "OFL-1.1",
+  "channels": [
+    "release",
+    "dev",
+    "nightly"
+  ],
+  "versions_provider": "tags",
+  "repository": {
+    "url": "https://github.com/mooniak/maname-font",
+    "type": "git"
+  },
+  "homepage_url": "https://src.mooniak.com/maname-font/",
+  "issues_url": "https://github.com/mooniak/maname-font/issues/",
+  "funding_url": "https://opencollective.com/akuruxyz/projects/lanka-font-library",
+  "foundry": {
+    "name": "mooniak",
+    "email": "hello@mooniak.com",
+    "url": "https://mooniak.com/",
+    "vendor_id": "MNIK"
+  },
+  "designers": [
+    {
+      "name": "Pathum Egodawatta",
+      "email": "pathum@mooniak.com",
+      "url": "https://pathumego.com/"
+    }
+  ],
+  "maintenance": {
+    "status": "actively-developed",
+    "comment": "Migrated from fontpackage.toml. Progress metrics need assessment."
+  },
+  "tools": "Fontforge, Glyphs",
+  "progress": {
+    "design": 0,
+    "family_styles": 0,
+    "character_set": 0,
+    "drawing_quality": 0,
+    "spacing": 0,
+    "kerning": 0,
+    "hinting": 0,
+    "opentype_features": 0
+  },
+  "tags": {
+    "style": "serif",
+    "contrast": "medium",
+    "width": "normal",
+    "body_height": "normal",
+    "intended_usage": "text",
+    "figures": "normal",
+    "languages": [
+      "si_LK"
+    ],
+    "related_fonts": []
+  },
+  "directory": {
+    "listed": true,
+    "display_texts": {
+      "en_US": "",
+      "si_LK": "මනමේ නාටකය වනාහී දේශීය නාට්‍ය සම්ප්‍රදායයේ අග්‍ර ඵලයයි"
+    },
+    "display_images": {
+      "banner": "",
+      "thumbnail": "",
+      "small": "",
+      "medium": "",
+      "large": ""
+    },
+    "links": {
+      "font_in_use": "",
+      "googlefonts": "",
+      "fontlibrary_org": "",
+      "typekit": ""
+    }
+  }
+}
