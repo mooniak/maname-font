@@ -10,12 +10,12 @@ ref = "sa-sinh";
 {
 pos = (692,2);
 ref = "rasign-sinh.short";
-scale = (1.0426,1.0426);
+scale = (1.043,1.043);
 },
 {
 pos = (404,-4);
 ref = "iisign-sinh.alt";
-scale = (1.0426,1.0426);
+scale = (1.043,1.043);
 }
 );
 width = 733;

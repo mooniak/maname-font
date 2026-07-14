@@ -10,7 +10,7 @@ ref = "dda-sinh";
 {
 pos = (649,50);
 ref = "uusign-sinh.alt";
-scale = (1.0426,1.0426);
+scale = (1.043,1.043);
 }
 );
 width = 724;

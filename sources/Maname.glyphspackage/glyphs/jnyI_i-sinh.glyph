@@ -10,7 +10,7 @@ ref = "jnya-sinh";
 {
 pos = (712,20);
 ref = "iisign-sinh.alt3";
-scale = (1.0426,1.0426);
+scale = (1.043,1.043);
 }
 );
 width = 963;

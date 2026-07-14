@@ -10,12 +10,12 @@ ref = "ka-sinh";
 {
 pos = (358,9);
 ref = "iisign-sinh.alt1";
-scale = (1.0426,1.0426);
+scale = (1.043,1.043);
 },
 {
 pos = (832,-19);
 ref = "rasign-sinh.long";
-scale = (1.0426,1.0426);
+scale = (1.043,1.043);
 }
 );
 width = 899;

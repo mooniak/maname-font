@@ -10,7 +10,7 @@ ref = "ttIi-sinh";
 {
 pos = (617,0);
 ref = "rasign-sinh.medium";
-scale = (1.0426,1.0426);
+scale = (1.043,1.043);
 }
 );
 width = 638;

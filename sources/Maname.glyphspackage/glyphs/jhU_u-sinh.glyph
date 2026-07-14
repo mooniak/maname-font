@@ -10,7 +10,7 @@ ref = "jha-sinh";
 {
 pos = (1069,60);
 ref = "uusign-sinh.alt";
-scale = (1.0426,1.0426);
+scale = (1.043,1.043);
 }
 );
 width = 1130;

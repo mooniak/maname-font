@@ -130,7 +130,7 @@ nodes = (
 {
 pos = (576,8);
 ref = "uusign-sinh.alt1";
-scale = (1.0426,1.0426);
+scale = (1.043,1.043);
 }
 );
 width = 825;

@@ -10,7 +10,7 @@ ref = "jha-sinh";
 {
 pos = (1092,0);
 ref = "rasign-sinh.medium";
-scale = (1.0426,1.0426);
+scale = (1.043,1.043);
 }
 );
 width = 1130;

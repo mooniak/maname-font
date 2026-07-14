@@ -10,7 +10,7 @@ ref = "nya-sinh";
 {
 pos = (798,11);
 ref = "isign-sinh.alt3";
-scale = (1.0426,1.0426);
+scale = (1.043,1.043);
 }
 );
 width = 1094;

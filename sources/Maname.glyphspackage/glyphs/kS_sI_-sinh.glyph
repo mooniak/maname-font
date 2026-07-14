@@ -10,7 +10,7 @@ ref = "kSsa-sinh";
 {
 pos = (846,13);
 ref = "isign-sinh.alt";
-scale = (1.0426,1.0426);
+scale = (1.043,1.043);
 }
 );
 width = 1126;

@@ -10,7 +10,7 @@ ref = "gI-sinh";
 {
 pos = (727,-16);
 ref = "rasign-sinh.long";
-scale = (1.0426,1.0426);
+scale = (1.043,1.043);
 }
 );
 width = 758;

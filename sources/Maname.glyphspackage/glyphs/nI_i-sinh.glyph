@@ -10,7 +10,7 @@ ref = "na-sinh";
 {
 pos = (338,9);
 ref = "iisign-sinh.alt1";
-scale = (1.0426,1.0426);
+scale = (1.043,1.043);
 }
 );
 width = 851;

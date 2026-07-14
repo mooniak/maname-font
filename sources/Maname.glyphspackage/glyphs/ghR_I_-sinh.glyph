@@ -10,7 +10,7 @@ ref = "ghI-sinh";
 {
 pos = (681,-8);
 ref = "rasign-sinh.short";
-scale = (1.0426,1.0426);
+scale = (1.043,1.043);
 }
 );
 width = 720;

@@ -10,7 +10,7 @@ ref = "pa-sinh";
 {
 pos = (573,-10);
 ref = "uusign-sinh.alt";
-scale = (1.0426,1.0426);
+scale = (1.043,1.043);
 }
 );
 width = 640;

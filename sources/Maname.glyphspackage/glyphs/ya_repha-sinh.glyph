@@ -10,7 +10,7 @@ ref = "ya-sinh";
 {
 pos = (370,-11);
 ref = "repha-sinh.2";
-scale = (1.0282,1.0282);
+scale = (1.028,1.028);
 }
 );
 width = 695;

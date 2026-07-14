@@ -10,7 +10,7 @@ ref = "dRa-sinh";
 {
 pos = (282,18);
 ref = "iisign-sinh.alt3";
-scale = (1.0426,1.0426);
+scale = (1.043,1.043);
 }
 );
 width = 438;

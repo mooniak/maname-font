@@ -15,7 +15,7 @@ ref = "bha-sinh";
 {
 pos = (581,33);
 ref = "iisign-sinh.alt2";
-scale = (1.0426,1.0426);
+scale = (1.043,1.043);
 }
 );
 userData = {
