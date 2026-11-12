@@ -40,3 +40,13 @@ Thumbs.db
 *（自动存储）.*
 *（已自動儲存）.*
 /out
+
+# Build intermediates, outputs and proofs (from mooniak-font-project-template)
+.venv
+__pycache__/
+*.pyc
+subset-files
+build-*.ninja
+.ninja_deps
+/_site
+/publish
