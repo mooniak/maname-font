@@ -10,6 +10,7 @@
   ],
   "description": "A Sinhala serif typeface by the Mooniak foundry, first published in 2019.",
   "license": "OFL-1.1",
+  "tier": "free",
   "channels": [
     "canary",
     "dev",
