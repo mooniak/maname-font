@@ -14,6 +14,10 @@ pos = (457,2);
 {
 name = top;
 pos = (279,470);
+},
+{
+name = virama;
+pos = (424,428);
 }
 );
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
