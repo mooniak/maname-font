@@ -1,0 +1,289 @@
+[
+ {
+  "family": "Maname",
+  "commit": "d02304d2fe6e2e0ebbe878fbfd74aaabf4eee3fb",
+  "commit_short": "d02304d",
+  "version": "1.100",
+  "generated_at": "2026-11-13T12:45:05Z",
+  "stage": {
+   "n": 10,
+   "name": "Long tail and polish",
+   "cumulative": 110,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": true,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "googlefonts",
+   "verdict": "fail",
+   "pass_rate": 72,
+   "counts": {
+    "FAIL": 1,
+    "WARN": 18,
+    "SKIP": 84,
+    "INFO": 19,
+    "PASS": 99
+   },
+   "total_checks": 221
+  },
+  "run_url": "https://github.com/mooniak/maname-font/actions/runs/43427656880",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/maname-font"
+ },
+ {
+  "family": "Maname",
+  "commit": "ea9fcb82fbe1f66654a790d1fa967d12c5eb6700",
+  "commit_short": "ea9fcb8",
+  "version": "1.100",
+  "generated_at": "2026-11-13T07:15:40Z",
+  "stage": {
+   "n": 10,
+   "name": "Long tail and polish",
+   "cumulative": 110,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": true,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "googlefonts",
+   "verdict": "fail",
+   "pass_rate": 72,
+   "counts": {
+    "FAIL": 1,
+    "WARN": 18,
+    "SKIP": 84,
+    "INFO": 19,
+    "PASS": 99
+   },
+   "total_checks": 221
+  },
+  "run_url": "https://github.com/mooniak/maname-font/actions/runs/43384314746",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/maname-font"
+ },
+ {
+  "family": "Maname",
+  "commit": "0ac0bb3ca04129f0dda7a0fafc1a21fa6d44e8b0",
+  "commit_short": "0ac0bb3",
+  "version": "1.100",
+  "generated_at": "2026-11-13T07:01:49Z",
+  "stage": {
+   "n": 10,
+   "name": "Long tail and polish",
+   "cumulative": 110,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": true,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "googlefonts",
+   "verdict": "fail",
+   "pass_rate": 70,
+   "counts": {
+    "FAIL": 3,
+    "WARN": 18,
+    "SKIP": 84,
+    "INFO": 20,
+    "PASS": 96
+   },
+   "total_checks": 221
+  },
+  "run_url": "https://github.com/mooniak/maname-font/actions/runs/43382655308",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/maname-font"
+ },
+ {
+  "family": "Maname",
+  "commit": "ea63af65e283bd46f259ed553cc15bd4abc59207",
+  "commit_short": "ea63af6",
+  "version": "1.002",
+  "generated_at": "2026-11-13T06:58:40Z",
+  "stage": {
+   "n": 10,
+   "name": "Long tail and polish",
+   "cumulative": 110,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": true,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "googlefonts",
+   "verdict": "fail",
+   "pass_rate": 70,
+   "counts": {
+    "FAIL": 3,
+    "WARN": 18,
+    "SKIP": 84,
+    "INFO": 20,
+    "PASS": 96
+   },
+   "total_checks": 221
+  },
+  "run_url": "https://github.com/mooniak/maname-font/actions/runs/43382289585",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/maname-font"
+ },
+ {
+  "family": "Maname",
+  "commit": "ce85c6c203f614cadcaee7289dec70c3971b5868",
+  "commit_short": "ce85c6c",
+  "version": "1.002",
+  "generated_at": "2026-11-13T06:41:02Z",
+  "stage": {
+   "n": 10,
+   "name": "Long tail and polish",
+   "cumulative": 110,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": true,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "googlefonts",
+   "verdict": "fail",
+   "pass_rate": 70,
+   "counts": {
+    "FAIL": 3,
+    "WARN": 18,
+    "SKIP": 84,
+    "INFO": 20,
+    "PASS": 96
+   },
+   "total_checks": 221
+  },
+  "run_url": "https://github.com/mooniak/maname-font/actions/runs/43380292442",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/maname-font"
+ },
+ {
+  "family": "Maname",
+  "commit": "7c5180415ea4b91e3e78162c898b265699dc9320",
+  "commit_short": "7c51804",
+  "version": "1.002",
+  "generated_at": "2026-11-13T06:32:25Z",
+  "stage": {
+   "n": 10,
+   "name": "Long tail and polish",
+   "cumulative": 110,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": true,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "googlefonts",
+   "verdict": "fail",
+   "pass_rate": 70,
+   "counts": {
+    "FAIL": 3,
+    "WARN": 18,
+    "SKIP": 84,
+    "INFO": 20,
+    "PASS": 96
+   },
+   "total_checks": 221
+  },
+  "run_url": "https://github.com/mooniak/maname-font/actions/runs/43379232058",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/maname-font"
+ },
+ {
+  "family": "Maname",
+  "commit": "f1d727e5fb5642cf993e2ff9071c756fe42014d0",
+  "commit_short": "f1d727e",
+  "version": "1.002",
+  "generated_at": "2026-11-12T11:04:02Z",
+  "stage": {
+   "n": 10,
+   "name": "Long tail and polish",
+   "cumulative": 110,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": true,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "googlefonts",
+   "verdict": "fail",
+   "pass_rate": 75,
+   "counts": {
+    "FAIL": 3,
+    "WARN": 17,
+    "SKIP": 84,
+    "INFO": 12,
+    "PASS": 97
+   },
+   "total_checks": 213
+  },
+  "run_url": "https://github.com/mooniak/maname-font/actions/runs/43205688729",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/maname-font"
+ }
+]
