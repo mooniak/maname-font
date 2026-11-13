@@ -2469,6 +2469,7 @@ value = mnik;
 }
 );
 settings = {
+disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 };
 unitsPerEm = 1000;
