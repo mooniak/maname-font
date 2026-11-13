@@ -10,7 +10,7 @@ ref = "ssRa-sinh";
 },
 {
 alignment = -1;
-pos = (353,33);
+pos = (353,13);
 ref = "isign-sinh.alt";
 scale = (1.043,1.043);
 }

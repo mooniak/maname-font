@@ -8,7 +8,7 @@ shapes = (
 ref = "ssa-sinh";
 },
 {
-pos = (351,39);
+pos = (351,19);
 ref = "isign-sinh.alt";
 scale = (1.028,1.028);
 }
