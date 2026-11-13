@@ -1,0 +1,18 @@
+{
+glyphname = "dda_repha-sinh";
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = "dda-sinh";
+},
+{
+pos = (680,150);
+ref = "repha-sinh";
+}
+);
+width = 724;
+}
+);
+}

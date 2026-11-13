@@ -1,0 +1,20 @@
+{
+glyphname = "thU-sinh";
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+ref = "tha-sinh";
+},
+{
+pos = (527,10);
+ref = "usign-sinh";
+}
+);
+width = 617;
+}
+);
+metricLeft = sinTha;
+metricRight = sinTha;
+}

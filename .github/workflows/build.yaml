@@ -1,4 +1,4 @@
-name: Build font and specimen
+name: Build font and proofs
 
 on:
   workflow_dispatch:
@@ -6,8 +6,9 @@ on:
   push:
     branches:
       - main
+      - dev
     tags:
-      - '*'
+      - "*"
 
 permissions: write-all
 
@@ -16,127 +17,139 @@ jobs:
     name: Build and test
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v6
-    - name: Set up Python 3.11
-      uses: actions/setup-python@v6
-      with:
-        python-version: "3.11"
-    - name: Setup fontspector
-      uses: fonttools/setup-fontspector@main
-      env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    - name: Install toolset
-      run: |
-        sudo apt-get update
-        sudo apt-get install ttfautohint libcairo2-dev python3-cairo-dev pkg-config python3-dev
-        sudo snap install yq
-    - uses: actions/cache@v4
-      with:
-        path: ./venv/
-        key: ${{ runner.os }}-venv-${{ hashFiles('**/requirements*.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-venv-
-    - name: Set artifact file name
-      id: zip-name
-      shell: bash
-      # Set the archive name to repo name + "-fonts" e.g "radiocanadafonts-fonts.zip"
-      run: echo "ZIP_NAME=$(echo '${{ github.repository }}' | awk -F '/' '{print $2}')-fonts" >> $GITHUB_ENV
-
-    # If a new release is cut, use the release tag to auto-bump the source files
-    # - name: Bump release
-    #   if: github.event_name == 'release'
-    #   run: |
-    #     . venv/bin/activate
-    #     SRCS=$(yq e ".sources[]" sources/config.yaml)
-    #     TAG_NAME=${GITHUB_REF/refs\/tags\//}
-    #     echo "Bumping $SRCS to $TAG_NAME"
-    #     for src in $SRCS
-    #     do
-    #       bumpfontversion sources/$src --new-version $TAG_NAME;
-    #     done
-
-    - name: Build font
-      run: make build
-    - name: Check with fontspector
-      run: make test
-      continue-on-error: true
-    - name: Generate proofs
-      run: make proof
-    - name: Set up test result site
-      run: cp scripts/index.html out/index.html
-    - name: Collect deployment assets
-      if: ${{ github.ref == 'refs/heads/main' }}
-      uses: actions/upload-pages-artifact@v4
-      with:
-        path: ./out
-    - name: Archive artifacts
-      uses: actions/upload-artifact@v4
-      with:
-        name: ${{ env.ZIP_NAME }}
-        path: |
-          fonts
-          out
-    outputs:
-      zip_name: ${{ env.ZIP_NAME }}
-
-  deploy:
-    name: Deploy results to GitHub Pages
-    if: ${{ github.ref == 'refs/heads/main' }}
-    needs: build
-    runs-on: ubuntu-latest
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-
-  # There are two ways a release can be created: either by pushing a tag, or by
-  # creating a release from the GitHub UI. Pushing a tag does not automatically
-  # create a release, so we have to do that ourselves. However, creating a
-  # release from the GitHub UI *does* push a tag, and we don't want to create
-  # a new release in that case because one already exists!
-
-  release:
-    name: Release bundle
-    if: contains(github.ref, 'refs/tags/')
-    needs: build
-    runs-on: ubuntu-latest
-    env:
-      ZIP_NAME: ${{ needs.build.outputs.zip_name }}
-      GH_TOKEN: ${{ github.token }}
-    steps:
       - uses: actions/checkout@v6
-      - name: Use font artifacts from CI
-        uses: actions/download-artifact@v5
+      - name: Guard - release tags must be on main
+        # Day-to-day work happens on `dev`; `main` only moves when a release is cut. A plain
+        # vX.YYY tag (no -dev suffix) publishes a `release`, so it must point at a commit that is
+        # already on `main` (merge dev -> main, then tag main). Fails fast, before the build.
+        # compare API: status is head (this commit) relative to base (main) - "identical"/"behind"
+        # mean the commit is reachable from main; "ahead"/"diverged" mean it is not.
+        if: ${{ github.ref_type == 'tag' && !endsWith(github.ref_name, '-dev') && !contains(github.ref_name, '-dev.') }}
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          STATUS=$(gh api "repos/${{ github.repository }}/compare/main...${GITHUB_SHA}" --jq .status)
+          case "$STATUS" in
+            identical|behind) echo "ok: release tag ${GITHUB_REF_NAME} (${GITHUB_SHA::7}) is on main" ;;
+            *)
+              echo "::error::Release tag ${GITHUB_REF_NAME} is not on main (compare status: ${STATUS}). Merge dev into main first (merge commit or fast-forward, no squash), then tag main. For a development preview use vX.YYY-dev.N."
+              exit 1 ;;
+          esac
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v6
+        id: python
+        with:
+          python-version: "3.12"
+      - name: Setup fontspector
+        uses: fonttools/setup-fontspector@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: cargo-bins/cargo-binstall@main
+        name: Install cargo binstall
+      - name: Install Rust font tools
+        run: |
+          cargo binstall --no-confirm --disable-strategies compile diffenator3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Install toolset
+        run: |
+          sudo apt-get update
+          sudo apt-get install ttfautohint libcairo2-dev python3-cairo-dev pkg-config python3-dev
+          # yq (mikefarah) is preinstalled on GitHub-hosted ubuntu runners; snap is flaky, so avoid it
+      - uses: actions/cache@v5
+        with:
+          path: ./venv/
+          key: ${{ runner.os }}-venv${{ steps.python.outputs.python-version }}-${{ hashFiles('**/requirements*.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-venv${{ steps.python.outputs.python-version }}-
+      - name: Set artifact file name
+        id: zip-name
+        shell: bash
+        # Set the archive name to repo name + "-fonts" e.g "radiocanadafonts-fonts.zip"
+        run: echo "ZIP_NAME=$(echo '${{ github.repository }}' | awk -F '/' '{print $2}')-fonts" >> $GITHUB_ENV
+      - name: Read distribution tier
+        id: tier
+        shell: bash
+        # "free" | "premium" from fontpackage.json; anything else counts as premium (fail closed).
+        # Premium fonts never deploy to GitHub Pages, even from a public repo.
+        run: |
+          T=$(python3 -c "import json;print(json.load(open('fontpackage.json')).get('tier') or 'premium')" 2>/dev/null || echo premium)
+          echo "TIER=$T" >> $GITHUB_ENV
+          echo "tier=$T" >> $GITHUB_OUTPUT
+
+      # If a new release is cut, use the release tag to auto-bump the source files
+      # - name: Bump release
+      #   if: github.event_name == 'release'
+      #   run: |
+      #     . venv/bin/activate
+      #     SRCS=$(yq e ".sources[]" sources/config.yaml)
+      #     TAG_NAME=${GITHUB_REF/refs\/tags\//}
+      #     echo "Bumping $SRCS to $TAG_NAME"
+      #     for src in $SRCS
+      #     do
+      #       bumpfontversion sources/$src --new-version $TAG_NAME;
+      #     done
+
+      - name: Build font
+        run: make build
+      - name: Stamp version (OpenFV name table)
+        run: make stamp
+      - name: Check with fontspector
+        run: make test
+        continue-on-error: true
+      - name: Generate proofs
+        run: make proof
+      - name: Emit build manifest (fontstatus.json)
+        run: make manifest
+      - name: Install PDF renderer (dev / release builds only)
+        if: ${{ github.ref_type == 'tag' }}
+        run: |
+          . venv/bin/activate
+          pip install playwright
+          playwright install --with-deps chromium
+      - name: Build stage-gated proof site
+        # Which proof sections appear is decided by the font's computed design stage (scripts/gates.json);
+        # how deep the proof goes by the channel: canary = HTML, dev/release also PDF books.
+        run: make pages PDF=${{ github.ref_type == 'tag' && '1' || '' }}
+      - name: Archive artifacts
+        uses: actions/upload-artifact@v6
         with:
           name: ${{ env.ZIP_NAME }}
-          path: ${{ env.ZIP_NAME }}
-      - name: Copy ARTICLE.en_us.html to release directory
-        run: cp documentation/ARTICLE.en_us.html ${{ env.ZIP_NAME }}/ARTICLE.en_us.html
-        continue-on-error: true
-      - name: Copy OFL.txt to release directory
-        run: cp OFL.txt ${{ env.ZIP_NAME }}/OFL.txt
-      - name: Remove proof/test outputs from release
-        run: rm -rf ${{ env.ZIP_NAME }}/out
-      - name: Set release file name
+          path: |
+            fonts
+            out
+      - name: Set short SHA
+        if: ${{ github.ref_name == 'dev' && github.event_name == 'push' }}
         shell: bash
-        run: echo "RELEASE_ZIP_NAME=$(echo '${{ github.repository }}' | awk -F '/' '{print $2}')-${{github.ref_name}}" >> $GITHUB_ENV
-      - name: Create release bundle
-        run: mv ${{ env.ZIP_NAME }} ${{ env.RELEASE_ZIP_NAME }}; zip -r ${{ env.RELEASE_ZIP_NAME }}.zip ${{ env.RELEASE_ZIP_NAME }}
-      - name: Check for release
-        id: create_release
+        run: echo "SHORT_SHA=${GITHUB_SHA::7}" >> $GITHUB_ENV
+      - name: Archive dev-channel fonts for FontPipe
+        if: ${{ github.ref_name == 'dev' && github.event_name == 'push' }}
+        uses: actions/upload-artifact@v6
+        with:
+          name: dev-fonts-${{ env.SHORT_SHA }}
+          path: fonts/**/*.ttf
+          retention-days: 30
+      - name: Publish channel (canary / dev / release)
+        # canary = push to dev; dev = a *-dev.N tag; release = any other tag (guarded: must be on main).
+        if: ${{ (github.ref_name == 'dev' && github.event_name == 'push') || github.ref_type == 'tag' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          if ! gh release view ${{ github.ref_name }}; then
-          git show -s --format=%B ${{ github.ref_name }} | tail -n +4 | gh release create ${{ github.ref_name }} -t ${{ github.ref_name }} -F -
-          fi
-      - name: Populate release
-        run: |
-          gh release upload ${{ github.ref_name }} ${{ env.RELEASE_ZIP_NAME }}.zip --clobber
-      - name: Set release live
-        run: |
-          gh release edit ${{ github.ref_name }} --draft=false
+          if [ "$GITHUB_REF_TYPE" = "tag" ]; then
+            case "$GITHUB_REF_NAME" in *-dev.*|*-dev) CH=dev ;; *) CH=release ;; esac
+          else CH=canary; fi
+          bash scripts/publish_channel.sh "$CH"
+      - name: Publish proof site to GitHub Pages (latest dev build + canary log)
+        # Public + free-tier repos only (premium / undeclared tier fails closed: nothing is published).
+        # gh-pages root = this build; canary/<sha7>/ keeps it per commit. See scripts/publish_pages.sh.
+        if: ${{ github.ref_name == 'dev' && github.event_name == 'push' && github.event.repository.private == false && env.TIER == 'free' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: bash scripts/publish_pages.sh _site
+
+  # Publishing (canary / dev / release) is handled by the "Publish channel" step in the
+  # build job (scripts/publish_channel.sh) — the build job already has the built fonts +
+  # fontstatus.json in hand, so no separate release job / artifact round-trip is needed.
+  # canary → rolling `canary` pre-release; dev → `vX.YYY-dev.N` pre-release; release →
+  # `vX.YYY` Release. See docs/channels-and-versioning.md + docs/fontpipe-migration-brief.md.

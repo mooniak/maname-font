@@ -2,14 +2,21 @@
 glyphname = i;
 layers = (
 {
+anchors = (
+{
+name = top;
+pos = (149,684);
+}
+);
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
 shapes = (
 {
 ref = idotless;
 },
 {
-pos = (148,110);
-ref = dotaccentcomb;
+alignment = -1;
+pos = (78,-19);
+ref = dotaccent;
 }
 );
 width = 305;

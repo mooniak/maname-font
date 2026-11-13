@@ -8,11 +8,12 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (308,494);
+alignment = -1;
+pos = (314,238);
 ref = gravecomb;
 }
 );
-width = 630;
+width = 640;
 }
 );
 unicode = 7900;

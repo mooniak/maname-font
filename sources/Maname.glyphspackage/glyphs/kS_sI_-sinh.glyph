@@ -1,0 +1,23 @@
+{
+glyphname = "kSsI-sinh";
+layers = (
+{
+layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
+shapes = (
+{
+alignment = -1;
+ref = "kSsa-sinh";
+},
+{
+alignment = -1;
+pos = (846,13);
+ref = "isign-sinh.alt";
+scale = (1.043,1.043);
+}
+);
+width = 1126;
+}
+);
+metricLeft = sinKa;
+metricRight = sinPa;
+}

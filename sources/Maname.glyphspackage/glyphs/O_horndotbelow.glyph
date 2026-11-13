@@ -8,11 +8,12 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (309,444);
+alignment = -1;
+pos = (313,-685);
 ref = dotbelowcomb;
 }
 );
-width = 630;
+width = 704;
 }
 );
 metricLeft = "=O";

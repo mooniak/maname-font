@@ -1,0 +1,3 @@
+{
+  "files": [".github/**/*", "Makefile", "scripts/**/*", "requirements.in", "requirements.txt"]
+}

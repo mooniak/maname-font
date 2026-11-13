@@ -8,12 +8,14 @@ shapes = (
 ref = A;
 },
 {
-pos = (309,170);
+alignment = -1;
+pos = (309,-668);
 ref = dotbelowcomb;
 },
 {
-pos = (309,385);
-ref = brevecomb;
+alignment = -1;
+pos = (158,39);
+ref = breve;
 }
 );
 width = 640;
