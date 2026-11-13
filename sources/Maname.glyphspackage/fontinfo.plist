@@ -720,7 +720,7 @@ value = MNIK;
 }
 );
 date = "2024-05-05 19:56:57 +0000";
-familyName = "Maname DEV";
+familyName = Maname;
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;
