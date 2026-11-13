@@ -1,5 +1,5 @@
 {
-.appVersion = "3513";
+.appVersion = "3532";
 .formatVersion = 3;
 axes = (
 {
@@ -1558,7 +1558,6 @@ instanceInterpolations = {
 name = Regular;
 },
 {
-active = 0;
 axesValues = (
 25
 );
@@ -1567,9 +1566,9 @@ instanceInterpolations = {
 "51BB9282-3B82-4DF1-A67A-294D3E37D73A" = 1;
 };
 name = One;
+visible = 0;
 },
 {
-active = 0;
 axesValues = (
 50
 );
@@ -1578,9 +1577,9 @@ instanceInterpolations = {
 "51BB9282-3B82-4DF1-A67A-294D3E37D73A" = 1;
 };
 name = two;
+visible = 0;
 },
 {
-active = 0;
 axesValues = (
 70
 );
@@ -1589,9 +1588,9 @@ instanceInterpolations = {
 "51BB9282-3B82-4DF1-A67A-294D3E37D73A" = 1;
 };
 name = "Two half";
+visible = 0;
 },
 {
-active = 0;
 axesValues = (
 85
 );
@@ -1600,9 +1599,9 @@ instanceInterpolations = {
 "51BB9282-3B82-4DF1-A67A-294D3E37D73A" = 1;
 };
 name = Three;
+visible = 0;
 },
 {
-active = 0;
 axesValues = (
 100
 );
@@ -1611,6 +1610,7 @@ instanceInterpolations = {
 "51BB9282-3B82-4DF1-A67A-294D3E37D73A" = 1;
 };
 name = Heavy;
+visible = 0;
 }
 );
 kerningLTR = {
@@ -2425,6 +2425,10 @@ value = "Pathum Egodawatta";
 );
 },
 {
+key = designerURL;
+value = "http://www.mooniak.com/";
+},
+{
 key = licenses;
 values = (
 {
@@ -2462,17 +2466,11 @@ value = "දැරණියගලට ඉහල අහසේ දඟකරන ව�
 {
 key = vendorID;
 value = mnik;
-},
-{
-key = designerURL;
-value = "http://www.mooniak.com/";
 }
 );
 settings = {
 disablesNiceNames = 1;
 };
-stems = (
-);
 unitsPerEm = 1000;
 userData = {
 GSDontShowVersionAlert = 1;

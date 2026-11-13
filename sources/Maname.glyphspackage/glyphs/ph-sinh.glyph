@@ -8,7 +8,7 @@ shapes = (
 ref = "pha-sinh";
 },
 {
-pos = (528,40);
+pos = (528,90);
 ref = "virama-sinh";
 }
 );
