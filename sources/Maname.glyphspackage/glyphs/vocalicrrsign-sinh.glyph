@@ -9,11 +9,11 @@ shapes = (
 ref = "vocalicrsign-sinh";
 },
 {
-pos = (332,0);
+pos = (362,0);
 ref = "vocalicrsign-sinh";
 }
 );
-width = 664;
+width = 724;
 }
 );
 script = sinhala;

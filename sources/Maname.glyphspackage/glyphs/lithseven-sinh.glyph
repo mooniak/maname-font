@@ -8,7 +8,7 @@ shapes = (
 ref = "u-sinh";
 }
 );
-width = 600;
+width = 654;
 }
 );
 unicode = 3565;

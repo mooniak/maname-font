@@ -8,11 +8,11 @@ shapes = (
 ref = "fa-sinh.alt";
 },
 {
-pos = (540,10);
+pos = (589,11);
 ref = "repha-sinh";
 }
 );
-width = 655;
+width = 714;
 }
 );
 }

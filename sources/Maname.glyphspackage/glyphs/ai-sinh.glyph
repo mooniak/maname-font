@@ -6,16 +6,16 @@ layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
 shapes = (
 {
 alignment = -1;
-pos = (471,0);
+pos = (513,0);
 ref = "e-sinh";
 },
 {
 alignment = -1;
-pos = (0,-7);
+pos = (0,-8);
 ref = "esign-sinh";
 }
 );
-width = 1138;
+width = 1240;
 }
 );
 metricLeft = sinMatraE;

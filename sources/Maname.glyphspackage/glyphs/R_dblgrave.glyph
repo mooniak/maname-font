@@ -8,11 +8,11 @@ shapes = (
 ref = R;
 },
 {
-pos = (289,250);
+pos = (315,272);
 ref = dblgravecomb;
 }
 );
-width = 609;
+width = 664;
 }
 );
 unicode = 528;

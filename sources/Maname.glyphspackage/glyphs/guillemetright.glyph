@@ -10,11 +10,11 @@ ref = guilsinglright;
 },
 {
 alignment = -1;
-pos = (233,0);
+pos = (254,0);
 ref = guilsinglright;
 }
 );
-width = 508;
+width = 554;
 }
 );
 unicode = 187;

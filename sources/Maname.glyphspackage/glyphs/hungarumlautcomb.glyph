@@ -5,11 +5,11 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (1,410);
+pos = (1,447);
 },
 {
 name = top;
-pos = (1,674);
+pos = (1,735);
 }
 );
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
@@ -17,13 +17,13 @@ shapes = (
 {
 alignment = -1;
 angle = 28.0182;
-pos = (202,-175);
+pos = (220,-191);
 ref = acute;
 },
 {
 alignment = -1;
 angle = 28.0182;
-pos = (307,-193);
+pos = (335,-210);
 ref = acute;
 }
 );

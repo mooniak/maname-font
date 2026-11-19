@@ -8,11 +8,11 @@ shapes = (
 ref = D;
 },
 {
-pos = (278,240);
+pos = (303,262);
 ref = caroncomb;
 }
 );
-width = 631;
+width = 688;
 }
 );
 unicode = 270;

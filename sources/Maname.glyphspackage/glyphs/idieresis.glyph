@@ -8,11 +8,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (150,110);
+pos = (163,120);
 ref = dieresiscomb;
 }
 );
-width = 305;
+width = 332;
 }
 );
 unicode = 239;

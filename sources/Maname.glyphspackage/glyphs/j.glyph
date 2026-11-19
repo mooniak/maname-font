@@ -5,11 +5,11 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (156,-10);
+pos = (170,-11);
 },
 {
 name = top;
-pos = (149,470);
+pos = (162,512);
 }
 );
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
@@ -19,11 +19,11 @@ ref = jdotless;
 },
 {
 alignment = -1;
-pos = (78,-17);
+pos = (85,-19);
 ref = dotaccent;
 }
 );
-width = 232;
+width = 253;
 }
 );
 unicode = 106;

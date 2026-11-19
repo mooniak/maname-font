@@ -8,15 +8,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (309,190);
+pos = (337,207);
 ref = dotbelowcomb;
 },
 {
-pos = (308,374);
+pos = (336,408);
 ref = circumflexcomb;
 }
 );
-width = 630;
+width = 687;
 }
 );
 metricLeft = "=O";

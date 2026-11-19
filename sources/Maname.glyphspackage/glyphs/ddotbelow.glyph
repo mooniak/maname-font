@@ -9,11 +9,11 @@ ref = d;
 },
 {
 alignment = -1;
-pos = (289,-666);
+pos = (315,-726);
 ref = dotbelowcomb;
 }
 );
-width = 574;
+width = 626;
 }
 );
 unicode = 7693;

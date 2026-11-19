@@ -8,16 +8,16 @@ shapes = (
 ref = "ssa-sinh";
 },
 {
-pos = (602,22);
+pos = (656,24);
 ref = "rasign-sinh.short";
 scale = (1.043,1.043);
 },
 {
-pos = (516,61);
+pos = (562,66);
 ref = "virama-sinh";
 }
 );
-width = 643;
+width = 701;
 }
 );
 }

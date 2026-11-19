@@ -8,7 +8,7 @@ shapes = (
 ref = "o-sinh";
 },
 {
-pos = (643,0);
+pos = (701,0);
 ref = "vocalicllsign-sinh";
 }
 );
@@ -41,7 +41,7 @@ width = 818;
 };
 };
 };
-width = 1112;
+width = 1212;
 }
 );
 metricLeft = sinO;

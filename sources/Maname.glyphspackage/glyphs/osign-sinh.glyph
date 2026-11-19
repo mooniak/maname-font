@@ -7,14 +7,14 @@ layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
 shapes = (
 {
 alignment = -1;
-pos = (663,-17);
+pos = (723,-19);
 ref = "aasign-sinh";
 },
 {
 ref = "esign-sinh";
 }
 );
-width = 941;
+width = 1026;
 }
 );
 script = sinhala;

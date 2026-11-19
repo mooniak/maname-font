@@ -8,11 +8,11 @@ shapes = (
 ref = "tRa-sinh";
 },
 {
-pos = (679,44);
+pos = (740,48);
 ref = "virama-sinh";
 }
 );
-width = 831;
+width = 906;
 }
 );
 }

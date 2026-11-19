@@ -9,11 +9,11 @@ shapes = (
 ref = "esign-sinh";
 },
 {
-pos = (488,0);
+pos = (532,0);
 ref = "vocalicllsign-sinh";
 }
 );
-width = 957;
+width = 1043;
 }
 );
 metricRight = "=sinMatraLs";

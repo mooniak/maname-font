@@ -9,11 +9,11 @@ ref = u;
 },
 {
 alignment = -1;
-pos = (510,-84);
+pos = (556,-92);
 ref = horncomb;
 }
 );
-width = 546;
+width = 595;
 }
 );
 unicode = 432;

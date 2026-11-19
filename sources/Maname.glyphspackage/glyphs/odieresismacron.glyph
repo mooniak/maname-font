@@ -8,15 +8,15 @@ shapes = (
 ref = o;
 },
 {
-pos = (270,80);
+pos = (294,87);
 ref = dieresiscomb;
 },
 {
-pos = (269,244);
+pos = (293,266);
 ref = macroncomb;
 }
 );
-width = 510;
+width = 556;
 }
 );
 unicode = 555;

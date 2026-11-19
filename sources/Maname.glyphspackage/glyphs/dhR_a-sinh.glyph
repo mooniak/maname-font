@@ -8,12 +8,12 @@ shapes = (
 ref = "dha-sinh";
 },
 {
-pos = (632,-40);
+pos = (689,-44);
 ref = "rasign-sinh.medium";
 scale = (1.043,1.043);
 }
 );
-width = 676;
+width = 737;
 }
 );
 metricRight = sinDha;

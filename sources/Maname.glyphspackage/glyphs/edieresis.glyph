@@ -8,11 +8,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (250,60);
+pos = (272,65);
 ref = dieresiscomb;
 }
 );
-width = 473;
+width = 516;
 }
 );
 unicode = 235;

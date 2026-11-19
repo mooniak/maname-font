@@ -9,11 +9,11 @@ ref = Ohorn;
 },
 {
 alignment = -1;
-pos = (321,184);
+pos = (350,201);
 ref = acutecomb;
 }
 );
-width = 640;
+width = 698;
 }
 );
 unicode = 7898;

@@ -9,11 +9,11 @@ ref = uhorn;
 },
 {
 alignment = -1;
-pos = (247,121);
+pos = (269,132);
 ref = gravecomb;
 }
 );
-width = 546;
+width = 595;
 }
 );
 unicode = 7915;

@@ -8,11 +8,11 @@ shapes = (
 ref = "a-sinh";
 },
 {
-pos = (569,0);
+pos = (620,0);
 ref = "aasign-sinh";
 }
 );
-width = 876;
+width = 955;
 }
 );
 unicode = 3462;

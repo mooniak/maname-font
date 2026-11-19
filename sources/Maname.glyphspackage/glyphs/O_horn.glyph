@@ -9,11 +9,11 @@ ref = O;
 },
 {
 alignment = -1;
-pos = (611,32);
+pos = (666,35);
 ref = horncomb;
 }
 );
-width = 640;
+width = 698;
 }
 );
 metricLeft = "=O";

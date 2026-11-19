@@ -8,11 +8,11 @@ shapes = (
 ref = "tha-sinh";
 },
 {
-pos = (527,10);
+pos = (574,11);
 ref = "usign-sinh";
 }
 );
-width = 617;
+width = 672;
 }
 );
 metricLeft = sinTha;

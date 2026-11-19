@@ -9,11 +9,11 @@ ref = "dRa-sinh";
 },
 {
 alignment = -1;
-pos = (349,-20);
+pos = (380,-22);
 ref = "virama-sinh";
 }
 );
-width = 438;
+width = 477;
 }
 );
 }

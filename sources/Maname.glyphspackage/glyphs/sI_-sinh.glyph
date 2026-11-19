@@ -10,12 +10,12 @@ ref = "sa-sinh";
 },
 {
 alignment = -1;
-pos = (413,29);
+pos = (450,32);
 ref = "isign-sinh.alt";
 scale = (1.043,1.043);
 }
 );
-width = 733;
+width = 799;
 }
 );
 }

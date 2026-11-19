@@ -5,14 +5,14 @@ layers = (
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
 shapes = (
 {
-pos = (374,19);
+pos = (408,21);
 ref = "iisign-sinh";
 },
 {
 ref = "fa-sinh";
 }
 );
-width = 674;
+width = 735;
 }
 );
 }

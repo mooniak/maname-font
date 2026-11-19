@@ -8,12 +8,12 @@ shapes = (
 ref = "jnya-sinh";
 },
 {
-pos = (712,20);
+pos = (776,22);
 ref = "iisign-sinh.alt3";
 scale = (1.043,1.043);
 }
 );
-width = 963;
+width = 1050;
 }
 );
 metricLeft = sinNnga;

@@ -6,7 +6,7 @@ layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
 shapes = (
 {
 alignment = -1;
-pos = (565,21);
+pos = (616,23);
 ref = "vocalicllsign-sinh";
 },
 {
@@ -14,7 +14,7 @@ pos = (0,-4);
 ref = "u-sinh";
 }
 );
-width = 987;
+width = 1076;
 }
 );
 metricLeft = sinU;

@@ -6,15 +6,15 @@ layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
 shapes = (
 {
 alignment = -1;
-pos = (520,61);
+pos = (567,66);
 ref = "aaesign-sinh";
 },
 {
-pos = (10,0);
+pos = (11,0);
 ref = "ra-sinh";
 }
 );
-width = 850;
+width = 926;
 }
 );
 }

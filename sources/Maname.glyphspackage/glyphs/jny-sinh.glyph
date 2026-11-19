@@ -9,11 +9,11 @@ ref = "jnya-sinh";
 },
 {
 alignment = -1;
-pos = (832,43);
+pos = (907,47);
 ref = "virama-sinh";
 }
 );
-width = 963;
+width = 1050;
 }
 );
 metricRight = sinDa;

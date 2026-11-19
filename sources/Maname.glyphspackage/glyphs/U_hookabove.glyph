@@ -8,11 +8,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (309,240);
+pos = (337,262);
 ref = hookabovecomb;
 }
 );
-width = 617;
+width = 672;
 }
 );
 metricLeft = "=O";

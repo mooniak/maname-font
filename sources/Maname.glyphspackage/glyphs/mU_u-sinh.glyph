@@ -8,11 +8,11 @@ shapes = (
 ref = "ma-sinh";
 },
 {
-pos = (555,-44);
+pos = (605,-48);
 ref = "uusign-sinh";
 }
 );
-width = 682;
+width = 743;
 }
 );
 metricLeft = sinMa;

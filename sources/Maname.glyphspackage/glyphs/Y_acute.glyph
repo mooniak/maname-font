@@ -8,11 +8,11 @@ shapes = (
 ref = Y;
 },
 {
-pos = (288,190);
+pos = (314,207);
 ref = acutecomb;
 }
 );
-width = 571;
+width = 622;
 }
 );
 unicode = 221;

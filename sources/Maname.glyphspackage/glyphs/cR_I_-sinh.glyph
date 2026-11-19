@@ -8,12 +8,12 @@ shapes = (
 ref = "cI-sinh";
 },
 {
-pos = (613,-25);
+pos = (668,-27);
 ref = "rasign-sinh.medium";
 scale = (1.043,1.043);
 }
 );
-width = 660;
+width = 719;
 }
 );
 }

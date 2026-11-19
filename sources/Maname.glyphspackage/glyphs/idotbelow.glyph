@@ -9,11 +9,11 @@ ref = i;
 },
 {
 alignment = -1;
-pos = (84,-736);
+pos = (92,-802);
 ref = dotaccent;
 }
 );
-width = 305;
+width = 332;
 }
 );
 unicode = 7883;

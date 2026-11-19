@@ -8,11 +8,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (309,190);
+pos = (337,207);
 ref = dotbelowcomb;
 }
 );
-width = 630;
+width = 687;
 }
 );
 metricLeft = "=O";

@@ -9,11 +9,11 @@ ref = Ohorn;
 },
 {
 alignment = -1;
-pos = (313,-685);
+pos = (341,-747);
 ref = dotbelowcomb;
 }
 );
-width = 704;
+width = 767;
 }
 );
 metricLeft = "=O";

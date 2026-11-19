@@ -8,7 +8,7 @@ shapes = (
 ref = periodcentered.loclCAT;
 }
 );
-width = 245;
+width = 267;
 }
 );
 }

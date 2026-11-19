@@ -8,11 +8,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (479,1);
+pos = (522,1);
 ref = ogonekcomb;
 }
 );
-width = 517;
+width = 563;
 }
 );
 unicode = 280;

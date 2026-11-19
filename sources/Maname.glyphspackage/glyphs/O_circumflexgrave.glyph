@@ -8,15 +8,15 @@ shapes = (
 ref = O;
 },
 {
-pos = (308,189);
+pos = (336,206);
 ref = circumflexcomb;
 },
 {
-pos = (307,432);
+pos = (335,471);
 ref = gravecomb;
 }
 );
-width = 630;
+width = 687;
 }
 );
 unicode = 7890;

@@ -4,7 +4,7 @@ layers = (
 {
 guides = (
 {
-pos = (212,680);
+pos = (231,741);
 }
 );
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
@@ -15,7 +15,7 @@ ref = "bha-sinh";
 },
 {
 alignment = -1;
-pos = (581,33);
+pos = (633,36);
 ref = "iisign-sinh.alt2";
 scale = (1.043,1.043);
 }
@@ -30,7 +30,7 @@ y = 890;
 }
 );
 };
-width = 835;
+width = 910;
 }
 );
 }

@@ -8,11 +8,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (308,169);
+pos = (336,184);
 ref = circumflexcomb;
 }
 );
-width = 640;
+width = 698;
 }
 );
 unicode = 194;

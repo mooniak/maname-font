@@ -8,11 +8,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (0,550);
+pos = (0,599);
 ref = periodcentered;
 }
 );
-width = 307;
+width = 335;
 }
 );
 unicode = 320;

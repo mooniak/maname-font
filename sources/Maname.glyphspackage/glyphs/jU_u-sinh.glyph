@@ -9,12 +9,12 @@ ref = "ja-sinh";
 },
 {
 alignment = -1;
-pos = (571,0);
+pos = (622,0);
 ref = "uusign-sinh.alt2";
 scale = (1.043,1.043);
 }
 );
-width = 671;
+width = 731;
 }
 );
 }

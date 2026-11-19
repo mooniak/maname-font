@@ -8,12 +8,12 @@ shapes = (
 ref = "ya-sinh";
 },
 {
-pos = (370,-11);
+pos = (403,-12);
 ref = "repha-sinh.2";
 scale = (1.028,1.028);
 }
 );
-width = 695;
+width = 757;
 }
 );
 }

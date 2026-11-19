@@ -9,11 +9,11 @@ ref = Ohorn;
 },
 {
 alignment = -1;
-pos = (327,225);
+pos = (356,245);
 ref = hookabovecomb;
 }
 );
-width = 640;
+width = 698;
 }
 );
 unicode = 7902;

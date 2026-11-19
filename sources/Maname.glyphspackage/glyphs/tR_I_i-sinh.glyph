@@ -8,17 +8,17 @@ shapes = (
 ref = "ta-sinh";
 },
 {
-pos = (298,9);
+pos = (325,10);
 ref = "iisign-sinh.alt1";
 scale = (1.043,1.043);
 },
 {
-pos = (777,7);
+pos = (847,8);
 ref = "rasign-sinh.long";
 scale = (1.043,1.043);
 }
 );
-width = 831;
+width = 906;
 }
 );
 }

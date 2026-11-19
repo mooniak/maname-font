@@ -8,12 +8,12 @@ shapes = (
 ref = "fa-sinh";
 },
 {
-pos = (657,50);
+pos = (716,54);
 ref = "uusign-sinh.alt3";
 scale = (1.043,1.043);
 }
 );
-width = 721;
+width = 786;
 }
 );
 }

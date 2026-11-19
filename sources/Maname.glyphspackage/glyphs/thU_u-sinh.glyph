@@ -8,11 +8,11 @@ shapes = (
 ref = "tha-sinh";
 },
 {
-pos = (505,-44);
+pos = (550,-48);
 ref = "uusign-sinh";
 }
 );
-width = 617;
+width = 672;
 }
 );
 }

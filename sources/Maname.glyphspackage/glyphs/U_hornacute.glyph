@@ -8,11 +8,11 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (308,444);
+pos = (336,484);
 ref = acutecomb;
 }
 );
-width = 617;
+width = 672;
 }
 );
 unicode = 7912;

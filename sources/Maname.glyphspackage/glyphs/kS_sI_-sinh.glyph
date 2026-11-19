@@ -10,12 +10,12 @@ ref = "kSsa-sinh";
 },
 {
 alignment = -1;
-pos = (846,13);
+pos = (922,14);
 ref = "isign-sinh.alt";
 scale = (1.043,1.043);
 }
 );
-width = 1126;
+width = 1227;
 }
 );
 metricLeft = sinKa;

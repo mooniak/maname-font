@@ -10,12 +10,12 @@ ref = "pRa-sinh";
 },
 {
 alignment = -1;
-pos = (326,18);
+pos = (355,20);
 ref = "isign-sinh.alt";
 scale = (1.043,1.043);
 }
 );
-width = 625;
+width = 681;
 }
 );
 metricLeft = sinPa;

@@ -9,16 +9,16 @@ ref = A;
 },
 {
 alignment = -1;
-pos = (309,-668);
+pos = (337,-728);
 ref = dotbelowcomb;
 },
 {
 alignment = -1;
-pos = (158,39);
+pos = (172,43);
 ref = breve;
 }
 );
-width = 640;
+width = 698;
 }
 );
 unicode = 7862;

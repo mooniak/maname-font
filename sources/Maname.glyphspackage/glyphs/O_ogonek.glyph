@@ -8,11 +8,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (476,43);
+pos = (519,47);
 ref = ogonekcomb;
 }
 );
-width = 630;
+width = 687;
 }
 );
 metricRight = "=O";

@@ -8,11 +8,11 @@ shapes = (
 ref = guilsinglright;
 },
 {
-pos = (200,0);
+pos = (218,0);
 ref = guilsinglright;
 }
 );
-width = 462;
+width = 504;
 }
 );
 }

@@ -8,12 +8,12 @@ shapes = (
 ref = "bha-sinh";
 },
 {
-pos = (560,-23);
+pos = (610,-25);
 ref = "isign-sinh.alt2";
 scale = (1.043,1.043);
 }
 );
-width = 835;
+width = 910;
 }
 );
 metricLeft = sinBha;

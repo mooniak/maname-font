@@ -10,11 +10,11 @@ ref = t;
 },
 {
 alignment = -1;
-pos = (387,188);
+pos = (422,205);
 ref = caroncomb.alt;
 }
 );
-width = 470;
+width = 512;
 }
 );
 unicode = 357;

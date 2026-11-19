@@ -8,11 +8,11 @@ shapes = (
 ref = L;
 },
 {
-pos = (225,68);
+pos = (245,74);
 ref = periodcentered.loclCAT.case;
 }
 );
-width = 518;
+width = 565;
 }
 );
 unicode = 319;
