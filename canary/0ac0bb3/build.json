@@ -1,0 +1,105 @@
+{
+  "id": "maname",
+  "family": "Maname",
+  "scripts": [
+    "Sinh"
+  ],
+  "version": "1.100",
+  "channel": "canary",
+  "commit": "0ac0bb3ca04129f0dda7a0fafc1a21fa6d44e8b0",
+  "commit_short": "0ac0bb3",
+  "ref_name": "dev",
+  "repository": "mooniak/maname-font",
+  "run_url": "https://github.com/mooniak/maname-font/actions/runs/43382655308",
+  "actor": "pathumego",
+  "generated_at": "2026-11-13T07:01:49Z",
+  "qa": {
+    "profile": "googlefonts",
+    "verdict": "fail",
+    "pass_rate": 70,
+    "counts": {
+      "FAIL": 3,
+      "WARN": 18,
+      "SKIP": 84,
+      "INFO": 20,
+      "PASS": 96
+    },
+    "total_checks": 221
+  },
+  "stage": {
+    "n": 10,
+    "name": "Long tail and polish",
+    "cumulative": 110,
+    "total": 110,
+    "gate_met": true,
+    "kernel_checkable_complete": true,
+    "kernel_complete": null,
+    "unverified_kernel_entries": [
+      "classic-conjuncts",
+      "conjunct-i-forms",
+      "ksha",
+      "rakaransaya",
+      "repaya",
+      "yansaya"
+    ]
+  },
+  "files": [
+    {
+      "path": "fonts/otf/ManameCANARY-Regular.otf",
+      "format": "otf",
+      "bytes": 157056,
+      "sha256": "2b254d9aca0d908b05dc04b7e7bc0673ff92189f13fae016943e7c6e38a7db18",
+      "style": "Regular",
+      "kind": "static"
+    },
+    {
+      "path": "fonts/ttf/ManameCANARY-Regular.ttf",
+      "format": "ttf",
+      "bytes": 505408,
+      "sha256": "1b07479965235ae1203ca8d4198a232d62506a6bcd7122b5e98ace9bdd7e8503",
+      "style": "Regular",
+      "kind": "static"
+    },
+    {
+      "path": "fonts/webfonts/ManameCANARY-Regular.woff2",
+      "format": "woff2",
+      "bytes": 152204,
+      "sha256": "f626283b85b3ea9dd2315795c98eefeb42aa361b2834cfb86efb0a1960d87ad6",
+      "style": "Regular",
+      "kind": "static"
+    }
+  ],
+  "proof_gate": {
+    "stage": 10,
+    "gated": true,
+    "shown": [
+      "classical-texts",
+      "conjuncts",
+      "devanagari-pangram",
+      "display-strings",
+      "indo-arabic-numerals",
+      "kern-pairs",
+      "libreoffice-ui-strings",
+      "marks",
+      "mixed-script",
+      "multiscript",
+      "numerals",
+      "ot-features",
+      "pali-and-sanskrit-words",
+      "prose",
+      "punctuation",
+      "rakar",
+      "shape-groups",
+      "signs-combinations",
+      "sinhala-alphabet",
+      "sinhala-pangram",
+      "spacing_strings",
+      "structured-texts",
+      "tamil-pangram",
+      "test-texts-stages"
+    ],
+    "withheld": [],
+    "missing_for_next": [],
+    "scripts": []
+  }
+}
