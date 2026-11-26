@@ -1,5 +1,5 @@
 {
-glyphname = "fU-sinh.alt";
+glyphname = "fpU-sinh";
 layers = (
 {
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
@@ -29,7 +29,7 @@ nodes = (
 );
 },
 {
-ref = "fa-sinh.alt";
+ref = "fpa-sinh";
 }
 );
 width = 736;

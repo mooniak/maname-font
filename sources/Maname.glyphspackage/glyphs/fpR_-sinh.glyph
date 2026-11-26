@@ -1,5 +1,5 @@
 {
-glyphname = "fRI-sinh.alt";
+glyphname = "fpR-sinh";
 layers = (
 {
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
@@ -11,8 +11,8 @@ nodes = (
 (695,73,o),
 (695,230,c),
 (669,214,l),
-(664,44,o),
-(627,-148,o),
+(657,44,o),
+(625,-148,o),
 (387,-148,cs),
 (208,-148,o),
 (124,-68,o),
@@ -26,7 +26,8 @@ nodes = (
 );
 },
 {
-ref = "fI-sinh.alt";
+pos = (1,0);
+ref = "fp-sinh";
 }
 );
 width = 714;

@@ -1,11 +1,11 @@
 {
-glyphname = "fa_repha-sinh.alt";
+glyphname = "fpa_repha-sinh";
 layers = (
 {
 layerId = "51BB9282-3B82-4DF1-A67A-294D3E37D73A";
 shapes = (
 {
-ref = "fa-sinh.alt";
+ref = "fpa-sinh";
 },
 {
 pos = (589,11);
