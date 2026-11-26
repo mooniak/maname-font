@@ -1486,11 +1486,11 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1308;
+value = 973;
 },
 {
 name = typoDescender;
-value = 0;
+value = -335;
 },
 {
 name = typoLineGap;
@@ -1498,11 +1498,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1308;
+value = 973;
 },
 {
 name = hheaDescender;
-value = 0;
+value = -335;
 },
 {
 name = winAscent;
